@@ -306,7 +306,8 @@
 		{
 			dependencies: ["629F1EF39A033584"]
 			description: [
-				"&d      电离冻土星球的地形与木星较为相似，除了没有流体海洋。它有&e电离冻土、电离月海和异常区域三种群系。"
+				"      电离冻土星球的地形与液氢海洋之下的木星核心较为相似，崎岖不平。它有&e电离冻土、电离月海和异常区域三种群系。"
+				""
 				"      同时这里也是本包&1最为寒冷&r的地方，因此你应该知道它适合用来干什么了吧"
 				""
 				"      异常区域群系在电离冻土&b地势较低&r的地方，它可能是这个星球上你最关注的地方，&l&6但是它是你将会遇到的最危险的群系之一，&r&n去之前请留意以下两点&r："
@@ -432,6 +433,11 @@
 			]
 			icon: "mekanismgenerators:control_rod_assembly"
 			id: "21BC740E15D8D6F9"
+			rewards: [{
+				id: "4D1465963CC830D7"
+				item: "kubejs:atherium_casing"
+				type: "item"
+			}]
 			size: 1.5d
 			subtitle: "成长的必经之路"
 			tasks: [
@@ -990,7 +996,7 @@
 			]
 			title: "产氘"
 			x: 12.5d
-			y: -1.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["4F17F9A10534765E"]
@@ -1010,7 +1016,7 @@
 			}]
 			title: "产氚"
 			x: 12.5d
-			y: -0.5d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -1186,6 +1192,12 @@
 				"      你或许注意到了，合成一个奇迹物质需要消耗大量能量，所以赶紧把聚变反应堆造起来吧！"
 			]
 			id: "71078AE0A767DD37"
+			rewards: [{
+				count: 2
+				id: "600FBEDEAB15E179"
+				item: "etshtinker:anti_neutronium"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			subtitle: "做出这个，你离毕业就只差亿点距离了"
@@ -1669,6 +1681,7 @@
 		}
 		{
 			id: "4F17F9A10534765E"
+			optional: true
 			subtitle: "此方法占地大，效率低，不推荐"
 			tasks: [{
 				id: "5D9F0764A2F72BE7"
