@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "2888B6885A5ECEA5"
+	filename: "preface"
 	group: "5B9406893C138689"
 	icon: "botania:cosmetic_questgiver_mark"
 	id: "2888B6885A5ECEA5"
@@ -1881,6 +1881,32 @@
 			title: "被藏起来的任务"
 			x: -2.0d
 			y: -2.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "industrialforegoing:infinity_backpack"
+				tag: {
+					CanCharge: 1b
+					Energy: 9223372036854775807L
+					Selected: "ARTIFACT"
+					Special: 1b
+				}
+			}
+			id: "522A1ECF8EF61FCA"
+			rewards: [{
+				id: "28451BCDF1DB7FD0"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "关于背包整理模组"
+			tasks: [{
+				id: "4067788F52DA62FC"
+				type: "checkmark"
+			}]
+			title: "背包整理"
+			x: 4.5d
+			y: -8.0d
 		}
 	]
 	subtitle: ["！！重要！！一定要看！！"]

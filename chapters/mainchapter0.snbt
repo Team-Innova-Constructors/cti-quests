@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "602E731FF33BE768"
+	filename: "mainchapter0"
 	group: "7741820127317059"
 	icon: {
 		Count: 1b
@@ -2157,6 +2157,10 @@
 								level: 2
 								name: "solidarytinker:watery"
 							}
+							{
+								level: 1
+								name: "cti:imprison"
+							}
 						]
 						tic_persistent: { }
 						tic_stats: {
@@ -2167,8 +2171,9 @@
 							"tinkers_ingenuity:movement_speed": 0.2f
 						}
 						tic_volatile_data: {
-							abilities: 1
-							upgrades: 3
+							abilities: -9999
+							defense: -10000
+							upgrades: -9999
 						}
 					}
 				}
