@@ -720,7 +720,7 @@
 		}
 		{
 			dependencies: ["3CBC534D416A0E45"]
-			description: [""]
+			description: ["Sfm可以用CTRL+I快捷键显示界面槽位顺序"]
 			id: "73472BCB773EBDC5"
 			rewards: [{
 				id: "769AE54BCA6B5742"

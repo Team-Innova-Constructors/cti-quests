@@ -5436,6 +5436,7 @@
 		}
 		{
 			dependencies: ["18071D854B533F60"]
+			description: ["伟大无需多言，不想要各种奇奇怪怪的buff缠身做它就对了"]
 			hide_dependency_lines: true
 			id: "201AA91675EAEAA0"
 			subtitle: "耐毒耐辐射"
@@ -10202,6 +10203,7 @@
 		}
 		{
 			dependencies: ["18071D854B533F60"]
+			description: ["恶徒水壶的QQ头像（"]
 			hide_dependency_lines: true
 			id: "5B50FE932D386CFE"
 			subtitle: "幸运的小狐狸？"
@@ -10252,7 +10254,10 @@
 		}
 		{
 			dependencies: ["18071D854B533F60"]
-			description: ["有一种数值的美"]
+			description: [
+				"有一种数值的美"
+				"简单粗暴"
+			]
 			hide_dependency_lines: true
 			id: "137ABF0F05A262BB"
 			subtitle: "看着有点生理不适"
@@ -10304,7 +10309,7 @@
 		{
 			dependencies: ["18071D854B533F60"]
 			description: [
-				"对烈阳巨灵特攻，会让你有关的伤害全部无视烈阳巨灵的免疫"
+				"对烈阳巨灵特攻，会让你有关的伤害全部无视烈阳巨灵的免疫, 同时会对烈阳巨灵附带其最大生命值10%的伤害"
 				""
 				"烈阳巨灵很怕冷，很合理不是吗"
 			]
@@ -11887,7 +11892,11 @@
 		}
 		{
 			dependencies: ["18071D854B533F60"]
-			description: ["给末影人来上一口就知道什么叫残忍了"]
+			description: [
+				"给末影人来上一口就知道什么叫残忍了"
+				""
+				"纵使百万血的末影人也无法在它面前撑过去10秒"
+			]
 			hide_dependency_lines: true
 			id: "3EB93BC831309720"
 			subtitle: "对末影人特攻！"
@@ -11947,6 +11956,36 @@
 			}]
 			x: 5.0d
 			y: -15.0d
+		}
+		{
+			id: "5CB8FD73752F2797"
+			tasks: [{
+				id: "2779A9D8050EDCC1"
+				item: "cti:omniscient_gold_ingot"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -15.0d
+		}
+		{
+			id: "6A7A8FA523361298"
+			tasks: [{
+				id: "73E87EC300EE2E56"
+				item: "cti:bloodgod_ingot"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -14.0d
+		}
+		{
+			id: "73EFB2B647D86632"
+			tasks: [{
+				id: "65181E9288D1D606"
+				item: "cti:awakesaintchef_ingot"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -14.5d
 		}
 	]
 	subtitle: [

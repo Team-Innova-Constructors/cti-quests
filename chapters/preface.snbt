@@ -95,7 +95,7 @@
 				"&c并非鼓励作弊&r"
 				"我们不干涉玩家任何自由，&c无任何反作弊&r相关东西"
 				"&7如果游玩的时候适当开创能让你玩的开心，那又有什么呢&r"
-				"&c(但是别加加速火把)&r"
+				"&c(但是别加加速火把，崩档概不负责)&r"
 				"毕竟，谁在乎呢"
 			]
 			icon: "botania:cosmetic_questgiver_mark"
@@ -524,7 +524,7 @@
 			dependencies: ["1532A60A49E51285"]
 			description: [
 				"&e程序部分/策划&r"
-				"曾经热爱化学的一个大学生"
+				"17岁无业游民"
 				"同时也是&6工匠联合&r的作者"
 				"如果你有什么&9杂七杂八的问题&r，找他就对了，他&a超有耐心的&r"
 				"负责&bCTI部分配方，kubejs，任务等&r"
@@ -1278,6 +1278,18 @@
 			id: "5B2B8076537ADA1E"
 			rewards: [
 				{
+					count: 3
+					id: "28FAB4C7E8CD7FE8"
+					item: "cyclic:apple_diamond"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5E6B44807DC02CF7"
+					item: "tinkers_ingenuity:orichalcum_ingot"
+					type: "item"
+				}
+				{
 					id: "34288388A58E5020"
 					item: {
 						Count: 1b
@@ -1315,22 +1327,8 @@
 					type: "item"
 				}
 				{
-					id: "40277B8BE885CAD0"
-					item: {
-						Count: 1b
-						id: "tconstruct:modifier_crystal"
-						tag: {
-							modifier: "cti:end_slayer"
-						}
-					}
-					title: "是的，弑末者强化就是因为这个而加进来的"
-					type: "item"
-				}
-				{
-					icon: "enigmaticlegacy:etherium_ingot"
-					id: "716261B9DFF3C11D"
-					item: "tinkers_ingenuity:auroral_alloy_ingot"
-					title: "你在哪里，以太锭"
+					id: "191DF3C032EEF8CA"
+					item: "enigmaticlegacy:etherium_ingot"
 					type: "item"
 				}
 			]
@@ -1829,10 +1827,7 @@
 			y: -3.5d
 		}
 		{
-			dependencies: [
-				"305A57A22D3A3387"
-				"3FC9216BAA2953BA"
-			]
+			dependencies: ["305A57A22D3A3387"]
 			description: [
 				"      在任务界面的左上角和右上角各有一个小三角形"
 				""
@@ -1842,7 +1837,6 @@
 				""
 				"      右边的小三角则是查看任务附属，可以看到这个任务是哪些任务的前置。"
 			]
-			hide_dependency_lines: true
 			icon: "botania:cosmetic_questgiver_mark"
 			id: "0558C969AF2F82E0"
 			rewards: [{
@@ -1867,6 +1861,7 @@
 				""
 				" &8     &m既然你发现了这个，那你一定点开了任务编辑模式是吧！"
 			]
+			hide_dependent_lines: true
 			icon: "etshtinker:lightless_alloy"
 			id: "3FC9216BAA2953BA"
 			invisible: true
@@ -1885,6 +1880,11 @@
 			y: -2.0d
 		}
 		{
+			description: [
+				"R+C可以打开设置"
+				""
+				"默认是shift+R进行背包整理"
+			]
 			icon: {
 				Count: 1b
 				id: "industrialforegoing:infinity_backpack"
@@ -1908,6 +1908,24 @@
 			}]
 			title: "背包整理"
 			x: 4.5d
+			y: -8.0d
+		}
+		{
+			description: ["你也可以尝试写匠魂模组，在整合包百科界面有教程"]
+			icon: "minecraft:creeper_head"
+			id: "13D9D64EFDBC53DC"
+			rewards: [{
+				id: "582B9B2E67A94D24"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "匠魂附属还有一些，如果你喜欢你可以自己加上，但是并未经过平衡性调整，如果出了相关性问题请反馈到对应作者"
+			tasks: [{
+				id: "3CF09A97BD879A61"
+				type: "checkmark"
+			}]
+			title: "其他匠魂附属？"
+			x: 3.0d
 			y: -8.0d
 		}
 	]
