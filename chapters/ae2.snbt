@@ -980,6 +980,15 @@
 					}
 					type: "item"
 				}
+				{
+					id: "7B526E898AA803F6"
+					item: {
+						Count: 1b
+						id: "megacells:bulk_item_cell"
+						tag: { }
+					}
+					type: "item"
+				}
 			]
 			title: "mega存储组件"
 			x: -7.5d
@@ -3435,6 +3444,19 @@
 			title: "面板式"
 			x: 4.0d
 			y: 11.5d
+		}
+		{
+			dependencies: ["4A180764069FEF5D"]
+			description: ["      把大宗存储元件放在元件工作台上可以给它插入压缩卡。此时大宗元件就会像一个压缩抽屉一样，以接近无限的速度自动根据需求压缩/解压缩存储中的物品。"]
+			id: "74B4922A3CBBC08D"
+			subtitle: "为什么大家都爱用大宗？"
+			tasks: [{
+				id: "67113E782D1E22D6"
+				item: "megacells:compression_card"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 11.0d
 		}
 	]
 	subtitle: [
