@@ -2125,24 +2125,6 @@
 			y: 15.5d
 		}
 		{
-			id: "00DDB0AFE5DA42DE"
-			subtitle: "[Made In Heaven]！！"
-			tasks: [{
-				id: "2229AA4171851330"
-				item: {
-					Count: 1b
-					ForgeCaps: {
-						Parent: { }
-					}
-					id: "projecte:watch_of_flowing_time"
-					tag: { }
-				}
-				type: "item"
-			}]
-			x: 5.0d
-			y: 16.5d
-		}
-		{
 			id: "7D51021070EAB32F"
 			subtitle: "简易跨纬度无线存储方案"
 			tasks: [{
@@ -2161,7 +2143,7 @@
 				item: "cataclysm:sandstorm_in_a_bottle"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 5.0d
 			y: 16.5d
 		}
 		{
@@ -3185,7 +3167,6 @@
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"
-				"00DDB0AFE5DA42DE"
 				"589E19E643290329"
 				"51C5D0B54F3A2B30"
 				"7DEEECA0F369015C"
@@ -3450,7 +3431,6 @@
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"
-				"00DDB0AFE5DA42DE"
 				"589E19E643290329"
 				"51C5D0B54F3A2B30"
 				"7DEEECA0F369015C"
@@ -3725,7 +3705,6 @@
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"
-				"00DDB0AFE5DA42DE"
 				"589E19E643290329"
 				"51C5D0B54F3A2B30"
 				"7DEEECA0F369015C"
@@ -3996,7 +3975,6 @@
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"
-				"00DDB0AFE5DA42DE"
 				"589E19E643290329"
 				"51C5D0B54F3A2B30"
 				"7DEEECA0F369015C"
@@ -4261,7 +4239,6 @@
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"
-				"00DDB0AFE5DA42DE"
 				"589E19E643290329"
 				"51C5D0B54F3A2B30"
 				"7DEEECA0F369015C"

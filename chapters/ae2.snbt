@@ -905,8 +905,6 @@
 				"或许你已经发展到了后期，ae原本的存储组件已经无法满足你，这里有一些更大的存储组件供你使用(其实还有量子物品/流体存储元件，但是这里不做过多介绍)"
 				""
 				"大宗存储元件和数字奇点存储元件拥有long型上限的存储量，这大概是几亿亿亿的存储量（具体来说是9223372036854775807），&e但是只能存储一种物品&r"
-				""
-				"大宗存储元件&e需要在元件工作台中标记才能使用&r，你也可以为其添加压缩卡并将解压缩模块接入网络来实现类似压缩抽屉的功能"
 			]
 			id: "4A180764069FEF5D"
 			optional: true
@@ -962,15 +960,6 @@
 						}
 					}
 					title: "MEGA存储组件"
-					type: "item"
-				}
-				{
-					id: "05CA643DB1D70C8D"
-					item: {
-						Count: 1b
-						id: "megacells:bulk_item_cell"
-						tag: { }
-					}
 					type: "item"
 				}
 				{
@@ -1046,9 +1035,9 @@
 		{
 			dependencies: ["68C884CAE0C56DD7"]
 			description: [
-				"一个能存储mek放射性化学品的存储组件，总共256字节，大约能存储2048b的放射性化学品，不会衰变"
+				"      MEGA放射性存储组件和超级存储组件能安全地存储放射性化学品。其它常规的化学品存储组件并不具备此功能。"
 				""
-				"&e需要在元件工作台标记后使用&r"
+				"&eMEGA放射性存储组件需要在元件工作台标记后使用&r"
 			]
 			id: "75E4F62918EA01A9"
 			optional: true
@@ -1058,11 +1047,63 @@
 				table_id: 8776799107351546644L
 				type: "random"
 			}]
-			tasks: [{
-				id: "34416193C3C49EDB"
-				item: "megacells:radioactive_cell_component"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "34416193C3C49EDB"
+					item: "megacells:radioactive_cell_component"
+					type: "item"
+				}
+				{
+					id: "38AFA41502867306"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "ae2additions:super_cell_component_1k"
+								}
+								{
+									Count: 1b
+									id: "ae2additions:super_cell_component_4k"
+								}
+								{
+									Count: 1b
+									id: "ae2additions:super_cell_component_16k"
+								}
+								{
+									Count: 1b
+									id: "ae2additions:super_cell_component_64k"
+								}
+								{
+									Count: 1b
+									id: "ae2additions:super_cell_component_256k"
+								}
+								{
+									Count: 1b
+									id: "ae2additions:super_cell_component_1024k"
+								}
+								{
+									Count: 1b
+									id: "ae2additions:super_cell_component_4096k"
+								}
+								{
+									Count: 1b
+									id: "ae2additions:super_cell_component_16m"
+								}
+								{
+									Count: 1b
+									id: "ae2additions:super_cell_component_65m"
+								}
+							]
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "如何用AE存储放射性化学品？"
 			x: -7.5d
 			y: 12.0d
 		}
@@ -1521,7 +1562,7 @@
 		}
 		{
 			dependencies: ["3009334415DD5E91"]
-			description: ["相较于右侧能提供超多线程的并行处理单元略显鸡肋"]
+			description: ["能提供极多的线程，不过说实话，实用价值不太高"]
 			id: "161394A3C816E745"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1535,61 +1576,8 @@
 				item: "megacells:mega_crafting_accelerator"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 10.5d
-		}
-		{
-			dependencies: ["3009334415DD5E91"]
-			description: [
-				"能提供极多的线程，不过说实话，实用价值不太高"
-				""
-				"另外这个方块有渲染bug，CPU结构成型后它会变得透明，为了美观建议将它塞入CPU结构内部"
-				""
-				"&8&ops：什么矿透处理单元"
-			]
-			id: "57020C27E98AFD6A"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0A879313B5D7C445"
-				table_id: 8776799107351546644L
-				type: "random"
-			}]
-			shape: "diamond"
-			tasks: [{
-				id: "6D2314F7E9BBF576"
-				item: {
-					Count: 1b
-					id: "itemfilters:or"
-					tag: {
-						items: [
-							{
-								Count: 1b
-								id: "bigger_ae2:4_core_crafting_accelerator"
-							}
-							{
-								Count: 1b
-								id: "bigger_ae2:16_core_crafting_accelerator"
-							}
-							{
-								Count: 1b
-								id: "bigger_ae2:64_core_crafting_accelerator"
-							}
-							{
-								Count: 1b
-								id: "bigger_ae2:256_core_crafting_accelerator"
-							}
-							{
-								Count: 1b
-								id: "bigger_ae2:1024_core_crafting_accelerator"
-							}
-						]
-					}
-				}
-				title: "更大的并行处理单元"
-				type: "item"
-			}]
-			x: 7.0d
-			y: 10.5d
+			x: 6.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["67A6EAE572736E49"]
@@ -3427,6 +3415,26 @@
 			title: "光栅石和分形硅石"
 			x: -6.0d
 			y: 10.5d
+		}
+		{
+			dependencies: ["3DCAC93ED52C2026"]
+			description: [
+				"样本供应器的面板形式相比较普通模式，他不会给被贴上去的方块传递频道，在进行一些跨网络合成的时候会很好用"
+				""
+				"效果同方块式接口指定方向"
+				""
+				"他不能收回产物，这点要注意"
+			]
+			id: "5FA8A9CB6D8DF1C5"
+			subtitle: "效果同供应器调方向"
+			tasks: [{
+				id: "4C01460B863CB8B0"
+				item: "ae2:cable_pattern_provider"
+				type: "item"
+			}]
+			title: "面板式"
+			x: 4.0d
+			y: 11.5d
 		}
 	]
 	subtitle: [

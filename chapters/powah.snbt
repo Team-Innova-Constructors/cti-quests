@@ -5,6 +5,18 @@
 	group: "7E3173C55DD03B0A"
 	icon: "etshtinker:earth_crystal"
 	id: "3F5A35C65E2ED185"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 2.5d
+		hover: [ ]
+		image: "powah:textures/gui/book/images/energizing.png"
+		rotation: 0.0d
+		width: 5.15d
+		x: -5.0d
+		y: -2.0d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -138,6 +150,13 @@
 		}
 		{
 			dependencies: ["52CA70580DE83302"]
+			description: [
+				"      充能棒只能放置在能量方块上。"
+				""
+				"      能量立方、通用线缆（mek），能量管道（热力）等方块均算作能量方块。"
+				""
+				"      注：充能棒无法放置在pipez的能量管道上"
+			]
 			id: "7B9CB02763DD2B84"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -155,6 +174,11 @@
 		}
 		{
 			dependencies: ["52CA70580DE83302"]
+			description: [
+				"      充能台是powah的核心合成机器，需要搭配&d充能棒&r才能使用。"
+				""
+				"      当充能台中有合适的物品时，附近的充能棒会向充能台充能，速度取决于充能棒的等级和数量。"
+			]
 			id: "0BA4FB09ACBA6F93"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -368,6 +392,7 @@
 				table_id: 7501581430932754602L
 				type: "random"
 			}]
+			subtitle: "反应堆的燃料，有多种获取方式，请看JEI"
 			tasks: [{
 				id: "4838D6B91D3AFC1C"
 				item: "powah:uraninite"

@@ -1857,7 +1857,7 @@
 				}
 			]
 			title: "妙妙小升级"
-			x: -30.0d
+			x: -31.0d
 			y: -10.5d
 		}
 		{
@@ -6966,6 +6966,53 @@
 			title: "访问：末地"
 			x: -11.5d
 			y: -16.5d
+		}
+		{
+			dependencies: ["60DE870CC160C459"]
+			description: [
+				"      这三个插件是本包最强力的插件"
+				""
+				"      要获得它们，你除了要精通科技外还要精通冒险。"
+				""
+				"&6      再升级下装备？"
+			]
+			id: "304089B338E4E7E6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5654090DDE95BA7D"
+					table_id: 8350761140120052524L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7957CDBD2BA7BAB5"
+					table_id: 8350761140120052524L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "我勒个数值"
+			tasks: [
+				{
+					id: "0316645A17CE4D44"
+					item: "cti:extereme_dyano_augment"
+					type: "item"
+				}
+				{
+					id: "5BBE7CC6740003E4"
+					item: "cti:extereme_speed_augment"
+					type: "item"
+				}
+				{
+					id: "7906CAAA0B1F7BB6"
+					item: "cti:extereme_output_augment"
+					type: "item"
+				}
+			]
+			title: "顶级插件？？！！"
+			x: -30.0d
+			y: -10.5d
 		}
 	]
 	subtitle: ["-by EtSH_C2H6S"]
