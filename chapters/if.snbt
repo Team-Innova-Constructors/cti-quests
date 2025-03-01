@@ -826,7 +826,7 @@
 				}
 			]
 			size: 1.5d
-			subtitle: "不过量产下界之星有更好的方式。jei搜衰变就行了。"
+			subtitle: "不过量产下界之星有更好的方式。jei搜衰败就行了。"
 			tasks: [{
 				id: "3C4C8BA31BD0D454"
 				item: "industrialforegoing:wither_builder"

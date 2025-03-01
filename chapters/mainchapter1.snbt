@@ -1255,7 +1255,7 @@
 				""
 				"后面会有更高效的钢方案的"
 			]
-			icon: "thermal:steel_ingot"
+			icon: "ad_astra:steel_ingot"
 			id: "22BEC8AD4E4BE9DD"
 			rewards: [{
 				count: 9
@@ -1544,7 +1544,7 @@
 				""
 				"差评"
 				""
-				"先凑合用一用吧，后面会有办法的"
+				"先凑合用一用吧，后面会有高效办法的"
 			]
 			id: "456CF806DB52D39A"
 			subtitle: "不能自动化的窑"
@@ -1560,7 +1560,6 @@
 		}
 		{
 			dependencies: ["456CF806DB52D39A"]
-			dependency_requirement: "one_started"
 			description: [
 				"截止到这里你就可以正式前往第二章了"
 				""
@@ -1828,8 +1827,6 @@
 				""
 				"其中&b血肉重铸和沉浸原油为可选内容&r，但是&a非常推荐做，因为会舒服很多&r（后面要用到部分油）"
 				""
-				"&6温馨提示：多方快结构请避免跨区块建造"
-				"（保证一个多方快结构的全部组成部分在一个区块内）    "
 				"{@pagebreak}"
 				""
 				"时间比较紧迫，目前任务还是初版，部分东西描述可能不是很全，但主要部分已经完善"
@@ -6588,6 +6585,16 @@
 				"当混凝土足量后就可以输入水来进行最后的管道冷却"
 				""
 				"当进度100%时候石油会喷涌而出，&c切记提前在输出口放好储罐，不然会流失大量资源&r"
+				""
+				""
+				"{@pagebreak}"
+				"权重如下"
+				""
+				"原油80"
+				""
+				"熔融重金属和晶体40"
+				""
+				"蜂王浆15"
 			]
 			icon: "immersivepetroleum:derrick"
 			id: "0609EFB996A07C86"
@@ -6629,11 +6636,7 @@
 			y: -2.5d
 		}
 		{
-			dependencies: [
-				"0609EFB996A07C86"
-				"7EF2FD79171366C3"
-			]
-			dependency_requirement: "one_completed"
+			dependencies: ["0609EFB996A07C86"]
 			description: [
 				"前期没有好用的储罐，这里送一些，只需要把黑洞储罐放入控制器当中，并且管道直接通进控制器就可以自动存入并且分类"
 				""
@@ -6794,20 +6797,10 @@
 			x: 25.0d
 			y: -8.0d
 		}
-		{
-			dependencies: ["29E21F219F641A8B"]
-			description: ["使用方法与矿物钻井类似，它能用于开采流体矿脉"]
-			hide_dependent_lines: true
-			id: "7EF2FD79171366C3"
-			subtitle: "石油的简单开采方法"
-			tasks: [{
-				id: "2E6C35D56D43A951"
-				item: "createoreexcavation:extractor"
-				type: "item"
-			}]
-			x: 21.5d
-			y: 5.5d
-		}
+	]
+	subtitle: [
+		"前期的工业筑基------资源"
+		"-by 独爱流萤"
 	]
 	title: "第一章 —— 动力与工程师"
 }

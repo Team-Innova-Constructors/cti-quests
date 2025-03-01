@@ -97,40 +97,6 @@
 			y: -1.5d
 		}
 		{
-			id: "28A7CDA563BFFF41"
-			subtitle: "上榜理由：无冷却乱a"
-			tasks: [{
-				id: "6DFF4242918EBFA8"
-				item: {
-					Count: 1b
-					id: "cyclic:charm_attack_speed"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: 4.0d
-			y: -0.5d
-		}
-		{
-			id: "48CAFBF9565EAF69"
-			subtitle: "上榜理由：配合部分材料稳定伤害翻倍过于抽象"
-			tasks: [{
-				id: "0A4AB2E5F6AA1713"
-				item: {
-					Count: 1b
-					id: "cyclic:charm_crit"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: 4.0d
-			y: 0.5d
-		}
-		{
 			description: ["耐死王"]
 			id: "5DCAD6659D6A165F"
 			subtitle: "上榜理由：配合部分耐久回复道具可做到无限复活免死"
@@ -147,18 +113,6 @@
 			}]
 			x: 4.0d
 			y: 1.5d
-		}
-		{
-			description: ["所以就算你通过开箱获得了凤凰戒指，最好也在第一时间丢掉"]
-			id: "44BD2440146DA00A"
-			subtitle: "上榜理由：佩戴后着火与死亡会触发恶性bug假死"
-			tasks: [{
-				id: "42AA43BC4B9CA99C"
-				item: "gobber2:gobber2_ring_phoenix"
-				type: "item"
-			}]
-			x: 6.0d
-			y: 0.5d
 		}
 		{
 			description: ["不过我听说通过某些任务可以获得钻石苹果……"]
@@ -200,7 +154,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -0.5d
+			y: 0.5d
 		}
 		{
 			id: "6C6BF00052CA9750"
@@ -219,17 +173,6 @@
 			]
 			x: 3.0d
 			y: 0.5d
-		}
-		{
-			id: "1F7CF9275EC7A18D"
-			subtitle: "上榜理由：低代价巨额增伤"
-			tasks: [{
-				id: "1E70776F59EB54B3"
-				item: "l2hostility:curse_of_wrath"
-				type: "item"
-			}]
-			x: 6.0d
-			y: -1.5d
 		}
 		{
 			description: ["而且包里的自动合成这么多，为啥一定要用循环的呢？"]
@@ -305,8 +248,27 @@
 				item: "cyclic:magic_net"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 1.5d
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			description: ["由于会极大增加卡顿，最终还是选择了移除这个配方"]
+			id: "4E3EB02E16FF64AB"
+			subtitle: "他终究还是没了"
+			tasks: [{
+				id: "6F4A5DA47018910A"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: { }
+					}
+					id: "projecte:watch_of_flowing_time"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
 		}
 	]
 	subtitle: [

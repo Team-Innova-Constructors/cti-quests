@@ -1327,8 +1327,22 @@
 					type: "item"
 				}
 				{
-					id: "191DF3C032EEF8CA"
-					item: "enigmaticlegacy:etherium_ingot"
+					id: "40277B8BE885CAD0"
+					item: {
+						Count: 1b
+						id: "tconstruct:modifier_crystal"
+						tag: {
+							modifier: "cti:end_slayer"
+						}
+					}
+					title: "是的，弑末者强化就是因为这个而加进来的"
+					type: "item"
+				}
+				{
+					icon: "enigmaticlegacy:etherium_ingot"
+					id: "716261B9DFF3C11D"
+					item: "tinkers_ingenuity:auroral_alloy_ingot"
+					title: "你在哪里，以太锭"
 					type: "item"
 				}
 			]
@@ -1541,7 +1555,7 @@
 			}]
 			title: "联机须知"
 			x: 0.0d
-			y: -7.0d
+			y: -6.25d
 		}
 		{
 			dependencies: ["6E8370730F5E8740"]
