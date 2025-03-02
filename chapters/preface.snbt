@@ -50,7 +50,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["4FF708BA524C9D44"]
 			description: [
 				"整合包增加了&d莱特兰恶意，七咒之戒&r来增加&d怪物强度和生存难度&r"
 				""
@@ -79,14 +78,15 @@
 				type: "xp"
 				xp: 100
 			}]
+			shape: "rsquare"
 			subtitle: "默认佩戴"
 			tasks: [{
 				id: "4FA1DEFE05FD9EA3"
 				title: "难度"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: 5.5d
+			x: 4.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["46A086454F30A9DB"]
@@ -114,7 +114,7 @@
 			}]
 			title: "请打开“作弊模式”"
 			x: 0.0d
-			y: 3.5d
+			y: 3.0d
 		}
 		{
 			can_repeat: true
@@ -134,8 +134,8 @@
 				type: "checkmark"
 			}]
 			title: "开启幻翼"
-			x: 2.0d
-			y: 2.5d
+			x: -1.0d
+			y: 4.5d
 		}
 		{
 			can_repeat: true
@@ -153,11 +153,10 @@
 				title: "关闭幻翼"
 				type: "checkmark"
 			}]
-			x: 2.0d
+			x: 0.0d
 			y: 4.5d
 		}
 		{
-			dependencies: ["4FF708BA524C9D44"]
 			description: [
 				"怪物强度的主要来源，具体内容会在莱特兰章节讲述"
 				"如果怪物出现了不认识的词条可以去看看"
@@ -169,13 +168,14 @@
 				type: "xp"
 				xp: 100
 			}]
+			shape: "diamond"
 			tasks: [{
 				id: "449E3DCB04CBF3DE"
 				type: "checkmark"
 			}]
 			title: "莱特兰恶意"
-			x: -2.0d
-			y: 4.5d
+			x: 6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["46A086454F30A9DB"]
@@ -210,7 +210,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["1C85269C4423E472"]
 			description: [
 				"由于本包作者是&a匠魂附属&r作者，因此&a匠魂词条相关&r的问题可以&a直接反馈&r"
 				"虽然可以kubejs添加数据包覆盖词条，不过更建议&a去对应作者的Github/mc百科&r反馈"
@@ -245,16 +244,16 @@
 				type: "xp"
 				xp: 100
 			}]
+			shape: "rsquare"
 			tasks: [{
 				id: "2F078BF0C5A61490"
 				type: "checkmark"
 			}]
 			title: "匠魂相关bug反馈"
-			x: 5.5d
-			y: -2.5d
+			x: 6.0d
+			y: 0.5d
 		}
 		{
-			dependencies: ["1C85269C4423E472"]
 			description: ["比如植物魔法重力透镜等问题请到&a对应作者的GitHub&r反馈，模组问题没有工作区是没法修复的"]
 			icon: "botania:lens_storm"
 			id: "08DAC41841C950A3"
@@ -268,11 +267,10 @@
 				title: "模组本身问题"
 				type: "checkmark"
 			}]
-			x: 6.5d
-			y: 0.5d
+			x: 6.0d
+			y: -1.5d
 		}
 		{
-			dependencies: ["1C85269C4423E472"]
 			description: ["&b数据包添加的配方&r如果冲突都是可以通过&ekubejs&r修正的，因此可以随便反馈给整合包作者"]
 			icon: "minecraft:rose_bush"
 			id: "415497CA454C965A"
@@ -286,7 +284,7 @@
 				title: "配方问题"
 				type: "checkmark"
 			}]
-			x: 6.0d
+			x: 7.0d
 			y: 1.5d
 		}
 		{
@@ -428,7 +426,7 @@
 				type: "checkmark"
 			}]
 			title: "EtSH"
-			x: -4.5d
+			x: -5.0d
 			y: -2.5d
 		}
 		{
@@ -517,7 +515,7 @@
 				title: "惜念"
 				type: "checkmark"
 			}]
-			x: -5.5d
+			x: -6.0d
 			y: 1.0d
 		}
 		{
@@ -591,7 +589,7 @@
 				title: "独爱流萤"
 				type: "checkmark"
 			}]
-			x: -4.5d
+			x: -5.0d
 			y: 2.5d
 		}
 		{
@@ -638,10 +636,10 @@
 			}]
 			title: "配合FTB任务食用整合包口感更佳哦"
 			x: 0.0d
-			y: -3.5d
+			y: -3.0d
 		}
 		{
-			dependencies: ["4FF708BA524C9D44"]
+			dependencies: ["305A57A22D3A3387"]
 			description: ["每个模组都有其存在的意义，有的模组你或许真的不喜欢，但是请至少&a尝试一下&r"]
 			icon: "botania:cosmetic_tiny_potato_mask"
 			id: "0A11E6E038299568"
@@ -650,13 +648,14 @@
 				type: "xp"
 				xp: 100
 			}]
+			shape: "heart"
 			tasks: [{
 				id: "6F0C3D0CA3D3877C"
 				type: "checkmark"
 			}]
 			title: "不要害怕困难"
-			x: -2.0d
-			y: 2.5d
+			x: 0.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["1532A60A49E51285"]
@@ -687,7 +686,7 @@
 				title: "贡献者们"
 				type: "checkmark"
 			}]
-			x: -5.5d
+			x: -6.0d
 			y: -1.0d
 		}
 		{
@@ -766,7 +765,7 @@
 				type: "checkmark"
 			}]
 			title: "Zehn_bubble"
-			x: -6.0d
+			x: -6.5d
 			y: -1.5d
 		}
 		{
@@ -833,7 +832,7 @@
 				type: "checkmark"
 			}]
 			title: "Alpha_Alps"
-			x: -7.0d
+			x: -7.5d
 			y: -0.5d
 		}
 		{
@@ -900,7 +899,7 @@
 				title: "lingshi"
 				type: "checkmark"
 			}]
-			x: -8.0d
+			x: -8.5d
 			y: -1.5d
 		}
 		{
@@ -980,7 +979,7 @@
 			}]
 			title: "牢墨"
 			x: -6.5d
-			y: -1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["1090F9ACA8F1F032"]
@@ -1058,7 +1057,7 @@
 				title: "rRickoll"
 				type: "checkmark"
 			}]
-			x: -7.5d
+			x: -7.0d
 			y: -1.0d
 		}
 		{
@@ -1085,7 +1084,7 @@
 			}]
 			title: "牢蘑菇锭"
 			x: -8.5d
-			y: -1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["1090F9ACA8F1F032"]
@@ -1156,8 +1155,8 @@
 				type: "checkmark"
 			}]
 			title: "Urranium"
-			x: -9.0d
-			y: -0.5d
+			x: -7.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1090F9ACA8F1F032"]
@@ -1252,7 +1251,7 @@
 				type: "checkmark"
 			}]
 			title: "天雨冰痕"
-			x: -9.5d
+			x: -8.0d
 			y: -1.0d
 		}
 		{
@@ -1268,7 +1267,7 @@
 				value: 53
 			}]
 			title: "恭喜你发现了彩蛋"
-			x: -4.5d
+			x: -5.0d
 			y: -4.0d
 		}
 		{
@@ -1374,7 +1373,7 @@
 				type: "item"
 			}]
 			title: "这是耐似王的认可"
-			x: -4.5d
+			x: -5.0d
 			y: -5.5d
 		}
 		{
@@ -1437,11 +1436,10 @@
 				type: "checkmark"
 			}]
 			title: "FaintGlow_FG"
-			x: -10.0d
-			y: -1.5d
+			x: -9.0d
+			y: -1.0d
 		}
 		{
-			dependencies: ["1C85269C4423E472"]
 			description: [
 				"      为了避免按键冲突，所以很多附加功能的按键是未绑定的。如果你看到了这种情况："
 				"{image:kubejs:textures/ftbq_images/3fc852fdc9ed88b3115beba4be813c05.png width:150 height:36 align:1}"
@@ -1462,10 +1460,9 @@
 			}]
 			title: "按键绑定"
 			x: 6.0d
-			y: -1.5d
+			y: 2.5d
 		}
 		{
-			dependencies: ["1C85269C4423E472"]
 			description: ["取出来钱再升级，不然会吞钱"]
 			id: "49D42AE20BC08ECC"
 			rewards: [{
@@ -1484,8 +1481,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
-			y: -0.5d
+			x: 7.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["4FF708BA524C9D44"]
@@ -1508,8 +1505,8 @@
 				title: "刷线机"
 				type: "checkmark"
 			}]
-			x: -2.0d
-			y: 3.5d
+			x: 1.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["4FF708BA524C9D44"]
@@ -1531,8 +1528,8 @@
 				type: "checkmark"
 			}]
 			title: "FTB的防爆"
-			x: 2.0d
-			y: 3.5d
+			x: -1.0d
+			y: 5.5d
 		}
 		{
 			description: [
@@ -1548,14 +1545,14 @@
 				type: "xp"
 				xp: 3
 			}]
-			size: 2.0d
+			size: 1.5d
 			tasks: [{
 				id: "638594E82072C341"
 				type: "checkmark"
 			}]
 			title: "联机须知"
 			x: 0.0d
-			y: -6.25d
+			y: -6.5d
 		}
 		{
 			dependencies: ["6E8370730F5E8740"]
@@ -1572,7 +1569,7 @@
 			}]
 			title: "原版中的有用小指令（联机向）"
 			x: 0.0d
-			y: -9.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["2B42448EC438AA18"]
@@ -1594,7 +1591,7 @@
 				type: "checkmark"
 			}]
 			x: 0.0d
-			y: -12.0d
+			y: -9.5d
 		}
 		{
 			dependencies: ["2B42448EC438AA18"]
@@ -1617,8 +1614,8 @@
 				title: "火焰不蔓延"
 				type: "checkmark"
 			}]
-			x: -3.0d
-			y: -12.0d
+			x: -1.5d
+			y: -9.5d
 		}
 		{
 			dependencies: ["2B42448EC438AA18"]
@@ -1643,10 +1640,11 @@
 				type: "checkmark"
 			}]
 			title: "计分板-死亡榜"
-			x: 3.0d
-			y: -12.0d
+			x: 1.5d
+			y: -9.5d
 		}
 		{
+			dependencies: ["4FF708BA524C9D44"]
 			description: [
 				"死亡不掉落可以降低难度"
 				""
@@ -1722,8 +1720,8 @@
 				title: "死亡不掉落"
 				type: "checkmark"
 			}]
-			x: 3.0d
-			y: -9.5d
+			x: 1.0d
+			y: 4.5d
 		}
 		{
 			description: ["删除备份导致坏档无法解决，请自行承担责任"]
@@ -1739,8 +1737,8 @@
 				title: "关于备份"
 				type: "checkmark"
 			}]
-			x: 3.0d
-			y: -6.5d
+			x: 7.0d
+			y: -1.5d
 		}
 		{
 			description: [
@@ -1761,10 +1759,11 @@
 				title: "关于光影"
 				type: "checkmark"
 			}]
-			x: 6.0d
-			y: -6.5d
+			x: 7.0d
+			y: -0.5d
 		}
 		{
+			dependencies: ["4FF708BA524C9D44"]
 			description: ["防止鞘翅飞的过快被踢出"]
 			icon: {
 				Count: 1b
@@ -1785,11 +1784,10 @@
 				type: "checkmark"
 			}]
 			title: "禁用鞘翅移动检测"
-			x: 6.0d
-			y: -9.5d
+			x: 0.0d
+			y: 5.5d
 		}
 		{
-			dependencies: ["1C85269C4423E472"]
 			description: [
 				"      本包使用了IPN作为背包整理模组。别问我为什么，1.19.2没有更好的选择了。"
 				"      默认同时按R和C便可以打开IPN的配置，你可以在这里更改键位或关闭一些恼人的功能（比如自动重装）。"
@@ -1811,11 +1809,10 @@
 				type: "checkmark"
 			}]
 			title: "背包整理相关"
-			x: 5.5d
-			y: 2.5d
+			x: 6.0d
+			y: -2.5d
 		}
 		{
-			dependencies: ["305A57A22D3A3387"]
 			description: [
 				"      本包使用kubejs+blockswap将大部分常用材料的矿物生成和锭、块、粒、粉形态统一到一个模组去了，比如青铜无论是用冶金灌注机还是感应炉合成得到的都是热力的青铜。大部分热力有的材料都向热力统一了（因为好看）。"
 				"      "
@@ -1837,8 +1834,8 @@
 				type: "checkmark"
 			}]
 			title: "关于标签统一"
-			x: 2.0d
-			y: -3.5d
+			x: 6.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["305A57A22D3A3387"]
@@ -1864,8 +1861,8 @@
 				type: "checkmark"
 			}]
 			title: "查看任务前置"
-			x: -2.0d
-			y: -3.5d
+			x: -1.0d
+			y: -4.5d
 		}
 		{
 			description: [
@@ -1890,8 +1887,8 @@
 				type: "checkmark"
 			}]
 			title: "被藏起来的任务"
-			x: -2.0d
-			y: -2.0d
+			x: -1.5d
+			y: -1.5d
 		}
 		{
 			description: [
@@ -1921,8 +1918,8 @@
 				type: "checkmark"
 			}]
 			title: "背包整理"
-			x: 4.5d
-			y: -8.0d
+			x: 7.0d
+			y: -2.5d
 		}
 		{
 			description: ["你也可以尝试写匠魂模组，在整合包百科界面有教程"]
@@ -1939,8 +1936,8 @@
 				type: "checkmark"
 			}]
 			title: "其他匠魂附属？"
-			x: 3.0d
-			y: -8.0d
+			x: 7.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["305A57A22D3A3387"]
@@ -1963,8 +1960,8 @@
 				type: "checkmark"
 			}]
 			title: "[胎教] JEI的使用"
-			x: 0.0d
-			y: -5.0d
+			x: 1.0d
+			y: -4.5d
 		}
 	]
 	subtitle: ["！！重要！！一定要看！！"]
