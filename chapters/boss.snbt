@@ -565,12 +565,19 @@
 			hide: true
 			icon: "twilightforest:naga_trophy"
 			id: "557873CC16567B65"
-			rewards: [{
-				count: 5
-				id: "55B093BE90789EA0"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 5
+					id: "55B093BE90789EA0"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "0AE8D61131E0ACC4"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "twilightforest:naga"
 				id: "522D1A51D523A4E3"

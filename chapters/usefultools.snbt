@@ -303,52 +303,6 @@
 		}
 		{
 			description: [
-				"&o&l等价存在的价值之一，是轮椅与无脑通用解的第一首选，但对于滥用它的人而言，只不过是一个小小的工具罢了。"
-				"&o&l&a因为过于强大，所以限制了获取难度，但是依然是可自动化可配置的。&a"
-				"&4注：本包存在它的理由是&4&0缓解&0&4部分产线压力以及部分整活，&4&0不要把它当作万能通用解。&0"
-			]
-			icon: {
-				Count: 1b
-				id: "projecte:watch_of_flowing_time"
-				tag: { }
-			}
-			id: "321FDA6ECFE973A0"
-			rewards: [
-				{
-					id: "1633314FE1007DFC"
-					item: "projecte:dm_pedestal"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "7D34F78F5D5A84CC"
-					item: "projecte:dark_matter"
-					type: "item"
-				}
-				{
-					id: "09F064FD081B6EAA"
-					item: "etshtinker:anti_neutronium"
-					type: "item"
-				}
-			]
-			subtitle: "时间的操纵者"
-			tasks: [{
-				id: "1A487EE24E33E655"
-				item: {
-					Count: 1b
-					ForgeCaps: {
-						Parent: { }
-					}
-					id: "projecte:watch_of_flowing_time"
-					tag: { }
-				}
-				type: "item"
-			}]
-			x: -15.0d
-			y: -28.0d
-		}
-		{
-			description: [
 				"&l&e本包的无线传输除了mek量子传送装置（物品、能量、流体、化学品）、ae2无线传输终端(前面的加强版)、通量网络（能量）、tom（物品）、qio（物品）以外就只有这个了吧，其中tom还不太支持跨纬度传输。&e&l"
 				"&3廉价、可跨纬度（需要强加载）、可节省占面、可同时供给一个单位，缺点就是缓存量小、速度慢、使用不太方便、（物品传输）堆量可能会导致卡顿。&3"
 				"&l&6&o但是依然十分强力。&o&l&6"
@@ -356,8 +310,9 @@
 			icon: "cyclic:wireless_item"
 			id: "287450EF3A8A6DF0"
 			rewards: [{
-				id: "63F1DBEF73DC3DD8"
-				item: "create:hose_pulley"
+				count: 2
+				id: "0831100C69D473CE"
+				item: "cyclic:location_data"
 				type: "item"
 			}]
 			subtitle: "廉价的跨纬度无线传输"
@@ -386,7 +341,7 @@
 				type: "item"
 			}]
 			title: "循环节点"
-			x: -13.0d
+			x: -15.0d
 			y: -28.0d
 		}
 		{
@@ -480,7 +435,7 @@
 				item: "gobber2:gobber2_staff_ensnarement"
 				type: "item"
 			}]
-			x: -11.0d
+			x: -13.0d
 			y: -28.0d
 		}
 		{
@@ -541,7 +496,7 @@
 				type: "item"
 			}]
 			x: -11.0d
-			y: -26.0d
+			y: -28.0d
 		}
 	]
 	title: "实用物品"

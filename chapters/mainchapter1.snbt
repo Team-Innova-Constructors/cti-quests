@@ -1470,7 +1470,7 @@
 			}]
 			subtitle: "麻烦但是浪漫"
 			tasks: [{
-				count: 27L
+				count: 21L
 				id: "7B360859CEE236E8"
 				item: "create:mechanical_crafter"
 				type: "item"
