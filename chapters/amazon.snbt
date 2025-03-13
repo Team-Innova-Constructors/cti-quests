@@ -275,9 +275,9 @@
 			}]
 			tasks: [{
 				consume_items: true
-				count: 5L
+				count: 20L
 				id: "2BC28DD5A80AF1CF"
-				item: "lightmanscurrency:coin_diamond"
+				item: "lightmanscurrency:coin_emerald"
 				type: "item"
 			}]
 			title: "星体粉尘"
@@ -561,8 +561,9 @@
 			subtitle: "白嫖耐久的廉价饰品"
 			tasks: [{
 				consume_items: true
+				count: 5L
 				id: "0646B4EB4479A246"
-				item: "lightmanscurrency:coin_emerald"
+				item: { Count: 3b, id: "lightmanscurrency:coin_gold" }
 				type: "item"
 			}]
 			title: "修复护符"
@@ -582,7 +583,6 @@
 			tasks: [
 				{
 					consume_items: true
-					count: 6L
 					id: "450AC0D9676CBD7F"
 					item: "enigmaticlegacy:recall_potion"
 					type: "item"
@@ -756,6 +756,24 @@
 			title: "生来之恶水晶"
 			x: 3.5d
 			y: -10.5d
+		}
+		{
+			icon: "waystones:waystone"
+			id: "6ECA52F195AEB7E4"
+			rewards: [{
+				count: 8
+				id: "2F89687D952C9996"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60451921CD6F121E"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
+			title: "指路石"
+			x: -3.5d
+			y: -7.5d
 		}
 	]
 	title: "来自亚马龙的游商"

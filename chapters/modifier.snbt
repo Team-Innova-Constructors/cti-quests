@@ -1,0 +1,1602 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "modifier"
+	group: "5B9406893C138689"
+	icon: "minecraft:amethyst_shard"
+	id: "1B6F59FBB07102D2"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5A5DC99169A4FC06"
+			subtitle: "分类查看"
+			tasks: [{
+				id: "6CB56BD8E354F3F1"
+				title: "这里列举了常用的强化"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "tconstruct:creative_slot"
+				tag: {
+					slot: "abilities"
+				}
+			}
+			id: "2B29CB4380BAD20C"
+			tasks: [{
+				id: "104B647B00B5E746"
+				type: "checkmark"
+			}]
+			title: "能力槽强化"
+			x: -13.5d
+			y: -5.5d
+		}
+		{
+			description: ["去末地必定要打上的强化，本身价格并不贵，可以让末影人无法主动攻击你"]
+			icon: {
+				Count: 1b
+				id: "tconstruct:modifier_crystal"
+				tag: {
+					modifier: "cti:end_slayer"
+				}
+			}
+			id: "20F39D101A9D7653"
+			subtitle: "必打"
+			tasks: [{
+				id: "1A2436A6AD1FCF63"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "cti:end_slayer"
+					}
+				}
+				type: "item"
+			}]
+			title: "弑末者"
+			x: -19.5d
+			y: -3.0d
+		}
+		{
+			description: ["可以消音，就是值不值要看你了"]
+			icon: {
+				Count: 1b
+				id: "tconstruct:modifier_crystal"
+				tag: {
+					modifier: "tinkersinnovation:dampened"
+				}
+			}
+			id: "014410C5C03E9184"
+			subtitle: "只能护甲4件才生效"
+			tasks: [{
+				id: "6C3D652DB3E48021"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:dampened"
+					}
+				}
+				type: "item"
+			}]
+			title: "沉默"
+			x: -17.5d
+			y: -3.0d
+		}
+		{
+			description: ["朴实无华的伤害转化为穿魔"]
+			icon: {
+				Count: 1b
+				id: "tconstruct:modifier_crystal"
+				tag: {
+					modifier: "tinkersinnovation:abyss_resonance"
+				}
+			}
+			id: "46ECD158B093890C"
+			subtitle: "需要玛玉玲/邪恶钢作为前置"
+			tasks: [{
+				id: "5B344408FD8675CE"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:abyss_resonance"
+					}
+				}
+				type: "item"
+			}]
+			title: "深渊共鸣"
+			x: -15.5d
+			y: -3.0d
+		}
+		{
+			description: ["无限时长的生命恢复"]
+			icon: {
+				Count: 1b
+				id: "tconstruct:modifier_crystal"
+				tag: {
+					modifier: "tinkersinnovation:big_heart"
+				}
+			}
+			id: "5F688A67F99602B5"
+			tasks: [{
+				id: "369E21A95039E2A3"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:big_heart"
+					}
+				}
+				type: "item"
+			}]
+			title: "大心脏"
+			x: -19.5d
+			y: 7.0d
+		}
+		{
+			description: ["如果你的初速度和拉弓速度等面板低于0.1，会升级至0.1"]
+			id: "73C5333C7144730A"
+			tasks: [{
+				id: "56DBAF59492C626B"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:appearance"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 16.0d
+		}
+		{
+			id: "7E17EC57A50D24DD"
+			tasks: [{
+				id: "4DC6D3C254AC13D6"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:chromatic_aberration"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 14.0d
+		}
+		{
+			id: "33F7E98ECA5A4764"
+			tasks: [{
+				id: "628547F771FD8DEE"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:fast_eat"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 12.0d
+		}
+		{
+			id: "7CEF0B9AC61693D0"
+			subtitle: "可以很好的抵御腐蚀词条的扣耐久"
+			tasks: [{
+				id: "15EAEF3BA36CF53C"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:harden"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: -3.0d
+		}
+		{
+			id: "1090BDB2E1FB7F97"
+			tasks: [{
+				id: "152EAE5FDA8C92A2"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:double_attack"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 16.0d
+		}
+		{
+			id: "01092BE3C414B955"
+			tasks: [{
+				id: "3EA8736143237410"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:eternal_weaker"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 7.0d
+		}
+		{
+			description: ["有两个平行配方"]
+			id: "07339BF1493C3DAA"
+			tasks: [{
+				id: "4B2BEEF7A411B3EF"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:over_cushion"
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 7.0d
+		}
+		{
+			id: "7FDCF21C836D9793"
+			tasks: [{
+				id: "6203667111093E08"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:heirophant_green"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 9.0d
+		}
+		{
+			id: "28E9D5725D5CBB84"
+			tasks: [{
+				id: "1CDE87F0EF6E2248"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:health_fixing"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 16.0d
+		}
+		{
+			id: "6ACB329562162FBE"
+			tasks: [{
+				id: "22D01FB479E5683B"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkers_ingenuity:glorious"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 9.0d
+		}
+		{
+			description: ["这个挨打会坠机"]
+			id: "53E39E3D063A5F5F"
+			tasks: [{
+				id: "7E28B57A46CE0E7F"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkers_ingenuity:flying"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			description: ["在外星用得上"]
+			id: "3A8C308CF4FDEDB5"
+			tasks: [{
+				id: "0AF97F3075F605B8"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "cti:gravity_normalizer"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: -1.0d
+		}
+		{
+			id: "4D434B535B697B76"
+			tasks: [{
+				id: "4A94CA253160EB66"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:ambidextrous"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 18.0d
+		}
+		{
+			id: "0BD9BD7D8915AA1D"
+			tasks: [{
+				id: "4D582FCA47837266"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:autosmelt"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 18.0d
+		}
+		{
+			id: "4579278C819E6FC5"
+			tasks: [{
+				id: "65F77EAAFE9F6CA9"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:aqua_affinity"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: -1.0d
+		}
+		{
+			id: "3C4E7DABFCB50AC0"
+			tasks: [{
+				id: "6828C06F378E7C21"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkers_thinking:backstabbing"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 18.0d
+		}
+		{
+			id: "6D8AFA571C47141B"
+			tasks: [{
+				id: "4A1F2E5BB1245C6A"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:blocking"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 18.0d
+		}
+		{
+			id: "2AE351810235024E"
+			tasks: [{
+				id: "609968733B492591"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkers_ingenuity:star_blessing"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 9.0d
+		}
+		{
+			description: ["小晶镞"]
+			id: "02D1099524297F50"
+			tasks: [{
+				id: "479A3444EAAA3F3C"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkers_ingenuity:unlimited_ammo"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: -1.0d
+		}
+		{
+			id: "5230ECCF57F71461"
+			tasks: [{
+				id: "64A62F5A69260F94"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkers_ingenuity:tidal_guard"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 7.0d
+		}
+		{
+			description: ["商店有卖"]
+			id: "3C015F5AFCF579F4"
+			tasks: [{
+				id: "1DA50A8CBD3EB8B3"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkers_ingenuity:born_with_evil"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			id: "599F86D774C73BB4"
+			tasks: [{
+				id: "2AA49B3F36CF320A"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:owner_protection"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 22.0d
+		}
+		{
+			id: "73D6C3E20DE3283E"
+			tasks: [{
+				id: "3044FE768074A83D"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:supersonic_speed"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 22.0d
+		}
+		{
+			id: "0018F96CF79B6203"
+			tasks: [{
+				id: "7CF23FBFBA4E0936"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkersinnovation:transparent"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 14.0d
+		}
+		{
+			id: "5F73D422C8462EA5"
+			tasks: [{
+				id: "71CBF32112BC526C"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkers_things:stowing"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 12.0d
+		}
+		{
+			id: "35DE992D03096C1A"
+			tasks: [{
+				id: "76C959FD3BFBBEEC"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "cti:emp"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 12.0d
+		}
+		{
+			id: "4D90223AF4CBF84A"
+			tasks: [{
+				id: "7BED7AB28B23A158"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:bonking"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 12.0d
+		}
+		{
+			id: "1A3446F74E720FBB"
+			tasks: [{
+				id: "685DF731255840E9"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:bouncy"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 14.0d
+		}
+		{
+			id: "3BFD7278DB1A7802"
+			tasks: [{
+				id: "07501BE0B0C3DDAD"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:boundless"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 14.0d
+		}
+		{
+			id: "0D5BCB92899981E8"
+			tasks: [{
+				id: "16655C351EAE5259"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:bucketing"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 14.0d
+		}
+		{
+			id: "77C68FD897209E12"
+			tasks: [{
+				id: "274B779882D95FF7"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:bulk_quiver"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 12.0d
+		}
+		{
+			id: "0846B875A328DE5D"
+			tasks: [{
+				id: "7952DCFACF984D51"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:bursting"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 12.0d
+		}
+		{
+			id: "7032EEF2182D7704"
+			tasks: [{
+				id: "4165378E6EDDDCA2"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "solidarytinker:crcs"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 2.0d
+		}
+		{
+			id: "018033BDFFD19824"
+			tasks: [{
+				id: "2C77DBEB64346BAD"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:double_jump"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 16.0d
+		}
+		{
+			id: "1518FACD7C1C9202"
+			tasks: [{
+				id: "5F76EA2E3C50B3CF"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:crystalshot"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: -1.0d
+		}
+		{
+			id: "2CAF92F800F30AD1"
+			tasks: [{
+				id: "17052B28F41BB6BA"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:long_fall"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 16.0d
+		}
+		{
+			id: "06438E89405867F1"
+			tasks: [{
+				id: "478DE2734BF1CC62"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:luck"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: -3.0d
+		}
+		{
+			id: "69D62795C57663AC"
+			tasks: [{
+				id: "17CBE52CC679FC24"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:melting"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 16.0d
+		}
+		{
+			id: "5D23B749478E720B"
+			tasks: [{
+				id: "7AAC7996D54C1888"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkerscalibration:mossmending"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: -1.0d
+		}
+		{
+			id: "347524B1678F9309"
+			tasks: [{
+				id: "55E11DF18C1B88A1"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:multishot"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: -1.0d
+		}
+		{
+			id: "49801788322C8D8A"
+			tasks: [{
+				id: "68A28E4C5C9615BD"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkerscalibration:overshield"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 9.0d
+		}
+		{
+			id: "55006D339146732B"
+			tasks: [{
+				id: "5211C83873DD91A3"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:parrying"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 18.0d
+		}
+		{
+			id: "6255477594139292"
+			tasks: [{
+				id: "3C4976957B600BBC"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:path_maker"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 20.0d
+		}
+		{
+			id: "27F4DE8C7BB59C19"
+			tasks: [{
+				id: "66BE7A3ECE5C790D"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:pathing"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 20.0d
+		}
+		{
+			id: "7F281E9A70503FB1"
+			tasks: [{
+				id: "71437ECFD09711F6"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:plowing"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 20.0d
+		}
+		{
+			id: "6DA1777896568874"
+			tasks: [{
+				id: "6107130D172A26F3"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:pockets"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 20.0d
+		}
+		{
+			id: "4D2526E0237A0F92"
+			tasks: [{
+				id: "7F08495660BBF0D0"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:protection"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			id: "32E5615ACEFD4563"
+			tasks: [{
+				id: "2D78206EDEE3352B"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:reflecting"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 22.0d
+		}
+		{
+			id: "018C60F85F954219"
+			tasks: [{
+				id: "20262B770D1562AD"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:silky"
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			id: "0CB006C8904FE36C"
+			tasks: [{
+				id: "403BABB26E929AB2"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "solidarytinker:slimecuring"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 9.0d
+		}
+		{
+			id: "2FEC3D74A47C50A1"
+			tasks: [{
+				id: "714928B6D2769692"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:slurping"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 24.0d
+		}
+		{
+			id: "4AF26F31CF32A94E"
+			tasks: [{
+				id: "26B963596BC50AE5"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:snowdrift"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 24.0d
+		}
+		{
+			id: "61F6560218A5D982"
+			tasks: [{
+				id: "084EC2D3E23B20AC"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:spilling"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 22.0d
+		}
+		{
+			id: "606DD34973CF0AC6"
+			tasks: [{
+				id: "5C1980C08CAB0397"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:soul_belt"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 22.0d
+		}
+		{
+			id: "5C1B1D8B97913895"
+			tasks: [{
+				id: "74EAB0F9338124F9"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tinkers_thinking:sprinting"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 24.0d
+		}
+		{
+			id: "369A7984F1E2E7F5"
+			tasks: [{
+				id: "7CA77EEE0BA14D71"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:springing"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 12.0d
+		}
+		{
+			id: "3495E2D03380B925"
+			tasks: [{
+				id: "105BD34C7573912C"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:splashing"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 16.0d
+		}
+		{
+			id: "30FDB0B8846DF586"
+			tasks: [{
+				id: "574CD4FBD427FD93"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:spitting"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 14.0d
+		}
+		{
+			id: "3492092D2DF57F37"
+			tasks: [{
+				id: "5A9FF09C48E76427"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:strength"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 14.0d
+		}
+		{
+			id: "5B982507966151AA"
+			tasks: [{
+				id: "10ACBB317F9C1BA5"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:stripping"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 18.0d
+		}
+		{
+			id: "7A45399C75A480C7"
+			tasks: [{
+				id: "076E419ABCCA6637"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:tilling"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 18.0d
+		}
+		{
+			id: "5A9B744E691D2931"
+			tasks: [{
+				id: "5A5450C4254BFCA1"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:tool_belt"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 20.0d
+		}
+		{
+			id: "4DAEB98BF1A7B64E"
+			tasks: [{
+				id: "40EC59A0DB65BB05"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:trick_quiver"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 20.0d
+		}
+		{
+			id: "2BABF363D650FEF6"
+			tasks: [{
+				id: "3E66CF22555A4B8F"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:unbreakable"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 20.0d
+		}
+		{
+			id: "202D448D1C9B615A"
+			tasks: [{
+				id: "0131410A3914A313"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:warping"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 24.0d
+		}
+		{
+			id: "450FA90E269AF507"
+			tasks: [{
+				id: "771B3B96184F2825"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:wetting"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 22.0d
+		}
+		{
+			id: "4FDF25D81837BB05"
+			tasks: [{
+				id: "60334C31AA976C38"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:wings"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 22.0d
+		}
+		{
+			id: "6C6776B6039BD7F0"
+			tasks: [{
+				id: "2860793B4FE66FBF"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:autoionizing"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 2.0d
+		}
+		{
+			id: "078B447357678E16"
+			tasks: [{
+				id: "0D3E5736EFE41263"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:chainreaction"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 2.0d
+		}
+		{
+			id: "2064CA1AD55A062D"
+			tasks: [{
+				id: "108FE3CDE6BB868F"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tcintegrations:mechanical_arm"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 24.0d
+		}
+		{
+			id: "3E812558FCFCAC49"
+			tasks: [{
+				id: "328AB5C381EB3560"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tcintegrations:poseidon"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 9.0d
+		}
+		{
+			id: "355BBC2784BA9288"
+			tasks: [{
+				id: "47BE1E4722DA6593"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tcintegrations:multivision"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 24.0d
+		}
+		{
+			description: ["这些基本上你都用得上"]
+			id: "05E36F9AAE76C4F4"
+			tasks: [{
+				id: "34547E4A75831CF2"
+				type: "checkmark"
+			}]
+			title: "高性价比，并且较为通用的强化"
+			x: -21.5d
+			y: -2.0d
+		}
+		{
+			description: ["可能略昂贵，但是效果绝对不会让你失望"]
+			id: "335CD7903C154218"
+			tasks: [{
+				id: "3BA358EB27741B66"
+				title: "工具/材料专属"
+				type: "checkmark"
+			}]
+			x: -21.5d
+			y: 3.0d
+		}
+		{
+			id: "6E225B3185B56343"
+			tasks: [{
+				id: "0104055C4533AD87"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:modifiershadowaxe"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 2.0d
+		}
+		{
+			id: "32A646E116AD6B6B"
+			tasks: [{
+				id: "6C9F053E2475096F"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:exoblademodifier"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 2.0d
+		}
+		{
+			id: "744DC457AD30D205"
+			tasks: [{
+				id: "49B3518068F9778F"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:fission"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 4.0d
+		}
+		{
+			id: "7DEC186C3AA98B4E"
+			tasks: [{
+				id: "2FC07C60521F32C1"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:fusion"
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 2.0d
+		}
+		{
+			id: "1ABDBB8EF14EA9E7"
+			tasks: [{
+				id: "0483D3326713303F"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:ionizing_arrow"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 7.0d
+		}
+		{
+			id: "6D9EC0023142F599"
+			tasks: [{
+				id: "6662CF94E2A75CB0"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:heavenly_gale"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			id: "2FEC57F962298F1F"
+			tasks: [{
+				id: "5CD1126FA7B6DE8A"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:multishotplasma"
+					}
+				}
+				type: "item"
+			}]
+			x: -19.5d
+			y: 4.0d
+		}
+		{
+			id: "63DE19F41CF6AC5C"
+			tasks: [{
+				id: "51CE3FF71A4A6B43"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:modifiernovasickle"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 4.0d
+		}
+		{
+			id: "5B925AC9D31BBE88"
+			tasks: [{
+				id: "12AE67130B9C05F2"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:phantomreforged"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 7.0d
+		}
+		{
+			id: "5ED6AC684F473B92"
+			tasks: [{
+				id: "5EE2327EF64E9E6C"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:warpingenhance"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 4.0d
+		}
+		{
+			id: "4315753AC3FA9E91"
+			tasks: [{
+				id: "74FEB0A659CCEB38"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:warpengineex"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 7.0d
+		}
+		{
+			id: "1D86020B25A1991D"
+			tasks: [{
+				id: "431AAF942CA6B04F"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:warpengine"
+					}
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 7.0d
+		}
+		{
+			id: "40C7D060CF44D03C"
+			tasks: [{
+				id: "26767FA77387B7DE"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:warpattackex"
+					}
+				}
+				type: "item"
+			}]
+			x: -13.5d
+			y: 4.0d
+		}
+		{
+			id: "50EC29553E035957"
+			tasks: [{
+				id: "5221A28CAC492BCA"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:modifiershadowaxe"
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 4.0d
+		}
+		{
+			id: "3F2C0A3ADA3D498A"
+			tasks: [{
+				id: "456954A03E1E6D8E"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "tconstruct:reach"
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			id: "56B2639A906834C6"
+			tasks: [{
+				id: "787D26C5ECD6449F"
+				item: {
+					Count: 1b
+					id: "tconstruct:modifier_crystal"
+					tag: {
+						modifier: "etshtinker:plasma_sputtering"
+					}
+				}
+				type: "item"
+			}]
+			x: -17.5d
+			y: 9.0d
+		}
+		{
+			id: "6FEB8A770886E849"
+			tasks: [{
+				id: "1110008EC6DCD791"
+				title: "略难获取，或者特定情况可能有奇效的强化"
+				type: "checkmark"
+			}]
+			x: -21.5d
+			y: 8.0d
+		}
+		{
+			description: ["翻一翻看一看，也许有你能用得上的"]
+			id: "03150FBE35B02EE2"
+			tasks: [{
+				id: "56C4A3E497994E0C"
+				title: "其他强化"
+				type: "checkmark"
+			}]
+			x: -22.0d
+			y: 18.0d
+		}
+	]
+	title: "强化概述"
+}

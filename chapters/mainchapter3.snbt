@@ -205,6 +205,18 @@
 			x: -5.0d
 			y: 7.0d
 		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "ftblibrary:icons/down"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.5d
+			y: 0.5d
+		}
 	]
 	order_index: 3
 	quest_links: [ ]

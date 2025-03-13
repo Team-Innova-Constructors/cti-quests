@@ -5,18 +5,44 @@
 	group: "7741820127317059"
 	icon: "etshtinker:exo_alloy"
 	id: "1F905E753A948A11"
-	images: [{
-		click: ""
-		corner: false
-		dev: false
-		height: 2.5d
-		hover: [ ]
-		image: "ftbquests:block/barrier_open"
-		rotation: 0.0d
-		width: 2.5d
-		x: 6.0d
-		y: 0.0d
-	}]
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.5d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 2.5d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:icons/up"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 4.5d
+		}
+	]
 	order_index: 4
 	quest_links: [ ]
 	quests: [

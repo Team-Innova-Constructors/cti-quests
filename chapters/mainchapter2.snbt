@@ -421,6 +421,18 @@
 			x: -12.5d
 			y: -16.5d
 		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 2.0d
+			x: -44.0d
+			y: -8.0d
+		}
 	]
 	order_index: 2
 	quest_links: [ ]

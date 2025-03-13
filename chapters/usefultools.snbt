@@ -151,7 +151,7 @@
 						Count: 1b
 						id: "sophisticatedstorage:netherite_barrel"
 						tag: {
-							woodType: "dark_oak"
+							woodType: "spruce"
 						}
 					}
 					type: "item"

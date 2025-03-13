@@ -15,18 +15,6 @@
 			image: "ftbquests:block/barrier_open"
 			rotation: 0.0d
 			width: 2.0d
-			x: 24.0d
-			y: 0.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 2.0d
-			hover: [ ]
-			image: "ftbquests:block/barrier_open"
-			rotation: 0.0d
-			width: 2.0d
 			x: 34.0d
 			y: 3.5d
 		}
@@ -101,6 +89,42 @@
 			width: 4.0d
 			x: 24.5d
 			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.5d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 2.5d
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "ftbquests:block/barrier"
+			rotation: 0.0d
+			width: 2.0d
+			x: 24.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "ftblibrary:icons/down"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.0d
+			y: -2.0d
 		}
 	]
 	order_index: 1
@@ -1093,11 +1117,23 @@
 				"&c切记如果自动酿药，一定要把 &l  豆腐世界  的  盐 &r&c 加入黑名单过滤列表&r"
 			]
 			id: "323C7AED40D42454"
-			rewards: [{
-				id: "0C6EC02BFBCA1D0E"
-				item: "minecraft:chorus_fruit"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "0C6EC02BFBCA1D0E"
+					item: "minecraft:chorus_fruit"
+					type: "item"
+				}
+				{
+					id: "7FC3620F9A3B0CB6"
+					item: "minecraft:chorus_flower"
+					type: "item"
+				}
+				{
+					id: "1CF297411DF03A41"
+					item: "minecraft:end_stone"
+					type: "item"
+				}
+			]
 			subtitle: "更进一步"
 			tasks: [{
 				id: "531D15A8E15D8CB2"
@@ -2316,6 +2352,11 @@
 				"找油要有耐心一些，万一不是油呢"
 			]
 			id: "2AA13006A17C3981"
+			rewards: [{
+				id: "27C3903D6D43FDCF"
+				item: "industrialforegoing:advanced_black_hole_tank"
+				type: "item"
+			}]
 			subtitle: " 放置鹿弹后右击获得的图纸"
 			tasks: [{
 				id: "431C96038500F7E2"
@@ -6600,11 +6641,19 @@
 			]
 			icon: "immersivepetroleum:derrick"
 			id: "0609EFB996A07C86"
-			rewards: [{
-				id: "264015D16D7A7CE3"
-				item: "industrialforegoing:advanced_black_hole_tank"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "264015D16D7A7CE3"
+					item: "industrialforegoing:advanced_black_hole_tank"
+					type: "item"
+				}
+				{
+					id: "6C49772389E5499C"
+					item: "industrialforegoing:black_hole_controller"
+					type: "item"
+				}
+			]
 			subtitle: "使用起来略微麻烦一些"
 			tasks: [{
 				advancement: "immersivepetroleum:main/mb_derrick"

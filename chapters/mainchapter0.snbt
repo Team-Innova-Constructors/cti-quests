@@ -89,54 +89,6 @@
 			click: ""
 			corner: false
 			dev: false
-			height: 2.0d
-			hover: [ ]
-			image: "ftbquests:block/barrier_open"
-			rotation: 0.0d
-			width: 2.0d
-			x: 5.5d
-			y: 0.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 2.0d
-			hover: [ ]
-			image: "ftbquests:block/barrier_open"
-			rotation: 0.0d
-			width: 2.0d
-			x: 12.0d
-			y: 0.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 2.0d
-			hover: [ ]
-			image: "ftbquests:block/barrier_open"
-			rotation: 0.0d
-			width: 2.0d
-			x: 16.0d
-			y: 0.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 2.0d
-			hover: [ ]
-			image: "ftbquests:block/barrier_open"
-			rotation: 0.0d
-			width: 2.0d
-			x: 18.0d
-			y: 4.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
 			height: 1.0d
 			hover: [ ]
 			image: "tconstruct:item/slot/upgrade"
@@ -346,8 +298,8 @@
 			image: "ftbquests:tasks/input_only"
 			rotation: 0.0d
 			width: 1.0d
-			x: 0.0d
-			y: -2.5d
+			x: -2.0d
+			y: -2.0d
 		}
 		{
 			click: ""
@@ -370,20 +322,20 @@
 			image: "ftbquests:block/barrier"
 			rotation: 0.0d
 			width: 1.8d
-			x: 4.0d
-			y: 2.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.8d
-			hover: [ ]
-			image: "ftbquests:block/barrier"
-			rotation: 0.0d
-			width: 1.8d
 			x: 5.5d
-			y: 2.5d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "ftblibrary:icons/down"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -1.5d
 		}
 		{
 			click: ""
@@ -394,8 +346,44 @@
 			image: "ftbquests:block/barrier"
 			rotation: 0.0d
 			width: 1.8d
-			x: 7.0d
-			y: 2.5d
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.8d
+			hover: [ ]
+			image: "ftbquests:block/barrier"
+			rotation: 0.0d
+			width: 1.8d
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.8d
+			hover: [ ]
+			image: "ftbquests:block/barrier"
+			rotation: 0.0d
+			width: 1.8d
+			x: 18.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: 5.25d
 		}
 	]
 	order_index: 0
@@ -783,6 +771,17 @@
 				{
 					id: "41B6B0F77EAC36C2"
 					item: "minecraft:crafting_table"
+					type: "item"
+				}
+				{
+					id: "753027DC99838C85"
+					item: {
+						Count: 1b
+						id: "waystones:warp_stone"
+						tag: {
+							Damage: 0
+						}
+					}
 					type: "item"
 				}
 			]
@@ -1179,6 +1178,7 @@
 				""
 				"具体配方可以查看jei/匠魂宝典"
 				""
+				"部分词条由于没有&a标签&r,书上可能不全，如果要看最全的建议&a去JEI点击上方栏目显示全部强化&r来&b翻页查看&r，并且建议使用&b A&r 键标记需要的强化，因为实在太多了"
 				"{image:kubejs:textures/ftbq_images/initially12.png width:110 height:100 align:1}"
 				"{image:kubejs:textures/ftbq_images/initially15.png width:160 height:100 align:1}"
 			]
@@ -1415,11 +1415,25 @@
 							value: "tconstruct:casts/gold"
 						}
 					}
+					optional_task: true
 					title: "Any #tconstruct:casts/gold"
 					type: "item"
 				}
 				{
-					id: "48DD99340491CB88"
+					id: "3715FC8611A87A6B"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "tconstruct:casts/sand"
+						}
+					}
+					optional_task: true
+					title: "Any #tconstruct:casts/sand"
+					type: "item"
+				}
+				{
+					id: "0CE500AA908F2C35"
 					item: {
 						Count: 1b
 						id: "tconstruct:smeltery_controller"
@@ -2091,12 +2105,12 @@
 				item: "dummmmmmy:target_dummy"
 				type: "item"
 			}]
-			x: 0.0d
-			y: -2.5d
+			x: -2.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["34A01824678F973A"]
-			description: ["指路是是一个很好用的传送工具，前期想回家尝试多造一些这个的锚点吧"]
+			description: ["指路石是一个很好用的传送工具，前期想回家尝试多造一些这个的锚点吧"]
 			id: "3DF56FF0FB4CB03B"
 			rewards: [{
 				count: 3
@@ -2115,8 +2129,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.5d
+			x: -2.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["52EEE06829BC1563"]

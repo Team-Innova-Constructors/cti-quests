@@ -288,6 +288,11 @@
 					item: "minecraft:wither_skeleton_skull"
 					type: "item"
 				}
+				{
+					id: "53D81C9078069212"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			tasks: [{
 				entity: "minecraft:wither"
@@ -327,6 +332,11 @@
 					item: "minecraft:dragon_head"
 					type: "item"
 				}
+				{
+					id: "50F7A14B2C37A68E"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			tasks: [{
 				entity: "minecraft:ender_dragon"
@@ -359,6 +369,11 @@
 					count: 3
 					id: "4AF589671A282BD0"
 					item: "cataclysm:void_stone"
+					type: "item"
+				}
+				{
+					id: "11B2ED1ADCA57CBD"
+					item: "kubejs:evil_mechanism"
 					type: "item"
 				}
 			]
@@ -396,6 +411,12 @@
 					item: "cataclysm:void_stone"
 					type: "item"
 				}
+				{
+					count: 3
+					id: "5BE08F4EA0C1FEC8"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			tasks: [{
 				entity: "cataclysm:ender_guardian"
@@ -425,12 +446,20 @@
 			hide: true
 			icon: "cataclysm:flame_eye"
 			id: "4090B4DEDD8A3726"
-			rewards: [{
-				count: 25
-				id: "0540F4910B00D27F"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 25
+					id: "0540F4910B00D27F"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6D306798C6EB73F0"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "cataclysm:ignis"
 				id: "69B867B7ABFDFF8D"
@@ -451,12 +480,20 @@
 			hide: true
 			icon: "cataclysm:monstrous_eye"
 			id: "7F4D72770FF19581"
-			rewards: [{
-				count: 17
-				id: "133D0530BE728544"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 17
+					id: "133D0530BE728544"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "650B1786E8CDC1D1"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "cataclysm:netherite_monstrosity"
 				id: "2F9F333A6EC7EB38"
@@ -478,12 +515,20 @@
 			hide: true
 			icon: "cataclysm:mech_eye"
 			id: "6FDD3DC6CF7D96FE"
-			rewards: [{
-				count: 23
-				id: "56D9BED74BFDAD33"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 23
+					id: "56D9BED74BFDAD33"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "667DD21D58531EC7"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "cataclysm:the_harbinger"
 				id: "7D931C836DCE6FDE"
@@ -506,12 +551,20 @@
 			hide: true
 			icon: "cataclysm:desert_eye"
 			id: "28226734ED8DD5BE"
-			rewards: [{
-				count: 22
-				id: "69A2357E70C45AC2"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 22
+					id: "69A2357E70C45AC2"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "068CC4A31B5FD390"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "cataclysm:ancient_remnant"
 				id: "7D21895523796746"
@@ -538,12 +591,20 @@
 			hide: true
 			icon: "cataclysm:abyss_eye"
 			id: "3253355A277C5B1C"
-			rewards: [{
-				count: 18
-				id: "65ECF0E38B9B0BE1"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 18
+					id: "65ECF0E38B9B0BE1"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "7B16F555FF966EA2"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "cataclysm:the_leviathan"
 				id: "6E91F739691B2C58"
@@ -599,12 +660,19 @@
 			hide: true
 			icon: "twilightforest:lich_trophy"
 			id: "3C4A0AEC994C7F10"
-			rewards: [{
-				count: 7
-				id: "00309207CCC03D8D"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 7
+					id: "00309207CCC03D8D"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "304E4210D8A702E2"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "twilightforest:lich"
 				id: "00125E498AFD3D50"
@@ -637,6 +705,11 @@
 					item: "twilightforest:meef_stroganoff"
 					type: "item"
 				}
+				{
+					id: "4D464589ECCDFA5E"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			tasks: [{
 				entity: "twilightforest:minoshroom"
@@ -658,12 +731,19 @@
 			hide: true
 			icon: "twilightforest:alpha_yeti_trophy"
 			id: "0573C8343C5EF659"
-			rewards: [{
-				count: 10
-				id: "73AC92F28CE12E10"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "73AC92F28CE12E10"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "6C1B2549E04023F9"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "twilightforest:alpha_yeti"
 				id: "7CD47DA932119B20"
@@ -684,12 +764,19 @@
 			hide: true
 			icon: "twilightforest:knight_phantom_trophy"
 			id: "6D7D599CC9048813"
-			rewards: [{
-				count: 20
-				id: "4A1107FDA94651C0"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 20
+					id: "4A1107FDA94651C0"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "0F7370FF413C4BD7"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "twilightforest:knight_phantom"
 				id: "27B76978B4980D75"
@@ -713,12 +800,20 @@
 			hide: true
 			icon: "twilightforest:hydra_trophy"
 			id: "4193877803FC4D57"
-			rewards: [{
-				count: 30
-				id: "3B207527004E74F7"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 30
+					id: "3B207527004E74F7"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7FEC68601DBFB164"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "twilightforest:hydra"
 				id: "41501D86BF776E7C"
@@ -741,12 +836,20 @@
 			hide: true
 			icon: "twilightforest:ur_ghast_trophy"
 			id: "7C3C9233B3D9382A"
-			rewards: [{
-				count: 30
-				id: "475E694A41593CF7"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 30
+					id: "475E694A41593CF7"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1D66F3BD0310C29B"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "twilightforest:ur_ghast"
 				id: "049BC853DF170C73"
@@ -767,12 +870,20 @@
 			hide: true
 			icon: "twilightforest:snow_queen_trophy"
 			id: "7C4884A724F96C81"
-			rewards: [{
-				count: 30
-				id: "7B049FD257652B31"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 30
+					id: "7B049FD257652B31"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "51888AC082EB9E53"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "twilightforest:snow_queen"
 				id: "6405424C1F3DF5A9"
@@ -803,6 +914,11 @@
 				{
 					id: "54EE733174B61B88"
 					item: "meetyourfight:aether_glazed_cupcake"
+					type: "item"
+				}
+				{
+					id: "587823049F9921CC"
+					item: "kubejs:evil_mechanism"
 					type: "item"
 				}
 			]
@@ -838,6 +954,11 @@
 					item: "meetyourfight:marshy_delight"
 					type: "item"
 				}
+				{
+					id: "145A95C8F33424E2"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			tasks: [{
 				entity: "meetyourfight:swampjaw"
@@ -869,6 +990,11 @@
 				{
 					id: "05784B48D1175BDD"
 					item: "meetyourfight:velvet_fortune"
+					type: "item"
+				}
+				{
+					id: "39A0675F8B887477"
+					item: "kubejs:evil_mechanism"
 					type: "item"
 				}
 			]
@@ -905,6 +1031,12 @@
 				{
 					id: "15D8B120BD4EF905"
 					item: "meetyourfight:petal_cream"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5D62443698EB4405"
+					item: "kubejs:evil_mechanism"
 					type: "item"
 				}
 			]
@@ -955,6 +1087,12 @@
 					item: "lightmanscurrency:coin_emerald"
 					type: "item"
 				}
+				{
+					count: 3
+					id: "3B7FD299A3AA9998"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			tasks: [{
 				entity: "aquamirae:captain_cornelia"
@@ -990,6 +1128,11 @@
 					table_id: 3733891062111334823L
 					type: "random"
 				}
+				{
+					id: "66F78D2EF17AE3C9"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			tasks: [{
 				entity: "botania:doppleganger"
@@ -1024,6 +1167,12 @@
 					item: "kubejs:aetherium_core"
 					type: "item"
 				}
+				{
+					count: 2
+					id: "01185D42FFA7D617"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			shape: "circle"
 			tasks: [{
@@ -1047,12 +1196,19 @@
 			hide: true
 			icon: "ars_nouveau:wilden_tribute"
 			id: "0ABB1015216BA76E"
-			rewards: [{
-				count: 4
-				id: "6CE1584CD337D01B"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "6CE1584CD337D01B"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					id: "008E25FAB5F5B2D3"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "ars_nouveau:wilden_boss"
 				id: "22C693D83093BE81"
@@ -1075,12 +1231,19 @@
 			hide: true
 			icon: "twilightforest:quest_ram_trophy"
 			id: "7D7D66B771389DD5"
-			rewards: [{
-				count: 8
-				id: "7546B33369F07EE6"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "7546B33369F07EE6"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					id: "77EFA3B4DDFCFF01"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			tasks: [{
 				id: "0DDFC73674BEFF1D"
@@ -1107,12 +1270,19 @@
 				}
 			}
 			id: "155F8E3B7E39BBC3"
-			rewards: [{
-				count: 2
-				id: "62319B75B22665F9"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "62319B75B22665F9"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					id: "15615FCD76B3D129"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "mowziesmobs:frostmaw"
 				id: "7C8B01746C5B21EE"
@@ -1134,12 +1304,19 @@
 			hide: true
 			icon: "mowziesmobs:sol_visage"
 			id: "15B071A02EB3001D"
-			rewards: [{
-				count: 3
-				id: "73E3E0E2DA2E1F08"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 3
+					id: "73E3E0E2DA2E1F08"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					id: "331FB7C77C2BCC0C"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "mowziesmobs:umvuthi"
 				id: "1ABA63FE74257611"
@@ -1161,12 +1338,19 @@
 			hide: true
 			icon: "mowziesmobs:wrought_helmet"
 			id: "7CAF108A6E1D8F8B"
-			rewards: [{
-				count: 4
-				id: "6AEA5336FD16C6DA"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "6AEA5336FD16C6DA"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					id: "1981C36D461C27E6"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "mowziesmobs:ferrous_wroughtnaut"
 				id: "3F0470FC201EFF99"
@@ -1200,6 +1384,11 @@
 					item: "tinkersinnovation:void_crystal_ore"
 					type: "item"
 				}
+				{
+					id: "6A2B1F0D9B1FFA83"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			tasks: [{
 				entity: "aether:slider"
@@ -1224,11 +1413,18 @@
 			hide: true
 			icon: "aether:silver_dungeon_key"
 			id: "030CCEE65AE64095"
-			rewards: [{
-				id: "3F4EB1996F34E8D6"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "3F4EB1996F34E8D6"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					id: "38D6B9BEF0B01CA7"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "aether:valkyrie_queen"
 				id: "54FFF8D582B4B975"
@@ -1263,6 +1459,11 @@
 					item: "kubejs:violium_core"
 					type: "item"
 				}
+				{
+					id: "55AF8846F932A75A"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			tasks: [{
 				entity: "aether:sun_spirit"
@@ -1284,12 +1485,19 @@
 			hide: true
 			icon: "iceandfire:hydra_skull"
 			id: "36E1E9C76594A105"
-			rewards: [{
-				count: 15
-				id: "63064AE6A52A601E"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 15
+					id: "63064AE6A52A601E"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "70B90594531CBC7A"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:hydra"
 				id: "26DEF62BBBCBFF42"
@@ -1310,12 +1518,19 @@
 			hide: true
 			icon: "iceandfire:seaserpent_skull"
 			id: "724357FDF500F3CA"
-			rewards: [{
-				count: 4
-				id: "7EDBAA62C8C99574"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "7EDBAA62C8C99574"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "5F354016918E5D89"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:sea_serpent"
 				id: "7DA0932988622E2C"
@@ -1336,11 +1551,18 @@
 			hide: true
 			icon: "iceandfire:cyclops_skull"
 			id: "6AE99C11A08DF9AF"
-			rewards: [{
-				id: "011FC1FF97AC2051"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "011FC1FF97AC2051"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					id: "7906E1F8D0A7B2F6"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:cyclops"
 				id: "7F934FD0C272733C"
@@ -1361,12 +1583,19 @@
 			hide: true
 			icon: "iceandfire:siren_tear"
 			id: "4D7724B37E62416C"
-			rewards: [{
-				count: 3
-				id: "55820C3BF7AFC0C6"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 3
+					id: "55820C3BF7AFC0C6"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "0E40DBF33333D118"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:siren"
 				id: "51683B39D34E6979"
@@ -1393,12 +1622,19 @@
 				}
 			}
 			id: "432F2B7D06E1BC71"
-			rewards: [{
-				count: 6
-				id: "515AF8FE4AC4D0B0"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 6
+					id: "515AF8FE4AC4D0B0"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "468BA4B8CE64995F"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:gorgon"
 				id: "21EF072D01F41DDE"
@@ -1479,12 +1715,19 @@
 			hide: true
 			icon: "tofucraft:soy_sculk_bone"
 			id: "0198A4ED42744FCD"
-			rewards: [{
-				count: 2
-				id: "62A540295DEF6DF2"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "62A540295DEF6DF2"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					id: "5E7B45897114231D"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "tofucraft:shudofuspider"
 				id: "61166B7121551EA0"
@@ -1506,11 +1749,19 @@
 			hide: true
 			icon: "tofucraft:tofugem"
 			id: "7080A1029767AC13"
-			rewards: [{
-				id: "0BB8CE387C4EDCE3"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "0BB8CE387C4EDCE3"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7C2C9464B7B655AE"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "tofucraft:tofu_gandlem"
 				id: "6DB5E8390750C695"
@@ -1543,6 +1794,11 @@
 					count: 2
 					id: "7D0BE6F45DD48D52"
 					item: "minecraft:echo_shard"
+					type: "item"
+				}
+				{
+					id: "3762F61E86F2FFCD"
+					item: "kubejs:evil_mechanism"
 					type: "item"
 				}
 			]
@@ -1585,6 +1841,11 @@
 					item: "lightmanscurrency:coin_gold"
 					type: "item"
 				}
+				{
+					id: "775B6B62F44A913C"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			shape: "rsquare"
 			tasks: [{
@@ -1615,12 +1876,20 @@
 				}
 			}
 			id: "105FD2D0C8A2D2E3"
-			rewards: [{
-				count: 3
-				id: "2C23BA008EB27A34"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 3
+					id: "2C23BA008EB27A34"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "641479AE8B33E950"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:ice_dragon"
 				id: "5A018BAE69D73C60"
@@ -1648,12 +1917,20 @@
 				}
 			}
 			id: "1DF1DD6AD39B37D1"
-			rewards: [{
-				count: 3
-				id: "3B339D025C4E9F63"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 3
+					id: "3B339D025C4E9F63"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "72306750E0D26052"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:fire_dragon"
 				id: "3D4243F0E1807E35"
@@ -1681,12 +1958,20 @@
 				}
 			}
 			id: "60F074A5C01037AA"
-			rewards: [{
-				count: 3
-				id: "4668F961D62D2FEA"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 3
+					id: "4668F961D62D2FEA"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4C159846D33B315C"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:lightning_dragon"
 				id: "5672531F5D089F06"
@@ -1747,6 +2032,11 @@
 					item: "cataclysm:burning_ashes"
 					type: "item"
 				}
+				{
+					id: "37D1182E5B09A9D8"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
 			]
 			shape: "rsquare"
 			tasks: [{
@@ -1771,12 +2061,19 @@
 			hide_dependent_lines: true
 			icon: "aether:victory_medal"
 			id: "15DECDAD3FAA1D94"
-			rewards: [{
-				count: 5
-				id: "04AF6CA3C25A05E3"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 5
+					id: "04AF6CA3C25A05E3"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "723F91FC1D53D204"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			tasks: [{
 				consume_items: false
@@ -1800,12 +2097,19 @@
 			hide: true
 			icon: "cataclysm:kobolediator_skull"
 			id: "2675E243E76F73D2"
-			rewards: [{
-				count: 8
-				id: "20AB56EC2EA2397B"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "20AB56EC2EA2397B"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					id: "5C6C4A9349CA50CE"
+					item: "kubejs:evil_mechanism"
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			tasks: [{
 				entity: "cataclysm:kobolediator"

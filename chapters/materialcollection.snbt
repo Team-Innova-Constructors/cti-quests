@@ -8592,18 +8592,6 @@
 			subtitle: "时运加1"
 			tasks: [
 				{
-					id: "3E350796551E0740"
-					item: {
-						Count: 1b
-						id: "solidarytinker:mining_core"
-						tag: {
-							Material: "tconstruct:ancient_hide"
-						}
-					}
-					match_nbt: true
-					type: "item"
-				}
-				{
 					id: "1C49600FDEFE1349"
 					item: {
 						Count: 1b
@@ -11680,6 +11668,7 @@
 				"1ED4391AB6EBD029"
 				"2A3CC0141EC352E4"
 				"3EB93BC831309720"
+				"35A2B96AE3FA31D7"
 			]
 			hide: true
 			hide_dependency_lines: true
@@ -11690,7 +11679,7 @@
 				type: "checkmark"
 			}]
 			title: "&e专精-0-工匠联合&e"
-			x: 10.0d
+			x: 11.0d
 			y: -12.0d
 		}
 		{
@@ -11986,6 +11975,19 @@
 			}]
 			x: 7.0d
 			y: -14.5d
+		}
+		{
+			dependencies: ["18071D854B533F60"]
+			description: ["格挡里面最靠后的一层"]
+			hide_dependency_lines: true
+			id: "35A2B96AE3FA31D7"
+			tasks: [{
+				id: "25ABD69F174908DC"
+				item: "solidarytinker:heavy_armor_steel_ingot"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -12.0d
 		}
 	]
 	subtitle: [
