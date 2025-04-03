@@ -819,7 +819,7 @@
 				""
 				"不过我想你肯定奔着&8铋&r去的"
 				""
-				"具体使用可以看接下来的步骤"
+				"探矿方式可以查看下面的任务"
 			]
 			icon: "createoreexcavation:drilling_machine"
 			id: "28E2122722681099"
@@ -1449,6 +1449,10 @@
 				"周围有：以你为中心的3x3区块有"
 				""
 				"有痕迹：以你为中心的5x5区块内有"
+				""
+				"&n注：将鼠标悬停在JEI页面的矿机大图标上可以查看矿脉名称。"
+				""
+				"树苗图标则是查看群系黑白名单"
 			]
 			id: "01E0A6C792C60A8D"
 			rewards: [{
@@ -1582,9 +1586,10 @@
 				""
 				"差评"
 				""
-				"先凑合用一用吧，后面会有高效办法的"
+				"不过它是产硬铅板利用率最高的设备，先凑合用一用吧，后面会有高效办法的。"
 			]
 			id: "456CF806DB52D39A"
+			optional: true
 			subtitle: "不能自动化的窑"
 			tasks: [{
 				count: 8L
@@ -1877,11 +1882,23 @@
 				}
 			}
 			id: "4D3A2EFDBF3F1320"
-			rewards: [{
-				id: "1DAA9C49D90C2E0D"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "1DAA9C49D90C2E0D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "705EF042B78DD127"
+					item: "create:goggles"
+					type: "item"
+				}
+				{
+					id: "43D78439D2E7E52D"
+					item: "immersiveengineering:manual"
+					type: "item"
+				}
+			]
 			size: 2.0d
 			subtitle: "本章须知"
 			tasks: [{
@@ -6687,7 +6704,10 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["0609EFB996A07C86"]
+			dependencies: [
+				"0609EFB996A07C86"
+				"66A8F9A272177683"
+			]
 			description: [
 				"前期没有好用的储罐，这里送一些，只需要把黑洞储罐放入控制器当中，并且管道直接通进控制器就可以自动存入并且分类"
 				""
@@ -6702,6 +6722,7 @@
 				"&b柴油&r是&6压缩能源&r炉燃料的一个非常不错的候选者，&b汽油&r是一种性价比不错的匠魂燃料，&b乙炔&r则是从现在到第二章末尾间能获取的最高温匠魂燃料"
 			]
 			id: "6448110D39C4F5C0"
+			min_required_dependencies: 1
 			rewards: [
 				{
 					count: 5
@@ -6847,6 +6868,20 @@
 			title: "抽油机"
 			x: 25.0d
 			y: -8.0d
+		}
+		{
+			dependencies: ["29E21F219F641A8B"]
+			description: ["      使用/探测方法与矿物钻井相同，只是挖掘的是流体矿脉。"]
+			hide_dependent_lines: true
+			id: "66A8F9A272177683"
+			subtitle: "石油的另一种获取方式"
+			tasks: [{
+				id: "0F7BD02AD4754BDF"
+				item: "createoreexcavation:extractor"
+				type: "item"
+			}]
+			x: 21.5d
+			y: 4.5d
 		}
 	]
 	subtitle: [

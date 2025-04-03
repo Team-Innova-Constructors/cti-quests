@@ -905,7 +905,7 @@
 				type: "item"
 			}]
 			x: 32.5d
-			y: 13.0d
+			y: 13.5d
 		}
 		{
 			id: "617CE6B9E9E12C42"
@@ -923,7 +923,7 @@
 				type: "item"
 			}]
 			x: 33.0d
-			y: 13.5d
+			y: 14.0d
 		}
 		{
 			description: [
@@ -940,7 +940,7 @@
 				type: "item"
 			}]
 			x: 32.0d
-			y: 12.5d
+			y: 13.0d
 		}
 		{
 			description: [
@@ -962,18 +962,20 @@
 				type: "item"
 			}]
 			x: 33.0d
-			y: 12.5d
+			y: 13.0d
 		}
 		{
+			description: ["貌似可循环"]
 			id: "1C2AA7D062217F8B"
 			shape: "diamond"
+			subtitle: "更多的能吃时运的火炬浆果植物（？）但是只能在巨魔洞穴结构生长"
 			tasks: [{
 				id: "3A9E0A576E5A9980"
 				item: "twilightforest:trollber"
 				type: "item"
 			}]
 			x: 32.5d
-			y: 14.0d
+			y: 14.5d
 		}
 		{
 			id: "3F8978A4149E0E1F"
@@ -991,7 +993,7 @@
 				type: "item"
 			}]
 			x: 32.0d
-			y: 13.5d
+			y: 14.0d
 		}
 		{
 			id: "48C3CD19031B8622"
@@ -1022,7 +1024,7 @@
 				type: "item"
 			}]
 			x: 33.5d
-			y: 13.0d
+			y: 13.5d
 		}
 		{
 			id: "7D6CD7650178B8DF"
@@ -1032,8 +1034,8 @@
 				item: "twilightforest:smoker"
 				type: "item"
 			}]
-			x: 33.5d
-			y: 14.0d
+			x: 32.5d
+			y: 15.5d
 		}
 		{
 			id: "487A0C2DD68A698E"
@@ -1044,18 +1046,7 @@
 				type: "item"
 			}]
 			x: 33.0d
-			y: 14.5d
-		}
-		{
-			id: "33D6960D97A75384"
-			shape: "diamond"
-			tasks: [{
-				id: "32FB67C100F591B5"
-				item: "twilightforest:antibuilder"
-				type: "item"
-			}]
-			x: 32.0d
-			y: 14.5d
+			y: 15.0d
 		}
 		{
 			id: "7C3505DE68E5C95E"
@@ -1067,7 +1058,7 @@
 				type: "item"
 			}]
 			x: 31.5d
-			y: 13.0d
+			y: 13.5d
 		}
 		{
 			description: [
@@ -1212,7 +1203,7 @@
 				type: "item"
 			}]
 			x: 31.5d
-			y: 14.0d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1247,7 +1238,6 @@
 				"6F0CB96DDD507380"
 				"46D73C4494E1E547"
 				"483381AF0ACD04A4"
-				"33D6960D97A75384"
 				"0BD34B3DA6319865"
 				"126DF0BF83CF5FA6"
 				"564EB8FC8854431A"
@@ -1271,6 +1261,44 @@
 			title: "全收集"
 			x: 23.0d
 			y: 9.5d
+		}
+		{
+			description: ["强烈的光影效果，但是光照等级只有1（荧光蘑菇的光照等级是3）"]
+			id: "47ADB8DF75634C06"
+			shape: "diamond"
+			subtitle: "炽烈之光，掩于其内"
+			tasks: [{
+				id: "1938C22D2D9B9466"
+				item: "twilightforest:fiery_block"
+				type: "item"
+			}]
+			x: 32.5d
+			y: 12.5d
+		}
+		{
+			description: ["加强版仙人掌（可相接伤害更高），即使是原版也可自动化产出"]
+			hide: true
+			id: "0B9240B8F03437BD"
+			shape: "diamond"
+			subtitle: "骑士之秩，刃而不锋"
+			tasks: [{
+				id: "315632859FAAA853"
+				item: "twilightforest:knightmetal_block"
+				type: "item"
+			}]
+			x: 32.0d
+			y: 15.0d
+		}
+		{
+			id: "69B4F616CF4A3C61"
+			shape: "diamond"
+			tasks: [{
+				id: "35B161A9E9E2F0F3"
+				item: "twilightforest:giant_obsidian"
+				type: "item"
+			}]
+			x: 33.5d
+			y: 14.5d
 		}
 	]
 	subtitle: [

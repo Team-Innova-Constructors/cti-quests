@@ -5552,6 +5552,7 @@
 		}
 		{
 			dependencies: ["34136178CF4227EC"]
+			description: ["      作为护甲时免疫爆炸，在莱特兰环境是不错的应对榴弹的手段。不过星钢也能免疫爆炸且功能更全面"]
 			hide_dependency_lines: true
 			id: "3191F11310D257A2"
 			subtitle: "无视无敌帧和破甲"
@@ -6863,7 +6864,7 @@
 		}
 		{
 			dependencies: ["347F5DF3A73D5A60"]
-			description: ["不完全的飞行（受击时陨落）"]
+			description: ["作为强化时具有不完全的飞行（受击时陨落）"]
 			hide_dependency_lines: true
 			id: "1F49D25D19FFEFDA"
 			subtitle: "增伤与及净化，并且可以进行创造飞行"
@@ -7403,6 +7404,7 @@
 		}
 		{
 			dependencies: ["19C0079CEE01CB2F"]
+			description: ["作为工具的价值不如灵质之锻强化"]
 			hide_dependency_lines: true
 			id: "1729424641A6B0E2"
 			subtitle: "幻影旋转）"
@@ -8831,7 +8833,7 @@
 			dependencies: ["6C12F839F626A1DD"]
 			hide_dependency_lines: true
 			id: "236B9AE4B64C8AE4"
-			subtitle: "百分比伤害"
+			subtitle: "百分比伤害和无视挖掘等级"
 			tasks: [{
 				id: "0DA50D98AE66BE30"
 				item: "mekanism:alloy_atomic"
@@ -9779,9 +9781,11 @@
 		}
 		{
 			dependencies: ["34136178CF4227EC"]
+			description: ["&8&m鉴定为不玩热力导致的——EtSH"]
 			hide_dependency_lines: true
 			id: "3A26C7BA40EEA5B9"
 			invisible: true
+			subtitle: "听说这个是最难猜的隐藏材料"
 			tasks: [{
 				id: "4CAC7B189F3E8479"
 				item: "etshtinker:nights_alloy"
@@ -9850,6 +9854,11 @@
 		}
 		{
 			dependencies: ["6DE2C8321D2D4AC6"]
+			description: [
+				"      右键的释放剑气很好玩，同时它也是不错的离子化腔材料。"
+				""
+				"      作为弓材料有可能会弹死自己"
+			]
 			hide_dependency_lines: true
 			id: "0E4DA1DE1F52E2DB"
 			subtitle: "恒星的外层大气"
@@ -10169,8 +10178,9 @@
 		{
 			dependencies: ["49322651DD5EB5E9"]
 			description: [
-				"      此外你或许注意到了部分材料的任务上有个燃料量器的图标，那个图标指示了熔融/合金获取该材料熔融物所需最低温的燃料，&e点击这个图标就能跳转到该燃料的任务便于你查看需求燃料"
-				"      另外本包也加入了匠魂燃料的JEI适配，你可以在JEI上查看燃料的各种属性。"
+				"*过时提示：燃料温度是在频繁更迭的，这些任务的燃料温度可能并不准确。"
+				""
+				"本包加入了匠魂燃料的JEI适配，你可以在JEI上查看燃料的各种属性。"
 			]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
@@ -10280,7 +10290,8 @@
 			dependencies: ["18071D854B533F60"]
 			description: [
 				"与你的经验数值进行挂钩的独特材料，攻击时扣除你的经验。"
-				"不错的前期-中期材料"
+				""
+				"不错的前期-中期材料，能获取基本意味着伤害和防御的质变。"
 			]
 			hide_dependency_lines: true
 			id: "2A3CC0141EC352E4"
@@ -11724,10 +11735,15 @@
 				"3AE49D2B0849ACD4"
 				"401C9CB8D385ABFA"
 				"08F38624C4F3E33D"
+				"6A7A8FA523361298"
+				"5CB8FD73752F2797"
+				"73EFB2B647D86632"
+				"36D4850E0779C557"
 			]
 			hide: true
 			hide_dependency_lines: true
 			id: "47899E59F8254F60"
+			min_required_dependencies: 4
 			tasks: [{
 				id: "63812EF2BB8F77E2"
 				type: "checkmark"
@@ -11744,11 +11760,14 @@
 				"761D1E5FE8037EAD"
 				"12476FEB77EFC36F"
 				"358D09D7A23914A8"
+				"5ADAE9C4E394C11B"
+				"6A271283C0468D69"
+				"551007C0C57D2FE1"
 			]
 			hide: true
 			hide_dependency_lines: true
 			id: "18CF936ECC095BF4"
-			min_required_dependencies: 3
+			min_required_dependencies: 5
 			tasks: [{
 				id: "24C9489534935081"
 				type: "checkmark"
@@ -11912,6 +11931,7 @@
 		}
 		{
 			dependencies: ["6DE2C8321D2D4AC6"]
+			description: ["&4生命在它面前不过是个小火花"]
 			hide_dependency_lines: true
 			id: "1F55DF8031F99DB1"
 			invisible: true
@@ -11937,6 +11957,9 @@
 			y: -11.5d
 		}
 		{
+			dependencies: ["5FBDD4CA47565381"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "36D4850E0779C557"
 			tasks: [{
 				id: "1212EAA75D193139"
@@ -11947,6 +11970,8 @@
 			y: -15.0d
 		}
 		{
+			dependencies: ["5FBDD4CA47565381"]
+			hide_dependency_lines: true
 			id: "5CB8FD73752F2797"
 			tasks: [{
 				id: "2779A9D8050EDCC1"
@@ -11957,6 +11982,8 @@
 			y: -15.0d
 		}
 		{
+			dependencies: ["5FBDD4CA47565381"]
+			hide_dependency_lines: true
 			id: "6A7A8FA523361298"
 			tasks: [{
 				id: "73E87EC300EE2E56"
@@ -11967,6 +11994,8 @@
 			y: -14.0d
 		}
 		{
+			dependencies: ["5FBDD4CA47565381"]
+			hide_dependency_lines: true
 			id: "73EFB2B647D86632"
 			tasks: [{
 				id: "65181E9288D1D606"
@@ -11988,6 +12017,76 @@
 			}]
 			x: 10.0d
 			y: -12.0d
+		}
+		{
+			dependencies: ["0948A7AD49C76AD5"]
+			id: "09B9E901DD62E54E"
+			invisible: true
+			subtitle: "CTI特色之更多剑气"
+			tasks: [{
+				id: "484A6720067A4391"
+				item: "cti:xenoglarium_ingot"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["6E7624FC851E6FB9"]
+			hide_dependency_lines: true
+			id: "0948A7AD49C76AD5"
+			invisible: true
+			subtitle: "只算半个隐藏材料，不过由于陨铁线本身是隐藏的所以隐藏了"
+			tasks: [{
+				id: "04541DB89BEB0B18"
+				item: "kubejs:meteorium_ingot"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["6E7624FC851E6FB9"]
+			description: ["同维奥合金，中等强度的阶段性辅助材料"]
+			hide_dependency_lines: true
+			id: "5ADAE9C4E394C11B"
+			tasks: [{
+				id: "4B9ACC58AD83ED70"
+				item: "kubejs:atherium_alloy"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["6E7624FC851E6FB9"]
+			description: [
+				"非常强力的中期护甲材料。作为进攻材料则常用作自伤对爆流触发器。"
+				""
+				"“为什么我砍一刀自己似了啊！”"
+			]
+			hide_dependency_lines: true
+			id: "551007C0C57D2FE1"
+			tasks: [{
+				id: "1F7D2B0292D79974"
+				item: "kubejs:tungsten_steel_ingot"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["6E7624FC851E6FB9"]
+			description: ["超致密的护甲上位，中等强度的阶段性辅助材料"]
+			hide_dependency_lines: true
+			id: "6A271283C0468D69"
+			tasks: [{
+				id: "467384FAFE3CF6B6"
+				item: "kubejs:violium_alloy"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -14.0d
 		}
 	]
 	subtitle: [

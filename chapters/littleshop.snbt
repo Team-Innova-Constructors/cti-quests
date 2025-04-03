@@ -220,8 +220,8 @@
 				match_nbt: false
 				type: "item"
 			}]
-			x: -4.5d
-			y: -8.0d
+			x: -6.0d
+			y: -5.0d
 		}
 		{
 			description: [
@@ -340,129 +340,8 @@
 				match_nbt: false
 				type: "item"
 			}]
-			x: -3.0d
-			y: -8.0d
-		}
-		{
-			description: [
-				"匠魂校准添加的一种近战武器"
-				""
-				"特色是暴击提速"
-				""
-				"伤害：低"
-				""
-				"攻速：略快，暴击后较快"
-				""
-				"造价：中"
-			]
-			icon: {
-				Count: 1b
-				id: "tinkerscalibration:cutlass"
-				tag: {
-					Damage: 0
-					tic_broken: 0b
-					tic_materials: [
-						"solidarytinker:starfall"
-						"solidarytinker:starfall"
-						"solidarytinker:starfall"
-					]
-					tic_modifiers: [
-						{
-							level: 3
-							name: "solidarytinker:neverend"
-						}
-						{
-							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
-							name: "solidarytinker:tacticsattack"
-						}
-						{
-							level: 1
-							name: "tinkerscalibration:critical_speed"
-						}
-					]
-					tic_multipliers: {
-						"tconstruct:attack_damage": 1.05f
-						"tconstruct:mining_speed": 0.7f
-					}
-					tic_persistent: { }
-					tic_stats: {
-						"tconstruct:attack_damage": 13.860001f
-						"tconstruct:attack_speed": 4.84f
-						"tconstruct:durability": 5472.9f
-						"tconstruct:harvest_tier": "minecraft:netherite"
-						"tconstruct:mining_speed": 5.67f
-					}
-					tic_volatile_data: {
-						abilities: 4
-						upgrades: 7
-					}
-				}
-			}
-			id: "5C8976BB23601579"
-			rewards: [{
-				count: 3
-				id: "0597870249EFF9E0"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
-			tasks: [{
-				id: "5EC40DC664CD500D"
-				item: {
-					Count: 1b
-					id: "tinkerscalibration:cutlass"
-					tag: {
-						Damage: 0
-						tic_broken: 0b
-						tic_materials: [
-							"solidarytinker:starfall"
-							"solidarytinker:starfall"
-							"solidarytinker:starfall"
-						]
-						tic_modifiers: [
-							{
-								level: 3
-								name: "solidarytinker:neverend"
-							}
-							{
-								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
-								name: "solidarytinker:tacticsattack"
-							}
-							{
-								level: 1
-								name: "tinkerscalibration:critical_speed"
-							}
-						]
-						tic_multipliers: {
-							"tconstruct:attack_damage": 1.05f
-							"tconstruct:mining_speed": 0.7f
-						}
-						tic_persistent: { }
-						tic_stats: {
-							"tconstruct:attack_damage": 13.860001f
-							"tconstruct:attack_speed": 4.84f
-							"tconstruct:durability": 5472.9f
-							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 5.67f
-						}
-						tic_volatile_data: {
-							abilities: 4
-							upgrades: 7
-						}
-					}
-				}
-				match_nbt: false
-				type: "item"
-			}]
-			x: -1.5d
-			y: -8.0d
+			x: -6.0d
+			y: -6.5d
 		}
 		{
 			description: [
@@ -583,8 +462,8 @@
 				match_nbt: false
 				type: "item"
 			}]
-			x: 0.0d
-			y: -8.0d
+			x: 6.0d
+			y: -6.5d
 		}
 		{
 			description: [
@@ -705,8 +584,8 @@
 				match_nbt: false
 				type: "item"
 			}]
-			x: 1.5d
-			y: -8.0d
+			x: 6.0d
+			y: -5.0d
 		}
 		{
 			description: [
@@ -847,8 +726,8 @@
 				match_nbt: false
 				type: "item"
 			}]
-			x: 3.0d
-			y: -8.0d
+			x: 6.0d
+			y: -3.5d
 		}
 		{
 			description: [
@@ -992,7 +871,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: -8.0d
+			y: -6.5d
 		}
 		{
 			description: [
@@ -1849,146 +1728,6 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: -6.5d
-		}
-		{
-			description: [
-				"有盾条，但是它可以给你提供额外的护甲值，或许主要用途不是当盾用（莱特兰前期怪物伤害实在太高了，这点盾值顶不住）"
-				""
-				"不在手上才可以恢复盾值"
-				""
-				"造价：高"
-				""
-				"防御性：差"
-				""
-				"面板：较好"
-			]
-			icon: {
-				Count: 1b
-				id: "tinkersinnovation:round_shield"
-				tag: {
-					Damage: 0
-					tic_broken: 0b
-					tic_materials: [
-						"solidarytinker:starfall"
-						"solidarytinker:starfall"
-						"solidarytinker:starfall"
-					]
-					tic_modifiers: [
-						{
-							level: 1
-							name: "tinkersinnovation:shield_amount"
-						}
-						{
-							level: 3
-							name: "solidarytinker:sandstrom"
-						}
-						{
-							level: 3
-							name: "solidarytinker:absolutejustice"
-						}
-						{
-							level: 3
-							name: "solidarytinker:tacticsprotect"
-						}
-						{
-							level: 1
-							name: "tconstruct:blocking"
-						}
-					]
-					tic_multipliers: {
-						"tinkersinnovation:shield_amount": 0.75f
-					}
-					tic_persistent: {
-						"tinkersinnovation:shield_amount": 18
-					}
-					tic_stats: {
-						"tconstruct:armor": 6.0f
-						"tconstruct:armor_toughness": 4.0f
-						"tconstruct:block_amount": 30.0f
-						"tconstruct:block_angle": 90.0f
-						"tconstruct:durability": 1780.0f
-						"tconstruct:knockback_resistance": 0.4f
-						"tconstruct:use_item_speed": 1.0f
-						"tinkersinnovation:shield_amount": 26.25f
-					}
-					tic_volatile_data: {
-						abilities: 4
-						defense: 5
-						upgrades: 6
-					}
-				}
-			}
-			id: "07B234AE93DFC9C3"
-			rewards: [{
-				count: 3
-				id: "4558C381BE2B097F"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
-			subtitle: "有盾条的盾"
-			tasks: [{
-				id: "45C8D7123C30548E"
-				item: {
-					Count: 1b
-					id: "tinkersinnovation:round_shield"
-					tag: {
-						Damage: 0
-						tic_broken: 0b
-						tic_materials: [
-							"solidarytinker:starfall"
-							"solidarytinker:starfall"
-							"solidarytinker:starfall"
-						]
-						tic_modifiers: [
-							{
-								level: 1
-								name: "tinkersinnovation:shield_amount"
-							}
-							{
-								level: 3
-								name: "solidarytinker:sandstrom"
-							}
-							{
-								level: 3
-								name: "solidarytinker:absolutejustice"
-							}
-							{
-								level: 3
-								name: "solidarytinker:tacticsprotect"
-							}
-							{
-								level: 1
-								name: "tconstruct:blocking"
-							}
-						]
-						tic_multipliers: {
-							"tinkersinnovation:shield_amount": 0.75f
-						}
-						tic_persistent: {
-							"tinkersinnovation:shield_amount": 18
-						}
-						tic_stats: {
-							"tconstruct:armor": 6.0f
-							"tconstruct:armor_toughness": 4.0f
-							"tconstruct:block_amount": 30.0f
-							"tconstruct:block_angle": 90.0f
-							"tconstruct:durability": 1780.0f
-							"tconstruct:knockback_resistance": 0.4f
-							"tconstruct:use_item_speed": 1.0f
-							"tinkersinnovation:shield_amount": 26.25f
-						}
-						tic_volatile_data: {
-							abilities: 4
-							defense: 5
-							upgrades: 6
-						}
-					}
-				}
-				match_nbt: false
-				type: "item"
-			}]
-			x: -4.5d
 			y: -5.0d
 		}
 		{
@@ -2107,141 +1846,11 @@
 		}
 		{
 			description: [
-				"伤害较高，而且自带破甲效果"
-				""
-				"但是攻速很慢，或许可以存箭当瞬发爆发用"
-				""
-				"远程伤害：高"
-				""
-				"远程攻速：慢"
-				""
-				"造价：中"
-			]
-			icon: {
-				Count: 1b
-				id: "tinkers_ingenuity:heavy_crossbow"
-				tag: {
-					Damage: 0
-					tic_broken: 0b
-					tic_materials: [
-						"solidarytinker:starfall"
-						"solidarytinker:starfall"
-						"solidarytinker:starfall"
-						"tconstruct:string"
-					]
-					tic_modifiers: [
-						{
-							level: 3
-							name: "solidarytinker:neverend"
-						}
-						{
-							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
-							name: "solidarytinker:tacticsattack"
-						}
-						{
-							level: 1
-							name: "tconstruct:stringy"
-						}
-						{
-							level: 1
-							name: "tinkers_ingenuity:puncture"
-						}
-					]
-					tic_multipliers: {
-						"tconstruct:durability": 2.0f
-					}
-					tic_persistent: { }
-					tic_stats: {
-						"tconstruct:accuracy": 1.0f
-						"tconstruct:attack_damage": 10.0f
-						"tconstruct:draw_speed": 1.3f
-						"tconstruct:durability": 17811.201f
-						"tconstruct:velocity": 9.0f
-					}
-					tic_volatile_data: {
-						abilities: 4
-						upgrades: 6
-					}
-				}
-			}
-			id: "7995BFCC1DDDAD0F"
-			rewards: [{
-				count: 3
-				id: "745252805C1C4E28"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
-			}]
-			subtitle: "穿甲弩"
-			tasks: [{
-				id: "435DCE881DD830C9"
-				item: {
-					Count: 1b
-					id: "tinkers_ingenuity:heavy_crossbow"
-					tag: {
-						Damage: 0
-						tic_broken: 0b
-						tic_materials: [
-							"solidarytinker:starfall"
-							"solidarytinker:starfall"
-							"solidarytinker:starfall"
-							"tconstruct:string"
-						]
-						tic_modifiers: [
-							{
-								level: 3
-								name: "solidarytinker:neverend"
-							}
-							{
-								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
-								name: "solidarytinker:tacticsattack"
-							}
-							{
-								level: 1
-								name: "tconstruct:stringy"
-							}
-							{
-								level: 1
-								name: "tinkers_ingenuity:puncture"
-							}
-						]
-						tic_multipliers: {
-							"tconstruct:durability": 2.0f
-						}
-						tic_persistent: { }
-						tic_stats: {
-							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 10.0f
-							"tconstruct:draw_speed": 1.3f
-							"tconstruct:durability": 17811.201f
-							"tconstruct:velocity": 9.0f
-						}
-						tic_volatile_data: {
-							abilities: 4
-							upgrades: 6
-						}
-					}
-				}
-				match_nbt: false
-				type: "item"
-			}]
-			x: -1.5d
-			y: -5.0d
-		}
-		{
-			description: [
 				"会根据你的瞬时加速度增加伤害，这个加成其实远超你的想象"
 				""
 				"在1.19也能玩到重锤了，欧耶"
 				""
-				"其重锤核心可以查看配方合成"
+				"其重锤核心可以查看配方合成，或发现于古城核心区"
 				""
 				"伤害：较高"
 				""
@@ -2369,7 +1978,9 @@
 			description: [
 				"需要传送核心才能制作"
 				""
-				"看起来"
+				"shift-右键绑定位置，右键将自己传送至该位置（不能跨纬度）、"
+				""
+				"左键生物在攻击的同时将生物传送至绑定位置"
 			]
 			icon: {
 				Count: 1b
@@ -2587,6 +2198,11 @@
 			y: -5.0d
 		}
 		{
+			description: [
+				"和长剑类似，是长臂类武器"
+				""
+				"相比长剑，以牺牲了超高数值为代价换来了2.5触及半径。同样是前期值得一做的武器"
+			]
 			icon: {
 				Count: 1b
 				id: "tinkers_ingenuity:lograzor"
@@ -2682,7 +2298,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: -5.0d
+			y: -3.5d
 		}
 		{
 			description: ["      高攻速高伤害的同时能使伤害100%穿甲，不过鉴于本包有不少破甲手段所以主要优势区间在于前中期。当然对于喜欢高攻速的人而言也值得一看。"]
@@ -3006,108 +2622,6 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -3.5d
-		}
-		{
-			icon: {
-				Count: 1b
-				id: "tinkers_thinking:arrow_thrower"
-				tag: {
-					Damage: 0
-					tic_broken: 0b
-					tic_materials: [
-						"solidarytinker:starfall"
-						"solidarytinker:starfall"
-						"solidarytinker:starfall"
-					]
-					tic_modifiers: [
-						{
-							level: 3
-							name: "solidarytinker:neverend"
-						}
-						{
-							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
-							name: "solidarytinker:tacticsattack"
-						}
-					]
-					tic_multipliers: {
-						"tconstruct:draw_speed": 10.0f
-						"tconstruct:durability": 1.15f
-						"tconstruct:projectile_damage": 1.25f
-					}
-					tic_persistent: { }
-					tic_stats: {
-						"tconstruct:accuracy": 1.0f
-						"tconstruct:attack_damage": 7.25f
-						"tconstruct:draw_speed": 13.0f
-						"tconstruct:durability": 6672.645f
-						"tconstruct:projectile_damage": 2.5f
-						"tconstruct:use_item_speed": 0.6f
-						"tconstruct:velocity": 8.45f
-					}
-					tic_volatile_data: {
-						abilities: 4
-						upgrades: 6
-					}
-				}
-			}
-			id: "6F40A377CB65BFE7"
-			tasks: [{
-				id: "048E8F06F4E2BC99"
-				item: {
-					Count: 1b
-					id: "tinkers_thinking:arrow_thrower"
-					tag: {
-						Damage: 0
-						tic_broken: 0b
-						tic_materials: [
-							"solidarytinker:starfall"
-							"solidarytinker:starfall"
-							"solidarytinker:starfall"
-						]
-						tic_modifiers: [
-							{
-								level: 3
-								name: "solidarytinker:neverend"
-							}
-							{
-								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
-								name: "solidarytinker:tacticsattack"
-							}
-						]
-						tic_multipliers: {
-							"tconstruct:draw_speed": 10.0f
-							"tconstruct:durability": 1.15f
-							"tconstruct:projectile_damage": 1.25f
-						}
-						tic_persistent: { }
-						tic_stats: {
-							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 7.25f
-							"tconstruct:draw_speed": 13.0f
-							"tconstruct:durability": 6672.645f
-							"tconstruct:projectile_damage": 2.5f
-							"tconstruct:use_item_speed": 0.6f
-							"tconstruct:velocity": 8.45f
-						}
-						tic_volatile_data: {
-							abilities: 4
-							upgrades: 6
-						}
-					}
-				}
-				match_nbt: false
-				type: "item"
-			}]
-			x: 1.5d
 			y: -3.5d
 		}
 		{
@@ -3563,13 +3077,18 @@
 				match_nbt: false
 				type: "item"
 			}]
-			x: 4.5d
-			y: -3.5d
+			x: -1.5d
+			y: -5.0d
 		}
 		{
 			description: [
-				"      手感非常不错的武器，当然开局是做不了滴（在拥有较好的燃料之前，它的伤害也很低，不如其它大部分武器）。"
-				"      约束等离子阔剑使用的是冶炼炉燃料，记得与离子化射线炮区分！     "
+				"手感最佳的近战武器之一，当然开局是做不了的。"
+				""
+				"离子刀以极低的伤害换来了高攻速以及所谓的“真实横扫”。"
+				""
+				"同时约束场发生器和燃料拓宽了伤害计算的维度，是个低下限高上限的武器。"
+				""
+				"约束等离子阔剑使用的是冶炼炉燃料，记得与离子化射线炮区分！     "
 			]
 			id: "0373CB427D46F738"
 			rewards: [{
@@ -3623,16 +3142,16 @@
 						tic_persistent: { }
 						tic_stats: {
 							"etshtinker:critical_rate": 1.28f
-							"etshtinker:damagemultiplier": 174.39307f
+							"etshtinker:damagemultiplier": 177.57431f
 							"etshtinker:fluid_efficiency": 100.0f
 							"etshtinker:slash_color": 10.0f
-							"tconstruct:attack_damage": 177.85028f
-							"tconstruct:attack_speed": 220.54591f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 181.0946f
+							"tconstruct:attack_speed": 224.56908f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 796401.75f
+							"tconstruct:durability": 810929.56f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 281.00446f
+							"tconstruct:mining_speed": 286.1305f
 							"tconstruct:tank_capacity": 9005000.0f
 						}
 						tic_volatile_data: {
@@ -3645,13 +3164,17 @@
 				match_nbt: false
 				type: "item"
 			}]
+			title: "约束等离子阔剑"
 			x: -4.5d
 			y: 3.5d
 		}
 		{
 			description: [
-				"     伤害极高的范围攻击武器，但是蓄力时间超级长，而且需要消耗大量昂贵的流体作为弹药。同样开局做不了。"
-				"     离子化射线炮的弹药可以用JEI查看（对着工具查询配方即可）"
+				"伤害极高的范围攻击武器，是对群最优解。"
+				""
+				"离子化射线炮拥有流体效果这个特殊的维度，导致它既可以具有强辅助性也可以具有强进攻性。不过更昂贵的流体考验你的自动化能力"
+				""
+				"离子化射线炮的弹药可以用JEI查看（对着工具查询配方即可）"
 			]
 			id: "4D6E2D51161EF71F"
 			rewards: [{
@@ -3709,15 +3232,15 @@
 						tic_persistent: { }
 						tic_stats: {
 							"etshtinker:cooldown": 10.0f
-							"etshtinker:damagemultiplier": 170.30573f
+							"etshtinker:damagemultiplier": 173.41241f
 							"etshtinker:plasmarange": 70.0f
-							"tconstruct:attack_damage": 614.368f
-							"tconstruct:attack_speed": 115.80789f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 625.5752f
+							"tconstruct:attack_speed": 117.92044f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1330335.5f
+							"tconstruct:durability": 1354603.2f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 798.3081f
+							"tconstruct:mining_speed": 812.8707f
 							"tconstruct:tank_capacity": 9005000.0f
 						}
 						tic_volatile_data: {
@@ -3730,6 +3253,7 @@
 				match_nbt: false
 				type: "item"
 			}]
+			title: "离子化射线炮"
 			x: -3.0d
 			y: 3.5d
 		}
@@ -3779,9 +3303,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1455.8665f
-							"tconstruct:attack_speed": 65.56771f
-							"tconstruct:durability": 5568337.5f
+							"tconstruct:attack_damage": 1482.4242f
+							"tconstruct:attack_speed": 66.76379f
+							"tconstruct:durability": 5669914.0f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3846,9 +3370,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 450.7141f
-							"tconstruct:attack_speed": 68.12229f
-							"tconstruct:durability": 1304984.6f
+							"tconstruct:attack_damage": 458.93597f
+							"tconstruct:attack_speed": 69.36497f
+							"tconstruct:durability": 1328790.0f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3908,11 +3432,11 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 612.3023f
-							"tconstruct:attack_speed": 95.37121f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 623.47186f
+							"tconstruct:attack_speed": 97.110954f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1301689.2f
+							"tconstruct:durability": 1325434.5f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3927,7 +3451,7 @@
 			y: 3.5d
 		}
 		{
-			description: ["      对于没有增伤冲突的1.19+而言，这个就是神器！解决了部分材料选择困难问题。此外它自带的利刃属性也对高血量生物有小量提升"]
+			description: [" 既是机制怪（百分比伤害和5部件）也是数值怪。对单最优解"]
 			id: "44DD48F3B32C7B75"
 			rewards: [{
 				count: 3
@@ -3976,9 +3500,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 462.02402f
-							"tconstruct:attack_speed": 67.44107f
-							"tconstruct:durability": 2292785.5f
+							"tconstruct:attack_damage": 470.45218f
+							"tconstruct:attack_speed": 68.67132f
+							"tconstruct:durability": 2334610.0f
 						}
 						tic_volatile_data: {
 							abilities: 16
@@ -4041,13 +3565,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 435.20566f
-							"tconstruct:attack_speed": 238.42802f
-							"tconstruct:block_amount": 170.30573f
+							"tconstruct:attack_damage": 443.14462f
+							"tconstruct:attack_speed": 242.77739f
+							"tconstruct:block_amount": 173.41241f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 650844.6f
+							"tconstruct:durability": 662717.25f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 632.2601f
+							"tconstruct:mining_speed": 643.79364f
 							"tconstruct:use_item_speed": 1.0f
 						}
 						tic_volatile_data: {
@@ -4062,78 +3586,6 @@
 			}]
 			x: 4.5d
 			y: 3.5d
-		}
-		{
-			id: "3A1EFA058303BB59"
-			tasks: [{
-				id: "0533F6DCBABCD1A9"
-				item: {
-					Count: 1b
-					id: "tinkersinnovation:heavy_shield"
-					tag: {
-						Damage: 0
-						tic_broken: 0b
-						tic_materials: [
-							"etshtinker:exo_alloy"
-							"tconstruct:copper"
-							"tconstruct:copper"
-							"etshtinker:exo_alloy"
-						]
-						tic_modifiers: [
-							{
-								level: 1
-								name: "tinkersinnovation:shield_amount"
-							}
-							{
-								level: 2
-								name: "etshtinker:godlymetal"
-							}
-							{
-								level: 2
-								name: "etshtinker:worldforceex"
-							}
-							{
-								level: 2
-								name: "etshtinker:beconcerted"
-							}
-							{
-								level: 2
-								name: "tconstruct:depth_protection"
-							}
-							{
-								level: 1
-								name: "tconstruct:blocking"
-							}
-						]
-						tic_multipliers: {
-							"tconstruct:attack_damage": 1.8f
-							"tconstruct:durability": 4.25f
-							"tinkersinnovation:shield_amount": 3.0f
-						}
-						tic_persistent: {
-							"tinkersinnovation:shield_amount": 9
-						}
-						tic_stats: {
-							"tconstruct:armor": 30.0f
-							"tconstruct:attack_damage": 881.71533f
-							"tconstruct:attack_speed": 71.52841f
-							"tconstruct:block_amount": 1362.4458f
-							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2525647.2f
-							"tinkersinnovation:shield_amount": 96.0f
-						}
-						tic_volatile_data: {
-							abilities: 7
-							defense: 8
-							upgrades: 6
-						}
-					}
-				}
-				match_nbt: false
-				type: "item"
-			}]
-			x: -4.5d
-			y: 5.0d
 		}
 		{
 			description: [
@@ -4185,9 +3637,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 971.2803f
-							"tconstruct:attack_speed": 174.79755f
-							"tconstruct:durability": 3068764.8f
+							"tconstruct:attack_damage": 988.9982f
+							"tconstruct:attack_speed": 177.98618f
+							"tconstruct:durability": 3124744.8f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4202,7 +3654,17 @@
 			y: 5.0d
 		}
 		{
+			description: [
+				"手长是唯一优点，没有了。"
+				""
+				"镭射枪无论是数值还是机制都有替代品，还和其它模组的能量装载材料冲突。"
+				""
+				"顺便一提，镭射枪攻击时会重置玩家的蓄力时间，所以它其实受冷却和攻击速度的双重约束"
+				""
+				"这也是为什么镭射枪的射线在攻击到一个敌人后伤害骤减，故镭射枪不适合对群"
+			]
 			id: "5A3513ECB7686647"
+			subtitle: "不再是当年的那个镭射枪了"
 			tasks: [{
 				id: "6D921FCB8631C4A4"
 				item: {
@@ -4244,9 +3706,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 279.4611f
-							"tconstruct:attack_speed": 119.21401f
-							"tconstruct:durability": 616315.1f
+							"tconstruct:attack_damage": 284.55896f
+							"tconstruct:attack_speed": 121.388695f
+							"tconstruct:durability": 627557.8f
 							"tinkers_ingenuity:cooldown": 1.1f
 							"tinkers_ingenuity:energy_capacity": 20000.0f
 							"tinkers_ingenuity:laser_range": 20.0f
@@ -4262,6 +3724,7 @@
 				match_nbt: false
 				type: "item"
 			}]
+			title: "镭射枪"
 			x: -1.5d
 			y: 5.0d
 		}
@@ -4308,9 +3771,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 725.52374f
-							"tconstruct:attack_speed": 46.834076f
-							"tconstruct:durability": 988075.5f
+							"tconstruct:attack_damage": 738.7586f
+							"tconstruct:attack_speed": 47.688416f
+							"tconstruct:durability": 1006099.8f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4369,13 +3832,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 376.80142f
-							"tconstruct:attack_speed": 119.21401f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 383.675f
+							"tconstruct:attack_speed": 121.388695f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2169482.0f
+							"tconstruct:durability": 2209057.5f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 168.60268f
+							"tconstruct:mining_speed": 171.6783f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4430,13 +3893,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 808.2391f
-							"tconstruct:attack_speed": 71.52841f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 822.98285f
+							"tconstruct:attack_speed": 72.83322f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2458746.5f
+							"tconstruct:durability": 2503598.5f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 168.60268f
+							"tconstruct:mining_speed": 171.6783f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4498,13 +3961,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 288.88107f
-							"tconstruct:attack_speed": 83.44981f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 294.15082f
+							"tconstruct:attack_speed": 84.972084f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1446321.4f
+							"tconstruct:durability": 1472704.9f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 252.904f
+							"tconstruct:mining_speed": 257.51746f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4560,13 +4023,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 549.5021f
-							"tconstruct:attack_speed": 101.33192f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 559.526f
+							"tconstruct:attack_speed": 103.1804f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2892642.8f
+							"tconstruct:durability": 2945409.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 168.60268f
+							"tconstruct:mining_speed": 171.6783f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4622,13 +4085,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 525.638f
-							"tconstruct:attack_speed": 89.41051f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 535.2266f
+							"tconstruct:attack_speed": 91.04152f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2314114.2f
+							"tconstruct:durability": 2356328.0f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 224.80356f
+							"tconstruct:mining_speed": 228.90439f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4682,13 +4145,13 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 425.7643f
-							"tconstruct:attack_speed": 17.030573f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 433.53104f
+							"tconstruct:attack_speed": 17.341242f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 272.48917f
-							"tconstruct:durability": 524201.06f
-							"tconstruct:projectile_damage": 34.061146f
+							"tconstruct:draw_speed": 277.45987f
+							"tconstruct:durability": 533763.44f
+							"tconstruct:projectile_damage": 34.682484f
 							"tconstruct:velocity": 4.0f
 						}
 						tic_volatile_data: {
@@ -4747,13 +4210,13 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 851.5286f
-							"tconstruct:attack_speed": 17.030573f
-							"tconstruct:block_amount": 85.15286f
+							"tconstruct:attack_damage": 867.0621f
+							"tconstruct:attack_speed": 17.341242f
+							"tconstruct:block_amount": 86.70621f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 144.75987f
-							"tconstruct:durability": 461869.12f
-							"tconstruct:projectile_damage": 34.061146f
+							"tconstruct:draw_speed": 147.40056f
+							"tconstruct:durability": 470294.47f
+							"tconstruct:projectile_damage": 34.682484f
 							"tconstruct:velocity": 2.5f
 						}
 						tic_volatile_data: {
@@ -4769,132 +4232,136 @@
 			y: 6.5d
 		}
 		{
+			description: [
+				"正如描述所说，手杖没有任何基础效果，它只是个可以被右键使用的棍子。"
+				""
+				"通过对手杖施加强化来给予手杖效果（比如喷洒流体等）"
+			]
 			id: "1A40804B573DB381"
-			tasks: [{
-				id: "1A4321EE209C5CB2"
-				item: {
-					Count: 1b
-					id: "tinkers_thinking:quartz_staff"
-					tag: {
-						Damage: 0
-						tic_broken: 0b
-						tic_materials: [
-							"etshtinker:exo_alloy"
-							"etshtinker:exo_alloy"
-							"etshtinker:exo_alloy"
-						]
-						tic_modifiers: [
-							{
-								level: 3
-								name: "etshtinker:godlymetal"
+			subtitle: "能被强化的“棍子”"
+			tasks: [
+				{
+					id: "1A4321EE209C5CB2"
+					item: {
+						Count: 1b
+						id: "tinkers_thinking:quartz_staff"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"etshtinker:exo_alloy"
+								"etshtinker:exo_alloy"
+								"etshtinker:exo_alloy"
+							]
+							tic_modifiers: [
+								{
+									level: 3
+									name: "etshtinker:godlymetal"
+								}
+								{
+									level: 3
+									name: "etshtinker:worldforceex"
+								}
+								{
+									level: 3
+									name: "etshtinker:beconcerted"
+								}
+								{
+									level: 2
+									name: "tinkers_thinking:targeted"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:attack_damage": 1.5f
 							}
-							{
-								level: 3
-								name: "etshtinker:worldforceex"
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:accuracy": 1.0f
+								"tconstruct:attack_damage": 319.72916f
+								"tconstruct:attack_speed": 218.49963f
+								"tconstruct:block_amount": 303.47174f
+								"tconstruct:block_angle": 180.0f
+								"tconstruct:draw_speed": 17.341242f
+								"tconstruct:durability": 597644.25f
+								"tconstruct:projectile_damage": 34.682484f
+								"tconstruct:use_item_speed": 0.4f
 							}
-							{
-								level: 3
-								name: "etshtinker:beconcerted"
+							tic_volatile_data: {
+								abilities: 11
+								upgrades: 15
 							}
-							{
-								level: 2
-								name: "tinkers_thinking:targeted"
-							}
-						]
-						tic_multipliers: {
-							"tconstruct:attack_damage": 1.5f
-						}
-						tic_persistent: { }
-						tic_stats: {
-							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 314.0012f
-							"tconstruct:attack_speed": 214.5852f
-							"tconstruct:block_amount": 298.03503f
-							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 17.030573f
-							"tconstruct:durability": 586937.44f
-							"tconstruct:projectile_damage": 34.061146f
-							"tconstruct:use_item_speed": 0.4f
-						}
-						tic_volatile_data: {
-							abilities: 11
-							upgrades: 15
 						}
 					}
+					match_nbt: false
+					type: "item"
 				}
-				match_nbt: false
-				type: "item"
-			}]
+				{
+					id: "1C4E6C437ADED356"
+					item: {
+						Count: 1b
+						id: "tinkers_things:amethyst_staff"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"etshtinker:exo_alloy"
+								"etshtinker:exo_alloy"
+								"tconstruct:string"
+							]
+							tic_modifiers: [
+								{
+									level: 2
+									name: "etshtinker:godlymetal"
+								}
+								{
+									level: 2
+									name: "etshtinker:worldforceex"
+								}
+								{
+									level: 2
+									name: "etshtinker:beconcerted"
+								}
+								{
+									level: 1
+									name: "tconstruct:stringy"
+								}
+							]
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:accuracy": 1.0f
+								"tconstruct:block_amount": 260.11862f
+								"tconstruct:block_angle": 180.0f
+								"tconstruct:draw_speed": 277.45987f
+								"tconstruct:durability": 235147.23f
+								"tconstruct:projectile_damage": 34.682484f
+								"tconstruct:use_item_speed": 0.4f
+								"tconstruct:velocity": 4.0f
+							}
+							tic_volatile_data: {
+								abilities: 8
+								defense: 4
+								upgrades: 6
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "手杖"
 			x: 1.5d
-			y: 6.5d
-		}
-		{
-			id: "445F7EBA4CB17564"
-			tasks: [{
-				id: "7829EE4AFA34861B"
-				item: {
-					Count: 1b
-					id: "tinkers_things:amethyst_staff"
-					tag: {
-						Damage: 0
-						tic_broken: 0b
-						tic_materials: [
-							"etshtinker:exo_alloy"
-							"etshtinker:exo_alloy"
-							"tconstruct:string"
-						]
-						tic_modifiers: [
-							{
-								level: 2
-								name: "etshtinker:godlymetal"
-							}
-							{
-								level: 2
-								name: "etshtinker:worldforceex"
-							}
-							{
-								level: 2
-								name: "etshtinker:beconcerted"
-							}
-							{
-								level: 1
-								name: "tconstruct:stringy"
-							}
-						]
-						tic_persistent: { }
-						tic_stats: {
-							"tconstruct:accuracy": 1.0f
-							"tconstruct:block_amount": 255.45859f
-							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 272.48917f
-							"tconstruct:durability": 230934.56f
-							"tconstruct:projectile_damage": 34.061146f
-							"tconstruct:use_item_speed": 0.4f
-							"tconstruct:velocity": 4.0f
-						}
-						tic_volatile_data: {
-							abilities: 8
-							defense: 4
-							upgrades: 6
-						}
-					}
-				}
-				match_nbt: false
-				type: "item"
-			}]
-			x: 3.0d
 			y: 6.5d
 		}
 		{
 			icon: {
 				Count: 1b
-				id: "tconstruct:plate_chestplate"
+				id: "tinkers_things:laminar_chestplate"
 				tag: {
 					Damage: 0
 					tic_broken: 0b
 					tic_materials: [
 						"etshtinker:exo_alloy"
 						"etshtinker:exo_alloy"
+						"tconstruct:bamboo"
 					]
 					tic_modifiers: [
 						{
@@ -4909,20 +4376,24 @@
 							level: 2
 							name: "etshtinker:beconcerted"
 						}
+						{
+							level: 1
+							name: "tconstruct:unburdened"
+						}
 					]
 					tic_multipliers: {
-						"tconstruct:attack_damage": 0.4f
+						"tconstruct:durability": 1.5f
 					}
 					tic_persistent: { }
 					tic_stats: {
 						"tconstruct:armor": 30.0f
 						"tconstruct:armor_toughness": 20.0f
-						"tconstruct:durability": 558040.8f
+						"tconstruct:durability": 852330.75f
 						"tconstruct:knockback_resistance": 1.0f
 					}
 					tic_volatile_data: {
-						abilities: 6
-						defense: 7
+						abilities: 7
+						defense: 4
 						upgrades: 6
 					}
 				}
@@ -4967,7 +4438,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 837061.2f
+								"tconstruct:durability": 852330.75f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -5018,7 +4489,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 837061.2f
+								"tconstruct:durability": 852330.75f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -5069,7 +4540,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 837061.2f
+								"tconstruct:durability": 852330.75f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -5120,7 +4591,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 837061.2f
+								"tconstruct:durability": 852330.75f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -5201,7 +4672,7 @@
 				type: "item"
 			}]
 			x: -4.5d
-			y: -2.0d
+			y: -5.0d
 		}
 		{
 			description: [
@@ -5264,8 +4735,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.5d
-			y: -2.0d
+			x: 1.5d
+			y: -3.5d
 		}
 		{
 			description: [
@@ -5317,15 +4788,202 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 687.6626f
-							"tconstruct:attack_speed": 119.21401f
-							"tconstruct:durability": 1952534.0f
+							"tconstruct:attack_damage": 700.2068f
+							"tconstruct:attack_speed": 121.388695f
+							"tconstruct:durability": 1988151.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 1264.52f
+							"tconstruct:mining_speed": 1287.5872f
 						}
 						tic_volatile_data: {
 							abilities: 13
 							upgrades: 19
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			id: "098E7D53C5FB0C6D"
+			tasks: [{
+				id: "5F1C28342F7A91D9"
+				item: {
+					Count: 1b
+					id: "tinkers_ingenuity:tinker_ring"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: [
+							"solidarytinker:starfall"
+							"solidarytinker:starfall"
+						]
+						tic_modifiers: [
+							{
+								level: 2
+								name: "solidarytinker:bha"
+							}
+							{
+								level: 2
+								name: "solidarytinker:natived"
+							}
+							{
+								level: 2
+								name: "solidarytinker:watery"
+							}
+							{
+								level: 1
+								name: "cti:imprison"
+							}
+						]
+						tic_persistent: { }
+						tic_stats: {
+							"tinkers_ingenuity:armor": 2.5f
+							"tinkers_ingenuity:armor_toughness": 2.5f
+							"tinkers_ingenuity:arrow_damage": 1.5f
+							"tinkers_ingenuity:damage": 1.5f
+							"tinkers_ingenuity:movement_speed": 0.2f
+						}
+						tic_volatile_data: {
+							abilities: -9999
+							defense: -10000
+							upgrades: -9999
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"相比吹箭筒，回旋镖有4个部件、略低的基础初速度、更高的初速度倍率。"
+				""
+				"所以回旋镖在大多数情况下伤害显著高于吹箭筒。"
+			]
+			id: "1E802DCBE7F6A081"
+			subtitle: "定位和吹箭筒类似，但是强于吹箭筒"
+			tasks: [{
+				id: "1EC6E1C4E02DB823"
+				item: {
+					Count: 1b
+					id: "tinkers_ingenuity:shuriken"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: [
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+						]
+						tic_modifiers: [
+							{
+								level: 4
+								name: "etshtinker:godlymetal"
+							}
+							{
+								level: 4
+								name: "etshtinker:worldforceex"
+							}
+							{
+								level: 4
+								name: "etshtinker:beconcerted"
+							}
+						]
+						tic_multipliers: {
+							"tconstruct:durability": 0.36f
+							"tconstruct:velocity": 0.82f
+						}
+						tic_persistent: { }
+						tic_stats: {
+							"tconstruct:accuracy": 1.0f
+							"tconstruct:attack_damage": 69.36497f
+							"tconstruct:attack_speed": 17.341242f
+							"tconstruct:draw_speed": 407.5192f
+							"tconstruct:durability": 127603.805f
+							"tconstruct:projectile_damage": 34.682484f
+							"tconstruct:velocity": 4.5099998f
+						}
+						tic_volatile_data: {
+							abilities: 13
+							upgrades: 18
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			description: [
+				"虽然在本包中劈刀的数值已经不够看，但是我们赋予了它新的功能性属性："
+				""
+				"&n劈刀自带抢夺II和肢解V"
+			]
+			id: "7BA11532BC135C93"
+			subtitle: "元老级武器，说它是匠魂的标志不过分吧"
+			tasks: [{
+				id: "443E55C9B3076842"
+				item: {
+					Count: 1b
+					id: "tconstruct:cleaver"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: [
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+						]
+						tic_modifiers: [
+							{
+								level: 4
+								name: "etshtinker:godlymetal"
+							}
+							{
+								level: 4
+								name: "etshtinker:worldforceex"
+							}
+							{
+								level: 4
+								name: "etshtinker:beconcerted"
+							}
+							{
+								level: 5
+								name: "tconstruct:severing"
+							}
+							{
+								level: 2
+								name: "tconstruct:looting"
+							}
+							{
+								level: 1
+								name: "tconstruct:silky_aoe_shears"
+							}
+						]
+						tic_multipliers: {
+							"tconstruct:attack_damage": 1.5f
+							"tconstruct:durability": 3.5f
+							"tconstruct:mining_speed": 0.25f
+						}
+						tic_persistent: { }
+						tic_stats: {
+							"tconstruct:attack_damage": 594.6963f
+							"tconstruct:attack_speed": 121.388695f
+							"tconstruct:block_amount": 86.70621f
+							"tconstruct:block_angle": 180.0f
+							"tconstruct:durability": 2061787.0f
+							"tconstruct:harvest_tier": "minecraft:netherite"
+							"tconstruct:mining_speed": 143.06525f
+						}
+						tic_volatile_data: {
+							abilities: 13
+							upgrades: 18
 						}
 					}
 				}

@@ -1952,12 +1952,19 @@
 				"{image:kubejs:textures/ftbq_images/initially17.png width:150 height:100 align:1}"
 			]
 			id: "508340027EE3C321"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2E24935E417F77E0"
-				table_id: 1021271035427133542L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E24935E417F77E0"
+					table_id: 1021271035427133542L
+					type: "random"
+				}
+				{
+					id: "0D78F78C11B79252"
+					item: "tconstruct:fantastic_foundry"
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			subtitle: "现在你不需要做，但是迟早要做（"
 			tasks: [{
@@ -2110,7 +2117,10 @@
 		}
 		{
 			dependencies: ["34A01824678F973A"]
-			description: ["指路石是一个很好用的传送工具，前期想回家尝试多造一些这个的锚点吧"]
+			description: [
+				"指路石是一个很好用的传送工具，前期想回家尝试多造一些这个的锚点吧"
+				"&l&o&0&m其实路上会有野生的指路石，你可以全部搬回家（）&l&o&m&0"
+			]
 			id: "3DF56FF0FB4CB03B"
 			rewards: [{
 				count: 3
@@ -2239,8 +2249,8 @@
 				title: "我知道了"
 				type: "checkmark"
 			}]
-			x: 10.0d
-			y: -2.0d
+			x: 10.5d
+			y: -1.0d
 		}
 	]
 	subtitle: [

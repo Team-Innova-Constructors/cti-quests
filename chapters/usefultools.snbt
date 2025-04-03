@@ -5,10 +5,11 @@
 	group: "5B9406893C138689"
 	icon: "cyclic:user"
 	id: "606590FFC6C27A2D"
-	order_index: 2
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
+			description: ["这里充满了实用主义的气息"]
 			icon: "cyclic:heart"
 			id: "31D4B7F5165AD57A"
 			rewards: [{
@@ -18,6 +19,7 @@
 			}]
 			shape: "heart"
 			size: 2.0d
+			subtitle: "注意看条目下的推荐，也许那才是你更关注的东西"
 			tasks: [{
 				id: "290F6A37AE0A4DCC"
 				type: "checkmark"
@@ -136,7 +138,11 @@
 			y: -27.0d
 		}
 		{
-			description: ["存储整合器可以与其他存储容器相连，可以作为前期的存储系统过渡。&4注意，最好不要与循环的板条箱相连，否则会出现吞物品的现象。&r"]
+			description: [
+				"存储整合器可以与其他存储容器相连，可以作为前期的存储系统过渡。"
+				"强大的力量可以让很多事情都能发生"
+				"&4注意，最好不要与循环的板条箱相连，否则会出现吞物品的现象。&r"
+			]
 			icon: "toms_storage:ts.inventory_connector"
 			id: "714E514A2D084E22"
 			rewards: [
@@ -165,7 +171,7 @@
 			}]
 			title: "汤姆的简易存储"
 			x: -17.0d
-			y: -30.0d
+			y: -31.0d
 		}
 		{
 			description: [
@@ -195,6 +201,7 @@
 					type: "item"
 				}
 			]
+			subtitle: "执行重复放置和破坏方块动作的好帮手"
 			tasks: [{
 				id: "10B97A9BCBE561B3"
 				item: {
@@ -239,8 +246,8 @@
 				type: "item"
 			}]
 			title: "建筑手杖"
-			x: -11.0d
-			y: -30.0d
+			x: -17.0d
+			y: -29.0d
 		}
 		{
 			description: ["可以用于当中转站，也可以拆起来带走（会保存其中的物品）&d切勿连接到其他存储系统，会导致吞物品！！&r"]
@@ -257,8 +264,8 @@
 				item: "cyclic:crate"
 				type: "item"
 			}]
-			x: -17.0d
-			y: -28.0d
+			x: -15.0d
+			y: -31.0d
 		}
 		{
 			description: ["可以模拟玩家左右手使用物品。&d注意，如果两个玩家模拟器在不同维度，便会导致最新放置的模拟器失效！&r"]
@@ -275,8 +282,8 @@
 				item: "cyclic:user"
 				type: "item"
 			}]
-			x: -17.0d
-			y: -26.0d
+			x: -11.0d
+			y: -27.0d
 		}
 		{
 			description: [
@@ -299,7 +306,7 @@
 				type: "item"
 			}]
 			x: -15.0d
-			y: -30.0d
+			y: -27.0d
 		}
 		{
 			description: [
@@ -341,8 +348,8 @@
 				type: "item"
 			}]
 			title: "循环节点"
-			x: -15.0d
-			y: -28.0d
+			x: -11.0d
+			y: -29.0d
 		}
 		{
 			description: ["只需要用维度卡记录一下你的信息，就能够进行远程无线充电。相较于通量网络，它的充电频率更快。不过两者一起用也是可以的。"]
@@ -418,25 +425,60 @@
 				}
 			]
 			x: -13.0d
-			y: -30.0d
+			y: -31.0d
 		}
 		{
-			description: ["      捕捉一般生物的不二之选，造价也不算贵。"]
+			description: [
+				"搬运友善或中立生物非常具有性价比"
+				"但是搬运敌对生物需要你有强大的体魄（指防御）"
+				"如有敌对生物的需求这边推荐捕获法杖（戈伯）、超维之眼（神秘遗物）、传送法杖（匠魂）、大师球（工业先锋）、真空陷阱（气动工艺）、收容罐（新生魔艺）、召唤笛（循环）"
+				"&l&o&a当然，也许你能实用传统方式运输（指传送门和矿车/船，传送门可以是下界传送门/mek传送机/ae空间塔）&l&o&a"
+			]
 			id: "40F931D1CA893E1D"
-			rewards: [{
-				count: 8
-				id: "3DC57F2A8B323BC8"
-				item: "gobber2:gobber2_ingot"
-				type: "item"
-			}]
-			subtitle: "Gobber的实用小手杖之一"
-			tasks: [{
-				id: "749E50CDE79E6322"
-				item: "gobber2:gobber2_staff_ensnarement"
-				type: "item"
-			}]
-			x: -13.0d
-			y: -28.0d
+			rewards: [
+				{
+					id: "5A194C546FC2A492"
+					item: "tconstruct:sky_earth_slime_grass"
+					type: "item"
+				}
+				{
+					id: "06DE854CA7E0B973"
+					item: "tconstruct:sky_slime_sapling"
+					type: "item"
+				}
+			]
+			subtitle: "搬运实体的妙妙工具"
+			tasks: [
+				{
+					id: "00B2BFB28CEF7475"
+					item: "tconstruct:piggy_backpack"
+					type: "item"
+				}
+				{
+					id: "2E46DAE66C0C1313"
+					item: {
+						Count: 1b
+						id: "cyclic:stirrups"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B2165F45CA00AF5"
+					item: {
+						Count: 1b
+						id: "cyclic:stirrups_reverse"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -15.0d
+			y: -29.0d
 		}
 		{
 			description: [
@@ -456,14 +498,15 @@
 				item: "cyclic:tank"
 				type: "item"
 			}]
-			x: -13.0d
-			y: -26.0d
+			x: -11.0d
+			y: -31.0d
 		}
 		{
 			description: [
-				"只需启动即可使用（无需能量）"
+				"只需启动即可使用（无需能量）附带精准实体过滤功能（实体数据卡）"
 				"类似功能的还有气动的真空陷阱、机动的分散网和植魔的扇水仙"
 				"新生魔艺的魔符也有相关功能的东西，这里不做介绍。"
+				"&o&l&l&n&4注：部分实体不受影响（比如复苏完毕的凋灵）&l&o&n&4&o"
 			]
 			icon: "cyclic:fan"
 			id: "6525CEDA14D1A982"
@@ -480,23 +523,357 @@
 					type: "item"
 				}
 			]
-			x: -15.0d
-			y: -26.0d
+			x: -13.0d
+			y: -27.0d
 		}
 		{
 			description: [
 				"能销毁一切输入的物品和流体（水槽也能清除）"
-				"缺点是不自带过滤需要外接，这边推荐ae的销毁或者热力的销毁器（自带过滤）"
+				"缺点是不自带过滤需要外接，这边推荐ae的销毁卡/物质聚合器或者热力的销毁器（自带过滤）"
 			]
 			id: "63D385E9C7B4E72C"
+			rewards: [{
+				id: "5DB15D75FBD80DB3"
+				item: "thermal:device_nullifier"
+				type: "item"
+			}]
 			subtitle: "最廉价也最方便使用的垃圾桶"
 			tasks: [{
 				id: "52B3B55DAB17919E"
 				item: "cyclic:trash"
 				type: "item"
 			}]
+			x: -17.0d
+			y: -27.0d
+		}
+		{
+			description: [
+				"廉价好用，你说没有循环的和平蜡烛是为什么？因为实际上那是假冒伪劣产品"
+				"巨型火把的范围是64*64*64，水蜡烛的范围没有明确测试，但是远比前者的范围小，但是后者在范围内的效果可以叠加"
+			]
+			id: "155931272D2873A1"
+			rewards: [
+				{
+					id: "5CF07C86CC86037B"
+					item: "minecraft:raw_gold_block"
+					type: "item"
+				}
+				{
+					id: "6633969A25D42A84"
+					item: "createoreexcavation:raw_diamond"
+					type: "item"
+				}
+			]
+			subtitle: "禁止地对生物生成和提高一定范围内的刷怪率"
+			tasks: [
+				{
+					id: "6A4F38527A31A0AA"
+					item: "torchmaster:megatorch"
+					type: "item"
+				}
+				{
+					id: "5D8F0526CFB5B1FF"
+					item: "cyclic:water_candle"
+					type: "item"
+				}
+			]
+			title: "禁止与生成"
+			x: -13.0d
+			y: -29.0d
+		}
+		{
+			description: [
+				"经验塔：可以吸收周围的经验球作为液态经验存储，也可以在上面按住shift转化玩家经验为液态经验（转化可逆的方法较为麻烦，但其实十级经验就够上百本附魔了）"
+				"祛魔台：需要三种资源才可正常运行，能量（电力）书（附魔的载体包括诅咒）液态经验（转化消耗），可以将任意具有相对广义附魔的物品的附魔提取为附魔书，搭配工业先锋自动铁砧可以完成特定物品的批量附魔（比如大量的ae破坏面板）"
+			]
+			id: "4B6F2E016299718B"
+			rewards: [
+				{
+					id: "67C2985CBF0DC92F"
+					item: "minecraft:emerald_block"
+					type: "item"
+				}
+				{
+					id: "1395C0D125D62569"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+			]
+			subtitle: "以一个更为廉价和便捷的方式回收附魔"
+			tasks: [
+				{
+					id: "6ECE5A2210AB2D05"
+					item: "cyclic:disenchanter"
+					type: "item"
+				}
+				{
+					id: "4246A82F77D380DF"
+					item: "cyclic:experience_pylon"
+					type: "item"
+				}
+			]
+			title: "简单的附魔回收装置"
+			x: -9.0d
+			y: -27.0d
+		}
+		{
+			description: ["基础理念是copy一些纸质文件类的东西（虽然没有蓝图）"]
+			id: "5BCAD4C7AFEB1BB3"
+			rewards: [{
+				id: "0BF3FA6215B9B692"
+				item: "minecraft:anvil"
+				type: "item"
+			}]
+			subtitle: "具备无限复制附魔书的力量"
+			tasks: [{
+				id: "546419D5E56220BE"
+				item: "sfm:printing_press"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -29.0d
+		}
+		{
+			description: ["单方块高频红石方块的含金量不用多说了吧"]
+			id: "2EF0972B2848C07F"
+			rewards: [{
+				id: "73DB1E5E01BEC267"
+				item: "minecraft:redstone_block"
+				type: "item"
+			}]
+			subtitle: "具备四个维度的红石信号自由调控"
+			tasks: [{
+				id: "2D02F53C029BE409"
+				item: "cyclic:clock"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -31.0d
+		}
+		{
+			description: [
+				"同类功能的设备和方块很多：比如动力钻头（机械动力）挖掘器（循环）数字型矿机、激光（mek）方块破坏器（工业先锋）相关魔符（新生魔艺）矿工戒指（戈伯）破坏面板（ae）气举（气动工艺）"
+				"&l&o&e注：这些推荐可能并不是全部，限于体验，这里列出的并不全面&l&o&e"
+			]
+			id: "6AF32A4674E1261B"
+			rewards: [{
+				id: "780EAE771C6DB91D"
+				item: "minecraft:raw_copper_block"
+				type: "item"
+			}]
+			subtitle: "简单方便强大可控，能无视一些方块的挖掘限制"
+			tasks: [{
+				id: "2A673BC5DFCCDE85"
+				item: "cyclic:breaker"
+				type: "item"
+			}]
+			x: -17.0d
+			y: -25.0d
+		}
+		{
+			description: [
+				"同类功能的设备和方块比较少：方块放置器（工业先锋）成型面板（ae）相关魔符（新生魔艺）"
+				"&l&o&a注：这并不意味着你只有通过这些方式放置方块&l&o&a"
+			]
+			id: "30B1BE9D6B51DB54"
+			rewards: [{
+				id: "4582148BCF55869D"
+				item: "cyclic:compressed_cobblestone"
+				type: "item"
+			}]
+			subtitle: "简单方便强大可控，速度和性价比之王"
+			tasks: [{
+				id: "58DFB2585A83A082"
+				item: "cyclic:placer"
+				type: "item"
+			}]
+			x: -15.0d
+			y: -25.0d
+		}
+		{
+			description: [
+				"同类功能的设备和方块比较少：流体放置器（工业先锋）成型面板（ae）相关魔符（新生魔艺）发射器（原版）软管滑轮（机械动力）流体填充机（mek）"
+				"&l&o&a注：这并不意味着你只有通过这些方式放置流体&l&o&a"
+			]
+			id: "46BA8C7B985A2EFA"
+			rewards: [{
+				id: "40D0341D8E24D9CC"
+				item: "cyclic:placer"
+				type: "item"
+			}]
+			subtitle: "简单方便强大可控，特解的全能公式"
+			tasks: [{
+				id: "0C65061D47F356F7"
+				item: "cyclic:placer_fluid"
+				type: "item"
+			}]
+			x: -13.0d
+			y: -25.0d
+		}
+		{
+			description: [
+				"本包同类功能的有：ftb区块认领（右键认领/shift右键强加载，有上限）维度稳定锚、锚定升级（mek）空间锚（ae）"
+				"&l&o&n&m&0什么你说原版强加载？我只能说玩mc玩的&l&o&n&m&0"
+			]
+			id: "67C76A128206AF7E"
+			rewards: [{
+				id: "1522BD904FE8E226"
+				item: "cyclic:eye_teleport"
+				type: "item"
+			}]
+			subtitle: "根据范围分级的区块加载器，让你的机械/设备在不同位置/维度也能正常工作"
+			tasks: [{
+				id: "2DFEF11EE1F39AFC"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "chunkloaders:single_chunk_loader"
+							}
+							{
+								Count: 1b
+								id: "chunkloaders:basic_chunk_loader"
+							}
+							{
+								Count: 1b
+								id: "chunkloaders:advanced_chunk_loader"
+							}
+							{
+								Count: 1b
+								id: "chunkloaders:ultimate_chunk_loader"
+							}
+						]
+					}
+				}
+				title: "区块加载器"
+				type: "item"
+			}]
 			x: -11.0d
+			y: -25.0d
+		}
+		{
+			description: ["简单好用的无线传电，每个末影单元的频道使用需要内置一个能量单元（消耗品不可逆），不过疑似有多人游戏bug，建议单人使用，配合末影道门可以无限无线均分传电（大概）"]
+			id: "48081D542234E849"
+			rewards: [{
+				id: "1BCE343227C532FA"
+				item: "powah:blazing_crystal_block"
+				type: "item"
+			}]
+			subtitle: "简单好用的无线传电，比通量网络出的问题少（）"
+			tasks: [
+				{
+					id: "00A7B1E8474281A4"
+					item: {
+						Count: 1b
+						id: "itemfilters:id_regex"
+						tag: {
+							value: "^powah:ender_cell_*"
+						}
+					}
+					title: "末影单元"
+					type: "item"
+				}
+				{
+					id: "7D6B83A3568CCCC7"
+					item: {
+						Count: 1b
+						id: "itemfilters:id_regex"
+						tag: {
+							value: "^powah:ender_gate_*"
+						}
+					}
+					title: "末影道门"
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -25.0d
+		}
+		{
+			id: "35B4F19FF130FD77"
+			shape: "rsquare"
+			tasks: [{
+				id: "05A8F206A2D19467"
+				item: "sfm:cable"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -29.5d
+		}
+		{
+			id: "026F754AD8CA9EDA"
+			shape: "rsquare"
+			tasks: [{
+				id: "14BDB2CB47827865"
+				item: "sfm:manager"
+				type: "item"
+			}]
+			x: -29.0d
 			y: -28.0d
+		}
+		{
+			id: "068418AEE8809692"
+			tasks: [
+				{
+					id: "21D58B78E43707CA"
+					item: {
+						Count: 1b
+						id: "sfm:disk"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "11CB1F41B3EFF03C"
+					item: {
+						Count: 1b
+						id: "sfm:labelgun"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			x: -27.5d
+			y: -28.0d
+		}
+		{
+			description: [
+				"打印大部分纸质材料的信息（地图、成书、附魔书、磁盘）"
+				"量产定向附魔（无限制）配合循环祛魔塔套餐更健康~"
+				"&m&o&0量产永恒附魔和永恒锭的助力"
+			]
+			id: "1C5247C38E2BD610"
+			shape: "rsquare"
+			tasks: [{
+				id: "27787C32F098FD61"
+				item: "sfm:printing_press"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -26.5d
+		}
+		{
+			id: "445EF470FA8A0F03"
+			tasks: [{
+				id: "1404EE2FF8136FEE"
+				item: "toms_storage:ts.inventory_proxy"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -29.0d
+		}
+		{
+			id: "633D8BCAFBC6AC27"
+			tasks: [{
+				id: "0341D23C6CAD931F"
+				item: "toms_storage:ts.open_crate"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -27.0d
 		}
 	]
 	title: "实用物品"

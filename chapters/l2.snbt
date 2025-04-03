@@ -1200,7 +1200,11 @@
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
-			description: ["可以叠&d魔法伤害减免&r，或者&d圣光守护之戒&r，也可以用暗影复相/星野护甲等护甲来抵挡"]
+			description: [
+				"可以叠&d魔法伤害减免&r，或者&d圣光守护之戒&r，也可以用暗影复相/星野护甲等护甲来抵挡"
+				""
+				"整合包对其进行了削弱，&4超出怪物最大生命的部分&r不会再反射给玩家"
+			]
 			id: "6BE836489098D387"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1268,6 +1272,8 @@
 				"高等级之后带着个的史莱姆会非常恐怖"
 				""
 				"恐怖在其&c体型和可怕的分裂数量&r"
+				""
+				"&c生长抑制剂强化&r可以强制将其大小设置回1"
 				""
 				"导致后期会堆积大量的经验球，&c小心你的电脑，可能会卡顿！&r"
 			]
@@ -1833,6 +1839,8 @@
 				"2&d bypassMagic类的伤害&r(穿魔伤，这个是整合包为了降低难度Mixin改的，原版莱特兰不可以)，如破咒遗骨/墨冰等特殊材料"
 				""
 				"3&d诅咒药水效果&r施加后（最简单的）"
+				""
+				"4&d诅咒之刃&r在手上即使不施加效果也可无视"
 			]
 			id: "3E7A284EFBBF0FA6"
 			rewards: [{
@@ -2084,6 +2092,30 @@
 			title: "词条攻略"
 			x: 11.0d
 			y: -11.0d
+		}
+		{
+			dependencies: ["4B9715223EAC970D"]
+			description: [
+				"怪物免疫负面药水效果"
+				""
+				"但是当你佩戴了&b诅咒扭曲之戒/星野戒指&r的时候你可以无视这个限制"
+			]
+			id: "0672DBF7FB6C559C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "28630D7FE3466EB7"
+				table_id: 762635320671611458L
+				type: "random"
+			}]
+			shape: "diamond"
+			subtitle: "整合包独创词条"
+			tasks: [{
+				id: "736252D616B77918"
+				item: "l2hostility:purify"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.5d
 		}
 	]
 	subtitle: [

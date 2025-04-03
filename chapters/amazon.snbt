@@ -29,6 +29,7 @@
 				type: "xp"
 				xp: 1
 			}]
+			size: 2.0d
 			tasks: [{
 				id: "37D8BE014957EF3E"
 				type: "checkmark"
@@ -63,8 +64,8 @@
 				type: "item"
 			}]
 			title: "探险家指南针"
-			x: -5.0d
-			y: -7.5d
+			x: -4.5d
+			y: -7.0d
 		}
 		{
 			can_repeat: true
@@ -92,8 +93,8 @@
 				type: "item"
 			}]
 			title: "自然指南针"
-			x: -6.5d
-			y: -7.5d
+			x: -6.0d
+			y: -7.0d
 		}
 		{
 			description: ["可以直接在工匠砧上敲给你的工具哦"]
@@ -117,8 +118,8 @@
 				type: "checkmark"
 			}]
 			title: "一些匠魂强化"
-			x: 5.0d
-			y: -5.0d
+			x: 4.5d
+			y: -4.5d
 		}
 		{
 			can_repeat: true
@@ -151,8 +152,8 @@
 				type: "item"
 			}]
 			title: "幸运水晶"
-			x: 3.5d
-			y: -7.5d
+			x: 3.0d
+			y: -7.0d
 		}
 		{
 			can_repeat: true
@@ -184,8 +185,8 @@
 				type: "item"
 			}]
 			title: "风雨无阻水晶"
-			x: 5.0d
-			y: -7.5d
+			x: 4.5d
+			y: -7.0d
 		}
 		{
 			can_repeat: true
@@ -217,8 +218,8 @@
 				type: "item"
 			}]
 			title: "激流水晶"
-			x: 6.5d
-			y: -7.5d
+			x: 6.0d
+			y: -7.0d
 		}
 		{
 			icon: {
@@ -234,8 +235,8 @@
 				title: "杂物部分"
 				type: "checkmark"
 			}]
-			x: -5.0d
-			y: -5.0d
+			x: -4.5d
+			y: -4.5d
 		}
 		{
 			description: [
@@ -256,8 +257,8 @@
 				type: "checkmark"
 			}]
 			title: "稀有物品"
-			x: -5.0d
-			y: 5.0d
+			x: -4.5d
+			y: 4.5d
 		}
 		{
 			can_repeat: true
@@ -281,8 +282,8 @@
 				type: "item"
 			}]
 			title: "星体粉尘"
-			x: -5.0d
-			y: 7.5d
+			x: -4.5d
+			y: 7.0d
 		}
 		{
 			id: "08421351E0371522"
@@ -293,8 +294,8 @@
 				title: "一些小道具"
 				type: "checkmark"
 			}]
-			x: 5.0d
-			y: 5.0d
+			x: 4.5d
+			y: 4.5d
 		}
 		{
 			can_repeat: true
@@ -315,8 +316,8 @@
 				type: "item"
 			}]
 			title: "一份奇怪的契约"
-			x: -7.5d
-			y: 7.5d
+			x: -7.0d
+			y: 7.0d
 		}
 		{
 			can_repeat: true
@@ -337,8 +338,8 @@
 				type: "item"
 			}]
 			title: "黑市真是什么都有"
-			x: -2.5d
-			y: 7.5d
+			x: -2.0d
+			y: 7.0d
 		}
 		{
 			can_repeat: true
@@ -359,8 +360,8 @@
 				item: "enigmaticlegacy:golem_heart"
 				type: "item"
 			}]
-			x: -7.5d
-			y: 8.5d
+			x: -7.0d
+			y: 8.0d
 		}
 		{
 			can_repeat: true
@@ -380,8 +381,8 @@
 				item: "enigmaticlegacy:blazing_core"
 				type: "item"
 			}]
-			x: -6.5d
-			y: 9.0d
+			x: -6.0d
+			y: 8.5d
 		}
 		{
 			can_repeat: true
@@ -400,8 +401,8 @@
 				item: "enigmaticlegacy:eye_of_nebula"
 				type: "item"
 			}]
-			x: -7.5d
-			y: 10.5d
+			x: -7.0d
+			y: 10.0d
 		}
 		{
 			can_repeat: true
@@ -422,8 +423,8 @@
 				item: "enigmaticlegacy:angel_blessing"
 				type: "item"
 			}]
-			x: -8.5d
-			y: 9.0d
+			x: -8.0d
+			y: 8.5d
 		}
 		{
 			can_repeat: true
@@ -443,8 +444,8 @@
 				item: "enigmaticlegacy:ocean_stone"
 				type: "item"
 			}]
-			x: -8.5d
-			y: 10.0d
+			x: -8.0d
+			y: 9.5d
 		}
 		{
 			can_repeat: true
@@ -465,8 +466,8 @@
 				item: "enigmaticlegacy:void_pearl"
 				type: "item"
 			}]
-			x: -6.5d
-			y: 10.0d
+			x: -6.0d
+			y: 9.5d
 		}
 		{
 			description: ["“这里是黑市，任何东西都可以来这里交易，甚至是远古遗物”"]
@@ -478,8 +479,8 @@
 				type: "checkmark"
 			}]
 			title: "汝当真如此？"
-			x: -7.5d
-			y: 9.5d
+			x: -7.0d
+			y: 9.0d
 		}
 		{
 			can_repeat: true
@@ -509,8 +510,8 @@
 				type: "item"
 			}]
 			title: "召唤笛"
-			x: 5.0d
-			y: 7.5d
+			x: 4.5d
+			y: 7.0d
 		}
 		{
 			can_repeat: true
@@ -521,10 +522,10 @@
 			icon: "sophisticatedbackpacks:backpack"
 			id: "204DED0BE9D0DB9A"
 			rewards: [{
-				id: "1622C731F6AB4949"
-				item: "sophisticatedbackpacks:diamond_backpack"
-				team_reward: true
-				type: "item"
+				exclude_from_claim_all: true
+				id: "4E8AE862C19EF936"
+				table_id: 4544334782073591041L
+				type: "loot"
 			}]
 			subtitle: "单模块多样化功能存储"
 			tasks: [{
@@ -534,8 +535,8 @@
 				type: "item"
 			}]
 			title: "背包"
-			x: 3.0d
-			y: 7.5d
+			x: 2.5d
+			y: 7.0d
 		}
 		{
 			can_repeat: true
@@ -563,12 +564,12 @@
 				consume_items: true
 				count: 5L
 				id: "0646B4EB4479A246"
-				item: { Count: 3b, id: "lightmanscurrency:coin_gold" }
+				item: "lightmanscurrency:coin_gold"
 				type: "item"
 			}]
 			title: "修复护符"
-			x: 7.0d
-			y: 7.5d
+			x: 6.5d
+			y: 7.0d
 		}
 		{
 			can_repeat: true
@@ -595,10 +596,11 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: 9.5d
+			x: 2.5d
+			y: 9.0d
 		}
 		{
+			can_repeat: true
 			icon: {
 				Count: 1b
 				id: "tconstruct:modifier_crystal"
@@ -621,16 +623,17 @@
 			}]
 			subtitle: "什么，你说你打不到灵锭？"
 			tasks: [{
-				consume_items: true
-				id: "6DBB045D3DFEF53A"
-				item: "lightmanscurrency:coin_emerald"
+				count: 5L
+				id: "4C602A43484F8E8F"
+				item: "lightmanscurrency:coin_gold"
 				type: "item"
 			}]
 			title: "灵质之锻水晶"
-			x: 3.5d
-			y: -9.0d
+			x: 3.0d
+			y: -8.5d
 		}
 		{
+			can_repeat: true
 			icon: {
 				Count: 1b
 				id: "tconstruct:modifier_crystal"
@@ -640,6 +643,7 @@
 			}
 			id: "03B5CF7B88AEC013"
 			rewards: [{
+				count: 8
 				id: "04584A7B1884E092"
 				item: {
 					Count: 1b
@@ -661,16 +665,17 @@
 					type: "item"
 				}
 				{
-					id: "5FDACAE3F82AEA0C"
-					item: "ad_astra:desh_engine"
+					id: "31274BB5C0AE46B9"
+					item: "kubejs:gravity_mechanism"
 					type: "item"
 				}
 			]
 			title: "曲率引擎水晶"
-			x: 5.0d
-			y: -9.0d
+			x: 4.5d
+			y: -8.5d
 		}
 		{
+			can_repeat: true
 			icon: {
 				Count: 1b
 				id: "tconstruct:modifier_crystal"
@@ -700,10 +705,11 @@
 				type: "item"
 			}]
 			title: "弑末者水晶"
-			x: 6.5d
-			y: -9.0d
+			x: 6.0d
+			y: -8.5d
 		}
 		{
+			can_repeat: true
 			description: ["      另外，生来之恶强化的增伤仅在武器生效，减伤仅在防具生效（这也是为什么会有这个任务）"]
 			icon: {
 				Count: 1b
@@ -754,10 +760,11 @@
 				}
 			]
 			title: "生来之恶水晶"
-			x: 3.5d
-			y: -10.5d
+			x: 3.0d
+			y: -10.0d
 		}
 		{
+			can_repeat: true
 			icon: "waystones:waystone"
 			id: "6ECA52F195AEB7E4"
 			rewards: [{
@@ -767,13 +774,15 @@
 				type: "item"
 			}]
 			tasks: [{
+				consume_items: true
+				count: 2L
 				id: "60451921CD6F121E"
 				item: "lightmanscurrency:coin_gold"
 				type: "item"
 			}]
 			title: "指路石"
-			x: -3.5d
-			y: -7.5d
+			x: -3.0d
+			y: -7.0d
 		}
 	]
 	title: "来自亚马龙的游商"
