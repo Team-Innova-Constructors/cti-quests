@@ -623,6 +623,7 @@
 			}]
 			subtitle: "什么，你说你打不到灵锭？"
 			tasks: [{
+				consume_items: true
 				count: 5L
 				id: "4C602A43484F8E8F"
 				item: "lightmanscurrency:coin_gold"

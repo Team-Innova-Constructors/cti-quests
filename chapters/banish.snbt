@@ -358,6 +358,39 @@
 			x: 7.0d
 			y: 1.5d
 		}
+		{
+			id: "10E73A4F3E773FEA"
+			subtitle: "上榜理由 : 刷物品"
+			tasks: [{
+				id: "0B7678F8E694A6A7"
+				item: "industrialforegoing:item_transporter_type"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			id: "523C45DA01E77D7B"
+			subtitle: "上榜理由 : 刷物品"
+			tasks: [{
+				id: "39680BCECD85357E"
+				item: "industrialforegoing:fluid_transporter_type"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.5d
+		}
+		{
+			id: "2FE2B086E0D5F3E2"
+			subtitle: "上榜理由 : 刷物品"
+			tasks: [{
+				id: "29B5FF203CCC62B3"
+				item: "industrialforegoing:world_transporter_type"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
 	]
 	subtitle: [
 		"超模物品千千万，等价循环占一半"

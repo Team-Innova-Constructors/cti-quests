@@ -987,80 +987,8 @@
 		}
 		{
 			dependencies: ["1090F9ACA8F1F032"]
-			description: [
-				"rRickoll"
-				"算了"
-				"还是叫他白武男吧"
-				"算了"
-				"他编写了工业先锋部分任务和mek裂变部分"
-				"算了"
-				""
-				"{@pagebreak}"
-				"其实“算了”是他的口头禅"
-				"{@pagebreak}"
-				"&6&l&m我我我我，我帝者战神口牙！&r&r&r"
-			]
-			icon: {
-				Count: 1b
-				id: "minecraft:player_head"
-				tag: {
-					SkullOwner: {
-						Id: [I;
-							1181025164
-							2131379939
-							-1319656111
-							-1733317625
-						]
-						Name: "rRickoll"
-						Properties: {
-							textures: [{
-								Signature: "gz4Mf7UkYSVt6a1GsAt86XLYZctEfXgJnMthN8tyBuRpOGgol+Ego1mtHTKwXHkFVzJnnYJuUbQ/76ezyS5mLS64wcURsMA1OQ89V3sAAVxsNzXw7Lm57uLayd2p2oV7jToFApaQb3jjyBWTbKGS2NdF7MbgOXPlTKGuFYUxda5Tf59+guZfWSj4XS2DgloNIdUsHlXt6Z+TsHi7WAcM3gWXCMmWLHO3H9P/3pJgC/ke/2/ZhcCKsxJhtrlbVH09nJ/SICbwUGwy9hKEqNc0O2GLnAmwFTsoDejyYClxnKjBlcwgyjItu7uj+3Upwqp327kPF71eNPRcjgPIvCqkYnOrvtVKbyGd9gex6ct1VbeH5PaWtZ1uVMLOU/bF09hw3C84cJ8FZwWtH+KZNkBVitbPdeH/Pwrpv7gK6jpXuqK2EyQtMfqp/ttlozEfnmZ+BtFoc22SzgpBCYOARGMjCHGLnHBpcqopLj54e/eGocvwh1vAzqDfKay/I7UbUQbDXXZcicnpLJeRJHdsgRgqZGvzItIQbALCVbccdjRdWeF35bb6GP8GGJUlTiHDim+6+X7Tg7SkDfpExgFOfol+Qm4CtLrnutKUnfeAUh4ZdbmEiPZRLJNKXslcC0/eC2oCE5TsXnCHaLffFK88djq7TGtLYICoe5kJkilmCnMkrVc="
-								Value: "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY4MDczNjk0NywKICAicHJvZmlsZUlkIiA6ICI0NjY1MDM4YzdmMGE0NmUzYjE1N2E1NTE5OGFmYWMwNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJyUmlja29sbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xODgzMWVjOTc2YTExMDBmNDE0NWJhMTI4NjQwN2YyZDFlMTA1YzdhYmVmMDg0ODUwOWRhMzM0OGVjYzIwYTQ5IgogICAgfQogIH0KfQ=="
-							}]
-						}
-					}
-				}
-			}
 			id: "087BE3B9D4E78024"
-			rewards: [
-				{
-					id: "0D5594DDCF42162F"
-					item: {
-						Count: 1b
-						id: "minecraft:player_head"
-						tag: {
-							SkullOwner: {
-								Id: [I;
-									1181025164
-									2131379939
-									-1319656111
-									-1733317625
-								]
-								Name: "rRickoll"
-								Properties: {
-									textures: [{
-										Signature: "gz4Mf7UkYSVt6a1GsAt86XLYZctEfXgJnMthN8tyBuRpOGgol+Ego1mtHTKwXHkFVzJnnYJuUbQ/76ezyS5mLS64wcURsMA1OQ89V3sAAVxsNzXw7Lm57uLayd2p2oV7jToFApaQb3jjyBWTbKGS2NdF7MbgOXPlTKGuFYUxda5Tf59+guZfWSj4XS2DgloNIdUsHlXt6Z+TsHi7WAcM3gWXCMmWLHO3H9P/3pJgC/ke/2/ZhcCKsxJhtrlbVH09nJ/SICbwUGwy9hKEqNc0O2GLnAmwFTsoDejyYClxnKjBlcwgyjItu7uj+3Upwqp327kPF71eNPRcjgPIvCqkYnOrvtVKbyGd9gex6ct1VbeH5PaWtZ1uVMLOU/bF09hw3C84cJ8FZwWtH+KZNkBVitbPdeH/Pwrpv7gK6jpXuqK2EyQtMfqp/ttlozEfnmZ+BtFoc22SzgpBCYOARGMjCHGLnHBpcqopLj54e/eGocvwh1vAzqDfKay/I7UbUQbDXXZcicnpLJeRJHdsgRgqZGvzItIQbALCVbccdjRdWeF35bb6GP8GGJUlTiHDim+6+X7Tg7SkDfpExgFOfol+Qm4CtLrnutKUnfeAUh4ZdbmEiPZRLJNKXslcC0/eC2oCE5TsXnCHaLffFK88djq7TGtLYICoe5kJkilmCnMkrVc="
-										Value: "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY4MDczNjk0NywKICAicHJvZmlsZUlkIiA6ICI0NjY1MDM4YzdmMGE0NmUzYjE1N2E1NTE5OGFmYWMwNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJyUmlja29sbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xODgzMWVjOTc2YTExMDBmNDE0NWJhMTI4NjQwN2YyZDFlMTA1YzdhYmVmMDg0ODUwOWRhMzM0OGVjYzIwYTQ5IgogICAgfQogIH0KfQ=="
-									}]
-								}
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "2872B4DD4508301A"
-					item: "ae2:tiny_tnt"
-					title: "第一个崩服的千古罪人"
-					type: "item"
-				}
-			]
 			shape: "diamond"
-			tasks: [{
-				id: "4E7AEB74227349B5"
-				title: "rRickoll"
-				type: "checkmark"
-			}]
 			x: -7.0d
 			y: -1.0d
 		}

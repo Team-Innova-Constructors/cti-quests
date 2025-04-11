@@ -4,7 +4,13 @@
 	disable_toast: true
 	filename: "modifier"
 	group: "5B9406893C138689"
-	icon: "minecraft:amethyst_shard"
+	icon: {
+		Count: 1b
+		id: "tconstruct:modifier_crystal"
+		tag: {
+			modifier: "cti:end_slayer"
+		}
+	}
 	id: "1B6F59FBB07102D2"
 	order_index: 2
 	quest_links: [ ]
@@ -31,6 +37,7 @@
 			}
 			id: "2B29CB4380BAD20C"
 			size: 2.0d
+			subtitle: "消耗能力槽来进行强化"
 			tasks: [{
 				id: "104B647B00B5E746"
 				type: "checkmark"
@@ -54,7 +61,7 @@
 			size: 1.5d
 			subtitle: "去末地必定要打上的强化，本身价格并不贵，可以让末影人无法主动攻击你"
 			tasks: [{
-				id: "1A2436A6AD1FCF63"
+				id: "3089749C7BEA4E17"
 				item: {
 					Count: 1b
 					id: "tconstruct:modifier_crystal"
@@ -1477,7 +1484,7 @@
 			description: ["这些基本上你都用得上"]
 			id: "05E36F9AAE76C4F4"
 			tasks: [{
-				id: "34547E4A75831CF2"
+				id: "4BECE611772BE9E6"
 				type: "checkmark"
 			}]
 			title: "高性价比，并且较为通用的强化"
@@ -1814,6 +1821,7 @@
 			}
 			id: "62BDEC978360C425"
 			size: 2.0d
+			subtitle: "消耗升级槽来进行强化"
 			tasks: [{
 				id: "420DE78A6D897138"
 				title: "能力槽强化"
@@ -3003,6 +3011,7 @@
 		}
 		{
 			disable_toast: true
+			hide_dependency_lines: false
 			id: "72AD1E0D67694A25"
 			shape: "diamond"
 			size: 1.5d
@@ -3218,8 +3227,8 @@
 				}
 				type: "item"
 			}]
-			x: 10.5d
-			y: 7.0d
+			x: 16.5d
+			y: 11.0d
 		}
 		{
 			disable_toast: true
@@ -3344,8 +3353,8 @@
 				}
 				type: "item"
 			}]
-			x: 12.5d
-			y: 7.0d
+			x: 10.5d
+			y: 11.0d
 		}
 		{
 			disable_toast: true
@@ -3786,6 +3795,8 @@
 		{
 			disable_toast: true
 			id: "7363C8575E27CD62"
+			shape: "diamond"
+			size: 1.5d
 			subtitle: "每级增加12%初速度，拉弓速度，挖掘速度，攻击速度"
 			tasks: [{
 				id: "4D518CE9493D506C"
@@ -3798,7 +3809,7 @@
 				}
 				type: "item"
 			}]
-			x: 8.5d
+			x: 12.5d
 			y: 7.0d
 		}
 		{
@@ -3916,7 +3927,7 @@
 			id: "507F2177C175B6BA"
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "当穿戴整套时，使用者生物低于40%，获得50%伤害减免，反弹大多数弹射物，并在你受到攻击时击退攻击者"
+			subtitle: "当穿戴整套时，使用者生命值低于40%，获得50%伤害减免，反弹大多数弹射物，并在你受到攻击时击退攻击者"
 			tasks: [{
 				id: "19773C62E6D8F5BA"
 				item: {
@@ -4042,6 +4053,8 @@
 		{
 			disable_toast: true
 			id: "369411F6A88446BE"
+			shape: "diamond"
+			size: 1.5d
 			subtitle: "每级增加一个恶意槽"
 			tasks: [{
 				id: "2DFE6BB2C4797DE9"
@@ -4054,13 +4067,15 @@
 				}
 				type: "item"
 			}]
-			x: 10.5d
-			y: 11.0d
+			x: 8.5d
+			y: 7.0d
 		}
 		{
 			disable_toast: true
 			id: "5169E0BB1C2ECDFF"
-			subtitle: "攻击每级施加五秒一级诅咒"
+			shape: "diamond"
+			size: 1.5d
+			subtitle: "攻击每级施加五秒一级诅咒,可以克制再生词条"
 			tasks: [{
 				id: "117FB9EE4E14EFE8"
 				item: {
@@ -4072,8 +4087,8 @@
 				}
 				type: "item"
 			}]
-			x: 16.5d
-			y: 11.0d
+			x: 10.5d
+			y: 7.0d
 		}
 		{
 			disable_toast: true
@@ -4202,30 +4217,33 @@
 			y: -3.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "tconstruct:creative_slot"
+				tag: {
+					slot: "defense"
+				}
+			}
 			id: "35E7293D64A51251"
 			size: 2.0d
+			subtitle: "消耗防御槽来进行强化"
 			tasks: [{
-				id: "7DDCCC70E46A7757"
-				item: {
-					Count: 1b
-					id: "minecraft:turtle_helmet"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
+				id: "2BD4ED352CE470AA"
+				title: "防御槽强化"
+				type: "checkmark"
 			}]
 			title: "防御槽强化"
 			x: 30.5d
 			y: -6.0d
 		}
 		{
+			icon: "minecraft:book"
 			id: "240CA87C5142A482"
 			size: 2.0d
+			subtitle: "不消耗任意槽位来进行强化，其中一些会提供各种槽位"
 			tasks: [{
-				id: "64132A47BB1896F6"
-				item: "minecraft:book"
-				type: "item"
+				id: "65ED8045F60EA0BC"
+				type: "checkmark"
 			}]
 			title: "无槽位强化"
 			x: 51.5d
@@ -5348,12 +5366,8 @@
 			y: 24.0d
 		}
 		{
+			icon: "avaritia:infinity_catalyst"
 			id: "223071D8708CE3EF"
-			tasks: [{
-				id: "4C6F12AA24886643"
-				item: "avaritia:infinity_catalyst"
-				type: "item"
-			}]
 			title: "提供槽位的强化"
 			x: 41.5d
 			y: -1.0d
@@ -5408,6 +5422,10 @@
 			id: "6CFF9352740FCFF7"
 			size: 2.0d
 			subtitle: "这些槽位只有特殊材料才会提供，且具有强大的属性"
+			tasks: [{
+				id: "0A806CAD2B19202D"
+				type: "checkmark"
+			}]
 			title: "特殊槽位强化"
 			x: 30.5d
 			y: 4.0d
@@ -5646,54 +5664,7 @@
 			x: 33.5d
 			y: 9.0d
 		}
-		{
-			id: "3024AF735A5B3230"
-			tasks: [{
-				id: "28E7E320392985BA"
-				item: {
-					Count: 1b
-					id: "tconstruct:modifier_crystal"
-					tag: {
-						modifier: "cti:atrophyblade"
-					}
-				}
-				type: "item"
-			}]
-			x: 10.5d
-			y: 1.0d
-		}
-		{
-			id: "2C8ADEBF11F98C76"
-			tasks: [{
-				id: "31F2AE3FE2D38E79"
-				item: {
-					Count: 1b
-					id: "tconstruct:modifier_crystal"
-					tag: {
-						modifier: "cti:explosionprevent"
-					}
-				}
-				type: "item"
-			}]
-			x: 12.5d
-			y: 1.0d
-		}
-		{
-			id: "28CABCFB1EC75A68"
-			tasks: [{
-				id: "79F997CFEAC4FACF"
-				item: {
-					Count: 1b
-					id: "tconstruct:modifier_crystal"
-					tag: {
-						modifier: "cti:killphantom"
-					}
-				}
-				type: "item"
-			}]
-			x: 14.5d
-			y: 1.0d
-		}
 	]
+	subtitle: ["匠魂工具的各种强化，菱形图标为重要的强化"]
 	title: "强化概述"
 }

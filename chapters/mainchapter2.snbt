@@ -2189,9 +2189,7 @@
 			description: [
 				"最简单的多方快结构，只需要在精炼厂控制器上方放2~4个精炼厂输出端就行了。"
 				"{image:kubejs:textures/ftbq_images/i7.png width:108 height:77 align:1}"
-				"每个精炼厂输出端只会输出一种流体，对应控制器GUI中的一个输出槽，缺失输出端的槽会标记为红色。"
-				"{image:kubejs:textures/ftbq_images/i8.png width:86 height:53 align:1}"
-				"精炼厂会根据输出端数量动态选择配方。"
+				" 由于整合包魔改了原本的配方，所以现在无脑1+4就可以了"
 				"{@pagebreak}"
 				"只需输入热量就能工作，精炼厂结构的每个面都能参与热交换"
 			]
@@ -2210,7 +2208,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "用于分馏石油，是LPG的唯一获取方式"
+			subtitle: "用于分馏石油"
 			tasks: [
 				{
 					id: "7B29303EC0F03C63"

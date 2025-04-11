@@ -1062,10 +1062,7 @@
 		}
 		{
 			dependencies: ["26CAE8F089150BDB"]
-			description: [
-				"看似是更好用的工作台，可以直接读取相邻容器的物品。但其实这个不能适配背包整理模组的连续合成，并没有想象的那么好用"
-				"我更推荐&a手持工作台&r"
-			]
+			description: ["看似是更好用的工作台，可以直接读取相邻容器的物品。但其实这个不能适配背包整理模组的连续合成，并没有想象的那么好用"]
 			icon: {
 				Count: 1b
 				id: "tconstruct:crafting_station"
