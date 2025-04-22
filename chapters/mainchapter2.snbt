@@ -5551,8 +5551,34 @@
 		}
 		{
 			dependencies: ["2A7FBABF54638364"]
-			description: ["      在本包中，你在裂变前就能制作mekaSuit套装。"]
+			description: [
+				"在本包中，你在裂变前就能制作mekaSuit套装"
+				""
+				"本包对mekasuit进行了大幅加强，mekasuit可以电力抵消穿甲穿魔伤害，不再需要头痛粉碎轮和摄魂了"
+			]
 			id: "3A6E479CBB605C72"
+			rewards: [
+				{
+					id: "46ADB7AF8D253A0A"
+					item: "solidarytinker:dwarf_block"
+					type: "item"
+				}
+				{
+					id: "67DA3C62CC639B37"
+					item: "kubejs:protonium_block"
+					type: "item"
+				}
+				{
+					id: "0CA5273712101FBC"
+					item: "avaritia:crystal_matrix"
+					type: "item"
+				}
+				{
+					id: "6263E51E987FE704"
+					item: "kubejs:stellaralloy_block"
+					type: "item"
+				}
+			]
 			subtitle: "Mek经典的强力装备"
 			tasks: [
 				{
