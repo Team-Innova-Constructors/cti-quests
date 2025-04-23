@@ -766,32 +766,17 @@
 			dependencies: ["2858B239AAFC570E"]
 			description: ["&c形状为方形圆角的为被禁词条掉落，无法通过宝珠获取&r"]
 			id: "126618913B9D8EC8"
-			rewards: [
-				{
-					id: "76EE4162AC4E6411"
-					item: {
-						Count: 1b
-						id: "minecraft:written_book"
-						tag: {
-							author: "Alpha_Alps"
-							pages: ["{\"text\":\"经过某群友一下午的测试，除该武器之外的获取方法，仅有“携带魔能抢夺宝珠，击杀带有凋灵3词条的凋零骷髅”才能获得凋零骷髅头\\n而如果不使用此剑获取凋零骷髅头，则需要114514年才能正常拥有足量下界之星\\n考虑到此为游戏而非坐牢，制作组决定将此剑加入奖励，当然，如果您想体验完整的坐牢流程，你也可以将此剑丢入垃圾桶\"}"]
-							title: "阿戈芒戈的重大发现"
-						}
+			rewards: [{
+				id: "5F061904E57D1943"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "l2complements:strong_emerald_splash"
 					}
-					type: "item"
 				}
-				{
-					id: "5F061904E57D1943"
-					item: {
-						Count: 1b
-						id: "minecraft:potion"
-						tag: {
-							Potion: "l2complements:strong_emerald_splash"
-						}
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "04067A063C1E79AC"
 				title: "以下仅告诉对应宝珠能打出来什么材料"
@@ -1910,7 +1895,7 @@
 			}]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "只会在部分远程怪物身上刷新"
+			subtitle: "只会在部分远程怪物身上刷新（例如骷髅）"
 			tasks: [{
 				id: "32C0EC00050CD928"
 				item: "l2hostility:repelling"
@@ -1935,7 +1920,7 @@
 			}]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "只会在部分近战怪物身上刷新"
+			subtitle: "只会在部分近战怪物身上刷新（例如僵尸）"
 			tasks: [{
 				id: "4814032595A2BBDE"
 				item: "l2hostility:pulling"
@@ -1963,7 +1948,9 @@
 				""
 				"mekasuit由于取消受击判定所以生来免疫"
 				""
-				"非欧整合包做了特别加强，可以免疫"
+				"非欧立方整合包做了特别加强，穿戴时免疫全部封印"
+				""
+				"飞升护符、神秘护身符、七咒之戒被封印会导致各种问题，故这三个饰品不会被封印"
 			]
 			id: "7646FB76E714E54A"
 			rewards: [{
