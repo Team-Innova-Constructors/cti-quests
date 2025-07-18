@@ -533,10 +533,18 @@
 			shape: "gear"
 			size: 2.0d
 			subtitle: "结束了?"
-			tasks: [{
-				id: "61EA04800FAA3778"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					id: "6AFC94D3D072CE0C"
+					item: "cti:stellar_manyullyn"
+					type: "item"
+				}
+				{
+					id: "2CAFFA82B1887C42"
+					item: "cti:invert_hoshino"
+					type: "item"
+				}
+			]
 			title: "万物之终"
 			x: 6.0d
 			y: 0.0d
@@ -635,7 +643,38 @@
 			x: 9.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["5DB511379C217E00"]
+			description: [
+				"高级位面矿机在自动处理了矿物的同时产量相当可观。&d生产奇点？不在话下！"
+				""
+				"相较于普通的位面矿机，高级位面矿机的运行速度非常极端，1个ME接口已经不足以满足传输需求。"
+				""
+				"如图，利用存储整合器的整合效果可以非常简单地将这些产品送进你的ME网络："
+				""
+				"{image:kubejs:textures/ftbq_images/2025-03-17_21.28.43.png width:180 height:100 align:1}"
+			]
+			id: "2E22ACA57D1512EE"
+			rewards: [{
+				count: 64
+				id: "56EBD2DA805DCD91"
+				item: "cti:compressed_singularity"
+				title: "泥猜~"
+				type: "item"
+			}]
+			subtitle: "如何供应上无尽所需要的巨量矿物？"
+			tasks: [{
+				id: "719E7B53CC75C05B"
+				item: "cti:quantum_miner_advanced"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
 	]
-	subtitle: ["-by EtSH_C2H6S"]
+	subtitle: [
+		"结束了？我看未必"
+		"-by EtSH_C2H6S"
+	]
 	title: "最终章 —— 无尽之旅"
 }

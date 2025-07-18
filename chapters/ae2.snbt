@@ -3458,6 +3458,28 @@
 			x: -9.0d
 			y: 11.0d
 		}
+		{
+			dependencies: ["29C5A78A43FBEC61"]
+			description: [
+				"      当样板供应器与ME接口相连时，样板供应器会将ME接口所在的网络识别为发配样板的“容器”（而不是ME接口自身）。"
+				""
+				"      使用面板形态的ME接口/样板供应器或者设置样板供应器的发送面以隔离频道，便形成了两个相互隔离并在发配样板时进行数据交换的网络，即为子网合成。"
+				"{image:kubejs:textures/ftbq_images/childe_network_crafting.png width:164 height:59 align:1}"
+				""
+				"      在进行合成的子网中利用存储总线连接合成设备，可以轻松完成需要多面输入且需要输入过滤（利用存储总线的过滤功能）的自动化，如图是个压印器自动化。"
+				"{image:kubejs:textures/ftbq_images/child_network_crafting_example.png width:92 height:96 align:1}"
+			]
+			icon: "kubejs:compressed_hardlead"
+			id: "6A540E321A1FA470"
+			subtitle: "对需要多面区分输入的合成方式的极佳自动化手段"
+			tasks: [{
+				id: "065BD3DC9111F879"
+				type: "checkmark"
+			}]
+			title: "子网合成"
+			x: 1.5d
+			y: 16.0d
+		}
 	]
 	subtitle: [
 		"科技的尽头...是量子！"
