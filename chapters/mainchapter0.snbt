@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "mainchapter0"
-	group: "7741820127317059"
+	group: "2C498EDF9C598269"
 	icon: {
 		Count: 1b
 		id: "tconstruct:smeltery_controller"
@@ -548,6 +548,10 @@
 							tic_modifiers: [
 								{
 									level: 2
+									name: "cti:industrial_armor"
+								}
+								{
+									level: 4
 									name: "tinkers_reforged:rock_solid"
 								}
 								{
@@ -560,12 +564,13 @@
 							}
 							tic_persistent: { }
 							tic_stats: {
-								"tconstruct:armor": 4.0f
-								"tconstruct:armor_toughness": 1.0f
-								"tconstruct:durability": 1619.9999f
+								"tconstruct:armor": 6.6000004f
+								"tconstruct:armor_toughness": 1.1f
+								"tconstruct:durability": 2789.9998f
 							}
 							tic_volatile_data: {
-								abilities: 1
+								abilities: 2
+								defense: 1
 								upgrades: 2
 							}
 						}
@@ -588,6 +593,10 @@
 							tic_modifiers: [
 								{
 									level: 2
+									name: "cti:industrial_armor"
+								}
+								{
+									level: 4
 									name: "tinkers_reforged:rock_solid"
 								}
 								{
@@ -600,12 +609,13 @@
 							}
 							tic_persistent: { }
 							tic_stats: {
-								"tconstruct:armor": 2.0f
-								"tconstruct:armor_toughness": 1.0f
-								"tconstruct:durability": 1403.9999f
+								"tconstruct:armor": 4.4f
+								"tconstruct:armor_toughness": 1.1f
+								"tconstruct:durability": 2417.9998f
 							}
 							tic_volatile_data: {
-								abilities: 1
+								abilities: 2
+								defense: 1
 								upgrades: 2
 							}
 						}
@@ -1125,6 +1135,10 @@
 					tic_modifiers: [
 						{
 							level: 1
+							name: "cti:industrial"
+						}
+						{
+							level: 1
 							name: "tinkers_reforged:rock_solid"
 						}
 						{
@@ -1138,15 +1152,15 @@
 					]
 					tic_persistent: { }
 					tic_stats: {
-						"tconstruct:attack_damage": 7.0f
+						"tconstruct:attack_damage": 9.45f
 						"tconstruct:attack_speed": 0.9f
-						"tconstruct:durability": 690.0f
+						"tconstruct:durability": 724.5f
 						"tconstruct:harvest_tier": "minecraft:diamond"
-						"tconstruct:mining_speed": 6.5f
+						"tconstruct:mining_speed": 6.825f
 					}
 					tic_volatile_data: {
-						abilities: 1
-						upgrades: 3
+						abilities: 2
+						upgrades: 4
 					}
 				}
 			}
@@ -2347,5 +2361,5 @@
 		"初接触匠魂的建议仔细看"
 		"-by 独爱流萤"
 	]
-	title: "序章      —— 开始与匠魂"
+	title: "开始与匠魂"
 }

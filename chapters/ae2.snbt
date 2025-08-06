@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "ae2"
-	group: "7E3173C55DD03B0A"
+	group: "7741820127317059"
 	icon: {
 		Count: 1b
 		id: "megacells:item_storage_cell_256m"
@@ -418,6 +418,8 @@
 				"应用能源2(英文简称：ae2)是一个伟大的物流模组，它总结了我的世界的本质：&e输入原料&r与&e获得产物&r"
 				""
 				"我想你一定听说过应用能源是一个高难度模组的说法，实际上他的原理非常简单，只需要稍加学习无论是谁都能得心应手的使用它实现自动化"
+				""
+				"&6作为一个具有中度魔改科技流程的整合包，AE2自然组成了整合包底层玩法的一部分，请仔细学习这一章。"
 				""
 				"&8&o ps：这本指南真的是ae做的最差的一部分"
 				"{@pagebreak}"
@@ -3485,5 +3487,5 @@
 		"科技的尽头...是量子！"
 		"-by Zehn_bubble"
 	]
-	title: "AE2 —— 万物皆可自动化"
+	title: "核心玩法  //  AE2  //"
 }

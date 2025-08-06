@@ -4696,6 +4696,157 @@
 			x: -9.0d
 			y: -11.5d
 		}
+		{
+			alpha: 128
+			click: ""
+			color: 16748688
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: -0.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 16764048
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 0.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 9502608
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 2.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 16777104
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 1.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 9502719
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 3.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 9480959
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 4.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 13406463
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersiveengineering:block/metal/sheetmetal_iron"
+			rotation: 0.0d
+			width: 1.0d
+			x: 20.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersiveengineering:block/metal_decoration/aluminum_scaffolding_open"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 20.0d
+			y: 5.5d
+		}
+		{
+			click: ""
+			color: 16711680
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cofh_core:textures/gui/elements/input_underlay_slot.png"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 21.5d
+			y: 5.5d
+		}
+		{
+			click: ""
+			color: 255
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cofh_core:textures/gui/elements/input_underlay_slot.png"
+			order: 1
+			rotation: 180.0d
+			width: 1.0d
+			x: 21.5d
+			y: 4.5d
+		}
 	]
 	order_index: 2
 	quest_links: [ ]
@@ -7569,6 +7720,8 @@
 				"作为晶格的稀缺和昂贵代表，也许是晶态这个词的最好诠释吧"
 				"（万一哪天加强了呢？）"
 				"2.0：新增了护具领域，每级12%的免伤与概率反弹伤害，还算不错，虽然依旧性价比不高（&m但也算超过赛特斯石英了&m）。"
+				""
+				"（待增强材料）"
 			]
 			id: "2535AAE682ACB858"
 			subtitle: "不如赛特斯石英 —by白武男"
@@ -11833,6 +11986,124 @@
 			}]
 			x: -7.0d
 			y: -14.0d
+		}
+		{
+			id: "6BE4A4DC4D790C92"
+			subtitle: "增加了工具的面板"
+			tasks: [{
+				id: "1A2A9E3D710C4A99"
+				type: "checkmark"
+			}]
+			title: "面板材料"
+			x: 18.5d
+			y: 2.5d
+		}
+		{
+			id: "4119F51574FECC74"
+			subtitle: "造成多段附加伤害的材料"
+			tasks: [{
+				id: "1DE04D2F44A63D71"
+				type: "checkmark"
+			}]
+			title: "附伤材料"
+			x: 18.5d
+			y: 1.5d
+		}
+		{
+			id: "550D98AFC860CA2D"
+			subtitle: "直接增幅了攻击伤害或减少受到伤害"
+			tasks: [{
+				id: "2799BC175CC7B560"
+				type: "checkmark"
+			}]
+			title: "基础材料"
+			x: 18.5d
+			y: 0.5d
+		}
+		{
+			id: "37246D05A2E56366"
+			subtitle: "具有独特的攻击面或者对部分词条特攻"
+			tasks: [{
+				id: "5110AC3CB279E564"
+				type: "checkmark"
+			}]
+			title: "高机制材料"
+			x: 18.5d
+			y: -0.5d
+		}
+		{
+			id: "32DFC2CF39FBD933"
+			subtitle: "在多个方面上都比较优秀，很难简单描述"
+			tasks: [{
+				id: "1E1DB67259740045"
+				type: "checkmark"
+			}]
+			title: "多功能材料"
+			x: 18.5d
+			y: 3.5d
+		}
+		{
+			id: "4F6896D48818405D"
+			subtitle: "提供回血、吸血、免死或者生命上限"
+			tasks: [{
+				id: "4D115E25CCE83CD0"
+				type: "checkmark"
+			}]
+			title: "续航材料"
+			x: 18.5d
+			y: 4.5d
+		}
+		{
+			id: "0112CD87EC9C4B57"
+			subtitle: "提供正面效果、属性加成、饱食度"
+			tasks: [{
+				id: "161A549D207AE986"
+				type: "checkmark"
+			}]
+			title: "探索材料"
+			x: 18.5d
+			y: 5.5d
+		}
+		{
+			id: "2247B41C254F911E"
+			tasks: [{
+				id: "48B78BA13C063E60"
+				type: "checkmark"
+			}]
+			title: "防御性材料"
+			x: 20.0d
+			y: 5.5d
+		}
+		{
+			id: "20A7761C54B2E45A"
+			tasks: [{
+				id: "5C1F936AE306CB56"
+				type: "checkmark"
+			}]
+			title: "进攻性材料"
+			x: 20.0d
+			y: 4.5d
+		}
+		{
+			id: "6ABCDAB93C31DE39"
+			subtitle: "提供对效果的免疫或者清除"
+			tasks: [{
+				id: "25EE1003AB748648"
+				type: "checkmark"
+			}]
+			title: "免疫性材料"
+			x: 21.5d
+			y: 5.5d
+		}
+		{
+			id: "67D1851EB94D61A5"
+			tasks: [{
+				id: "04BBFF696B72EF9E"
+				type: "checkmark"
+			}]
+			title: "创造模式飞行材料"
+			x: 21.5d
+			y: 4.5d
 		}
 	]
 	subtitle: [

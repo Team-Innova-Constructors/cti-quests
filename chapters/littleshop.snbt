@@ -37,13 +37,13 @@
 			tic_stats: {
 				"etshtinker:fluid_efficiency": 4.657463f
 				"etshtinker:plasmarange": 4.657463f
-				"tconstruct:attack_damage": 261.5063f
-				"tconstruct:attack_speed": 2.258168f
+				"tconstruct:attack_damage": 1331.7914f
+				"tconstruct:attack_speed": 138.65454f
 				"tconstruct:block_amount": 23.287315f
 				"tconstruct:block_angle": 180.0f
-				"tconstruct:durability": 130799.53f
+				"tconstruct:durability": 28345.592f
 				"tconstruct:harvest_tier": "minecraft:netherite"
-				"tconstruct:mining_speed": 53.514248f
+				"tconstruct:mining_speed": 2048.0f
 			}
 			tic_volatile_data: {
 				abilities: 2
@@ -2654,14 +2654,14 @@
 					}
 					tic_persistent: { }
 					tic_stats: {
-						"tconstruct:armor": 10.0f
-						"tconstruct:armor_toughness": 7.0f
-						"tconstruct:durability": 1948.0f
-						"tconstruct:knockback_resistance": 0.2f
+						"tconstruct:armor": 20.0f
+						"tconstruct:armor_toughness": 14.0f
+						"tconstruct:durability": 3896.0f
+						"tconstruct:knockback_resistance": 0.4f
 					}
 					tic_volatile_data: {
-						abilities: 2
-						defense: 5
+						abilities: 3
+						defense: 4
 						upgrades: 4
 					}
 				}
@@ -2696,14 +2696,14 @@
 							]
 							tic_persistent: { }
 							tic_stats: {
-								"tconstruct:armor": 5.0f
-								"tconstruct:armor_toughness": 4.0f
-								"tconstruct:durability": 1024.0f
-								"tconstruct:knockback_resistance": 0.2f
+								"tconstruct:armor": 10.0f
+								"tconstruct:armor_toughness": 8.0f
+								"tconstruct:durability": 2048.0f
+								"tconstruct:knockback_resistance": 0.4f
 							}
 							tic_volatile_data: {
-								abilities: 2
-								defense: 5
+								abilities: 3
+								defense: 4
 								upgrades: 4
 							}
 						}
@@ -2742,14 +2742,14 @@
 							}
 							tic_persistent: { }
 							tic_stats: {
-								"tconstruct:armor": 10.0f
-								"tconstruct:armor_toughness": 7.0f
-								"tconstruct:durability": 1948.0f
-								"tconstruct:knockback_resistance": 0.2f
+								"tconstruct:armor": 20.0f
+								"tconstruct:armor_toughness": 14.0f
+								"tconstruct:durability": 3896.0f
+								"tconstruct:knockback_resistance": 0.4f
 							}
 							tic_volatile_data: {
-								abilities: 2
-								defense: 5
+								abilities: 3
+								defense: 4
 								upgrades: 4
 							}
 						}
@@ -2785,14 +2785,14 @@
 							]
 							tic_persistent: { }
 							tic_stats: {
-								"tconstruct:armor": 7.0f
-								"tconstruct:armor_toughness": 5.0f
-								"tconstruct:durability": 1560.0f
-								"tconstruct:knockback_resistance": 0.2f
+								"tconstruct:armor": 14.0f
+								"tconstruct:armor_toughness": 10.0f
+								"tconstruct:durability": 3120.0f
+								"tconstruct:knockback_resistance": 0.4f
 							}
 							tic_volatile_data: {
-								abilities: 2
-								defense: 5
+								abilities: 3
+								defense: 4
 								upgrades: 4
 							}
 						}
@@ -2828,14 +2828,14 @@
 							]
 							tic_persistent: { }
 							tic_stats: {
-								"tconstruct:armor": 5.0f
-								"tconstruct:armor_toughness": 5.0f
-								"tconstruct:durability": 1135.0f
-								"tconstruct:knockback_resistance": 0.2f
+								"tconstruct:armor": 10.0f
+								"tconstruct:armor_toughness": 10.0f
+								"tconstruct:durability": 2270.0f
+								"tconstruct:knockback_resistance": 0.4f
 							}
 							tic_volatile_data: {
-								abilities: 2
-								defense: 5
+								abilities: 3
+								defense: 4
 								upgrades: 4
 							}
 						}
@@ -3142,16 +3142,16 @@
 						tic_persistent: { }
 						tic_stats: {
 							"etshtinker:critical_rate": 1.28f
-							"etshtinker:damagemultiplier": 178.21056f
+							"etshtinker:damagemultiplier": 185.8456f
 							"etshtinker:fluid_efficiency": 100.0f
 							"etshtinker:slash_color": 10.0f
-							"tconstruct:attack_damage": 181.74347f
-							"tconstruct:attack_speed": 225.37372f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 189.52986f
+							"tconstruct:attack_speed": 235.02936f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 813835.1f
+							"tconstruct:durability": 848702.1f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 287.1557f
+							"tconstruct:mining_speed": 299.45825f
 							"tconstruct:tank_capacity": 9005000.0f
 						}
 						tic_volatile_data: {
@@ -3232,15 +3232,15 @@
 						tic_persistent: { }
 						tic_stats: {
 							"etshtinker:cooldown": 10.0f
-							"etshtinker:damagemultiplier": 174.03375f
+							"etshtinker:damagemultiplier": 181.48985f
 							"etshtinker:plasmarange": 70.0f
-							"tconstruct:attack_damage": 627.8166f
-							"tconstruct:attack_speed": 118.34296f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 654.714f
+							"tconstruct:attack_speed": 123.4131f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1359456.9f
+							"tconstruct:durability": 1417699.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 815.7832f
+							"tconstruct:mining_speed": 850.73364f
 							"tconstruct:tank_capacity": 9005000.0f
 						}
 						tic_volatile_data: {
@@ -3303,9 +3303,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1487.7357f
-							"tconstruct:attack_speed": 67.003f
-							"tconstruct:durability": 5690229.5f
+							"tconstruct:attack_damage": 1551.4745f
+							"tconstruct:attack_speed": 69.8736f
+							"tconstruct:durability": 5934014.5f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3370,9 +3370,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 460.58035f
-							"tconstruct:attack_speed": 69.6135f
-							"tconstruct:durability": 1333551.0f
+							"tconstruct:attack_damage": 480.3129f
+							"tconstruct:attack_speed": 72.59594f
+							"tconstruct:durability": 1390684.0f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3432,11 +3432,11 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 625.70575f
-							"tconstruct:attack_speed": 97.4589f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 652.51276f
+							"tconstruct:attack_speed": 101.634315f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1330183.5f
+							"tconstruct:durability": 1387172.2f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3500,9 +3500,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 472.1378f
-							"tconstruct:attack_speed": 68.917366f
-							"tconstruct:durability": 2342975.0f
+							"tconstruct:attack_damage": 492.3655f
+							"tconstruct:attack_speed": 71.86998f
+							"tconstruct:durability": 2443354.5f
 						}
 						tic_volatile_data: {
 							abilities: 16
@@ -3547,11 +3547,11 @@
 							}
 							{
 								level: 1
-								name: "tinkersinnovation:double_attack"
+								name: "tconstruct:offhand_attack"
 							}
 							{
 								level: 1
-								name: "tconstruct:offhand_attack"
+								name: "tinkersinnovation:double_attack"
 							}
 							{
 								level: 1
@@ -3565,13 +3565,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 444.7324f
-							"tconstruct:attack_speed": 243.64726f
-							"tconstruct:block_amount": 174.03375f
+							"tconstruct:attack_damage": 463.78595f
+							"tconstruct:attack_speed": 254.08578f
+							"tconstruct:block_amount": 181.48985f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 665091.75f
+							"tconstruct:durability": 693586.1f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 646.10034f
+							"tconstruct:mining_speed": 673.78107f
 							"tconstruct:use_item_speed": 1.0f
 						}
 						tic_volatile_data: {
@@ -3637,9 +3637,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 992.54175f
-							"tconstruct:attack_speed": 178.6239f
-							"tconstruct:durability": 3135940.8f
+							"tconstruct:attack_damage": 1035.0651f
+							"tconstruct:attack_speed": 186.27664f
+							"tconstruct:durability": 3270293.2f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3706,9 +3706,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 285.57852f
-							"tconstruct:attack_speed": 121.82363f
-							"tconstruct:durability": 629806.4f
+							"tconstruct:attack_damage": 297.8135f
+							"tconstruct:attack_speed": 127.04289f
+							"tconstruct:durability": 656789.06f
 							"tinkers_ingenuity:cooldown": 1.1f
 							"tinkers_ingenuity:energy_capacity": 20000.0f
 							"tinkers_ingenuity:laser_range": 20.0f
@@ -3771,9 +3771,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 741.4056f
-							"tconstruct:attack_speed": 47.859283f
-							"tconstruct:durability": 1009704.75f
+							"tconstruct:attack_damage": 773.1695f
+							"tconstruct:attack_speed": 49.90971f
+							"tconstruct:durability": 1052963.2f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3832,13 +3832,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 385.0497f
-							"tconstruct:attack_speed": 121.82363f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 401.5463f
+							"tconstruct:attack_speed": 127.04289f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2216972.5f
+							"tconstruct:durability": 2311953.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 172.29343f
+							"tconstruct:mining_speed": 179.67496f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3893,13 +3893,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 825.9316f
-							"tconstruct:attack_speed": 73.094185f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 861.31683f
+							"tconstruct:attack_speed": 76.22574f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2512569.0f
+							"tconstruct:durability": 2620214.2f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 172.29343f
+							"tconstruct:mining_speed": 179.67496f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3961,13 +3961,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 295.20474f
-							"tconstruct:attack_speed": 85.27654f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 307.85214f
+							"tconstruct:attack_speed": 88.93003f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1477981.6f
+							"tconstruct:durability": 1541302.6f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 258.44012f
+							"tconstruct:mining_speed": 269.51242f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4023,13 +4023,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 561.53076f
-							"tconstruct:attack_speed": 103.55009f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 585.5884f
+							"tconstruct:attack_speed": 107.986465f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2955963.2f
+							"tconstruct:durability": 3082605.2f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 172.29343f
+							"tconstruct:mining_speed": 179.67496f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4085,13 +4085,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 537.14435f
-							"tconstruct:attack_speed": 91.36772f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 560.1571f
+							"tconstruct:attack_speed": 95.28217f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2364770.8f
+							"tconstruct:durability": 2466084.0f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 229.72456f
+							"tconstruct:mining_speed": 239.5666f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4145,13 +4145,13 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 435.08438f
-							"tconstruct:attack_speed": 17.403376f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 453.7246f
+							"tconstruct:attack_speed": 18.148985f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 278.454f
-							"tconstruct:durability": 535675.94f
-							"tconstruct:projectile_damage": 34.80675f
+							"tconstruct:draw_speed": 290.38376f
+							"tconstruct:durability": 558625.75f
+							"tconstruct:projectile_damage": 36.29797f
 							"tconstruct:velocity": 4.0f
 						}
 						tic_volatile_data: {
@@ -4210,13 +4210,13 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 870.16876f
-							"tconstruct:attack_speed": 17.403376f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 907.4492f
+							"tconstruct:attack_speed": 18.148985f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 147.9287f
-							"tconstruct:durability": 471979.56f
-							"tconstruct:projectile_damage": 34.80675f
+							"tconstruct:draw_speed": 154.26637f
+							"tconstruct:durability": 492200.47f
+							"tconstruct:projectile_damage": 36.29797f
 							"tconstruct:velocity": 2.5f
 						}
 						tic_volatile_data: {
@@ -4277,13 +4277,13 @@
 							tic_persistent: { }
 							tic_stats: {
 								"tconstruct:accuracy": 1.0f
-								"tconstruct:attack_damage": 320.87473f
-								"tconstruct:attack_speed": 219.28252f
-								"tconstruct:block_amount": 304.55908f
+								"tconstruct:attack_damage": 334.62192f
+								"tconstruct:attack_speed": 228.6772f
+								"tconstruct:block_amount": 317.60724f
 								"tconstruct:block_angle": 180.0f
-								"tconstruct:draw_speed": 17.403376f
-								"tconstruct:durability": 599785.56f
-								"tconstruct:projectile_damage": 34.80675f
+								"tconstruct:draw_speed": 18.148985f
+								"tconstruct:durability": 625482.06f
+								"tconstruct:projectile_damage": 36.29797f
 								"tconstruct:use_item_speed": 0.4f
 							}
 							tic_volatile_data: {
@@ -4329,11 +4329,11 @@
 							tic_persistent: { }
 							tic_stats: {
 								"tconstruct:accuracy": 1.0f
-								"tconstruct:block_amount": 261.05063f
+								"tconstruct:block_amount": 272.23477f
 								"tconstruct:block_angle": 180.0f
-								"tconstruct:draw_speed": 278.454f
-								"tconstruct:durability": 235989.78f
-								"tconstruct:projectile_damage": 34.80675f
+								"tconstruct:draw_speed": 290.38376f
+								"tconstruct:durability": 246100.23f
+								"tconstruct:projectile_damage": 36.29797f
 								"tconstruct:use_item_speed": 0.4f
 								"tconstruct:velocity": 4.0f
 							}
@@ -4388,7 +4388,7 @@
 					tic_stats: {
 						"tconstruct:armor": 30.0f
 						"tconstruct:armor_toughness": 20.0f
-						"tconstruct:durability": 855384.6f
+						"tconstruct:durability": 892031.6f
 						"tconstruct:knockback_resistance": 1.0f
 					}
 					tic_volatile_data: {
@@ -4438,7 +4438,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 855384.6f
+								"tconstruct:durability": 892031.6f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4489,7 +4489,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 855384.6f
+								"tconstruct:durability": 892031.6f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4540,7 +4540,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 855384.6f
+								"tconstruct:durability": 892031.6f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4591,7 +4591,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 855384.6f
+								"tconstruct:durability": 892031.6f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4782,17 +4782,22 @@
 								level: 1
 								name: "tconstruct:stripping"
 							}
+							{
+								level: 1
+								name: "tconstruct:tilling"
+							}
 						]
 						tic_multipliers: {
-							"tconstruct:durability": 1.5f
+							"tconstruct:attack_damage": 1.5f
+							"tconstruct:durability": 2.0f
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 702.71564f
-							"tconstruct:attack_speed": 121.82363f
-							"tconstruct:durability": 1995275.4f
+							"tconstruct:attack_damage": 938.61444f
+							"tconstruct:attack_speed": 127.04289f
+							"tconstruct:durability": 2774344.5f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 1292.2007f
+							"tconstruct:mining_speed": 1347.5621f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4900,11 +4905,11 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 69.6135f
-							"tconstruct:attack_speed": 17.403376f
-							"tconstruct:draw_speed": 408.97934f
-							"tconstruct:durability": 128061.0f
-							"tconstruct:projectile_damage": 34.80675f
+							"tconstruct:attack_damage": 72.59594f
+							"tconstruct:attack_speed": 18.148985f
+							"tconstruct:draw_speed": 426.50116f
+							"tconstruct:durability": 133547.5f
+							"tconstruct:projectile_damage": 36.29797f
 							"tconstruct:velocity": 4.5099998f
 						}
 						tic_volatile_data: {
@@ -4973,13 +4978,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 596.8271f
-							"tconstruct:attack_speed": 121.82363f
-							"tconstruct:block_amount": 87.01688f
+							"tconstruct:attack_damage": 622.3968f
+							"tconstruct:attack_speed": 127.04289f
+							"tconstruct:block_amount": 90.74493f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2069174.4f
+							"tconstruct:durability": 2157823.5f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 143.57785f
+							"tconstruct:mining_speed": 149.72913f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -5051,11 +5056,11 @@
 							"solidarytinker:detection_range": 100.0f
 							"solidarytinker:exert_times": 100.0f
 							"solidarytinker:kill_threshold": 0.72f
-							"tconstruct:attack_damage": 283.22256f
-							"tconstruct:attack_speed": 69.6135f
-							"tconstruct:durability": 889034.1f
+							"tconstruct:attack_damage": 295.3566f
+							"tconstruct:attack_speed": 72.59594f
+							"tconstruct:durability": 927122.75f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 835.36206f
+							"tconstruct:mining_speed": 871.15125f
 						}
 						tic_volatile_data: {
 							abilities: 16

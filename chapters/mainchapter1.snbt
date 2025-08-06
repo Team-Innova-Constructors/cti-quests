@@ -51,8 +51,8 @@
 			image: "kubejs:textures/ftbq_images/chuizi.png"
 			rotation: 0.0d
 			width: 5.0d
-			x: 16.5d
-			y: -3.5d
+			x: 37.5d
+			y: -3.0d
 		}
 		{
 			click: ""
@@ -450,9 +450,11 @@
 			description: [
 				"&a锌和铜&r合金形成的一种合金"
 				""
-				"&b你可以直接在匠魂炉子中制作出来这种合金&r，无需烈焰人燃烧室也可以"
+				"&b你可以直接使用匠魂炉子获取熔融铜从而制作出来这种合金&r，无需烈焰人燃烧室也可以"
 				""
 				"是制作很多机器，结构所需的材料"
+				""
+				"也是一个不错的耐久系材料"
 			]
 			icon: "create:brass_ingot"
 			id: "248DC6FE865D1EAF"
@@ -1128,7 +1130,7 @@
 				item: "create:mechanical_mixer"
 				type: "item"
 			}]
-			x: 13.5d
+			x: 14.0d
 			y: -1.5d
 		}
 		{
@@ -1153,7 +1155,7 @@
 				item: "create:mechanical_press"
 				type: "item"
 			}]
-			x: 14.5d
+			x: 16.0d
 			y: -1.5d
 		}
 		{
@@ -1205,7 +1207,7 @@
 				item: "create:basin"
 				type: "item"
 			}]
-			x: 14.0d
+			x: 15.0d
 			y: 0.0d
 		}
 		{
@@ -1232,8 +1234,8 @@
 				item: "create:filter"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 1.5d
+			x: 15.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["28E2122722681099"]
@@ -2094,6 +2096,108 @@
 			}]
 			x: 43.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["3EC6B61326AAA312"]
+			description: ["     有着全词条等级+1的属性，多彩合金是前中期就唾手可得的强力辅助材料！"]
+			id: "7FB992AEB90FD1DC"
+			rewards: [{
+				id: "1646614C4D2D8160"
+				item: "tinkersinnovation:polychrome_alloy_ingot"
+				random_bonus: 7
+				type: "item"
+			}]
+			subtitle: "异彩化合物，但是匠魂"
+			tasks: [{
+				id: "4AAE7934DD22EC14"
+				item: "tinkersinnovation:polychrome_alloy_ingot"
+				type: "item"
+			}]
+			x: 31.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0637668E953F51C9"]
+			description: ["      硬铝提供了可观的额外耐久"]
+			id: "5B3E418780DCC63A"
+			rewards: [{
+				id: "19E7138B18F0B778"
+				item: "tinkers_reforged:duralumin_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "和黄铜同为耐久系材料"
+			tasks: [{
+				id: "35912368C06012D4"
+				item: "tinkers_reforged:duralumin_ingot"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0637668E953F51C9"]
+			description: ["      高贵的百分比回血，你的血量上限越高就越能回。"]
+			id: "6F34559EE13F3083"
+			rewards: [{
+				id: "6AB13EFF5A64CA8F"
+				item: "tinkers_thinking:chlorophyte_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "超级回复！"
+			tasks: [{
+				id: "55270F933320FCBF"
+				item: "tinkers_thinking:chlorophyte_ingot"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0637668E953F51C9"]
+			description: ["      也是耐久系材料，不过黏钢是提供了一个可以用黏液球充能的耐久护盾"]
+			id: "5DAA595AD6035AE2"
+			rewards: [{
+				id: "0E900448EF558924"
+				item: "tconstruct:slimesteel_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "黏液合金？！！"
+			tasks: [{
+				id: "537CA585571198F6"
+				item: "tconstruct:slimesteel_ingot"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0637668E953F51C9"]
+			description: ["      在低血量时提供强大增伤，又名玻璃大炮流"]
+			id: "5352E9422D1D4C89"
+			rewards: [
+				{
+					id: "225522340A37C001"
+					item: "tinkers_ingenuity:blood_binding_ingot"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "4FD4637285510EA4"
+					item: "create:blaze_cake"
+					type: "item"
+				}
+			]
+			subtitle: "压血流"
+			tasks: [{
+				id: "33BE6CA170E3FA2B"
+				item: "tinkers_ingenuity:blood_binding_ingot"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.5d
 		}
 	]
 	subtitle: [

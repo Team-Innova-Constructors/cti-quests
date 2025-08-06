@@ -261,31 +261,6 @@
 			y: 4.5d
 		}
 		{
-			can_repeat: true
-			description: [
-				"制作海梦合金的必要物品，会在&b冻洋避难所&r的箱子刷新，不过你想直接换也不是不行..."
-				"一旦购买一个，便可以让这些&d星体&r浸泡在&b液体魔力&r中无限增殖"
-			]
-			icon: "obscure_api:astral_dust"
-			id: "08DC1B2E65FCB85D"
-			rewards: [{
-				id: "79054A2FFB75874A"
-				item: "obscure_api:astral_dust"
-				team_reward: true
-				type: "item"
-			}]
-			tasks: [{
-				consume_items: true
-				count: 20L
-				id: "2BC28DD5A80AF1CF"
-				item: "lightmanscurrency:coin_emerald"
-				type: "item"
-			}]
-			title: "星体粉尘"
-			x: -4.5d
-			y: 7.0d
-		}
-		{
 			id: "08421351E0371522"
 			shape: "diamond"
 			size: 2.5d
@@ -316,7 +291,7 @@
 				type: "item"
 			}]
 			title: "一份奇怪的契约"
-			x: -7.0d
+			x: -6.0d
 			y: 7.0d
 		}
 		{
@@ -338,7 +313,7 @@
 				type: "item"
 			}]
 			title: "黑市真是什么都有"
-			x: -2.0d
+			x: -3.0d
 			y: 7.0d
 		}
 		{
@@ -360,7 +335,7 @@
 				item: "enigmaticlegacy:golem_heart"
 				type: "item"
 			}]
-			x: -7.0d
+			x: -6.0d
 			y: 8.0d
 		}
 		{
@@ -381,12 +356,13 @@
 				item: "enigmaticlegacy:blazing_core"
 				type: "item"
 			}]
-			x: -6.0d
+			x: -5.0d
 			y: 8.5d
 		}
 		{
 			can_repeat: true
 			dependencies: ["435891F0D7E64C36"]
+			description: ["      这年头连术石都有副产物了，真好.jpg"]
 			hide: true
 			icon: "enigmaticlegacy:eye_of_nebula"
 			id: "2C14D90DE4EBF6F4"
@@ -401,7 +377,7 @@
 				item: "enigmaticlegacy:eye_of_nebula"
 				type: "item"
 			}]
-			x: -7.0d
+			x: -6.0d
 			y: 10.0d
 		}
 		{
@@ -423,7 +399,7 @@
 				item: "enigmaticlegacy:angel_blessing"
 				type: "item"
 			}]
-			x: -8.0d
+			x: -7.0d
 			y: 8.5d
 		}
 		{
@@ -444,7 +420,7 @@
 				item: "enigmaticlegacy:ocean_stone"
 				type: "item"
 			}]
-			x: -8.0d
+			x: -7.0d
 			y: 9.5d
 		}
 		{
@@ -466,7 +442,7 @@
 				item: "enigmaticlegacy:void_pearl"
 				type: "item"
 			}]
-			x: -6.0d
+			x: -5.0d
 			y: 9.5d
 		}
 		{
@@ -479,7 +455,7 @@
 				type: "checkmark"
 			}]
 			title: "汝当真如此？"
-			x: -7.0d
+			x: -6.0d
 			y: 9.0d
 		}
 		{
@@ -504,7 +480,7 @@
 				type: "item"
 			}]
 			title: "背包"
-			x: 2.5d
+			x: 3.0d
 			y: 7.0d
 		}
 		{
@@ -537,7 +513,7 @@
 				type: "item"
 			}]
 			title: "修复护符"
-			x: 6.5d
+			x: 6.0d
 			y: 7.0d
 		}
 		{

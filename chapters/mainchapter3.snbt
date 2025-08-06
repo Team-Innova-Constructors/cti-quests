@@ -1444,7 +1444,7 @@
 			subtitle: "可以用于合成维奥合金（显然不推荐）、粒子容器和高级插件"
 			tasks: [{
 				id: "7DC660D67B102791"
-				item: "mekanism:combiner"
+				item: "mekanism:ultimate_combining_factory"
 				type: "item"
 			}]
 			title: "融合机"
@@ -1698,6 +1698,16 @@
 				{
 					id: "57B9BA5D4E7010F5"
 					item: "cti:aetherium_upgrade_speed_kit"
+					type: "item"
+				}
+				{
+					id: "3D10D98ACD5C75B9"
+					item: "cti:upgrade_speed_kit_1"
+					type: "item"
+				}
+				{
+					id: "0FB3DD70C947FF6D"
+					item: "cti:upgrade_speed_kit_2"
 					type: "item"
 				}
 			]

@@ -5,7 +5,33 @@
 	group: "4CD374CEABFCA3D3"
 	icon: "twilightforest:twilight_portal_miniature_structure"
 	id: "0D31D2C4CEC75F52"
-	order_index: 2
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.5d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 2.5d
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.0d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 3.0d
+			x: 41.25d
+			y: 0.0d
+		}
+	]
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -21,17 +47,11 @@
 			}]
 			size: 2.0d
 			subtitle: "钻石怎么找啊？"
-			tasks: [
-				{
-					id: "391DA79CEF0AAC1B"
-					type: "checkmark"
-				}
-				{
-					id: "38AB5AA890562877"
-					item: "minecraft:diamond"
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "38AB5AA890562877"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
 			title: "暮色森林的必要条件"
 			x: -4.0d
 			y: 0.0d
@@ -90,7 +110,11 @@
 				"4EFC56555EBEFBD7"
 				"618C2EB86502B010"
 			]
-			description: ["全部拿到之后就可以做地图了，有了它你就能知道自己旁边都是些什么boss了。"]
+			description: [
+				"探险家指南针需要在结束暮色后才能获取，所以在此之前不如试试魔法地图！"
+				""
+				"全部拿到之后就可以做地图了，有了它你就能知道自己旁边都是些什么boss了。"
+			]
 			icon: "twilightforest:magic_map"
 			id: "5F1EC840A286C89F"
 			rewards: [{
@@ -157,11 +181,19 @@
 			dependencies: ["618C2EB86502B010"]
 			description: ["一只娜迦会出现在迷宫里，如果你找不到它，那就去给我老老实实做地图吧"]
 			id: "336F092EF762E283"
-			rewards: [{
-				id: "2D31A43B1447164D"
-				table_id: 8345516078804118212L
-				type: "random"
-			}]
+			rewards: [
+				{
+					id: "2D31A43B1447164D"
+					table_id: 8345516078804118212L
+					type: "random"
+				}
+				{
+					id: "3D8A86F7B1CCFAE3"
+					item: "twilightforest:naga_scale"
+					random_bonus: 7
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 2.0d
 			subtitle: "不是那只飞龙！"
@@ -176,7 +208,10 @@
 		}
 		{
 			dependencies: ["336F092EF762E283"]
-			description: ["巫妖在高塔主塔的最上层，打得时候建议封闭入口防止刷的怪物上来，如果需要书的话也可以在高塔里转转，有专门的图书区。ps.护盾可以用治疗药水或者伽钢材料的武器打破"]
+			description: [
+				"巫妖在高塔主塔的最上层，打得时候建议封闭入口防止刷的怪物上来，如果需要书的话也可以在高塔里转转，有专门的图书区。"
+				"ps.护盾对魔法的抗性很低，会被治疗药水或伽钢制成的武器打破。"
+			]
 			id: "2F8D37886C95666A"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -198,7 +233,11 @@
 		}
 		{
 			dependencies: ["2F8D37886C95666A"]
-			description: ["没想到你轻而易举就击败了娜迦和巫妖，我对你有点刮目相看了，来吧，选点东西，这是你应得的。"]
+			description: [
+				"没想到你轻而易举就击败了娜迦和巫妖，我对你有点刮目相看了，来吧，拿点东西，这是你应得的。"
+				""
+				"接下来你就要迎接暮色三大boss和它们的手下了。需要注意的是在击杀&e三大boss的任意一个&r后，三大boss会获得数值上的强化，导致继续推进变得没那么轻松。&e请优先攻略对自己装备提升大的boss！"
+			]
 			icon: "minecraft:enchanted_golden_apple"
 			id: "71D21D88ED76B8F2"
 			rewards: [{
@@ -220,7 +259,10 @@
 		}
 		{
 			dependencies: ["71D21D88ED76B8F2"]
-			description: ["一只雪怪平常都待在巢穴里，他的抱摔有些棘手，如果要打的话我建议带桶水(多带一桶，以备不时之需)将水放在他脚下，然后欣赏他的嚎哭。ps.先处理小怪会好打一点"]
+			description: [
+				"一只雪怪平常都待在巢穴里，他的抱摔有些棘手，如果要打的话我建议带桶水(多带一桶，以备不时之需)将水放在他脚下，然后欣赏他的嚎哭。"
+				"ps.先处理小怪会好打一点"
+			]
 			id: "3E3AB82BB0E312F4"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -242,7 +284,10 @@
 		}
 		{
 			dependencies: ["71D21D88ED76B8F2"]
-			description: ["迷宫最下层最大的房间里生活着一只半牛马?还是人牛?这不重要，重要的是你要用你的武器击碎他的战斧，取其头颅！ps.可以先把房间围起来再用远程武器耗死他"]
+			description: [
+				"迷宫最下层最大的房间里生活着一只半牛马?还是人牛?这不重要，重要的是你要用你的武器击碎他的战斧，取其头颅！"
+				"ps.可以先把房间围起来再用远程武器耗死他"
+			]
 			id: "0AB2558FBB682858"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -285,7 +330,11 @@
 		}
 		{
 			dependencies: ["71D21D88ED76B8F2"]
-			description: ["往黑暗森林里面走(记得看地图)，会找到迷宫的入口，将随意一位暮色boss的奖杯放在上面会激活入口，然后你就能进去翻箱倒柜了，幻影骑士没什么需要注意的点。ps.打不过可以用远程武器拉扯一下。"]
+			description: [
+				"往黑暗森林里面走(记得看地图)，会找到迷宫的入口，将随意一位暮色boss的奖杯放在上面会激活入口，然后你就能进去翻箱倒柜了。"
+				"幻影骑士没什么需要注意的点，其带有的反射词条比boss的攻击本身更值得留意。"
+				"ps.打不过可以用远程武器拉扯一下。"
+			]
 			id: "070539B7C73ED745"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -307,7 +356,10 @@
 		}
 		{
 			dependencies: ["3E3AB82BB0E312F4"]
-			description: ["极光宫殿是冰雪女王的容身之处，你要做的很简单，登上去，杀死她。ps.旋转的冰块会帮她抵挡伤害，如果不想正常打，可以上去开个洞向下射箭来逃课。"]
+			description: [
+				"极光宫殿是冰雪女王的容身之处，你要做的很简单，登上去，杀死她。"
+				"ps.旋转的冰块会帮她抵挡伤害，使用&e增加触及半径的武器&r瞄准冰块缝隙便可打中，&e镭射枪、约束等离子阔剑、等离子射线炮和魂戈&r这些直接选中目标的武器也能快速击杀，此外你也可以可以上去开个洞向下射箭或者飞起来直接取之首级。"
+			]
 			id: "41159BD319F93FC4"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -329,7 +381,10 @@
 		}
 		{
 			dependencies: ["0AB2558FBB682858"]
-			description: ["九头蛇会在火焰沼泽中的半圆形巢穴中等你，在他张嘴时用弓箭射掉他的头可以有效地削弱他，建议使用远程武器来攻略此boss。ps.如果执意使用近战武器，尝试反弹他的火球吧。"]
+			description: [
+				"九头蛇会在火焰沼泽中的半圆形巢穴中等你，在他张嘴时用弓箭射掉他的头可以有效地削弱它，可以使用远程武器来攻略此boss。"
+				"ps.使用近战武器反弹它的火球或者尽可能增加触及半径也是一种可选思路。"
+			]
 			id: "4331F5A92B7B3B11"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -351,7 +406,13 @@
 		}
 		{
 			dependencies: ["070539B7C73ED745"]
-			description: ["暮初恶魂就在黑暗高塔的最上层，在与其战斗时需要注意的是他挨打过多会红温，在受到18点或更高伤害时，暮初恶魂将停止攻击，并开始降下对头盔产生大量损伤的泪雨并尝试在塔顶的房间生成砷铅铁恶灵且尝试吸收回血，此时要去激活恶魂陷阱打断其回血。"]
+			description: [
+				"暮初恶魂就在黑暗高塔的最上层，其攻略难度显著高于另外两个boss。"
+				""
+				"暮初恶魂会隔一段时间在高塔上的恶魂陷阱附近生成迷你恶魂，并会吸收迷你恶魂回血。"
+				""
+				"在受到18点或更高伤害时，暮初恶魂将停止攻击，并开始降下对头盔产生大量损伤的泪雨。"
+			]
 			id: "1318FCFA271CA3DE"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -661,6 +722,7 @@
 		}
 		{
 			dependencies: ["6BBDBA4F12A5C1CA"]
+			description: ["暮色三巨头陨落，封印的力量被解放，&6天镜现已解锁。"]
 			id: "7E04EDDCCA04750E"
 			rewards: [
 				{
@@ -706,11 +768,24 @@
 			}]
 			shape: "rsquare"
 			subtitle: "也许你能通过一些方法实现自动化？"
-			tasks: [{
-				id: "6A85986002407682"
-				item: "twilightforest:quest_ram_trophy"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6A85986002407682"
+					item: "twilightforest:quest_ram_trophy"
+					type: "item"
+				}
+				{
+					id: "2E4868B4EC36B291"
+					item: {
+						Count: 1b
+						id: "twilightforest:crumble_horn"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
 			title: "隐于魔法森林的愚者"
 			x: 1.0d
 			y: 2.0d
@@ -908,6 +983,7 @@
 			y: 13.5d
 		}
 		{
+			description: ["在炉子中可以熔成数值怪——琉璃。虽然100的耐久消耗会让你的工具迅速损坏，但是你可以用一些耐久修复类词条（可再生、经验修补、魔力修复等）来让你的武器一直能使用。另外永恒作为部件时能阻止这个耐久消耗。"]
 			id: "617CE6B9E9E12C42"
 			shape: "diamond"
 			subtitle: "仅此一击40伤害，透过剑身可看到水下的一切"
@@ -1094,27 +1170,25 @@
 			y: -4.5d
 		}
 		{
-			dependencies: [
-				"2A92DE154179E33D"
-				"46D73C4494E1E547"
-				"384E33F8D1ED3D9D"
-				"7B5EF1050A7EBD63"
-				"401779BC7CF9ABFB"
-				"0BD34B3DA6319865"
-				"126DF0BF83CF5FA6"
-				"4308A49136387F6E"
-			]
 			id: "640CB5A714B49393"
 			tasks: [{
 				id: "26B89E5CECEF6CD2"
 				type: "checkmark"
 			}]
-			title: "矿锭与材料"
+			title: "常见材料"
 			x: 7.5d
 			y: 13.5d
 		}
 		{
+			dependencies: ["640CB5A714B49393"]
 			id: "4308A49136387F6E"
+			rewards: [{
+				id: "03FD094297C10A65"
+				item: "twilightforest:ironwood_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "是一种比较关键的合成材料"
 			tasks: [{
 				id: "41FF9B7A2F08C330"
 				item: "twilightforest:ironwood_ingot"
@@ -1124,7 +1198,16 @@
 			y: 15.0d
 		}
 		{
+			dependencies: ["640CB5A714B49393"]
+			description: ["      也是光耀引擎的重要组分。想上太空却不想从零开始炼巨量的钢？现在就开始计划吧！"]
 			id: "2A92DE154179E33D"
+			rewards: [{
+				id: "2DC789EF0722242C"
+				item: "twilightforest:fiery_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "甚至有工业应用"
 			tasks: [{
 				id: "61E1792D63E83EE1"
 				item: "twilightforest:fiery_ingot"
@@ -1134,7 +1217,14 @@
 			y: 12.5d
 		}
 		{
+			dependencies: ["640CB5A714B49393"]
 			id: "46D73C4494E1E547"
+			rewards: [{
+				id: "2465074A1F0668BB"
+				item: "twilightforest:knightmetal_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B2DFE94778C1241"
 				item: "twilightforest:knightmetal_ingot"
@@ -1144,17 +1234,31 @@
 			y: 13.5d
 		}
 		{
+			dependencies: ["640CB5A714B49393"]
 			id: "401779BC7CF9ABFB"
+			rewards: [{
+				id: "5C9D8DBAAC7A0FBB"
+				item: "twilightforest:naga_scale"
+				random_bonus: 3
+				type: "item"
+			}]
 			tasks: [{
 				id: "14B0CEADA29A21CE"
 				item: "twilightforest:naga_scale"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 13.5d
+			x: 7.5d
+			y: 12.0d
 		}
 		{
+			dependencies: ["640CB5A714B49393"]
 			id: "384E33F8D1ED3D9D"
+			rewards: [{
+				id: "06542B3994122531"
+				item: "twilightforest:carminite"
+				random_bonus: 3
+				type: "item"
+			}]
 			tasks: [{
 				id: "365521E007BA4A92"
 				item: "twilightforest:carminite"
@@ -1164,17 +1268,31 @@
 			y: 14.5d
 		}
 		{
+			dependencies: ["640CB5A714B49393"]
 			id: "126DF0BF83CF5FA6"
+			rewards: [{
+				id: "72AD8601CFCD5F78"
+				item: "twilightforest:steeleaf_block"
+				random_bonus: 1
+				type: "item"
+			}]
 			tasks: [{
 				id: "19BD643DEA3CFE25"
 				item: "twilightforest:steeleaf_ingot"
 				type: "item"
 			}]
-			x: 7.5d
-			y: 12.0d
+			x: 6.0d
+			y: 13.5d
 		}
 		{
+			dependencies: ["640CB5A714B49393"]
 			id: "0BD34B3DA6319865"
+			rewards: [{
+				id: "76403337938EA34B"
+				item: "twilightforest:arctic_fur"
+				random_bonus: 3
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F57B42A0BF616CF"
 				item: "twilightforest:arctic_fur"
@@ -1184,7 +1302,14 @@
 			y: 12.5d
 		}
 		{
+			dependencies: ["640CB5A714B49393"]
 			id: "7B5EF1050A7EBD63"
+			rewards: [{
+				id: "0A66697146929B15"
+				item: "twilightforest:alpha_yeti_fur"
+				random_bonus: 3
+				type: "item"
+			}]
 			tasks: [{
 				id: "14AB5B064748B839"
 				item: "twilightforest:alpha_yeti_fur"
@@ -1263,7 +1388,11 @@
 			y: 9.5d
 		}
 		{
-			description: ["强烈的光影效果，但是光照等级只有1（荧光蘑菇的光照等级是3）"]
+			description: [
+				"强烈的光影效果，但是光照等级只有1（荧光蘑菇的光照等级是3）"
+				""
+				"是不错的热力发电机热源"
+			]
 			id: "47ADB8DF75634C06"
 			shape: "diamond"
 			subtitle: "炽烈之光，掩于其内"
@@ -1300,10 +1429,172 @@
 			x: 33.5d
 			y: 14.5d
 		}
+		{
+			dependencies: ["6BBDBA4F12A5C1CA"]
+			description: ["      辉铋矿在暮色高地有少量分布，这不挖点回去？"]
+			id: "4AC1B23204B97F7F"
+			rewards: [{
+				id: "42E0430FEAE82CE8"
+				item: "etshtinker:bismuthinite_ore_deepslate"
+				random_bonus: 7
+				type: "item"
+			}]
+			subtitle: "并不是那么虚无缥缈"
+			tasks: [{
+				id: "3EC2743FB446DF0D"
+				item: "etshtinker:bismuthinite"
+				type: "item"
+			}]
+			x: 37.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["384E33F8D1ED3D9D"]
+			id: "65027D3473B51ED7"
+			rewards: [{
+				id: "01AC6FB43F68F4F7"
+				item: "cloudertinker:fierdistear"
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				id: "73DE4677D77017BD"
+				item: "cloudertinker:fierdistear"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["46D73C4494E1E547"]
+			id: "6711D3588C6C586F"
+			rewards: [{
+				id: "42968DC30669F678"
+				item: "tinkers_ingenuity:knight_crystal_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				id: "0652D6194B40DC53"
+				item: "tinkers_ingenuity:knight_crystal_ingot"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["4308A49136387F6E"]
+			id: "5DFF4F05B618838E"
+			rewards: [{
+				id: "601E9A0B447D8B9B"
+				item: "cloudertinker:dectird_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E687EE44EE7257A"
+				item: "cloudertinker:dectird_ingot"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["401779BC7CF9ABFB"]
+			id: "72ABE1605774C9FE"
+			rewards: [{
+				id: "1A69BA0B5198F0C5"
+				item: "cloudertinker:hydra_scale"
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				id: "499C2C30A74AB79D"
+				item: "cloudertinker:hydra_scale"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["126DF0BF83CF5FA6"]
+			id: "7B49088B312E132B"
+			rewards: [{
+				id: "4B77EBC3F4647E3B"
+				item: "cloudertinker:steeleafalloy"
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				id: "769F2D21953A3CBE"
+				item: "cloudertinker:steeleafalloy"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["126DF0BF83CF5FA6"]
+			id: "55278DDB52F4C51D"
+			rewards: [{
+				id: "329411341246411A"
+				item: "cloudertinker:compositesteeleaf_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				id: "7770B161F206983F"
+				item: "cloudertinker:compositesteeleaf_ingot"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["2A92DE154179E33D"]
+			id: "7561B6C372B83353"
+			rewards: [{
+				id: "7DA5E4CD5C04475B"
+				item: "cloudertinker:chimera_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "你最早能接触到的清效果材料"
+			tasks: [{
+				id: "7A7C690E0A007FB3"
+				item: "cloudertinker:chimera_ingot"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["41159BD319F93FC4"]
+			description: [
+				"      寒气流是一个冰雪题材的流派，它由霜木、寒霜之骨、寒铁和寒霜结晶组成。"
+				""
+				"      在目前版本里寒气流尚未形成完整可玩的流派，这在后续版本中会慢慢补全，尽情期待。"
+			]
+			id: "008EA1DC50A8AA95"
+			rewards: [{
+				id: "129357C673314699"
+				item: "cloudertinker:forest_gem"
+				random_bonus: 8
+				type: "item"
+			}]
+			subtitle: "寒气流？！"
+			tasks: [{
+				id: "53DBE79387BBC13A"
+				item: "cloudertinker:forest_gem"
+				type: "item"
+			}]
+			x: 27.0d
+			y: 0.0d
+		}
 	]
 	subtitle: [
 		"大佬，我的拆解台怎么用不了.png"
 		" -by 牢蘑菇锭"
 	]
-	title: "暮色森林 —— 经典，永不过时"
+	title: "第一章 —— 暮色之旅"
 }
