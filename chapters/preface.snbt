@@ -2065,6 +2065,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["1090F9ACA8F1F032"]
 			description: [
 				"斯卡蒂"
 				"负责了工业先锋任务"
@@ -2147,6 +2148,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["1090F9ACA8F1F032"]
 			description: [
 				"樱桃"
 				"帅气男大"
@@ -2217,6 +2219,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["1090F9ACA8F1F032"]
 			description: [
 				"苏茶茶"
 				"负责了部分代码和吉祥物(?"
@@ -2267,6 +2270,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["1090F9ACA8F1F032"]
 			description: [
 				"路过浮云"
 				"提供了好玩好用的浮云工坊以及暮色任务的补全"

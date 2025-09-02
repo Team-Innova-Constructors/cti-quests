@@ -12,6 +12,10 @@
 			description: [
 				"      这里的副标题均为武器词条描述，除了黑曜石。具体护甲词条请查看jei。"
 				"      你会注意到部分材料的任务图标的形状与其它材料不一样，&e这是表示这些材料在同时期或是有可观的面板，或是有不错的词条，所以较为推荐。"
+				""
+				"      材料等级与材料的进度有关。在第一章中你能获取&a1~5&r级的材料，第二章&e5~7&r级，第三章&67~9&r级。无尽单独为10级，贡献者材料均为14级，隐藏材料等级无意义。"
+				""
+				" &l    &n在更高级的材料中你能找到更强的材料，但是这不代表等级高的材料一定比等级低的材料更强。"
 			]
 			icon: "tconstruct:encyclopedia"
 			id: "7EE55A3543007C26"
@@ -1119,6 +1123,15 @@
 			y: 39.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "1"
+					}
+				}
+			}
 			id: "6DB690DF91855FE6"
 			shape: "diamond"
 			tasks: [{
@@ -2206,6 +2219,15 @@
 			y: 71.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "7769270CC45D5129"
 			shape: "diamond"
 			tasks: [{
@@ -2331,14 +2353,15 @@
 			description: [
 				"盔甲：减少爆炸伤害与之带来的击退/根据掉落耐久有成比例造成范围伤害，但有一半概率自己也会受到这个伤害"
 				"通用：火成-着火时间累积一定程度给予永久性加成（盔甲：护甲、韧性,工具或武器：伤害、挖掘/拉弓速度，通用-耐久）"
-				"&b武器提供的增幅一般，但是作为护甲提供的10点护甲值前期还是够看的"
+				""
+				"&b武器提供的增幅一般，作为护甲能提供的10点护甲值但是由于附带自伤和极大的耐久损伤。不过也算是对得起造价了"
 				""
 				"&l&8&c水与熔岩的机制代表着世界第一次迎来可持续的流体交互产生方块的力量，也是最为重要和经典的世界拓展化方式，原版中仅有两例。本包中还有血肉重铸的酸液（胃液桶：与水或熔岩交互产生闪长岩和方解石）&l&c"
 				"&5&l&o&n熔岩被水冲却，留下的是最为精致的力量（即使在现实中和钻石一样属于硬度高却易碎）&l&o&n&5"
 			]
 			hide_dependency_lines: true
 			id: "2F7DF5EA50C09329"
-			shape: "pentagon"
+			shape: "circle"
 			subtitle: "泡火成神"
 			tasks: [{
 				id: "77C8EFF6CB821AEB"
@@ -2849,6 +2872,8 @@
 			description: [
 				"&l&8&n虚空的力量？这和哪些奇奇怪怪的东西没有关系，只是平平无奇的虚空罢了。&l&n&8"
 				"&0虚无的宇宙底盘，真空不空，虚空不虚，真假不假，虚实不虚。&0"
+				""
+				"可以在深暗之园挖到"
 			]
 			hide_dependency_lines: true
 			id: "0585199F0587A906"
@@ -3583,6 +3608,15 @@
 			y: 40.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "3EA805BE43CE1A64"
 			shape: "diamond"
 			tasks: [{
@@ -3714,6 +3748,7 @@
 			y: 61.0d
 		}
 		{
+			description: ["击败图腾鸟后处理战利品获取"]
 			hide_dependency_lines: true
 			id: "0141A5217570206A"
 			subtitle: "继承太阳图腾的鸟形神性生物（拉？）"
@@ -4489,6 +4524,15 @@
 			y: 72.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "6DAC084606137C48"
 			shape: "diamond"
 			tasks: [{
@@ -4513,8 +4557,6 @@
 			description: [
 				"甚至可以奴役蜜蜂"
 				"功能性太强大但是没什么人用（不过因为谷物机制调整了也许有新的用武之地）"
-				""
-				"等级太高，应降级，数值调整不强求"
 			]
 			hide_dependency_lines: true
 			id: "758F6ADDB335C300"
@@ -4525,8 +4567,8 @@
 				item: "tinkers_reforged:hornium_ingot"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 79.5d
+			x: 8.0d
+			y: 63.5d
 		}
 		{
 			description: [
@@ -4648,7 +4690,7 @@
 				item: "tinkers_reforged:etryx_ingot"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 0.5d
 			y: 79.5d
 		}
 		{
@@ -4949,6 +4991,15 @@
 			y: 48.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
 			id: "55C7629A20473A34"
 			shape: "diamond"
 			tasks: [{
@@ -5865,6 +5916,7 @@
 			y: 43.5d
 		}
 		{
+			description: ["天镜挖矿获取"]
 			id: "1F675ECA1C112E1E"
 			tasks: [{
 				id: "1715C783BC8EA228"
@@ -5969,6 +6021,15 @@
 			y: 43.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "8"
+					}
+				}
+			}
 			id: "04107DDAE8234841"
 			shape: "diamond"
 			tasks: [{
@@ -6262,6 +6323,15 @@
 			y: 43.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "1"
+					}
+				}
+			}
 			id: "58A9E5FB5DE4DA1B"
 			shape: "diamond"
 			tasks: [{
@@ -6273,6 +6343,15 @@
 			y: 39.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "7D3BB4A0DFD74AED"
 			shape: "diamond"
 			tasks: [{
@@ -6284,6 +6363,15 @@
 			y: 41.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "50D16AF50850BAAB"
 			shape: "diamond"
 			tasks: [{
@@ -6295,6 +6383,15 @@
 			y: 43.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "68CC160BE5841D37"
 			tasks: [{
 				id: "5C66843B8840D184"
@@ -6305,6 +6402,15 @@
 			y: 43.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
 			id: "7B3C3E8F7D2C9B56"
 			shape: "diamond"
 			tasks: [{
@@ -6316,6 +6422,15 @@
 			y: 44.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "6CD1A0E23B044664"
 			shape: "diamond"
 			tasks: [{
@@ -6327,17 +6442,35 @@
 			y: 46.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "8"
+					}
+				}
+			}
 			id: "34D2A901C9D46D04"
 			shape: "diamond"
 			tasks: [{
 				id: "68D4763763D836E7"
-				title: "九级"
+				title: "八级"
 				type: "checkmark"
 			}]
 			x: 22.5d
 			y: 47.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "2050BBF3C2E1AD94"
 			shape: "diamond"
 			tasks: [{
@@ -6349,6 +6482,15 @@
 			y: 57.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "2CD91DC69C1756DC"
 			shape: "diamond"
 			tasks: [{
@@ -6360,6 +6502,15 @@
 			y: 59.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "1DD4D07210D551C8"
 			shape: "diamond"
 			tasks: [{
@@ -6371,6 +6522,15 @@
 			y: 61.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
 			id: "0704B34BA6711FE2"
 			shape: "diamond"
 			tasks: [{
@@ -6382,6 +6542,15 @@
 			y: 62.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "1E535C087E1E5919"
 			shape: "diamond"
 			tasks: [{
@@ -6393,6 +6562,15 @@
 			y: 64.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "7"
+					}
+				}
+			}
 			id: "7F8491B576FA0BD8"
 			shape: "diamond"
 			tasks: [{
@@ -6404,6 +6582,15 @@
 			y: 65.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "8"
+					}
+				}
+			}
 			id: "5BE4CB5D4D32A070"
 			shape: "diamond"
 			tasks: [{
@@ -6415,6 +6602,15 @@
 			y: 67.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "4B98CC7A5B1D61AD"
 			shape: "diamond"
 			tasks: [{
@@ -6426,6 +6622,15 @@
 			y: 71.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "24B2C3DB11C86EB8"
 			shape: "diamond"
 			tasks: [{
@@ -6437,6 +6642,15 @@
 			y: 72.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "0B2F378E0614C187"
 			shape: "diamond"
 			tasks: [{
@@ -6448,6 +6662,15 @@
 			y: 71.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "20E4D56B54BAA6A6"
 			shape: "diamond"
 			tasks: [{
@@ -6459,6 +6682,15 @@
 			y: 72.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
 			id: "2752AA7468B7109E"
 			shape: "diamond"
 			tasks: [{
@@ -6470,6 +6702,15 @@
 			y: 72.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "7"
+					}
+				}
+			}
 			id: "2AD98D930176FF77"
 			shape: "diamond"
 			tasks: [{
@@ -6481,6 +6722,15 @@
 			y: 74.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "1474A18A64D03E90"
 			shape: "diamond"
 			tasks: [{
@@ -6492,6 +6742,15 @@
 			y: 71.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "78EDA30F3671E3B4"
 			shape: "diamond"
 			tasks: [{
@@ -6503,6 +6762,15 @@
 			y: 57.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "71E8BFE84378DB11"
 			shape: "diamond"
 			tasks: [{
@@ -6514,6 +6782,15 @@
 			y: 58.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
 			id: "5E7764242C4FDBCB"
 			shape: "diamond"
 			tasks: [{
@@ -6525,6 +6802,15 @@
 			y: 60.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "740BF49E0F72CFF8"
 			shape: "diamond"
 			tasks: [{
@@ -6536,6 +6822,15 @@
 			y: 61.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "1"
+					}
+				}
+			}
 			id: "693F05524257DF0A"
 			shape: "diamond"
 			tasks: [{
@@ -6547,6 +6842,15 @@
 			y: 57.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "635E7B03E0AEA553"
 			shape: "diamond"
 			tasks: [{
@@ -6558,6 +6862,15 @@
 			y: 58.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "63137EFDC8E124D3"
 			shape: "diamond"
 			tasks: [{
@@ -6569,6 +6882,15 @@
 			y: 60.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "4355687A136C1CF4"
 			shape: "diamond"
 			tasks: [{
@@ -6580,6 +6902,15 @@
 			y: 63.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
 			id: "0DBE5A1115F46CE6"
 			shape: "diamond"
 			tasks: [{
@@ -6591,6 +6922,15 @@
 			y: 65.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "5B7D1167AD4654C4"
 			shape: "diamond"
 			tasks: [{
@@ -6602,6 +6942,15 @@
 			y: 65.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "7"
+					}
+				}
+			}
 			id: "4BA5D3D2AEA77CEA"
 			shape: "diamond"
 			tasks: [{
@@ -6613,6 +6962,15 @@
 			y: 66.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "06E5E04868194F20"
 			shape: "diamond"
 			tasks: [{
@@ -6624,6 +6982,15 @@
 			y: 57.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "3E493C0D4C766D23"
 			shape: "diamond"
 			tasks: [{
@@ -6635,6 +7002,15 @@
 			y: 58.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "1"
+					}
+				}
+			}
 			id: "72BCD96D004F2852"
 			shape: "diamond"
 			tasks: [{
@@ -6656,6 +7032,15 @@
 			y: 57.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "7BFD63BC12B5229A"
 			shape: "diamond"
 			tasks: [{
@@ -6667,6 +7052,15 @@
 			y: 58.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "21EB560D79D4D4D6"
 			shape: "diamond"
 			tasks: [{
@@ -6678,6 +7072,15 @@
 			y: 60.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
 			id: "34ED196FC09349FC"
 			shape: "diamond"
 			tasks: [{
@@ -6689,6 +7092,15 @@
 			y: 61.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "75DD158657E1B193"
 			shape: "diamond"
 			tasks: [{
@@ -6700,6 +7112,15 @@
 			y: 63.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "7"
+					}
+				}
+			}
 			id: "0BF2C94E6FB5DBC3"
 			shape: "diamond"
 			tasks: [{
@@ -6711,6 +7132,15 @@
 			y: 64.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "0A333AC7EF671A2B"
 			shape: "diamond"
 			tasks: [{
@@ -6722,6 +7152,15 @@
 			y: 39.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "71863CDA9BB7D9F1"
 			shape: "diamond"
 			tasks: [{
@@ -6733,6 +7172,15 @@
 			y: 42.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "383FAF76F5164B1A"
 			shape: "diamond"
 			tasks: [{
@@ -6744,6 +7192,15 @@
 			y: 46.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
 			id: "7B3A1DFDC66FA91B"
 			shape: "diamond"
 			tasks: [{
@@ -6755,6 +7212,15 @@
 			y: 48.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "8"
+					}
+				}
+			}
 			id: "56925FDF4E96F8AF"
 			shape: "diamond"
 			tasks: [{
@@ -6766,6 +7232,15 @@
 			y: 50.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "3D15E07BB306B116"
 			shape: "diamond"
 			tasks: [{
@@ -6777,6 +7252,15 @@
 			y: 57.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "22116B6E4366F58D"
 			shape: "diamond"
 			tasks: [{
@@ -6788,6 +7272,15 @@
 			y: 58.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "3155B59CC35A009C"
 			shape: "diamond"
 			tasks: [{
@@ -6799,6 +7292,15 @@
 			y: 61.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "2D491ACBBD67D6D2"
 			shape: "diamond"
 			tasks: [{
@@ -6810,6 +7312,15 @@
 			y: 62.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "5F295E5D72970183"
 			shape: "diamond"
 			tasks: [{
@@ -6821,6 +7332,15 @@
 			y: 39.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "0AE9DB95831929A5"
 			shape: "diamond"
 			tasks: [{
@@ -6832,6 +7352,15 @@
 			y: 40.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "2A4785C389A62E7B"
 			shape: "diamond"
 			tasks: [{
@@ -6843,61 +7372,15 @@
 			y: 43.0d
 		}
 		{
-			id: "640AA4E847E231B5"
-			shape: "diamond"
-			tasks: [{
-				id: "47CFC832B3A97E4B"
-				title: "五级"
-				type: "checkmark"
-			}]
-			x: -2.5d
-			y: 45.5d
-		}
-		{
-			id: "61164B6A3F845466"
-			shape: "diamond"
-			tasks: [{
-				id: "2B618FAEF4A056E1"
-				title: "六级"
-				type: "checkmark"
-			}]
-			x: -2.5d
-			y: 48.0d
-		}
-		{
-			id: "083277AD5C214830"
-			shape: "diamond"
-			tasks: [{
-				id: "7ABA8EB37B06E754"
-				title: "八级"
-				type: "checkmark"
-			}]
-			x: -2.5d
-			y: 52.0d
-		}
-		{
-			id: "4217FC2BFA125452"
-			shape: "diamond"
-			tasks: [{
-				id: "2ED67A3C775DDD2A"
-				title: "七级"
-				type: "checkmark"
-			}]
-			x: -2.5d
-			y: 50.5d
-		}
-		{
-			id: "5516435985BE3592"
-			shape: "diamond"
-			tasks: [{
-				id: "7F171983F5339A47"
-				title: "九级"
-				type: "checkmark"
-			}]
-			x: -2.5d
-			y: 53.5d
-		}
-		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "1"
+					}
+				}
+			}
 			id: "6E319A31370FE124"
 			shape: "diamond"
 			tasks: [{
@@ -6909,6 +7392,15 @@
 			y: 39.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "320B75F1005E4DF2"
 			shape: "diamond"
 			tasks: [{
@@ -6920,6 +7412,15 @@
 			y: 40.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "517AA43D60FC61B4"
 			shape: "diamond"
 			tasks: [{
@@ -6931,6 +7432,15 @@
 			y: 42.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "29599534B3A506DC"
 			tasks: [{
 				id: "635574CFE2ED6C0A"
@@ -6941,6 +7451,15 @@
 			y: 42.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "0C8803F2AB30D4EA"
 			shape: "diamond"
 			tasks: [{
@@ -6952,6 +7471,15 @@
 			y: 43.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "0FFFE978DC35EB21"
 			shape: "diamond"
 			tasks: [{
@@ -6963,6 +7491,15 @@
 			y: 57.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "8"
+					}
+				}
+			}
 			id: "64EB962C58ADBDA7"
 			shape: "diamond"
 			tasks: [{
@@ -6974,6 +7511,15 @@
 			y: 58.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "5D235D5766A13334"
 			shape: "diamond"
 			tasks: [{
@@ -6985,6 +7531,15 @@
 			y: 39.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "680DA03FB62791A5"
 			shape: "diamond"
 			tasks: [{
@@ -6996,6 +7551,15 @@
 			y: 40.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "079D9B58DDE76B42"
 			shape: "diamond"
 			tasks: [{
@@ -7007,6 +7571,15 @@
 			y: 42.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "19A20A900CBB35C0"
 			shape: "diamond"
 			tasks: [{
@@ -7018,6 +7591,15 @@
 			y: 43.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "7"
+					}
+				}
+			}
 			id: "0C91015F2E5A11DC"
 			shape: "diamond"
 			tasks: [{
@@ -7040,17 +7622,35 @@
 			y: 46.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "52D035C6F7371E5B"
 			shape: "diamond"
 			tasks: [{
 				id: "7F2E910D032927DD"
-				title: " 一级"
+				title: " 二级"
 				type: "checkmark"
 			}]
 			x: -2.5d
 			y: 71.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "3"
+					}
+				}
+			}
 			id: "2EB4A7DDF3B9905E"
 			shape: "diamond"
 			tasks: [{
@@ -7062,6 +7662,15 @@
 			y: 72.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "1CE3AD4CEBA2FEB2"
 			shape: "diamond"
 			tasks: [{
@@ -7073,6 +7682,15 @@
 			y: 76.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
 			id: "03E55D603D9FE7C3"
 			shape: "diamond"
 			tasks: [{
@@ -7084,6 +7702,15 @@
 			y: 78.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "587193AAAC822F7D"
 			shape: "diamond"
 			tasks: [{
@@ -7095,6 +7722,15 @@
 			y: 81.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "52946E05F08EF10D"
 			shape: "diamond"
 			tasks: [{
@@ -7106,6 +7742,15 @@
 			y: 71.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "4"
+					}
+				}
+			}
 			id: "37F2CBE715757531"
 			shape: "diamond"
 			tasks: [{
@@ -7117,6 +7762,15 @@
 			y: 72.5d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
 			id: "3E41A799BD4DC9CD"
 			shape: "diamond"
 			tasks: [{
@@ -7126,6 +7780,106 @@
 			}]
 			x: 22.0d
 			y: 74.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "5"
+					}
+				}
+			}
+			id: "1691D616B19D1261"
+			shape: "diamond"
+			tasks: [{
+				id: "2291C1F71E3D1A3F"
+				type: "checkmark"
+			}]
+			title: "五级"
+			x: -2.5d
+			y: 45.5d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "6"
+					}
+				}
+			}
+			id: "4C924FF73191F0AE"
+			shape: "diamond"
+			tasks: [{
+				id: "576F651606C45A98"
+				type: "checkmark"
+			}]
+			title: "六级"
+			x: -2.5d
+			y: 48.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "7"
+					}
+				}
+			}
+			id: "7F31CF45C0FD99CA"
+			shape: "diamond"
+			tasks: [{
+				id: "3292D1FA406B163E"
+				type: "checkmark"
+			}]
+			title: "七级"
+			x: -2.5d
+			y: 50.5d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "8"
+					}
+				}
+			}
+			id: "5001CC995376AD34"
+			shape: "diamond"
+			tasks: [{
+				id: "6BC37A94DE189ED5"
+				type: "checkmark"
+			}]
+			title: "八级"
+			x: -2.5d
+			y: 52.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "9"
+					}
+				}
+			}
+			id: "4C015023F5060EA3"
+			shape: "diamond"
+			tasks: [{
+				id: "7286EBA534F496E6"
+				type: "checkmark"
+			}]
+			title: "九级"
+			x: -2.5d
+			y: 53.5d
 		}
 	]
 	title: "材料的检索与全收集"

@@ -5958,9 +5958,8 @@
 					type: "item"
 				}
 				{
-					id: "03B5E134287DF9C3"
-					item: "mekanism:metallurgic_infuser"
-					optional_task: true
+					id: "075C4C7CDEA27BFB"
+					item: "mekanism:ultimate_infusing_factory"
 					type: "item"
 				}
 			]
