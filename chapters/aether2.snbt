@@ -353,6 +353,11 @@
 					random_bonus: 7
 					type: "item"
 				}
+				{
+					id: "339121E07D29189B"
+					item: "cti:soul_spell"
+					type: "item"
+				}
 			]
 			shape: "diamond"
 			size: 1.5d

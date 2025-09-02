@@ -365,12 +365,19 @@
 		{
 			description: ["巨龙之息与下届之烈焰摩擦钻石而凝聚出来的成果，相较于之前的宝珠有更加强悍的恶意抢夺能力，能得到更加强大的物品，只是它得到的东西种类变少了"]
 			id: "00B1E97C9A1E358F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "19444846100AF0E5"
-				table_id: 762635320671611458L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19444846100AF0E5"
+					table_id: 762635320671611458L
+					type: "random"
+				}
+				{
+					id: "53A4084F832FEA29"
+					item: "cti:soul_spell"
+					type: "item"
+				}
+			]
 			shape: "square"
 			size: 1.5d
 			subtitle: "内含龙的力量"
@@ -665,12 +672,19 @@
 		{
 			description: ["奇迹就在眼前，但是奇迹的后面……似乎还有着什么更加恐怖的东西……"]
 			id: "08D2F4ABDEFE9DF7"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3F049D2A2C613EA0"
-				table_id: 762635320671611458L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3F049D2A2C613EA0"
+					table_id: 762635320671611458L
+					type: "random"
+				}
+				{
+					id: "4F5DEEA90727EEAD"
+					item: "cti:soul_spell"
+					type: "item"
+				}
+			]
 			shape: "square"
 			size: 1.5d
 			subtitle: "你的到来，便是最大的奇迹，也是希冀"

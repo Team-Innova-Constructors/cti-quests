@@ -486,12 +486,19 @@
 			dependencies: ["3E1039454694FED5"]
 			description: ["是一种匠魂材料，会随着你的每一次攻击而递减的增加伤害。"]
 			id: "055BA184A605D51A"
-			rewards: [{
-				id: "4EFCDB4CAFBBA50E"
-				item: "undergarden:forgotten_ingot"
-				random_bonus: 3
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "4EFCDB4CAFBBA50E"
+					item: "undergarden:forgotten_ingot"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "3D0934C722A6AF99"
+					item: "cti:soul_spell"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			subtitle: "通过击杀遗忆守卫获得的遗忆锭获取"
 			tasks: [{
@@ -767,6 +774,11 @@
 		{
 			dependencies: ["12E77EE886C48DC8"]
 			id: "079D75B511A477DD"
+			rewards: [{
+				id: "0A89C14DC8AEBD55"
+				item: "cti:soul_spell"
+				type: "item"
+			}]
 			size: 2.0d
 			subtitle: "非常重要的饰品，有了它可以大量节省无尽阶段的肝度"
 			tasks: [{

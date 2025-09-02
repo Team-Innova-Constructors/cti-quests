@@ -255,12 +255,19 @@
 			]
 			icon: "minecraft:enchanted_golden_apple"
 			id: "71D21D88ED76B8F2"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "01E27C2AE6CED720"
-				table_id: 4099866735571295913L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "01E27C2AE6CED720"
+					table_id: 4099866735571295913L
+					type: "random"
+				}
+				{
+					id: "0659D13971986A62"
+					item: "cti:soul_spell"
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 2.0d
 			subtitle: "你到中转站了，接下来你有三条分支。"
@@ -724,11 +731,18 @@
 			description: ["你需要先杀死巨魔获取魔豆，用魔豆去天上空岛的下方种植然后直达巨人所在之地（当然你可以不用这个方法），杀死巨人获取的巨人镐用来破坏巨型黑曜石，里面的箱子会有你想要的东西。"]
 			icon: "twilightforest:giant_obsidian"
 			id: "1AB66887503C48D2"
-			rewards: [{
-				id: "31C070534891029C"
-				table_id: 3943400324310342838L
-				type: "random"
-			}]
+			rewards: [
+				{
+					id: "31C070534891029C"
+					table_id: 3943400324310342838L
+					type: "random"
+				}
+				{
+					id: "43A6AFAAF005871C"
+					item: "cti:soul_spell"
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 2.0d
 			subtitle: "其实挺可爱的不是吗"
@@ -1645,6 +1659,12 @@
 					random_bonus: 3
 					type: "item"
 				}
+				{
+					count: 2
+					id: "376764F9C67D600F"
+					item: "cti:soul_spell"
+					type: "item"
+				}
 			]
 			shape: "gear"
 			size: 2.0d
@@ -2116,7 +2136,7 @@
 			description: [
 				"      暮色有独特的群系-结构-boss强绑定流程，这也意味着boss的复刷会变得具有一定难度。"
 				""
-				"      所以这里针对一些潜在的复刷需求，允许你用&a恶念构象&r兑换boss的复刷机会。"
+				"      所以这里针对一些潜在的复刷需求，允许你用&a恶念构象&r兑换一次额外的boss的挑战机会。"
 			]
 			id: "080551BCC5CC6E0C"
 			rewards: [{

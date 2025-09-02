@@ -2457,6 +2457,12 @@
 					table_id: 8590509534707339916L
 					type: "choice"
 				}
+				{
+					count: 2
+					id: "31A3FBCABCAFC3D5"
+					item: "cti:soul_spell"
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 2.5d

@@ -2345,6 +2345,11 @@
 		}
 		{
 			dependencies: ["1033FC65776BF06D"]
+			description: [
+				"      灵魂补剂能消除累积死亡对你的影响，但是相应的它也无法被合成，需要花费1钻石币在序章开头购买。"
+				""
+				"      冒险流程也会随阶段送你几瓶免费的灵魂补剂！"
+			]
 			icon: "cti:soul_spell"
 			id: "59DCEC4CC4201B9F"
 			rewards: [{
