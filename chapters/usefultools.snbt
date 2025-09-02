@@ -800,8 +800,8 @@
 				item: "sfm:cable"
 				type: "item"
 			}]
-			x: -27.5d
-			y: -29.5d
+			x: -29.5d
+			y: -29.0d
 		}
 		{
 			id: "026F754AD8CA9EDA"
@@ -811,8 +811,8 @@
 				item: "sfm:manager"
 				type: "item"
 			}]
-			x: -29.0d
-			y: -28.0d
+			x: -29.5d
+			y: -27.0d
 		}
 		{
 			id: "068418AEE8809692"
@@ -837,7 +837,7 @@
 				}
 			]
 			x: -27.5d
-			y: -28.0d
+			y: -27.0d
 		}
 		{
 			description: [
@@ -853,7 +853,7 @@
 				type: "item"
 			}]
 			x: -27.5d
-			y: -26.5d
+			y: -29.0d
 		}
 		{
 			id: "445EF470FA8A0F03"

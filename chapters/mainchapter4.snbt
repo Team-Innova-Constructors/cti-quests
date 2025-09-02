@@ -42,6 +42,18 @@
 			x: 1.0d
 			y: 5.5d
 		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "ftbquests:tasks/input_only"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.0d
+			y: 0.0d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -540,6 +552,8 @@
 				"       &r集你一切所学和一切所得，最终你造出了&d无尽锭&r，它标志着你旅途的结束。"
 				""
 				"      然而，除此之外，世界上仍有许多潜在的未知等待你去探索。&e古文明留下来的饰品、&a隐藏的许多不为人知邪恶，&r以及，&d材料学在这个世界上衍生出的多样化分支。&r你可以就此停下，简单的略过它们，也可以从头开始，抱着探索的心态开启一趟新的旅途——一切取决于你。"
+				""
+				" &d     倘如你对目前所得尚存不满，请前往下一个任务，它可以为你带来对创造之力的一瞥。"
 			]
 			icon: "ftbquests:book"
 			id: "551214D011551305"
@@ -659,7 +673,7 @@
 				value: 1
 			}]
 			title: "无尽的旅途"
-			x: 9.0d
+			x: 12.0d
 			y: 0.0d
 		}
 		{
@@ -746,6 +760,13 @@
 					random_bonus: 3
 					type: "item"
 				}
+				{
+					count: 4
+					id: "3B6035A9335DC9C1"
+					item: "kubejs:evil_mechanism"
+					random_bonus: 4
+					type: "item"
+				}
 			]
 			shape: "gear"
 			size: 1.5d
@@ -759,24 +780,11 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"3D10B86CB92A3974"
-				"4090B4DEDD8A3726"
-				"28226734ED8DD5BE"
-				"6FDD3DC6CF7D96FE"
-				"3253355A277C5B1C"
-				"7F4D72770FF19581"
-				"7CDF374DE632C89A"
-			]
+			hide: false
+			hide_details_until_startable: false
+			hide_text_until_complete: false
 			icon: "cataclysm:dying_ember"
 			id: "61643E8D7F91E6F7"
-			rewards: [{
-				count: 4
-				id: "1D4200F904745D70"
-				item: "kubejs:evil_mechanism"
-				random_bonus: 4
-				type: "item"
-			}]
 			subtitle: "和奇迹物质一样，就一个尼德霍格爽"
 			tasks: [{
 				id: "109C7C103966A021"
@@ -805,6 +813,48 @@
 			}]
 			x: 0.0d
 			y: 7.5d
+		}
+		{
+			dependencies: ["551214D011551305"]
+			id: "13E303226180133A"
+			rewards: [
+				{
+					id: "39249C1F47305317"
+					item: {
+						Count: 1b
+						id: "expatternprovider:infinity_cell"
+						tag: {
+							record: {
+								"#c": "ae2:f"
+								id: "etshtinker:antimatter_l"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "18F56E7BF784D55A"
+					table_id: 6135228691312300992L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12100283A6B103B7"
+					table_id: 3218210861919954475L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			subtitle: "挑战目标！"
+			tasks: [{
+				id: "74A0CA5E51A7C8D6"
+				item: "enigmaticlegacy:enigmatic_item"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
 		}
 	]
 	subtitle: [

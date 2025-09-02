@@ -283,6 +283,18 @@
 			x: -9.0d
 			y: 6.0d
 		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.5d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 2.5d
+			x: -7.0d
+			y: 3.0d
+		}
 	]
 	order_index: 4
 	quest_links: [ ]
@@ -352,6 +364,16 @@
 				{
 					id: "6E5D98E19EA2F7DA"
 					item: "cti:astra_tablet_5"
+					type: "item"
+				}
+				{
+					id: "68CCB4679B2E538A"
+					item: {
+						Count: 1b
+						id: "thermal:fluid_reservoir"
+						tag: { }
+					}
+					title: "贮液器能用来自动给套装供应流体，从而自动供氧"
 					type: "item"
 				}
 			]
@@ -1728,6 +1750,7 @@
 			y: 6.0d
 		}
 		{
+			description: ["      在击败了图腾鸟和钢铁守护者后，你能用极少量的钢提前做出二阶火箭。"]
 			id: "1474E0D8B73C139E"
 			invisible: true
 			rewards: [{

@@ -15,8 +15,8 @@
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 3.0d
-			x: 9.0d
-			y: -2.0d
+			x: 7.0d
+			y: -1.0d
 		}
 		{
 			click: ""
@@ -27,8 +27,8 @@
 			image: "ftbquests:block/barrier_open"
 			rotation: 0.0d
 			width: 3.0d
-			x: 9.0d
-			y: 5.0d
+			x: 7.0d
+			y: 4.0d
 		}
 		{
 			click: ""
@@ -39,8 +39,20 @@
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 3.0d
-			x: 13.0d
-			y: 5.0d
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.2d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 3.2d
+			x: 0.0d
+			y: 1.5d
 		}
 	]
 	order_index: 3
@@ -114,8 +126,8 @@
 				type: "advancement"
 			}]
 			title: "深园的特殊矿物"
-			x: 0.0d
-			y: -2.0d
+			x: -2.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["08D4DE294FE0E8A1"]
@@ -136,8 +148,8 @@
 				type: "item"
 			}]
 			title: "扼塞矿石"
-			x: 1.5d
-			y: -5.25d
+			x: -1.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["08D4DE294FE0E8A1"]
@@ -157,8 +169,8 @@
 				type: "item"
 			}]
 			title: "御腐矿石"
-			x: -1.5d
-			y: -5.25d
+			x: -3.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["08D4DE294FE0E8A1"]
@@ -181,8 +193,8 @@
 				type: "item"
 			}]
 			title: "霜钢矿石"
-			x: 0.0d
-			y: -5.25d
+			x: -1.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["08D4DE294FE0E8A1"]
@@ -208,7 +220,7 @@
 			}]
 			title: "贵豪矿石"
 			x: -3.0d
-			y: -5.25d
+			y: -3.0d
 		}
 		{
 			dependencies: ["6F368891161CDB8F"]
@@ -227,8 +239,8 @@
 				type: "advancement"
 			}]
 			title: "异世界猪灵"
-			x: -3.0d
-			y: -7.5d
+			x: -4.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["353E27D8A62F845D"]
@@ -241,8 +253,8 @@
 				type: "item"
 			}]
 			title: "通过与石生体交易获取"
-			x: -7.5d
-			y: 3.75d
+			x: -8.25d
+			y: 2.25d
 		}
 		{
 			dependencies: ["3351BC4716C05698"]
@@ -258,8 +270,8 @@
 				type: "advancement"
 			}]
 			title: "深园的特殊怪物"
-			x: 0.0d
-			y: 5.0d
+			x: -2.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["393014078821B442"]
@@ -279,8 +291,8 @@
 				type: "observation"
 			}]
 			title: "居存者"
-			x: -1.5d
-			y: 8.25d
+			x: -3.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["3351BC4716C05698"]
@@ -311,7 +323,7 @@
 				type: "observation"
 			}]
 			x: -3.0d
-			y: 8.25d
+			y: 6.0d
 		}
 		{
 			dependencies: ["377EE1FA4D537B28"]
@@ -331,8 +343,8 @@
 					type: "advancement"
 				}
 			]
-			x: -3.0d
-			y: 10.5d
+			x: -4.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["353E27D8A62F845D"]
@@ -355,7 +367,7 @@
 				}
 				type: "item"
 			}]
-			x: -7.5d
+			x: -6.75d
 			y: 2.25d
 		}
 		{
@@ -376,8 +388,8 @@
 				item: "undergarden:shiverstone"
 				type: "item"
 			}]
-			x: -7.5d
-			y: -0.75d
+			x: -8.25d
+			y: 0.75d
 		}
 		{
 			dependencies: ["353E27D8A62F845D"]
@@ -399,7 +411,7 @@
 				}
 				type: "item"
 			}]
-			x: -7.5d
+			x: -6.75d
 			y: 0.75d
 		}
 		{
@@ -415,8 +427,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 1.5d
-			y: 8.25d
+			x: -1.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["393014078821B442"]
@@ -434,8 +446,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 8.25d
+			x: -1.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["313D8290414EC63C"]
@@ -467,8 +479,8 @@
 					type: "advancement"
 				}
 			]
-			x: 5.0d
-			y: -3.75d
+			x: 2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["3E1039454694FED5"]
@@ -487,8 +499,8 @@
 				item: "undergarden:forgotten_ingot"
 				type: "item"
 			}]
-			x: 6.75d
-			y: -3.75d
+			x: 3.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["3351BC4716C05698"]
@@ -508,8 +520,8 @@
 				type: "advancement"
 			}]
 			title: "遗忆府邸"
-			x: 5.0d
-			y: -2.0d
+			x: 2.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["313D8290414EC63C"]
@@ -522,8 +534,8 @@
 				item: "kubejs:aetherium_core"
 				type: "item"
 			}]
-			x: 9.0d
-			y: -2.0d
+			x: 7.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["3351BC4716C05698"]
@@ -585,8 +597,8 @@
 				}
 			]
 			title: "寻找巨龙"
-			x: 5.0d
-			y: 5.0d
+			x: 2.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["67A18085791201F0"]
@@ -616,8 +628,8 @@
 				}
 			]
 			title: "驾驭龙息"
-			x: 9.0d
-			y: 5.0d
+			x: 7.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["31816F3E8B987A68"]
@@ -695,8 +707,8 @@
 				type: "item"
 			}]
 			title: "杀龙取卵"
-			x: 7.0d
-			y: 5.0d
+			x: 4.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["08D4DE294FE0E8A1"]
@@ -706,15 +718,14 @@
 				" &e     大胆想象下它在天镜会有什么作用？"
 			]
 			id: "272710452EFD0B9D"
-			size: 1.5d
 			subtitle: "破基岩！"
 			tasks: [{
 				id: "10DAEDD4CA099350"
 				item: "tinkersinnovation:raw_void_crystal"
 				type: "item"
 			}]
-			x: -3.0d
-			y: -2.0d
+			x: -3.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["3E1039454694FED5"]
@@ -738,8 +749,8 @@
 				item: "cti:orb_of_curse"
 				type: "item"
 			}]
-			x: 5.0d
-			y: -5.5d
+			x: 2.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["251F4CEE57CB1317"]
@@ -750,8 +761,8 @@
 				item: "cti:star_dragon_ingot"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 5.0d
+			x: 9.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["12E77EE886C48DC8"]
@@ -763,8 +774,8 @@
 				item: "l2hostility:greed_of_nidhoggur"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 5.0d
+			x: 12.0d
+			y: 4.0d
 		}
 	]
 	subtitle: [

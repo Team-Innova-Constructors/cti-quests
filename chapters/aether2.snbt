@@ -15,7 +15,7 @@
 			image: "ftbquests:block/barrier_open"
 			rotation: 0.0d
 			width: 2.0d
-			x: 19.0d
+			x: 18.5d
 			y: 0.0d
 		}
 		{
@@ -27,7 +27,7 @@
 			image: "ftbquests:tasks/input_only"
 			rotation: 0.0d
 			width: 1.5d
-			x: 6.5d
+			x: 6.0d
 			y: 0.0d
 		}
 		{
@@ -39,7 +39,7 @@
 			image: "ftbquests:tasks/input_only"
 			rotation: 0.0d
 			width: 1.5d
-			x: 11.5d
+			x: 11.0d
 			y: 0.0d
 		}
 		{
@@ -51,7 +51,19 @@
 			image: "ftbquests:tasks/input_only"
 			rotation: 0.0d
 			width: 1.5d
-			x: 16.5d
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.2d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 3.2d
+			x: 0.0d
 			y: 0.0d
 		}
 	]
@@ -71,7 +83,6 @@
 			]
 			icon: "aether:aether_portal_frame"
 			id: "312A48DBACD88CE0"
-			shape: "octagon"
 			size: 3.0d
 			subtitle: "我踏马莱辣！"
 			tasks: [{
@@ -127,8 +138,8 @@
 				type: "item"
 			}]
 			title: "天空中的国度"
-			x: 0.0d
-			y: -4.0d
+			x: -5.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["312A48DBACD88CE0"]
@@ -168,8 +179,8 @@
 				}
 			]
 			title: "虚无飘渺的云朵"
-			x: -4.0d
-			y: 0.0d
+			x: -5.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["6881CC008DAF68A8"]
@@ -207,7 +218,7 @@
 				}
 			]
 			title: "寻找白银地牢：女武神之神庙"
-			x: 9.0d
+			x: 8.5d
 			y: 0.0d
 		}
 		{
@@ -264,7 +275,7 @@
 				}
 			]
 			title: "击败女武神之王！"
-			x: 11.5d
+			x: 11.0d
 			y: 0.0d
 		}
 		{
@@ -288,7 +299,7 @@
 				type: "structure"
 			}]
 			title: "寻找黄金地牢：烈阳巨灵之要塞"
-			x: 14.0d
+			x: 13.5d
 			y: 0.0d
 		}
 		{
@@ -314,7 +325,7 @@
 				type: "structure"
 			}]
 			title: "寻找青铜地牢：滑行魔石之迷宫"
-			x: 4.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -353,7 +364,7 @@
 				value: 1L
 			}]
 			title: "杀死太阳暴君"
-			x: 16.5d
+			x: 16.0d
 			y: 0.0d
 		}
 		{
@@ -390,7 +401,7 @@
 				}
 			]
 			title: "哦这是个滑动的石头！"
-			x: 6.5d
+			x: 6.0d
 			y: 0.0d
 		}
 		{
@@ -418,8 +429,8 @@
 				item: "aether:ambrosium_shard"
 				type: "item"
 			}]
-			x: 0.0d
-			y: -6.0d
+			x: -6.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["3BE3A88B213952D5"]
@@ -443,8 +454,8 @@
 				item: "aether:zanite_gemstone"
 				type: "item"
 			}]
-			x: -1.0d
-			y: -6.0d
+			x: -6.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["3BE3A88B213952D5"]
@@ -482,8 +493,8 @@
 				type: "item"
 			}]
 			title: "史上最重的矿"
-			x: 0.0d
-			y: -7.0d
+			x: -4.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["312A48DBACD88CE0"]
@@ -564,8 +575,8 @@
 				}
 			]
 			title: "武神套装"
-			x: 3.0d
-			y: -5.5d
+			x: 8.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["312A48DBACD88CE0"]
@@ -639,8 +650,8 @@
 				}
 			]
 			title: "凤凰套装"
-			x: 3.0d
-			y: -7.0d
+			x: 8.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["312A48DBACD88CE0"]
@@ -714,8 +725,8 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: -8.5d
+			x: 8.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["312A48DBACD88CE0"]
@@ -739,8 +750,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: -4.0d
+			x: 9.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4D3C95C8926DF48E"]
@@ -804,8 +815,8 @@
 					type: "item"
 				}
 			]
-			x: 4.5d
-			y: -7.0d
+			x: 9.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["56F8A7076E8D2309"]
@@ -821,8 +832,8 @@
 				item: "aether:golden_amber"
 				type: "item"
 			}]
-			x: -1.0d
-			y: -7.0d
+			x: -5.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["401BEC234F110372"]
@@ -846,8 +857,8 @@
 					type: "item"
 				}
 			]
-			x: -1.0d
-			y: -8.0d
+			x: -4.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["6881CC008DAF68A8"]
@@ -872,7 +883,7 @@
 					type: "item"
 				}
 			]
-			x: 6.5d
+			x: 6.0d
 			y: -2.0d
 		}
 		{
@@ -898,8 +909,8 @@
 				type: "advancement"
 			}]
 			title: "母猪上天了！"
-			x: -6.0d
-			y: -1.0d
+			x: -7.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["52B021F63B59DC7A"]
@@ -925,7 +936,7 @@
 			}]
 			title: "恐鸟骑士传说 其一"
 			x: -6.0d
-			y: 0.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["0F4579885B967540"]
@@ -957,8 +968,8 @@
 				}
 			]
 			title: "恐鸟骑士传说 其二"
-			x: -7.5d
-			y: 0.0d
+			x: -7.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["03325A82E742BC63"]
@@ -984,8 +995,8 @@
 				type: "advancement"
 			}]
 			title: "恐鸟骑士传说 其三"
-			x: -9.0d
-			y: 0.0d
+			x: -6.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["28CA2D57F38574AF"]
@@ -1016,8 +1027,8 @@
 				type: "advancement"
 			}]
 			title: "恐鸟骑士传说 其四"
-			x: -10.5d
-			y: 0.0d
+			x: -5.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["28B1FCD327DEE558"]
@@ -1033,8 +1044,8 @@
 				type: "item"
 			}]
 			title: "恐鸟骑士传说 其五"
-			x: -12.0d
-			y: 0.0d
+			x: -5.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["28B1FCD327DEE558"]
@@ -1052,8 +1063,8 @@
 				value: 200L
 			}]
 			title: "恐鸟骑士传说 外传 堕入黑暗之人"
-			x: -12.0d
-			y: -1.5d
+			x: -4.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["6CB4DB54CB2EAD13"]
@@ -1064,7 +1075,6 @@
 				type: "item"
 			}]
 			shape: "pentagon"
-			size: 1.3d
 			subtitle: "终于，你骑上了那道魅影……"
 			tasks: [{
 				advancement: "aether:black_moa"
@@ -1073,8 +1083,8 @@
 				type: "advancement"
 			}]
 			title: "恐鸟骑士传说 终"
-			x: -13.5d
-			y: 0.0d
+			x: -4.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["59791E2D5B1845B0"]
@@ -1088,7 +1098,7 @@
 				item: "undergarden:catalyst"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 18.5d
 			y: 0.0d
 		}
 		{
@@ -1105,7 +1115,7 @@
 				item: "kubejs:valkyrie_ingot"
 				type: "item"
 			}]
-			x: 11.5d
+			x: 11.0d
 			y: 2.0d
 		}
 		{
@@ -1116,7 +1126,7 @@
 				item: "kubejs:phoenix_ingot"
 				type: "item"
 			}]
-			x: 16.0d
+			x: 15.5d
 			y: 2.0d
 		}
 		{
@@ -1139,7 +1149,7 @@
 				item: "aether:altar"
 				type: "item"
 			}]
-			x: 6.5d
+			x: 6.0d
 			y: 2.0d
 		}
 		{
@@ -1162,8 +1172,8 @@
 				item: "kubejs:sentrite"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 3.5d
+			x: 6.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["7EEBFF940C295E99"]
@@ -1181,8 +1191,8 @@
 				item: "aether_redux:gravitite_ingot"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 3.5d
+			x: 5.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["3BE3A88B213952D5"]
@@ -1193,8 +1203,8 @@
 				item: "aether_redux:veridium_ingot"
 				type: "item"
 			}]
-			x: 1.0d
-			y: -6.0d
+			x: -5.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["59791E2D5B1845B0"]
@@ -1219,7 +1229,7 @@
 				item: "kubejs:life_crystal"
 				type: "item"
 			}]
-			x: 17.0d
+			x: 16.5d
 			y: 2.0d
 		}
 		{
@@ -1237,7 +1247,7 @@
 				item: "kubejs:violium_core"
 				type: "item"
 			}]
-			x: 16.0d
+			x: 15.5d
 			y: -2.0d
 		}
 		{
@@ -1345,7 +1355,7 @@
 				item: "tinkers_ingenuity:star_alloy_ingot"
 				type: "item"
 			}]
-			x: 17.0d
+			x: 16.5d
 			y: -2.0d
 		}
 		{
@@ -1369,7 +1379,7 @@
 				item: "aether_redux:gravitite_ingot"
 				type: "item"
 			}]
-			x: 16.5d
+			x: 16.0d
 			y: -3.0d
 		}
 	]

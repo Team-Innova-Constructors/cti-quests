@@ -15,92 +15,8 @@
 			image: "ftbquests:block/barrier_open"
 			rotation: 0.0d
 			width: 2.5d
-			x: -42.0d
-			y: -18.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -35.5d
-			y: -10.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -34.5d
-			y: -10.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -33.5d
-			y: -10.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -32.5d
-			y: -10.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -31.5d
-			y: -10.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -30.5d
-			y: -10.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -10.0d
-			y: -15.0d
+			x: -50.0d
+			y: -22.5d
 		}
 		{
 			alpha: 100
@@ -112,80 +28,9 @@
 			image: "#FFFFFF"
 			order: -10
 			rotation: 0.0d
-			width: 16.0d
-			x: -31.0d
-			y: -2.5d
-		}
-		{
-			alpha: 100
-			click: ""
-			color: 11206570
-			corner: false
-			dev: false
-			height: 22.0d
-			hover: [ ]
-			image: "#FFFFFF"
-			order: -10
-			rotation: 0.0d
-			width: 3.0d
-			x: -42.0d
-			y: -18.5d
-		}
-		{
-			alpha: 100
-			click: ""
-			corner: false
-			dev: false
-			height: 10.0d
-			hover: [ ]
-			image: "#FFFFFF"
-			order: -10
-			rotation: 0.0d
-			width: 16.0d
-			x: -31.0d
-			y: -13.0d
-		}
-		{
-			alpha: 100
-			click: ""
-			corner: false
-			dev: false
-			height: 10.0d
-			hover: [ ]
-			image: "#FFFFFF"
-			order: -10
-			rotation: 0.0d
-			width: 16.0d
-			x: -14.0d
-			y: -13.0d
-		}
-		{
-			alpha: 100
-			click: ""
-			corner: false
-			dev: false
-			height: 10.0d
-			hover: [ ]
-			image: "#FFFFFF"
-			order: -10
-			rotation: 0.0d
-			width: 16.0d
-			x: -14.0d
-			y: -2.5d
-		}
-		{
-			alpha: 100
-			click: ""
-			corner: false
-			dev: false
-			height: 10.0d
-			hover: [ ]
-			image: "#FFFFFF"
-			order: -10
-			rotation: 0.0d
-			width: 16.0d
-			x: 3.0d
-			y: -13.0d
+			width: 9.0d
+			x: -39.5d
+			y: -32.0d
 		}
 		{
 			alpha: 100
@@ -198,33 +43,9 @@
 			image: "#FFFFFF"
 			order: -10
 			rotation: 0.0d
-			width: 16.0d
-			x: -31.0d
-			y: -23.5d
-		}
-		{
-			click: "#5AFC1ACCA5354303"
-			corner: false
-			dev: false
-			height: 2.0d
-			hover: [ ]
-			image: "kubejs:item/electro_magnetic_mechanism"
-			rotation: 0.0d
-			width: 2.0d
-			x: -25.0d
-			y: -11.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "minecraft:block/end_portal_frame_side"
-			rotation: 0.0d
-			width: 1.0d
-			x: -14.0d
-			y: -16.0d
+			width: 28.0d
+			x: -31.34d
+			y: -22.5d
 		}
 		{
 			click: ""
@@ -235,111 +56,22 @@
 			image: "ftblibrary:icons/right"
 			rotation: 0.0d
 			width: 2.0d
-			x: -44.5d
-			y: -18.0d
+			x: -52.0d
+			y: -22.5d
 		}
 		{
+			alpha: 100
 			click: ""
 			corner: false
 			dev: false
-			height: 1.5d
+			height: 8.0d
 			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -29.5d
-			y: -10.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -28.5d
-			y: -10.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -16.0d
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 18.0d
+			x: -35.62d
 			y: -14.0d
-		}
-		{
-			alpha: 100
-			click: ""
-			corner: false
-			dev: false
-			height: 10.0d
-			hover: [ ]
-			image: "#FFFFFF"
-			order: -10
-			rotation: 0.0d
-			width: 16.0d
-			x: 3.0d
-			y: -2.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 0.75d
-			hover: [ ]
-			image: "ae2:item/printed_silicon"
-			rotation: 0.0d
-			width: 0.75d
-			x: -32.5d
-			y: -9.75d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 45.0d
-			width: 1.5d
-			x: -17.0d
-			y: -2.0d
-		}
-		{
-			alpha: 100
-			click: ""
-			corner: false
-			dev: false
-			height: 10.0d
-			hover: [ ]
-			image: "#FFFFFF"
-			order: -10
-			rotation: 0.0d
-			width: 16.0d
-			x: 19.5d
-			y: -2.5d
-		}
-		{
-			alpha: 100
-			click: ""
-			color: 16764023
-			corner: false
-			dev: false
-			height: 10.0d
-			hover: [ ]
-			image: "#FFFFFF"
-			order: -10
-			rotation: 0.0d
-			width: 16.0d
-			x: -14.0d
-			y: -23.5d
 		}
 		{
 			alpha: 100
@@ -353,8 +85,8 @@
 			order: -10
 			rotation: 0.0d
 			width: 3.0d
-			x: -2.5d
-			y: -23.5d
+			x: 3.0d
+			y: -22.5d
 		}
 		{
 			click: ""
@@ -365,8 +97,134 @@
 			image: "ftbquests:block/barrier_open"
 			rotation: 0.0d
 			width: 2.5d
-			x: -2.5d
+			x: 3.0d
+			y: -22.5d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 11.0d
+			x: -30.5d
+			y: -32.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 11.0d
+			x: -20.5d
+			y: -32.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 12.0d
+			x: -10.0d
+			y: -32.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: -32.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 8.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 18.0d
+			x: -19.5d
+			y: -14.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 8.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 18.0d
+			x: -3.42d
+			y: -14.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			color: 16764023
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 22.0d
+			x: -9.0d
+			y: -22.5d
+		}
+		{
+			alpha: 100
+			click: ""
+			color: 11206570
+			corner: false
+			dev: false
+			height: 30.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 4.0d
+			x: -46.0d
 			y: -23.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.25d
+			hover: [ ]
+			image: "ftbquests:tasks/input_only"
+			rotation: 0.0d
+			width: 1.25d
+			x: 1.5d
+			y: -30.5d
 		}
 	]
 	order_index: 2
@@ -394,8 +252,8 @@
 				item: "pneumaticcraft:ingot_iron_compressed"
 				type: "item"
 			}]
-			x: -17.5d
-			y: -13.0d
+			x: -22.5d
+			y: -32.5d
 		}
 		{
 			dependencies: ["6E48801C65AFF1D6"]
@@ -413,8 +271,8 @@
 				item: "pneumaticcraft:reinforced_stone"
 				type: "item"
 			}]
-			x: -17.5d
-			y: -14.0d
+			x: -22.5d
+			y: -33.5d
 		}
 		{
 			dependencies: [
@@ -467,12 +325,14 @@
 				item: "pneumaticcraft:pressure_tube"
 				type: "item"
 			}]
-			x: -16.0d
-			y: -13.0d
+			x: -21.5d
+			y: -32.5d
 		}
 		{
 			description: [
 				"     这一章可以说是本包的核心章节，你将会一次性接触4个体量不小的科技模组，其中还有气动工艺这种具有独立能量体系的长流程模组。&6而且流程上与你玩过的其它整合包可能存在很大区别。&r这也是为什么本章的任务将各个模组各自的发展路线与主线拆分开了。"
+				""
+				" &e    本章的科技流程难度很高，如果你在哪里卡住了不妨先去干点别的（比如冒险）"
 				""
 				"     当在主线看到一个不熟悉的合成方式时，请前往教程章查看该合成方式对应的教程任务。"
 				""
@@ -510,8 +370,8 @@
 				}
 			]
 			title: "本章须知"
-			x: -42.0d
-			y: -18.0d
+			x: -50.0d
+			y: -22.5d
 		}
 		{
 			dependencies: ["3697B37E48CDEE1B"]
@@ -521,12 +381,11 @@
 				"{image:kubejs:textures/ftbq_images/i5.png width:90 height:66 align:1}"
 				"      &7PnC的独特的温度-压力系统"
 				""
-				" &e     在本包中气动在中期起到了中流砥柱的作用。&r如果你有提前查看气动的配方，你会知道本包的中期最大虚空产矿手段——&6熔岩筛矿&r就在气动的流程中，并且&a气动在热力小节合成出彩钢后就能解锁。"
+				" &e     在本包中气动在中期起到了中流砥柱的作用。&r如果你有提前查看气动的配方，你会知道本包的中期最大虚空产矿手段——&6熔岩筛矿&r就在气动的流程中。"
 				""
 				"      除此之外，压缩硬铅、压缩活化彩钢等材料依赖于气动生产。塑料、石油分馏可以被气动的小型多方快简化。中后期前往天王星和木星也少不了气动的参与。"
 				""
-				""
-				"      *PnC的部分设备能在天镜找到"
+				" &e     PnC的部分设备能在天镜找到。&6如果你没探索天镜那就等主线推到&r塑料&6再发展气动吧。"
 			]
 			icon: "pneumaticcraft:pressure_gauge"
 			id: "4A1A52ED171F3456"
@@ -552,8 +411,8 @@
 				type: "item"
 			}]
 			title: "气动工艺 [PnC] —— 流程详解"
-			x: -19.0d
-			y: -15.5d
+			x: -24.0d
+			y: -35.0d
 		}
 		{
 			dependencies: ["4A1A52ED171F3456"]
@@ -582,15 +441,14 @@
 				type: "item"
 			}]
 			shape: "diamond"
-			size: 2.0d
 			subtitle: "咦，我的机器怎么炸了？？？"
 			tasks: [{
 				id: "470202DF2717133F"
 				type: "checkmark"
 			}]
 			title: "安全第一！"
-			x: -19.0d
-			y: -13.5d
+			x: -24.0d
+			y: -33.0d
 		}
 		{
 			dependencies: ["3697B37E48CDEE1B"]
@@ -639,8 +497,8 @@
 				type: "checkmark"
 			}]
 			title: "通用机械 [Mek]"
-			x: -19.0d
-			y: -5.0d
+			x: -3.0d
+			y: -35.0d
 		}
 		{
 			dependencies: ["3697B37E48CDEE1B"]
@@ -677,8 +535,8 @@
 				type: "checkmark"
 			}]
 			title: "热力系列"
-			x: -36.0d
-			y: -15.5d
+			x: -34.0d
+			y: -35.0d
 		}
 		{
 			dependencies: ["00A6DEB8A3AEA4C7"]
@@ -695,8 +553,8 @@
 				item: "thermal:machine_frame"
 				type: "item"
 			}]
-			x: -36.0d
-			y: -14.0d
+			x: -34.0d
+			y: -33.0d
 		}
 		{
 			description: ["      不过它的最大用处是高效压制AE2的电路板，从此告别恼人的压印器吧！"]
@@ -746,8 +604,8 @@
 				item: "thermal:machine_press"
 				type: "item"
 			}]
-			x: -32.5d
-			y: -10.5d
+			x: -32.0d
+			y: -28.5d
 		}
 		{
 			dependencies: ["0E59BE3DDD0A75C9"]
@@ -798,8 +656,8 @@
 				item: "thermal:machine_smelter"
 				type: "item"
 			}]
-			x: -33.0d
-			y: -14.0d
+			x: -31.0d
+			y: -33.0d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -815,8 +673,8 @@
 				item: "thermal:signalum_ingot"
 				type: "item"
 			}]
-			x: -31.5d
-			y: -14.0d
+			x: -29.5d
+			y: -33.0d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -832,8 +690,8 @@
 				item: "thermal:lumium_ingot"
 				type: "item"
 			}]
-			x: -30.5d
-			y: -14.0d
+			x: -28.5d
+			y: -33.0d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -849,8 +707,8 @@
 				item: "thermal:enderium_ingot"
 				type: "item"
 			}]
-			x: -29.5d
-			y: -14.0d
+			x: -27.5d
+			y: -33.0d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -872,8 +730,8 @@
 				item: "etshtinker:blizz_enderium"
 				type: "item"
 			}]
-			x: -29.5d
-			y: -15.5d
+			x: -27.5d
+			y: -34.5d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -895,8 +753,8 @@
 				item: "etshtinker:blitz_lumium"
 				type: "item"
 			}]
-			x: -30.5d
-			y: -15.5d
+			x: -28.5d
+			y: -34.5d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -917,8 +775,8 @@
 				item: "etshtinker:basalz_signalum"
 				type: "item"
 			}]
-			x: -31.5d
-			y: -15.5d
+			x: -29.5d
+			y: -34.5d
 		}
 		{
 			dependencies: [
@@ -947,8 +805,8 @@
 				item: "etshtinker:activated_chroma_plate"
 				type: "item"
 			}]
-			x: -28.0d
-			y: -15.5d
+			x: -26.5d
+			y: -34.5d
 		}
 		{
 			description: ["强大的流体精炼设备，&m能把高能的中子拆成质子和电子"]
@@ -973,8 +831,8 @@
 				item: "thermal:machine_refinery"
 				type: "item"
 			}]
-			x: -28.5d
-			y: -10.5d
+			x: -30.0d
+			y: -29.5d
 		}
 		{
 			description: ["      此外，如果你探索了外星维度，还可以用来获取热力的三种元素粉，进而更简单地获取活化彩钢。"]
@@ -1012,8 +870,8 @@
 				item: "thermal:machine_pulverizer"
 				type: "item"
 			}]
-			x: -34.5d
-			y: -10.5d
+			x: -33.0d
+			y: -29.5d
 		}
 		{
 			description: ["      很好用的单方块种植机，还可以用各种催熟剂加速。而且在现版本热力中，有机灌注机不再只能在白天工作（好耶！）。"]
@@ -1045,8 +903,8 @@
 				item: "thermal:machine_insolator"
 				type: "item"
 			}]
-			x: -35.5d
-			y: -10.5d
+			x: -34.0d
+			y: -29.5d
 		}
 		{
 			id: "4E2F42AF3DF47E68"
@@ -1071,8 +929,8 @@
 				item: "thermal:machine_centrifuge"
 				type: "item"
 			}]
-			x: -29.5d
-			y: -10.5d
+			x: -30.0d
+			y: -28.5d
 		}
 		{
 			id: "236ADEF17F9A1E7D"
@@ -1097,8 +955,8 @@
 				item: "thermal:machine_crucible"
 				type: "item"
 			}]
-			x: -26.5d
-			y: -10.5d
+			x: -29.0d
+			y: -28.5d
 		}
 		{
 			id: "79DC690A0258D67D"
@@ -1123,8 +981,8 @@
 				item: "thermal:machine_pyrolyzer"
 				type: "item"
 			}]
-			x: -31.5d
-			y: -10.5d
+			x: -32.0d
+			y: -29.5d
 		}
 		{
 			id: "6F7268AC42E538FD"
@@ -1149,8 +1007,8 @@
 				item: "thermal:machine_bottler"
 				type: "item"
 			}]
-			x: -27.5d
-			y: -10.5d
+			x: -29.0d
+			y: -29.5d
 		}
 		{
 			description: ["      前期小神器，便宜大碗的催熟道具"]
@@ -1175,8 +1033,8 @@
 				item: "thermal:phytogro"
 				type: "item"
 			}]
-			x: -28.5d
-			y: -11.5d
+			x: -28.0d
+			y: -29.5d
 		}
 		{
 			dependencies: ["70C263359C93FA01"]
@@ -1235,8 +1093,8 @@
 				type: "item"
 			}]
 			title: "[自动化挑战] 植育一号催熟爆弹"
-			x: -29.5d
-			y: -11.5d
+			x: -27.0d
+			y: -29.5d
 		}
 		{
 			description: [
@@ -1272,8 +1130,8 @@
 				item: "thermal:machine_chiller"
 				type: "item"
 			}]
-			x: -33.5d
-			y: -10.5d
+			x: -31.0d
+			y: -28.5d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -1311,8 +1169,8 @@
 				item: "thermal:cured_rubber"
 				type: "item"
 			}]
-			x: -33.0d
-			y: -15.5d
+			x: -31.0d
+			y: -34.5d
 		}
 		{
 			id: "401F3A17BD013DBC"
@@ -1347,8 +1205,8 @@
 				item: "thermal:device_hive_extractor"
 				type: "item"
 			}]
-			x: -36.5d
-			y: -11.5d
+			x: -34.0d
+			y: -30.5d
 		}
 		{
 			description: [
@@ -1403,8 +1261,8 @@
 				item: "thermal:device_fisher"
 				type: "item"
 			}]
-			x: -35.5d
-			y: -11.5d
+			x: -33.0d
+			y: -30.5d
 		}
 		{
 			description: ["      具体的判定标准见百科"]
@@ -1430,8 +1288,8 @@
 				item: "thermal:device_tree_extractor"
 				type: "item"
 			}]
-			x: -34.5d
-			y: -11.5d
+			x: -32.0d
+			y: -30.5d
 		}
 		{
 			id: "7A58ACBBE8A1EA5A"
@@ -1456,8 +1314,8 @@
 				item: "thermal:device_collector"
 				type: "item"
 			}]
-			x: -33.5d
-			y: -11.5d
+			x: -31.0d
+			y: -30.5d
 		}
 		{
 			description: [
@@ -1504,8 +1362,8 @@
 				}
 			]
 			title: "热力系列的两种管道"
-			x: -32.5d
-			y: -11.5d
+			x: -30.0d
+			y: -30.5d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -1521,8 +1379,8 @@
 				item: "thermal:upgrade_augment_1"
 				type: "item"
 			}]
-			x: -31.5d
-			y: -12.5d
+			x: -29.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["7DD53FF061290707"]
@@ -1538,8 +1396,8 @@
 				item: "thermal:upgrade_augment_2"
 				type: "item"
 			}]
-			x: -30.5d
-			y: -12.5d
+			x: -28.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["595143506931F6AA"]
@@ -1563,8 +1421,8 @@
 				item: "thermal:upgrade_augment_3"
 				type: "item"
 			}]
-			x: -29.5d
-			y: -12.5d
+			x: -27.5d
+			y: -31.5d
 		}
 		{
 			description: [
@@ -1694,8 +1552,8 @@
 				}
 			]
 			title: "妙妙小升级"
-			x: -31.5d
-			y: -11.5d
+			x: -29.0d
+			y: -30.5d
 		}
 		{
 			dependencies: [
@@ -1763,8 +1621,8 @@
 				}
 			]
 			title: "压力室"
-			x: -16.0d
-			y: -14.0d
+			x: -21.5d
+			y: -33.5d
 		}
 		{
 			dependencies: ["75F7DF5655FB02C6"]
@@ -1797,8 +1655,8 @@
 				optional_task: true
 				type: "item"
 			}]
-			x: -18.5d
-			y: -11.0d
+			x: -23.0d
+			y: -30.5d
 		}
 		{
 			dependencies: ["38F90431CEFE965D"]
@@ -1837,8 +1695,8 @@
 				item: "kubejs:compressed_hardlead"
 				type: "item"
 			}]
-			x: -14.5d
-			y: -14.0d
+			x: -20.5d
+			y: -33.0d
 		}
 		{
 			dependencies: ["0411A7217F4BFFC5"]
@@ -1862,8 +1720,8 @@
 				}
 			]
 			title: "高级设备"
-			x: -11.5d
-			y: -14.0d
+			x: -18.5d
+			y: -33.0d
 		}
 		{
 			dependencies: ["57331E9421E0C223"]
@@ -1896,15 +1754,15 @@
 				type: "checkmark"
 			}]
 			title: "挥发性熔岩"
-			x: -10.0d
-			y: -15.0d
+			x: -17.5d
+			y: -34.0d
 		}
 		{
 			dependencies: ["75F7DF5655FB02C6"]
 			description: [
-				"      如果你的电力充足，可以一侧用电阻加热器加热到高温，另一侧用散热片+空气栅冷却，有非常可观的产气量！"
+				"      如果你的电力充足，可以一侧用电阻加热器加热到高温，另一侧用散热片+空气栅冷却，有相对可观的产气量！"
 				""
-				"      如果你解锁了天镜，这个压缩机可以是同时期的优选之一。"
+				"      如果你解锁了天镜，无限制冷的冰石会是个不错的冷源（尽管散热效率依然有限）。"
 			]
 			icon: "pneumaticcraft:thermal_compressor"
 			id: "636560ABC5E871C6"
@@ -1936,8 +1794,8 @@
 					type: "item"
 				}
 			]
-			x: -17.5d
-			y: -11.0d
+			x: -23.0d
+			y: -29.5d
 		}
 		{
 			dependencies: ["0411A7217F4BFFC5"]
@@ -1977,8 +1835,8 @@
 				}
 			]
 			title: "精炼厂"
-			x: -13.0d
-			y: -13.0d
+			x: -19.5d
+			y: -32.0d
 		}
 		{
 			dependencies: ["4B981566F66F9C3F"]
@@ -2021,8 +1879,8 @@
 				item: "pneumaticcraft:amadron_tablet"
 				type: "item"
 			}]
-			x: -13.5d
-			y: -11.0d
+			x: -19.5d
+			y: -30.5d
 		}
 		{
 			dependencies: ["78DF493EEA88960F"]
@@ -2057,8 +1915,8 @@
 				item: "pneumaticcraft:pcb_blueprint"
 				type: "item"
 			}]
-			x: -12.5d
-			y: -11.0d
+			x: -19.5d
+			y: -29.5d
 		}
 		{
 			dependencies: ["38F90431CEFE965D"]
@@ -2113,8 +1971,8 @@
 				}
 			]
 			title: "电子元器件"
-			x: -10.5d
-			y: -10.0d
+			x: -17.5d
+			y: -29.5d
 		}
 		{
 			dependencies: ["1ED49DF01DBACB93"]
@@ -2148,8 +2006,8 @@
 				}
 			]
 			title: "紫外线灯箱和电路板蚀刻器"
-			x: -11.5d
-			y: -11.0d
+			x: -18.5d
+			y: -30.5d
 		}
 		{
 			dependencies: [
@@ -2190,8 +2048,8 @@
 				type: "item"
 			}]
 			title: "完成的电路板"
-			x: -10.5d
-			y: -11.0d
+			x: -18.5d
+			y: -29.5d
 		}
 		{
 			dependencies: ["57331E9421E0C223"]
@@ -2224,8 +2082,8 @@
 				item: "kubejs:zirconium_alloy"
 				type: "item"
 			}]
-			x: -10.0d
-			y: -14.0d
+			x: -17.5d
+			y: -33.0d
 		}
 		{
 			dependencies: ["0C84DDFD1EABFF6A"]
@@ -2322,8 +2180,8 @@
 				}
 			]
 			title: "装配流水线"
-			x: -9.5d
-			y: -11.0d
+			x: -17.5d
+			y: -30.5d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -2342,8 +2200,8 @@
 				item: "pneumaticcraft:spawner_agitator"
 				type: "item"
 			}]
-			x: 3.0d
-			y: -12.5d
+			x: -9.0d
+			y: -31.5d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -2377,8 +2235,8 @@
 				item: "pneumaticcraft:aerial_interface"
 				type: "item"
 			}]
-			x: 5.0d
-			y: -12.5d
+			x: -7.0d
+			y: -31.5d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -2437,8 +2295,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -12.5d
+			x: -8.0d
+			y: -31.5d
 		}
 		{
 			dependencies: ["32C4C65E43956BC0"]
@@ -2463,8 +2321,8 @@
 				item: "pneumaticcraft:advanced_pressure_tube"
 				type: "item"
 			}]
-			x: -8.5d
-			y: -11.0d
+			x: -16.5d
+			y: -30.5d
 		}
 		{
 			dependencies: ["57331E9421E0C223"]
@@ -2482,8 +2340,8 @@
 				item: "pneumaticcraft:reinforced_pressure_tube"
 				type: "item"
 			}]
-			x: -10.0d
-			y: -13.0d
+			x: -17.5d
+			y: -32.0d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -2518,8 +2376,8 @@
 				item: "pneumaticcraft:vortex_tube"
 				type: "item"
 			}]
-			x: 2.0d
-			y: -14.0d
+			x: -10.0d
+			y: -32.5d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -2546,8 +2404,8 @@
 				item: "pneumaticcraft:vacuum_pump"
 				type: "item"
 			}]
-			x: 3.0d
-			y: -14.0d
+			x: -9.0d
+			y: -32.5d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -2598,8 +2456,8 @@
 				}
 			]
 			title: "被动散热4件套"
-			x: 1.0d
-			y: -14.0d
+			x: -11.0d
+			y: -32.5d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -2643,8 +2501,8 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: -14.0d
+			x: -12.0d
+			y: -32.5d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -2662,8 +2520,8 @@
 				item: "mekanism:resistive_heater"
 				type: "item"
 			}]
-			x: 0.0d
-			y: -12.5d
+			x: -12.0d
+			y: -31.5d
 		}
 		{
 			dependencies: ["54F52C7BE9CAF99E"]
@@ -2689,8 +2547,8 @@
 				item: "mekanism:ultimate_smelting_factory"
 				type: "item"
 			}]
-			x: -14.0d
-			y: -2.0d
+			x: 2.5d
+			y: -30.5d
 		}
 		{
 			dependencies: ["54F52C7BE9CAF99E"]
@@ -2717,8 +2575,8 @@
 				item: "mekanism:ultimate_enriching_factory"
 				type: "item"
 			}]
-			x: -15.5d
-			y: -2.0d
+			x: 1.5d
+			y: -29.5d
 		}
 		{
 			dependencies: ["77E8E024842CBF2C"]
@@ -2754,8 +2612,8 @@
 				}
 			]
 			title: "常用加热器"
-			x: -14.0d
-			y: -3.5d
+			x: 2.5d
+			y: -32.5d
 		}
 		{
 			dependencies: ["77E8E024842CBF2C"]
@@ -2781,8 +2639,8 @@
 					type: "item"
 				}
 			]
-			x: -12.5d
-			y: -3.5d
+			x: 2.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["25FE4D8080589D7A"]
@@ -2801,14 +2659,15 @@
 				type: "item"
 			}]
 			shape: "gear"
+			size: 1.5d
 			tasks: [{
 				id: "3E9E5389AAD0BCFA"
 				title: "我知道了"
 				type: "checkmark"
 			}]
 			title: "有关化学品"
-			x: -14.0d
-			y: -5.0d
+			x: -3.0d
+			y: -29.5d
 		}
 		{
 			dependencies: ["77E8E024842CBF2C"]
@@ -2863,8 +2722,8 @@
 				}
 			]
 			title: "有关升级"
-			x: -17.0d
-			y: -3.5d
+			x: 1.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["77E8E024842CBF2C"]
@@ -2891,8 +2750,8 @@
 				item: "mekanism:quantum_entangloporter"
 				type: "item"
 			}]
-			x: -15.5d
-			y: -3.5d
+			x: 1.5d
+			y: -32.5d
 		}
 		{
 			dependencies: ["25FE4D8080589D7A"]
@@ -2909,6 +2768,7 @@
 				type: "choice"
 			}]
 			shape: "diamond"
+			size: 1.5d
 			subtitle: "当然，mek的化学品、机械管道依然是本包最推荐的管道"
 			tasks: [{
 				id: "4E59A5ED4B0705AF"
@@ -2916,8 +2776,8 @@
 				type: "checkmark"
 			}]
 			title: "别用mek的物流管道！"
-			x: -15.5d
-			y: -5.0d
+			x: -3.0d
+			y: -32.5d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -2935,8 +2795,8 @@
 				item: "pneumaticcraft:charging_station"
 				type: "item"
 			}]
-			x: 2.0d
-			y: -12.5d
+			x: -10.0d
+			y: -31.5d
 		}
 		{
 			dependencies: ["25FE4D8080589D7A"]
@@ -2975,8 +2835,8 @@
 				}
 			]
 			title: "基础合金"
-			x: -12.5d
-			y: -5.0d
+			x: -1.5d
+			y: -32.0d
 		}
 		{
 			dependencies: ["7E4D97095CB7C37D"]
@@ -3018,8 +2878,8 @@
 					type: "item"
 				}
 			]
-			x: -11.0d
-			y: -5.0d
+			x: -1.5d
+			y: -30.0d
 		}
 		{
 			dependencies: ["6EEF72019466F208"]
@@ -3088,7 +2948,7 @@
 				type: "item"
 			}]
 			x: -26.5d
-			y: -15.5d
+			y: -35.5d
 		}
 		{
 			description: ["      &6但是每个东西都有它的闪光点，说不定哪天这些能源炉也会有用呢！"]
@@ -3145,8 +3005,8 @@
 				}
 			]
 			title: "能源炉"
-			x: -36.5d
-			y: -10.5d
+			x: -34.0d
+			y: -28.5d
 		}
 		{
 			id: "5FC88AC3DAEAD283"
@@ -3157,8 +3017,8 @@
 				item: "thermal:machine_crystallizer"
 				type: "item"
 			}]
-			x: -30.5d
-			y: -10.5d
+			x: -31.0d
+			y: -29.5d
 		}
 		{
 			dependencies: ["3722D622F4D196DE"]
@@ -3271,8 +3131,8 @@
 				}
 			]
 			title: "管道模块"
-			x: 1.5d
-			y: -15.5d
+			x: -10.5d
+			y: -34.5d
 		}
 		{
 			dependencies: ["4A1A52ED171F3456"]
@@ -3298,8 +3158,8 @@
 				type: "item"
 			}]
 			title: "模块拓展卡和管道模块"
-			x: 0.0d
-			y: -15.5d
+			x: -12.0d
+			y: -34.5d
 		}
 		{
 			dependencies: ["70C263359C93FA01"]
@@ -3316,8 +3176,8 @@
 				item: "kubejs:phytogro_zero"
 				type: "item"
 			}]
-			x: -27.5d
-			y: -11.5d
+			x: -28.0d
+			y: -28.5d
 		}
 		{
 			dependencies: ["707128C87CA16A6F"]
@@ -3375,8 +3235,8 @@
 				type: "item"
 			}]
 			title: "v我一组看看石力"
-			x: 25.5d
-			y: -1.0d
+			x: 1.5d
+			y: -15.0d
 		}
 		{
 			dependencies: [
@@ -3405,8 +3265,8 @@
 				type: "item"
 			}]
 			title: "来看看本整合包轮椅之一《熔岩筛矿》"
-			x: 14.5d
-			y: 0.0d
+			x: -9.5d
+			y: -14.0d
 		}
 		{
 			dependencies: [
@@ -3434,8 +3294,8 @@
 				type: "advancement"
 			}]
 			title: "焦炭塔制取石油焦"
-			x: 20.0d
-			y: -1.0d
+			x: -4.0d
+			y: -15.0d
 		}
 		{
 			dependencies: ["77D10280C2E23E3F"]
@@ -3458,8 +3318,8 @@
 				type: "item"
 			}]
 			title: "源源不断的原油"
-			x: 18.0d
-			y: -1.0d
+			x: -6.0d
+			y: -15.0d
 		}
 		{
 			dependencies: ["770F9F6317869FFC"]
@@ -3511,8 +3371,8 @@
 				}
 			]
 			title: "熔岩无限MAX！"
-			x: 16.5d
-			y: 0.0d
+			x: -7.5d
+			y: -14.0d
 		}
 		{
 			dependencies: ["77D10280C2E23E3F"]
@@ -3530,8 +3390,8 @@
 				item: "thermal:machine_smelter"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 1.0d
+			x: -6.0d
+			y: -13.0d
 		}
 		{
 			description: ["也可以用来制取炉渣捏"]
@@ -3552,8 +3412,8 @@
 				type: "item"
 			}]
 			title: "制取原料"
-			x: 22.0d
-			y: 0.0d
+			x: -2.0d
+			y: -14.0d
 		}
 		{
 			dependencies: [
@@ -3590,8 +3450,8 @@
 				item: "immersivepetroleum:petcoke_dust"
 				type: "item"
 			}]
-			x: 22.0d
-			y: -1.0d
+			x: -2.0d
+			y: -15.0d
 		}
 		{
 			dependencies: ["66F7C0C50046D121"]
@@ -3608,8 +3468,8 @@
 				type: "item"
 			}]
 			title: "别看了，拿来对称的"
-			x: 22.0d
-			y: 1.0d
+			x: -2.0d
+			y: -13.0d
 		}
 		{
 			dependencies: [
@@ -3638,8 +3498,8 @@
 					type: "item"
 				}
 			]
-			x: 23.0d
-			y: 0.0d
+			x: -1.0d
+			y: -14.0d
 		}
 		{
 			dependencies: ["21DE2531C404C6A6"]
@@ -3656,8 +3516,8 @@
 				item: "thermal:machine_refinery"
 				type: "item"
 			}]
-			x: 24.0d
-			y: -1.0d
+			x: 0.0d
+			y: -15.0d
 		}
 		{
 			dependencies: ["76D23E05A262F85F"]
@@ -3674,8 +3534,8 @@
 				item: "thermal:machine_refinery"
 				type: "item"
 			}]
-			x: 19.0d
-			y: -1.5d
+			x: -5.0d
+			y: -15.5d
 		}
 		{
 			dependencies: ["21DE2531C404C6A6"]
@@ -3700,8 +3560,8 @@
 				item: "thermal:machine_centrifuge"
 				type: "item"
 			}]
-			x: 24.0d
-			y: 1.0d
+			x: 0.0d
+			y: -13.0d
 		}
 		{
 			dependencies: ["0510C4E6D8E44E5D"]
@@ -3734,8 +3594,8 @@
 				}
 			]
 			title: "磨粉机和离心机"
-			x: 25.5d
-			y: 1.0d
+			x: 1.5d
+			y: -13.0d
 		}
 		{
 			dependencies: ["46B61E6EF35C9522"]
@@ -3759,8 +3619,8 @@
 				type: "checkmark"
 			}]
 			title: "推荐气压生产系统"
-			x: 4.0d
-			y: -10.5d
+			x: -8.0d
+			y: -29.5d
 		}
 		{
 			dependencies: ["46B61E6EF35C9522"]
@@ -3783,8 +3643,8 @@
 				type: "checkmark"
 			}]
 			title: "推荐容器冷却系统"
-			x: 6.0d
-			y: -10.5d
+			x: -6.0d
+			y: -29.5d
 		}
 		{
 			dependencies: ["46B61E6EF35C9522"]
@@ -3808,8 +3668,8 @@
 				type: "checkmark"
 			}]
 			title: "常用的气动插件"
-			x: 2.0d
-			y: -10.5d
+			x: -10.0d
+			y: -29.5d
 		}
 		{
 			description: [
@@ -3819,6 +3679,7 @@
 			]
 			id: "419729DCB12A6AF3"
 			shape: "diamond"
+			size: 1.5d
 			subtitle: "后面自动化部分特殊材料也要用到它"
 			tasks: [
 				{
@@ -3833,8 +3694,8 @@
 				}
 			]
 			title: "组合合成"
-			x: -25.0d
-			y: -11.0d
+			x: -26.5d
+			y: -28.5d
 		}
 		{
 			dependencies: ["57331E9421E0C223"]
@@ -3860,8 +3721,8 @@
 				}
 			]
 			title: "缺赛特斯石英了？"
-			x: -11.5d
-			y: -13.0d
+			x: -18.5d
+			y: -32.0d
 		}
 		{
 			dependencies: ["46B61E6EF35C9522"]
@@ -3886,8 +3747,8 @@
 				type: "checkmark"
 			}]
 			title: "群系温度简要说明"
-			x: 0.0d
-			y: -10.5d
+			x: -12.0d
+			y: -29.5d
 		}
 		{
 			dependencies: ["1086824576A9D409"]
@@ -3920,8 +3781,8 @@
 				item: "cti:alloy_centrifuge"
 				type: "item"
 			}]
-			x: 1.0d
-			y: -12.5d
+			x: -11.0d
+			y: -31.5d
 		}
 		{
 			dependencies: ["25FE4D8080589D7A"]
@@ -3945,14 +3806,13 @@
 				}
 			]
 			shape: "gear"
-			size: 1.5d
 			tasks: [{
 				id: "52F25D5882A13951"
 				item: "mekanism:configuration_card"
 				type: "item"
 			}]
-			x: -9.0d
-			y: -5.0d
+			x: 3.5d
+			y: -30.0d
 		}
 		{
 			id: "53403AE5636F12A6"
@@ -3970,8 +3830,8 @@
 				item: "thermal:redprint"
 				type: "item"
 			}]
-			x: -34.5d
-			y: -12.75d
+			x: -32.5d
+			y: -31.75d
 		}
 		{
 			description: [
@@ -3996,8 +3856,8 @@
 				item: "thermal:slot_seal"
 				type: "item"
 			}]
-			x: -36.0d
-			y: -12.75d
+			x: -34.0d
+			y: -31.75d
 		}
 		{
 			dependencies: ["7FE6AA8F1EEB23D4"]
@@ -4009,8 +3869,8 @@
 				item: "thermal:machine_pulverizer"
 				type: "item"
 			}]
-			x: 21.0d
-			y: -1.5d
+			x: -3.0d
+			y: -15.5d
 		}
 		{
 			dependencies: ["7FE6AA8F1EEB23D4"]
@@ -4023,8 +3883,8 @@
 				type: "advancement"
 			}]
 			title: "粉碎机"
-			x: 21.0d
-			y: -0.5d
+			x: -3.0d
+			y: -14.5d
 		}
 		{
 			dependencies: ["6E921F48F607195D"]
@@ -4059,8 +3919,8 @@
 				type: "item"
 			}]
 			title: "锆矿"
-			x: -13.0d
-			y: -15.0d
+			x: -19.5d
+			y: -34.0d
 		}
 		{
 			description: [
@@ -4078,8 +3938,8 @@
 				type: "dimension"
 			}]
 			title: "访问：末地"
-			x: -13.0d
-			y: -16.0d
+			x: -19.5d
+			y: -35.0d
 		}
 		{
 			dependencies: ["60DE870CC160C459"]
@@ -4125,16 +3985,19 @@
 				}
 			]
 			title: "顶级插件？？！！"
-			x: -30.5d
-			y: -11.5d
+			x: -28.0d
+			y: -30.5d
 		}
 		{
 			dependencies: ["762B937EFF8ECC88"]
 			description: [
 				"      这一部分的内容是本章的教程部分，它的作用是让你熟悉本章将要涉及的几个模组，同时也对各个模组自己的发展路线进行简单介绍，并指出魔改内容带来的流程改变。"
 				""
-				"      除了在模组流程方面进行介绍外，本章也会在资源与能量获取等方面给出建议。"
+				"      每个任务的开头会指明对应模组的发展阶段。"
+				""
+				"      &c建议在发展主线前先看看"
 			]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
 				Count: 1b
@@ -4157,8 +4020,8 @@
 				type: "checkmark"
 			}]
 			title: "教程章节"
-			x: -42.0d
-			y: -13.5d
+			x: -46.0d
+			y: -32.0d
 		}
 		{
 			dependencies: ["0C0F85D3DCF71BB2"]
@@ -4170,8 +4033,8 @@
 				item: "etshtinker:chroma_plate"
 				type: "item"
 			}]
-			x: -28.0d
-			y: -14.0d
+			x: -26.5d
+			y: -33.0d
 		}
 		{
 			dependencies: ["3843E47EEC23E6C8"]
@@ -4189,8 +4052,8 @@
 				item: "kubejs:compressed_activated_chroma_plate"
 				type: "item"
 			}]
-			x: -8.5d
-			y: -14.0d
+			x: -16.5d
+			y: -33.0d
 		}
 		{
 			dependencies: [
@@ -4209,8 +4072,8 @@
 				item: "kubejs:pressurized_casing"
 				type: "item"
 			}]
-			x: -13.0d
-			y: -14.0d
+			x: -19.5d
+			y: -33.0d
 		}
 		{
 			dependencies: ["75F7DF5655FB02C6"]
@@ -4249,8 +4112,8 @@
 					type: "dimension"
 				}
 			]
-			x: -16.5d
-			y: -11.0d
+			x: -22.0d
+			y: -30.5d
 		}
 		{
 			dependencies: ["75F7DF5655FB02C6"]
@@ -4268,8 +4131,8 @@
 				item: "pneumaticcraft:flux_compressor"
 				type: "item"
 			}]
-			x: -15.5d
-			y: -11.0d
+			x: -22.0d
+			y: -29.5d
 		}
 		{
 			id: "75F7DF5655FB02C6"
@@ -4279,8 +4142,8 @@
 				type: "checkmark"
 			}]
 			title: "压缩机推荐"
-			x: -19.5d
-			y: -11.0d
+			x: -24.0d
+			y: -30.0d
 		}
 		{
 			id: "4B981566F66F9C3F"
@@ -4290,8 +4153,8 @@
 				type: "checkmark"
 			}]
 			title: "电路板流程"
-			x: -14.5d
-			y: -11.0d
+			x: -20.5d
+			y: -30.0d
 		}
 		{
 			dependencies: ["6115104A833578B3"]
@@ -4307,8 +4170,8 @@
 				item: "kubejs:pneumatic_shield"
 				type: "item"
 			}]
-			x: -8.5d
-			y: -10.0d
+			x: -16.5d
+			y: -29.5d
 		}
 		{
 			dependencies: ["3697B37E48CDEE1B"]
@@ -4328,8 +4191,8 @@
 				type: "checkmark"
 			}]
 			title: "气动工艺[PnC] —— 细节和小贴士"
-			x: -2.0d
-			y: -15.5d
+			x: -14.0d
+			y: -35.0d
 		}
 		{
 			dependencies: ["588A90CB696224C0"]
@@ -4341,8 +4204,8 @@
 				type: "checkmark"
 			}]
 			title: "实用物品"
-			x: -2.0d
-			y: -13.0d
+			x: -14.0d
+			y: -32.0d
 		}
 		{
 			dependencies: ["588A90CB696224C0"]
@@ -4353,8 +4216,8 @@
 				type: "checkmark"
 			}]
 			title: "小贴士"
-			x: -2.0d
-			y: -10.5d
+			x: -14.0d
+			y: -29.5d
 		}
 		{
 			dependencies: ["762B937EFF8ECC88"]
@@ -4384,8 +4247,8 @@
 				type: "checkmark"
 			}]
 			title: "主线章节"
-			x: -42.0d
-			y: -23.5d
+			x: -46.0d
+			y: -22.5d
 		}
 		{
 			dependencies: ["76D23E05A262F85F"]
@@ -4398,11 +4261,11 @@
 				type: "advancement"
 			}]
 			title: "蒸馏塔"
-			x: 19.0d
-			y: -0.5d
+			x: -5.0d
+			y: -14.5d
 		}
 		{
-			dependencies: ["3697B37E48CDEE1B"]
+			dependencies: ["5CA53B44C567755D"]
 			description: [
 				"      我们都知道制造科技模组的机器需要消耗大量资源，那么这些资源怎么来呢？"
 				""
@@ -4418,8 +4281,8 @@
 				type: "checkmark"
 			}]
 			title: "资源生产方式推荐"
-			x: 14.5d
-			y: -5.0d
+			x: -26.0d
+			y: -16.0d
 		}
 		{
 			dependencies: [
@@ -4441,8 +4304,8 @@
 				type: "checkmark"
 			}]
 			title: "大气开采"
-			x: 24.0d
-			y: 0.0d
+			x: 0.0d
+			y: -14.0d
 		}
 		{
 			dependencies: ["08D6AC08C3D4DC78"]
@@ -4474,8 +4337,8 @@
 				}
 			]
 			title: "植物的自动化"
-			x: 19.5d
-			y: -4.5d
+			x: -18.5d
+			y: -14.5d
 		}
 		{
 			dependencies: ["5DD80B836480D020"]
@@ -4486,8 +4349,8 @@
 				item: "createoreexcavation:drilling_machine"
 				type: "item"
 			}]
-			x: 18.0d
-			y: -6.0d
+			x: -20.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["08D6AC08C3D4DC78"]
@@ -4498,8 +4361,8 @@
 				item: "createoreexcavation:extractor"
 				type: "item"
 			}]
-			x: 18.0d
-			y: -4.5d
+			x: -20.5d
+			y: -14.5d
 		}
 		{
 			dependencies: ["72AE4DAEFF6C2290"]
@@ -4510,20 +4373,19 @@
 				type: "checkmark"
 			}]
 			title: "采矿设备"
-			x: 16.5d
-			y: -6.0d
+			x: -23.0d
+			y: -16.0d
 		}
 		{
 			dependencies: ["72AE4DAEFF6C2290"]
-			hide_dependent_lines: true
 			id: "08D6AC08C3D4DC78"
 			tasks: [{
 				id: "5B5229F6262B5376"
 				title: "杂项"
 				type: "checkmark"
 			}]
-			x: 16.5d
-			y: -4.5d
+			x: -23.0d
+			y: -14.0d
 		}
 		{
 			dependencies: ["5DD80B836480D020"]
@@ -4570,8 +4432,8 @@
 				}
 			]
 			title: "斗轮式挖掘机"
-			x: 19.5d
-			y: -6.0d
+			x: -18.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["5DD80B836480D020"]
@@ -4588,8 +4450,8 @@
 				item: "cti:meteorium_plane"
 				type: "item"
 			}]
-			x: 21.0d
-			y: -6.0d
+			x: -16.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["08D6AC08C3D4DC78"]
@@ -4637,8 +4499,8 @@
 				}
 			]
 			title: "无限单元"
-			x: 21.0d
-			y: -4.5d
+			x: -16.5d
+			y: -14.5d
 		}
 		{
 			dependencies: ["72AE4DAEFF6C2290"]
@@ -4651,8 +4513,8 @@
 				title: "矿物处理设备"
 				type: "checkmark"
 			}]
-			x: 16.5d
-			y: -3.0d
+			x: -23.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["6DD491599FACA692"]
@@ -4678,8 +4540,8 @@
 				item: "mekanism:ultimate_smelting_factory"
 				type: "item"
 			}]
-			x: 18.0d
-			y: -3.0d
+			x: -20.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["6DD491599FACA692"]
@@ -4701,8 +4563,8 @@
 				item: "thermal:machine_smelter"
 				type: "item"
 			}]
-			x: 19.5d
-			y: -3.0d
+			x: -18.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["6DD491599FACA692"]
@@ -4721,8 +4583,8 @@
 				item: "create:encased_fan"
 				type: "item"
 			}]
-			x: 21.0d
-			y: -3.0d
+			x: -16.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["08D6AC08C3D4DC78"]
@@ -4809,8 +4671,8 @@
 				}
 			]
 			title: "AE2资源获取"
-			x: 22.5d
-			y: -4.5d
+			x: -20.5d
+			y: -13.5d
 		}
 		{
 			dependencies: ["25FE4D8080589D7A"]
@@ -4841,7 +4703,8 @@
 				"60*层数mB/t，最大1080"
 				""
 				"&a特殊机器"
-				"      太阳能中子活化器速率与群系和高度有关，在50~90mB/t之间，具体请查看百科。"
+				"      太阳能中子活化器速率与群系温度和高度有关，通常在50~90mB/t之间，具体请查看百科。"
+				"&b（在湿冷群系速率增加，于&d电离冻土星&b的异常区域可以达到250+mB/t的超高速度）"
 				""
 				"      加压反应室、反质子核合成的速率随配方而变化，没有固定值。"
 				""
@@ -4856,14 +4719,15 @@
 				type: "random"
 			}]
 			shape: "diamond"
+			size: 1.5d
 			subtitle: "“你把mek机器的配方删了那我玩啥？？！”"
 			tasks: [{
 				id: "18832391468A3D8B"
 				type: "checkmark"
 			}]
 			title: "关于mek的机器"
-			x: -17.0d
-			y: -5.0d
+			x: -3.0d
+			y: -31.0d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -4901,8 +4765,8 @@
 				type: "item"
 			}]
 			title: "量产钢"
-			x: -33.0d
-			y: -12.5d
+			x: -31.0d
+			y: -31.5d
 		}
 		{
 			dependencies: ["08D6AC08C3D4DC78"]
@@ -4957,8 +4821,8 @@
 				}
 			]
 			title: "珍珠的量产"
-			x: 24.0d
-			y: -4.5d
+			x: -18.5d
+			y: -13.5d
 		}
 		{
 			dependencies: ["25FE4D8080589D7A"]
@@ -4970,8 +4834,8 @@
 				type: "checkmark"
 			}]
 			title: "实用机器推荐"
-			x: -19.0d
-			y: -2.0d
+			x: 0.0d
+			y: -30.0d
 		}
 		{
 			dependencies: ["25FE4D8080589D7A"]
@@ -4981,8 +4845,8 @@
 				title: "实用物品介绍"
 				type: "checkmark"
 			}]
-			x: -19.0d
-			y: -3.5d
+			x: 0.0d
+			y: -32.0d
 		}
 		{
 			dependencies: ["54F52C7BE9CAF99E"]
@@ -5024,8 +4888,8 @@
 				item: "mekanism:ultimate_infusing_factory"
 				type: "item"
 			}]
-			x: -17.0d
-			y: -2.0d
+			x: 1.5d
+			y: -30.5d
 		}
 		{
 			dependencies: ["77E8E024842CBF2C"]
@@ -5070,8 +4934,8 @@
 				}
 			]
 			title: "最高级的管道！"
-			x: -11.0d
-			y: -3.5d
+			x: 3.5d
+			y: -32.5d
 		}
 		{
 			dependencies: ["54F52C7BE9CAF99E"]
@@ -5097,8 +4961,8 @@
 				item: "mekanism:ultimate_crushing_factory"
 				type: "item"
 			}]
-			x: -12.5d
-			y: -2.0d
+			x: 2.5d
+			y: -29.5d
 		}
 		{
 			dependencies: ["247D0332EDFCB7EE"]
@@ -5141,8 +5005,8 @@
 				}
 			]
 			title: "感应炉催化剂推荐"
-			x: -34.5d
-			y: -15.5d
+			x: -32.5d
+			y: -34.5d
 		}
 		{
 			dependencies: ["0C78DFDD892A97E6"]
@@ -5177,8 +5041,8 @@
 				}
 			]
 			title: "磨粉机催化剂推荐"
-			x: -34.5d
-			y: -9.5d
+			x: -33.0d
+			y: -28.5d
 		}
 		{
 			dependencies: ["77E8E024842CBF2C"]
@@ -5190,13 +5054,13 @@
 				item: "mekanism:ultimate_fluid_tank"
 				type: "item"
 			}]
-			x: -9.0d
-			y: -3.5d
+			x: 3.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["030A29846DD2FA1D"]
 			description: [
-				"      贮液器相当于一个更大的桶，极限情况下可以装4480000mB的流体。在更改了模式后能给手上的物品充流体（比如射线炮和离子刀）。"
+				"      贮液器相当于一个更大的桶，极限情况下可以装4480000mB的流体。在更改了模式后能给身上的装备充流体（比如射线炮和离子刀）。"
 				""
 				"      药水注射器能自动给玩家补充buff，搭配炼金放大器/炼金延长器升级后可以强化/延长药水效果。"
 			]
@@ -5229,7 +5093,7 @@
 			]
 			title: "贮液器和药水注射器"
 			x: -26.5d
-			y: -11.5d
+			y: -30.5d
 		}
 		{
 			description: ["      用于给热力的小工具充能、注液、增减插件。GUI中的按钮可以切换模式。"]
@@ -5247,7 +5111,7 @@
 				type: "item"
 			}]
 			x: -26.5d
-			y: -12.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["677E0153B78D31D6"]
@@ -5258,8 +5122,8 @@
 				item: "mekanismgenerators:gas_burning_generator"
 				type: "item"
 			}]
-			x: 2.5d
-			y: -3.0d
+			x: -35.5d
+			y: -14.0d
 		}
 		{
 			dependencies: ["36A7DEEAE1E81C65"]
@@ -5275,11 +5139,11 @@
 				item: "kubejs:methane_bucket"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -3.5d
+			x: -33.5d
+			y: -14.5d
 		}
 		{
-			dependencies: ["3697B37E48CDEE1B"]
+			dependencies: ["5CA53B44C567755D"]
 			description: [
 				"      能量产出是第二章的一个重要问题。在本章中你会开始需要用到FE，并且随着进度耗电量会从10FE数量级飙升到1MFE数量级。选择一个好的发电设备会非常重要！"
 				""
@@ -5296,8 +5160,8 @@
 				type: "checkmark"
 			}]
 			title: "发电方式推荐"
-			x: -2.0d
-			y: -5.0d
+			x: -42.0d
+			y: -16.0d
 		}
 		{
 			dependencies: ["0F6F5D32CE4FC8A5"]
@@ -5317,8 +5181,8 @@
 				type: "checkmark"
 			}]
 			title: "Powah!"
-			x: 0.0d
-			y: -5.0d
+			x: -39.0d
+			y: -16.0d
 		}
 		{
 			dependencies: ["7A1DA58547A11662"]
@@ -5343,8 +5207,8 @@
 				}
 			]
 			title: "太阳能板"
-			x: 6.5d
-			y: -5.0d
+			x: -31.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["7A1DA58547A11662"]
@@ -5367,8 +5231,8 @@
 					type: "checkmark"
 				}
 			]
-			x: 2.5d
-			y: -5.0d
+			x: -34.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["7A1DA58547A11662"]
@@ -5391,12 +5255,12 @@
 					type: "checkmark"
 				}
 			]
-			x: 4.5d
-			y: -5.0d
+			x: -33.0d
+			y: -16.0d
 		}
 		{
 			dependencies: ["0F6F5D32CE4FC8A5"]
-			description: ["      但是即便如此，由于mek化工设备解锁时期靠后，同时不到100kFE/t的发电量在该阶段不算太高"]
+			description: [""]
 			hide_dependent_lines: true
 			icon: {
 				Count: 1b
@@ -5418,8 +5282,8 @@
 				id: "085668A68C95FA46"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: -3.0d
+			x: -39.0d
+			y: -14.0d
 		}
 		{
 			dependencies: ["36A7DEEAE1E81C65"]
@@ -5435,8 +5299,8 @@
 				item: "aether:ambrosium_shard"
 				type: "item"
 			}]
-			x: 6.5d
-			y: -3.0d
+			x: -30.5d
+			y: -14.0d
 		}
 		{
 			dependencies: ["36A7DEEAE1E81C65"]
@@ -5452,8 +5316,8 @@
 				item: "immersiveengineering:ethanol_bucket"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -2.5d
+			x: -33.5d
+			y: -13.5d
 		}
 		{
 			dependencies: ["36A7DEEAE1E81C65"]
@@ -5471,8 +5335,8 @@
 				item: "mekanism:ethene_bucket"
 				type: "item"
 			}]
-			x: 5.5d
-			y: -2.5d
+			x: -32.5d
+			y: -13.5d
 		}
 		{
 			dependencies: ["36A7DEEAE1E81C65"]
@@ -5488,8 +5352,8 @@
 				item: "mekanism:hydrogen_bucket"
 				type: "item"
 			}]
-			x: 5.5d
-			y: -3.5d
+			x: -32.5d
+			y: -14.5d
 		}
 		{
 			dependencies: ["0F6F5D32CE4FC8A5"]
@@ -5537,8 +5401,8 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: -1.0d
+			x: -39.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["08D6AC08C3D4DC78"]
@@ -5583,8 +5447,8 @@
 				}
 			]
 			title: "生物资源"
-			x: 25.5d
-			y: -4.5d
+			x: -16.5d
+			y: -13.5d
 		}
 		{
 			dependencies: ["0F6F5D32CE4FC8A5"]
@@ -5610,15 +5474,15 @@
 				}
 			]
 			shape: "gear"
-			size: 1.5d
+			size: 2.0d
 			subtitle: "如何给AE供能？"
 			tasks: [{
 				id: "214BD520E84D8B48"
 				item: "ae2:creative_energy_cell"
 				type: "item"
 			}]
-			x: 6.5d
-			y: -1.0d
+			x: -33.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["1C2213CEFC8B86D5"]
@@ -5644,8 +5508,8 @@
 				type: "checkmark"
 			}]
 			title: "沉浸工程[IE]"
-			x: -36.0d
-			y: -23.5d
+			x: -42.0d
+			y: -22.5d
 		}
 		{
 			dependencies: ["5E292304206A23F4"]
@@ -5664,13 +5528,15 @@
 				type: "item"
 			}]
 			title: "石油化工"
-			x: -34.0d
-			y: -25.0d
+			x: -37.0d
+			y: -24.5d
 		}
 		{
 			dependencies: ["3697B37E48CDEE1B"]
 			description: [
 				"      沉浸工程提供了大量多方快机器，虽然这些机器不如热力、mek等模组的单方块机器有用，但是沉浸构成了本章流程的一个重要部分。"
+				""
+				" &a     第二章主线的开端就是沉浸，建议在发展热力获取充足的钢后发展。"
 				""
 				"      对于沉浸这种多方快机器，辨识各种自动化接口是很重要的。本章除了介绍部分常用机器的作用外还会指出它们的交互接口。"
 				""
@@ -5686,8 +5552,8 @@
 				type: "checkmark"
 			}]
 			title: "沉浸工程"
-			x: -36.0d
-			y: -5.0d
+			x: -42.0d
+			y: -35.0d
 		}
 		{
 			dependencies: [
@@ -5716,7 +5582,7 @@
 				type: "item"
 			}]
 			x: -31.0d
-			y: -25.0d
+			y: -24.5d
 		}
 		{
 			dependencies: [
@@ -5746,8 +5612,8 @@
 				item: "mekanism:ethene_bucket"
 				type: "item"
 			}]
-			x: -26.0d
-			y: -24.0d
+			x: -24.0d
+			y: -23.5d
 		}
 		{
 			dependencies: [
@@ -5781,8 +5647,8 @@
 				item: "pneumaticcraft:plastic"
 				type: "item"
 			}]
-			x: -26.0d
-			y: -25.0d
+			x: -24.0d
+			y: -24.5d
 		}
 		{
 			dependencies: ["60C366FCE76795D1"]
@@ -5818,8 +5684,8 @@
 				}
 			]
 			title: "处理裂化石脑油"
-			x: -28.5d
-			y: -24.0d
+			x: -27.5d
+			y: -23.5d
 		}
 		{
 			dependencies: ["60C366FCE76795D1"]
@@ -5843,8 +5709,8 @@
 				item: "pneumaticcraft:thermopneumatic_processing_plant"
 				type: "item"
 			}]
-			x: -28.5d
-			y: -25.0d
+			x: -27.5d
+			y: -24.5d
 		}
 		{
 			dependencies: ["7846705881E63359"]
@@ -5860,8 +5726,8 @@
 				item: "mekanism:steel_casing"
 				type: "item"
 			}]
-			x: -33.0d
-			y: -16.5d
+			x: -31.0d
+			y: -35.5d
 		}
 		{
 			dependencies: ["5E292304206A23F4"]
@@ -5881,8 +5747,8 @@
 				title: "工业发酵机"
 				type: "advancement"
 			}]
-			x: -34.0d
-			y: -23.5d
+			x: -37.0d
+			y: -22.5d
 		}
 		{
 			dependencies: ["6C96604846E61C38"]
@@ -5908,7 +5774,7 @@
 				type: "item"
 			}]
 			x: -31.0d
-			y: -23.5d
+			y: -22.5d
 		}
 		{
 			dependencies: ["6C96604846E61C38"]
@@ -5926,8 +5792,8 @@
 				item: "kubejs:methane_bucket"
 				type: "item"
 			}]
-			x: -32.467006802721095d
-			y: -22.733503401360558d
+			x: -34.0d
+			y: -21.5d
 		}
 		{
 			dependencies: ["0BAB72B87AD83B1F"]
@@ -5962,8 +5828,8 @@
 				type: "advancement"
 			}]
 			title: "乙醇大蜕变"
-			x: -28.5d
-			y: -23.0d
+			x: -27.5d
+			y: -22.5d
 		}
 		{
 			dependencies: ["5E292304206A23F4"]
@@ -5980,8 +5846,8 @@
 				item: "immersiveengineering:creosote_bucket"
 				type: "item"
 			}]
-			x: -34.0d
-			y: -22.0d
+			x: -37.0d
+			y: -20.5d
 		}
 		{
 			dependencies: [
@@ -6009,7 +5875,7 @@
 				type: "item"
 			}]
 			x: -31.0d
-			y: -22.0d
+			y: -20.5d
 		}
 		{
 			dependencies: ["19A6605F574EE067"]
@@ -6033,8 +5899,8 @@
 				item: "immersiveengineering:phenolic_resin_bucket"
 				type: "item"
 			}]
-			x: -28.5d
-			y: -22.0d
+			x: -27.5d
+			y: -20.5d
 		}
 		{
 			dependencies: ["0DC33D3ECBA66C48"]
@@ -6058,8 +5924,8 @@
 				item: "immersiveengineering:plate_duroplast"
 				type: "item"
 			}]
-			x: -26.0d
-			y: -23.0d
+			x: -24.0d
+			y: -21.5d
 		}
 		{
 			dependencies: ["0DC33D3ECBA66C48"]
@@ -6098,8 +5964,8 @@
 					type: "item"
 				}
 			]
-			x: -26.0d
-			y: -22.0d
+			x: -24.0d
+			y: -20.5d
 		}
 		{
 			dependencies: [
@@ -6167,8 +6033,8 @@
 				}
 			]
 			title: "先进化工！"
-			x: -19.5d
-			y: -23.5d
+			x: -16.0d
+			y: -22.5d
 		}
 		{
 			dependencies: ["4CDB2DA2F4A83D47"]
@@ -6193,8 +6059,8 @@
 				item: "kubejs:radical_initiator_bucket"
 				type: "item"
 			}]
-			x: -17.5d
-			y: -24.0d
+			x: -12.5d
+			y: -23.5d
 		}
 		{
 			dependencies: ["3449CE1117E3A8EF"]
@@ -6214,8 +6080,8 @@
 				type: "advancement"
 			}]
 			title: "分馏塔"
-			x: -32.5d
-			y: -25.0d
+			x: -34.0d
+			y: -24.5d
 		}
 		{
 			dependencies: ["3449CE1117E3A8EF"]
@@ -6239,8 +6105,8 @@
 					type: "item"
 				}
 			]
-			x: -32.5d
-			y: -24.0d
+			x: -34.0d
+			y: -23.5d
 		}
 		{
 			id: "7B99D1E3638BBAA4"
@@ -6264,8 +6130,8 @@
 				}
 			]
 			title: "电路板和压缩硬铅"
-			x: -19.5d
-			y: -25.0d
+			x: -16.0d
+			y: -24.5d
 		}
 		{
 			id: "62C05BDE79BD5822"
@@ -6289,8 +6155,8 @@
 				item: "mekanism:steel_casing"
 				type: "item"
 			}]
-			x: -19.5d
-			y: -22.0d
+			x: -16.0d
+			y: -20.5d
 		}
 		{
 			dependencies: ["63193AB2670E3F60"]
@@ -6315,8 +6181,8 @@
 				item: "mekanism:hdpe_sheet"
 				type: "item"
 			}]
-			x: -16.0d
-			y: -24.0d
+			x: -11.0d
+			y: -23.5d
 		}
 		{
 			dependencies: ["1273F559855B70AA"]
@@ -6370,8 +6236,8 @@
 				}
 			]
 			title: "更多化工设备"
-			x: -14.5d
-			y: -24.0d
+			x: -9.5d
+			y: -23.5d
 		}
 		{
 			dependencies: [
@@ -6401,8 +6267,8 @@
 				item: "mekanism:sulfuric_acid_bucket"
 				type: "item"
 			}]
-			x: -17.5d
-			y: -23.0d
+			x: -12.5d
+			y: -21.5d
 		}
 		{
 			dependencies: [
@@ -6427,8 +6293,8 @@
 				item: "kubejs:graphene"
 				type: "item"
 			}]
-			x: -14.5d
-			y: -23.0d
+			x: -9.5d
+			y: -21.5d
 		}
 		{
 			dependencies: [
@@ -6448,8 +6314,8 @@
 				item: "kubejs:carbon_plate"
 				type: "item"
 			}]
-			x: -12.5d
-			y: -23.5d
+			x: -6.5d
+			y: -22.5d
 		}
 		{
 			dependencies: ["52384A09CCA55AFE"]
@@ -6499,8 +6365,8 @@
 				type: "item"
 			}]
 			title: "高效化工合成"
-			x: -14.5d
-			y: -25.0d
+			x: -9.5d
+			y: -24.5d
 		}
 		{
 			dependencies: [
@@ -6514,8 +6380,8 @@
 				item: "kubejs:pure_matter_bucket"
 				type: "item"
 			}]
-			x: -10.5d
-			y: -23.5d
+			x: -3.5d
+			y: -22.5d
 		}
 		{
 			description: [
@@ -6536,8 +6402,8 @@
 				item: "kubejs:compressed_activated_chroma_plate"
 				type: "item"
 			}]
-			x: -10.5d
-			y: -25.0d
+			x: -3.5d
+			y: -24.5d
 		}
 		{
 			description: ["      熔岩筛矿（即答）"]
@@ -6554,8 +6420,8 @@
 				item: "thermal:netherite_gear"
 				type: "item"
 			}]
-			x: -10.5d
-			y: -22.0d
+			x: -3.5d
+			y: -20.5d
 		}
 		{
 			dependencies: ["74F0B1A65B29BB4D"]
@@ -6578,8 +6444,8 @@
 				item: "avaritia:neutron_ingot"
 				type: "item"
 			}]
-			x: -2.5d
-			y: -23.5d
+			x: 3.0d
+			y: -22.5d
 		}
 		{
 			dependencies: ["068CCE16E513CF6B"]
@@ -6596,8 +6462,8 @@
 				item: "kubejs:overchargedultradense"
 				type: "item"
 			}]
-			x: -8.5d
-			y: -23.5d
+			x: -0.5d
+			y: -22.5d
 		}
 		{
 			description: ["      探索了外星之后，甲烷可以通过电解凛冰燃料获取。"]
@@ -6608,8 +6474,8 @@
 				item: "kubejs:methane_bucket"
 				type: "item"
 			}]
-			x: -15.0d
-			y: -22.0d
+			x: -10.0d
+			y: -20.5d
 		}
 		{
 			dependencies: ["4494E9BDD6F2EF5A"]
@@ -6634,8 +6500,8 @@
 				type: "advancement"
 			}]
 			title: "分馏塔"
-			x: -34.0d
-			y: -3.0d
+			x: -39.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["4494E9BDD6F2EF5A"]
@@ -6667,8 +6533,8 @@
 				type: "advancement"
 			}]
 			title: "炼油厂"
-			x: -32.0d
-			y: -3.0d
+			x: -40.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["4494E9BDD6F2EF5A"]
@@ -6693,8 +6559,8 @@
 				type: "advancement"
 			}]
 			title: "高压精炼装置"
-			x: -30.0d
-			y: -3.0d
+			x: -38.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["686C953424729DD9"]
@@ -6715,8 +6581,8 @@
 				type: "advancement"
 			}]
 			title: "混合机"
-			x: -34.0d
-			y: -1.0d
+			x: -40.0d
+			y: -30.0d
 		}
 		{
 			dependencies: ["66E73F03430FDA42"]
@@ -6736,8 +6602,8 @@
 				type: "advancement"
 			}]
 			title: "斗轮式挖掘机"
-			x: -32.0d
-			y: -5.0d
+			x: -40.0d
+			y: -33.0d
 		}
 		{
 			dependencies: ["66E73F03430FDA42"]
@@ -6759,8 +6625,8 @@
 				type: "advancement"
 			}]
 			title: "井架"
-			x: -28.0d
-			y: -5.0d
+			x: -38.0d
+			y: -33.0d
 		}
 		{
 			dependencies: ["66E73F03430FDA42"]
@@ -6784,8 +6650,8 @@
 				type: "advancement"
 			}]
 			title: "抽油机"
-			x: -26.0d
-			y: -5.0d
+			x: -37.0d
+			y: -33.0d
 		}
 		{
 			dependencies: ["4494E9BDD6F2EF5A"]
@@ -6809,8 +6675,8 @@
 				type: "advancement"
 			}]
 			title: "焦炭塔"
-			x: -28.0d
-			y: -3.0d
+			x: -36.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["4494E9BDD6F2EF5A"]
@@ -6831,8 +6697,8 @@
 				type: "advancement"
 			}]
 			title: "发酵机"
-			x: -26.0d
-			y: -3.0d
+			x: -37.5d
+			y: -31.5d
 		}
 		{
 			dependencies: ["66E73F03430FDA42"]
@@ -6862,8 +6728,8 @@
 				}
 			]
 			title: "鹿弹与震波"
-			x: -30.0d
-			y: -5.0d
+			x: -39.0d
+			y: -33.0d
 		}
 		{
 			dependencies: ["686C953424729DD9"]
@@ -6884,8 +6750,8 @@
 				type: "advancement"
 			}]
 			title: "工业挤压机"
-			x: -30.0d
-			y: -1.0d
+			x: -38.0d
+			y: -30.0d
 		}
 		{
 			dependencies: ["686C953424729DD9"]
@@ -6905,8 +6771,8 @@
 				type: "advancement"
 			}]
 			title: "电弧炉"
-			x: -32.0d
-			y: -1.0d
+			x: -39.0d
+			y: -30.0d
 		}
 		{
 			dependencies: ["686C953424729DD9"]
@@ -6934,8 +6800,8 @@
 				type: "observation"
 			}]
 			title: "自动化工程师工作台"
-			x: -28.0d
-			y: -1.0d
+			x: -37.0d
+			y: -30.0d
 		}
 		{
 			dependencies: ["33583C9BB8340D79"]
@@ -6946,8 +6812,8 @@
 				type: "checkmark"
 			}]
 			title: "化工设备"
-			x: -36.0d
-			y: -3.0d
+			x: -42.0d
+			y: -31.5d
 		}
 		{
 			dependencies: ["33583C9BB8340D79"]
@@ -6958,8 +6824,8 @@
 				type: "checkmark"
 			}]
 			title: "资源设备"
-			x: -34.0d
-			y: -5.0d
+			x: -42.0d
+			y: -33.0d
 		}
 		{
 			dependencies: ["33583C9BB8340D79"]
@@ -6970,8 +6836,8 @@
 				type: "checkmark"
 			}]
 			title: "制造设备"
-			x: -36.0d
-			y: -1.0d
+			x: -42.0d
+			y: -30.0d
 		}
 		{
 			dependencies: ["3B5105F0BAB15E17"]
@@ -6989,8 +6855,24 @@
 				item: "kubejs:tungsten_steel_ingot"
 				type: "item"
 			}]
-			x: -14.0d
-			y: -22.0d
+			x: -9.0d
+			y: -20.5d
+		}
+		{
+			dependencies: ["762B937EFF8ECC88"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "minecraft:diamond"
+			id: "5CA53B44C567755D"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "59D703D1E1702DF8"
+				type: "checkmark"
+			}]
+			title: "资源获取建议"
+			x: -46.0d
+			y: -14.0d
 		}
 	]
 	subtitle: [

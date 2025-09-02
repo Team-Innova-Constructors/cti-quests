@@ -14,7 +14,7 @@
 		image: "ftbquests:block/barrier_open"
 		rotation: 0.0d
 		width: 2.0d
-		x: 0.25d
+		x: 0.5d
 		y: -3.5d
 	}]
 	order_index: 0
@@ -35,7 +35,7 @@
 				type: "checkmark"
 			}]
 			title: "世间的扭曲，莱特兰恶意"
-			x: 0.25d
+			x: 0.5d
 			y: -3.5d
 		}
 		{
@@ -68,7 +68,7 @@
 				type: "checkmark"
 			}]
 			title: "凝聚恶意，让恶意化为你的力量"
-			x: 0.25d
+			x: 0.5d
 			y: -5.0d
 		}
 		{
@@ -89,7 +89,7 @@
 				item: "l2hostility:curse_of_gluttony"
 				type: "item"
 			}]
-			x: -1.75d
+			x: -1.5d
 			y: -7.0d
 		}
 		{
@@ -109,7 +109,7 @@
 				item: "l2hostility:curse_of_envy"
 				type: "item"
 			}]
-			x: 0.25d
+			x: 0.5d
 			y: -7.0d
 		}
 		{
@@ -130,7 +130,7 @@
 				item: "l2hostility:curse_of_lust"
 				type: "item"
 			}]
-			x: 2.25d
+			x: 2.5d
 			y: -7.0d
 		}
 		{
@@ -176,7 +176,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			disable_toast: true
@@ -187,7 +187,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			disable_toast: true
@@ -198,7 +198,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			disable_toast: true
@@ -210,7 +210,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			disable_toast: true
@@ -221,7 +221,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			disable_toast: true
@@ -232,7 +232,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			disable_toast: true
@@ -244,7 +244,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			disable_toast: true
@@ -255,7 +255,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -1.5d
+			y: -1.0d
 		}
 		{
 			disable_toast: true
@@ -266,7 +266,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -1.5d
+			y: -1.0d
 		}
 		{
 			disable_toast: true
@@ -277,7 +277,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			disable_toast: true
@@ -288,7 +288,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			disable_toast: true
@@ -299,7 +299,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -1.5d
+			y: -1.0d
 		}
 		{
 			disable_toast: true
@@ -310,7 +310,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -1.5d
+			y: -1.0d
 		}
 		{
 			disable_toast: true
@@ -321,7 +321,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			disable_toast: true
@@ -332,7 +332,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			disable_toast: true
@@ -343,7 +343,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			disable_toast: true
@@ -360,7 +360,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			description: ["巨龙之息与下届之烈焰摩擦钻石而凝聚出来的成果，相较于之前的宝珠有更加强悍的恶意抢夺能力，能得到更加强大的物品，只是它得到的东西种类变少了"]
@@ -591,8 +591,8 @@
 				item: "l2hostility:charm_of_looting_3"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -0.5d
+			x: 4.0d
+			y: 0.5d
 		}
 		{
 			disable_toast: true
@@ -625,8 +625,8 @@
 				item: "l2complements:captured_wind"
 				type: "item"
 			}]
-			x: 6.0d
-			y: -0.5d
+			x: 5.5d
+			y: 0.5d
 		}
 		{
 			disable_toast: true
@@ -642,8 +642,8 @@
 				item: "l2complements:sculkium_nugget"
 				type: "item"
 			}]
-			x: 6.0d
-			y: -1.5d
+			x: 5.5d
+			y: -0.5d
 		}
 		{
 			disable_toast: true
@@ -659,8 +659,8 @@
 				item: "l2complements:storm_core"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.5d
+			x: 5.5d
+			y: 1.5d
 		}
 		{
 			description: ["奇迹就在眼前，但是奇迹的后面……似乎还有着什么更加恐怖的东西……"]
@@ -679,8 +679,8 @@
 				item: "l2hostility:charm_of_looting_4"
 				type: "item"
 			}]
-			x: -3.5d
-			y: -0.5d
+			x: -3.0d
+			y: 0.5d
 		}
 		{
 			disable_toast: true
@@ -696,8 +696,8 @@
 				item: "l2complements:resonant_feather"
 				type: "item"
 			}]
-			x: -5.0d
-			y: -1.5d
+			x: -4.5d
+			y: -0.5d
 		}
 		{
 			disable_toast: true
@@ -713,8 +713,8 @@
 				item: "l2hostility:chaos_ingot"
 				type: "item"
 			}]
-			x: -5.0d
-			y: -2.5d
+			x: -4.5d
+			y: -1.5d
 		}
 		{
 			disable_toast: true
@@ -730,8 +730,8 @@
 				item: "l2complements:heirophant_green"
 				type: "item"
 			}]
-			x: -5.0d
-			y: 1.5d
+			x: -4.5d
+			y: 2.5d
 		}
 		{
 			disable_toast: true
@@ -747,8 +747,8 @@
 				item: "l2complements:void_eye"
 				type: "item"
 			}]
-			x: -5.0d
-			y: 0.5d
+			x: -4.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["179ED87BCC4A86A7"]
@@ -776,7 +776,7 @@
 				item: "l2hostility:greed_of_nidhoggur"
 				type: "item"
 			}]
-			x: 0.25d
+			x: 0.5d
 			y: -11.0d
 		}
 		{
@@ -799,7 +799,7 @@
 				title: "以下仅告诉对应宝珠能打出来什么材料"
 				type: "checkmark"
 			}]
-			x: 1.75d
+			x: 2.0d
 			y: -3.5d
 		}
 		{
@@ -823,7 +823,7 @@
 				item: "l2hostility:curse_of_greed"
 				type: "item"
 			}]
-			x: 0.25d
+			x: 0.5d
 			y: -8.5d
 		}
 		{
@@ -840,8 +840,8 @@
 				item: "l2complements:sun_membrane"
 				type: "item"
 			}]
-			x: -6.0d
-			y: 0.5d
+			x: -5.5d
+			y: 1.5d
 		}
 		{
 			id: "0C709EA974A8B43A"
@@ -857,8 +857,8 @@
 				item: "l2complements:eternium_nugget"
 				type: "item"
 			}]
-			x: -6.0d
-			y: -1.5d
+			x: -5.5d
+			y: -0.5d
 		}
 		{
 			id: "33414A01B664D51D"
@@ -873,8 +873,8 @@
 				item: "l2hostility:imagine_breaker"
 				type: "item"
 			}]
-			x: -5.0d
-			y: -0.5d
+			x: -4.5d
+			y: 0.5d
 		}
 		{
 			id: "28535ACDAC66AA80"
@@ -890,8 +890,8 @@
 				item: "l2complements:force_field"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 1.5d
+			x: 5.5d
+			y: 2.5d
 		}
 		{
 			id: "509E2ADAB01C1880"
@@ -907,8 +907,8 @@
 				item: "l2complements:blackstone_core"
 				type: "item"
 			}]
-			x: 7.0d
-			y: -0.5d
+			x: 6.5d
+			y: 0.5d
 		}
 		{
 			id: "55A3B345D448CECD"
@@ -924,8 +924,8 @@
 				item: "l2hostility:book_of_reprint"
 				type: "item"
 			}]
-			x: 6.0d
-			y: -2.5d
+			x: 5.5d
+			y: -1.5d
 		}
 		{
 			id: "10B88D26422BD446"
@@ -947,7 +947,7 @@
 				item: "l2hostility:detector_glasses"
 				type: "item"
 			}]
-			x: -2.75d
+			x: -2.5d
 			y: -3.5d
 		}
 		{
@@ -959,7 +959,7 @@
 				title: "妙妙小道具"
 				type: "checkmark"
 			}]
-			x: -1.25d
+			x: -1.0d
 			y: -3.5d
 		}
 		{
@@ -977,7 +977,7 @@
 				item: "l2complements:totemic_apple"
 				type: "item"
 			}]
-			x: -2.75d
+			x: -2.5d
 			y: -4.5d
 		}
 		{
@@ -995,8 +995,8 @@
 				item: "l2complements:enchanted_totemic_apple"
 				type: "item"
 			}]
-			x: -3.75d
-			y: -5.0d
+			x: -3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["205A75EE7CD8C412"]
@@ -1013,7 +1013,7 @@
 				item: "l2hostility:ring_of_divinity"
 				type: "item"
 			}]
-			x: -2.75d
+			x: -2.5d
 			y: -2.5d
 		}
 		{
@@ -1031,8 +1031,8 @@
 				item: "l2hostility:ring_of_healing"
 				type: "item"
 			}]
-			x: -3.75d
-			y: -2.0d
+			x: -3.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1057,8 +1057,8 @@
 				item: "l2hostility:tank"
 				type: "item"
 			}]
-			x: 9.5d
-			y: -9.0d
+			x: 13.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1081,8 +1081,8 @@
 				item: "l2hostility:speedy"
 				type: "item"
 			}]
-			x: 5.0d
-			y: -6.0d
+			x: 10.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1105,8 +1105,8 @@
 				item: "l2hostility:protection"
 				type: "item"
 			}]
-			x: 8.0d
-			y: -9.0d
+			x: 12.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1125,8 +1125,8 @@
 				item: "l2hostility:invisible"
 				type: "item"
 			}]
-			x: 5.0d
-			y: -9.0d
+			x: 9.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1145,8 +1145,8 @@
 				item: "l2hostility:fiery"
 				type: "item"
 			}]
-			x: 6.5d
-			y: -6.0d
+			x: 12.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1169,8 +1169,8 @@
 				item: "l2hostility:regenerate"
 				type: "item"
 			}]
-			x: 12.5d
-			y: -9.0d
+			x: 9.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1197,8 +1197,8 @@
 				item: "l2hostility:adaptive"
 				type: "item"
 			}]
-			x: 11.0d
-			y: -9.0d
+			x: 15.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1223,8 +1223,8 @@
 				item: "l2hostility:reflect"
 				type: "item"
 			}]
-			x: 6.5d
-			y: -7.5d
+			x: 12.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1249,8 +1249,8 @@
 				item: "l2hostility:shulker"
 				type: "item"
 			}]
-			x: 6.5d
-			y: -4.5d
+			x: 13.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1275,8 +1275,8 @@
 				item: "l2hostility:grenade"
 				type: "item"
 			}]
-			x: 5.0d
-			y: -7.5d
+			x: 10.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1303,8 +1303,8 @@
 				item: "l2hostility:growth"
 				type: "item"
 			}]
-			x: 8.0d
-			y: -3.0d
+			x: 9.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1323,8 +1323,8 @@
 				item: "l2hostility:split"
 				type: "item"
 			}]
-			x: 9.5d
-			y: -3.0d
+			x: 9.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1349,8 +1349,8 @@
 				item: "l2hostility:drain"
 				type: "item"
 			}]
-			x: 6.5d
-			y: -9.0d
+			x: 10.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1373,8 +1373,8 @@
 				item: "l2hostility:counter_strike"
 				type: "item"
 			}]
-			x: 5.0d
-			y: -4.5d
+			x: 15.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1412,8 +1412,8 @@
 				item: "l2hostility:gravity"
 				type: "item"
 			}]
-			x: 9.5d
-			y: -7.5d
+			x: 10.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1451,8 +1451,8 @@
 				item: "l2hostility:moonwalk"
 				type: "item"
 			}]
-			x: 8.0d
-			y: -7.5d
+			x: 10.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1478,8 +1478,8 @@
 				item: "l2hostility:dispell"
 				type: "item"
 			}]
-			x: 16.75d
-			y: -4.5d
+			x: 19.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1505,8 +1505,8 @@
 				item: "l2hostility:teleport"
 				type: "item"
 			}]
-			x: 16.75d
-			y: -2.25d
+			x: 19.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1532,8 +1532,8 @@
 				item: "l2hostility:killer_aura"
 				type: "item"
 			}]
-			x: 14.5d
-			y: -6.75d
+			x: 17.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1569,8 +1569,8 @@
 				item: "l2hostility:weakness"
 				type: "item"
 			}]
-			x: 9.5d
-			y: -4.5d
+			x: 13.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1603,8 +1603,8 @@
 				item: "l2hostility:slowness"
 				type: "item"
 			}]
-			x: 9.5d
-			y: -6.0d
+			x: 13.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1640,8 +1640,8 @@
 				item: "l2hostility:poison"
 				type: "item"
 			}]
-			x: 12.5d
-			y: -6.0d
+			x: 9.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1677,8 +1677,8 @@
 				item: "l2hostility:wither"
 				type: "item"
 			}]
-			x: 11.0d
-			y: -4.5d
+			x: 15.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1714,8 +1714,8 @@
 				item: "l2hostility:levitation"
 				type: "item"
 			}]
-			x: 12.5d
-			y: -7.5d
+			x: 9.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1751,8 +1751,8 @@
 				item: "l2hostility:blindness"
 				type: "item"
 			}]
-			x: 8.0d
-			y: -4.5d
+			x: 12.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1788,8 +1788,8 @@
 				item: "l2hostility:nausea"
 				type: "item"
 			}]
-			x: 11.0d
-			y: -6.0d
+			x: 15.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1825,8 +1825,8 @@
 				item: "l2hostility:soul_burner"
 				type: "item"
 			}]
-			x: 8.0d
-			y: -6.0d
+			x: 12.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1865,8 +1865,8 @@
 				item: "l2hostility:freezing"
 				type: "item"
 			}]
-			x: 11.0d
-			y: -7.5d
+			x: 10.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1922,8 +1922,8 @@
 				item: "l2hostility:cursed"
 				type: "item"
 			}]
-			x: 12.5d
-			y: -4.5d
+			x: 15.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1955,8 +1955,8 @@
 				item: "l2hostility:undying"
 				type: "item"
 			}]
-			x: 16.75d
-			y: -6.75d
+			x: 19.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -1990,8 +1990,8 @@
 				item: "l2hostility:repelling"
 				type: "item"
 			}]
-			x: 14.5d
-			y: -9.0d
+			x: 17.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -2023,8 +2023,8 @@
 				item: "l2hostility:pulling"
 				type: "item"
 			}]
-			x: 16.75d
-			y: -9.0d
+			x: 19.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -2072,8 +2072,8 @@
 				item: "l2hostility:ragnarok"
 				type: "item"
 			}]
-			x: 19.0d
-			y: -5.5d
+			x: 21.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -2099,8 +2099,8 @@
 				item: "l2hostility:dementor"
 				type: "item"
 			}]
-			x: 14.5d
-			y: -4.5d
+			x: 17.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -2120,8 +2120,8 @@
 				item: "l2hostility:reprint"
 				type: "item"
 			}]
-			x: 14.5d
-			y: -2.25d
+			x: 17.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -2150,8 +2150,8 @@
 				item: "l2hostility:erosion"
 				type: "item"
 			}]
-			x: 12.5d
-			y: -3.0d
+			x: 12.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -2180,8 +2180,8 @@
 				item: "l2hostility:corrosion"
 				type: "item"
 			}]
-			x: 11.0d
-			y: -3.0d
+			x: 13.5d
+			y: 3.5d
 		}
 		{
 			description: [
@@ -2208,14 +2208,16 @@
 			hide_dependent_lines: true
 			icon: "l2hostility:curse_of_envy"
 			id: "4B9715223EAC970D"
+			shape: "gear"
+			size: 2.0d
 			subtitle: "十分重要，一定要耐心看完"
 			tasks: [{
 				id: "0F7F2B1F0D07D06C"
 				type: "checkmark"
 			}]
 			title: "词条攻略"
-			x: 11.0d
-			y: -11.0d
+			x: 13.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["4B9715223EAC970D"]
@@ -2240,8 +2242,8 @@
 				item: "l2hostility:purify"
 				type: "item"
 			}]
-			x: 12.5d
-			y: -1.5d
+			x: 15.0d
+			y: 3.5d
 		}
 		{
 			description: [
@@ -2266,8 +2268,8 @@
 				item: "l2hostility:extreme_damage_reduce"
 				type: "item"
 			}]
-			x: 14.5d
-			y: 0.0d
+			x: 17.0d
+			y: 4.5d
 		}
 		{
 			description: [
@@ -2296,8 +2298,8 @@
 				item: "l2hostility:temporary_armor"
 				type: "item"
 			}]
-			x: 16.75d
-			y: 0.0d
+			x: 19.0d
+			y: 4.5d
 		}
 		{
 			description: [
@@ -2321,8 +2323,8 @@
 				item: "l2hostility:second_phase"
 				type: "item"
 			}]
-			x: 11.0d
-			y: -1.5d
+			x: 13.5d
+			y: 5.5d
 		}
 		{
 			description: [
@@ -2350,8 +2352,8 @@
 				item: "l2hostility:oracle"
 				type: "item"
 			}]
-			x: 9.5d
-			y: -1.5d
+			x: 12.0d
+			y: 5.5d
 		}
 	]
 	subtitle: [

@@ -298,20 +298,8 @@
 			image: "ftbquests:tasks/input_only"
 			rotation: 0.0d
 			width: 1.0d
-			x: -2.0d
-			y: -2.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "ftbquests:tasks/input_only"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.0d
-			y: 0.0d
+			x: -1.5d
+			y: -0.5d
 		}
 		{
 			click: ""
@@ -396,6 +384,42 @@
 			width: 1.5d
 			x: 13.5d
 			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftbquests:tasks/input_only"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftbquests:tasks/input_only"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftbquests:tasks/input_only"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.5d
 		}
 	]
 	order_index: 0
@@ -1761,10 +1785,8 @@
 			y: 5.2d
 		}
 		{
-			dependencies: [
-				"636ADE09A34BB9F2"
-				"1612651925DCDED8"
-			]
+			dependencies: ["636ADE09A34BB9F2"]
+			dependency_requirement: "one_completed"
 			description: [
 				"终于，你来到了这个&c炎热&r的地方"
 				""
@@ -1804,6 +1826,7 @@
 			y: 5.25d
 		}
 		{
+			dependencies: ["71A49B6C2D816424"]
 			description: [
 				"穿戴这个制作的盔甲，你就仿佛穿上了&e金甲&r，&d猪灵不再会主动攻击你&r"
 				""
@@ -2092,6 +2115,7 @@
 				""
 				"他并&a没有调整获取方式&r，你可以&a前期直接做&r"
 			]
+			hide_dependency_lines: true
 			id: "7717A36741FBC926"
 			rewards: [{
 				id: "43BD8ACAA2B777AB"
@@ -2105,6 +2129,7 @@
 				}
 				type: "item"
 			}]
+			shape: "diamond"
 			tasks: [{
 				id: "452ADE6D5E931D2A"
 				item: {
@@ -2117,8 +2142,8 @@
 				}
 				type: "item"
 			}]
-			x: -3.0d
-			y: 0.0d
+			x: -2.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["34A01824678F973A"]
@@ -2127,6 +2152,7 @@
 				""
 				"它可以很轻松的帮你&e测试伤害&r，来选出合适的搭配"
 			]
+			hide_dependency_lines: true
 			id: "1B48B1588D9CCA70"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -2134,13 +2160,14 @@
 				table_id: 1021271035427133542L
 				type: "random"
 			}]
+			shape: "diamond"
 			tasks: [{
 				id: "079D38549CDFAE95"
 				item: "dummmmmmy:target_dummy"
 				type: "item"
 			}]
-			x: -2.0d
-			y: -2.0d
+			x: -1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["34A01824678F973A"]
@@ -2148,6 +2175,7 @@
 				"指路石是一个很好用的传送工具，前期想回家尝试多造一些这个的锚点吧"
 				"&l&o&0&m其实路上会有野生的指路石，你可以全部搬回家（）&l&o&m&0"
 			]
+			hide_dependency_lines: true
 			id: "3DF56FF0FB4CB03B"
 			rewards: [{
 				count: 3
@@ -2155,6 +2183,7 @@
 				item: "waystones:waystone"
 				type: "item"
 			}]
+			shape: "diamond"
 			tasks: [{
 				id: "093A381810122AEB"
 				item: {
@@ -2166,8 +2195,8 @@
 				}
 				type: "item"
 			}]
-			x: -2.0d
-			y: 2.0d
+			x: -2.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["52EEE06829BC1563"]
@@ -2355,6 +2384,73 @@
 			title: "发现焦褐小屋"
 			x: 13.5d
 			y: 2.5d
+		}
+		{
+			dependencies: ["34A01824678F973A"]
+			description: [
+				"       部分群系伴随一些&e危险的生物&r，不适合开局当家。"
+				""
+				" &6      热带草原及其衍生群系&r会刷&6图腾鸟（boss）的结构&r，群系内部会随机刷新&6图腾鸟的手下&r和&7鸡蛇&r这两种高危险性生物；"
+				""
+				" &b      雪原及其衍生群系&r会刷新&3霜冻巨兽（boss）&r；"
+				""
+				" &e      沙漠及其衍生群系&r会刷新&4死亡蠕虫&r；"
+				""
+				" &2      沼泽群系&r会刷新&6铜羽泽鸮&r。"
+				""
+				"      为了你的安全着想，请避免在这几个群系附近造家。"
+				""
+				"      在获得了&b钻石&r后也可以前往&d风景优美&r且&6地表不刷怪&r的&e暮色森林&r造家！"
+			]
+			hide_dependency_lines: true
+			icon: "twilightforest:lich_tower_miniature_structure"
+			id: "568D5BD575AFDE6C"
+			rewards: [
+				{
+					id: "3CB444B0D1EA78FC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 64
+					id: "73AB70165CC9110B"
+					item: "minecraft:oak_log"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			subtitle: "平原/森林是较为安全的初始群系"
+			tasks: [{
+				biome: "minecraft:plains"
+				id: "15366E2F2246F7E3"
+				title: "发现一处平原"
+				type: "biome"
+			}]
+			title: "到哪安个好家？"
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["34A01824678F973A"]
+			icon: "cti:soul_spell"
+			id: "28942E6E25C7992F"
+			rewards: [{
+				id: "5839A890E8C66829"
+				item: "cti:soul_spell"
+				type: "item"
+			}]
+			size: 0.8d
+			subtitle: "嗯...再喝的话当然要付出点代价"
+			tasks: [{
+				consume_items: true
+				id: "7884A5B743342D00"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "后悔药"
+			x: 0.0d
+			y: 1.2d
 		}
 	]
 	subtitle: [
