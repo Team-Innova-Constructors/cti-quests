@@ -387,6 +387,7 @@
 				""
 				" &e     PnC的部分设备能在天镜找到。&6如果你没探索天镜那就等主线推到&r塑料&6再发展气动吧。"
 			]
+			hide_dependent_lines: true
 			icon: "pneumaticcraft:pressure_gauge"
 			id: "4A1A52ED171F3456"
 			rewards: [
@@ -516,6 +517,7 @@
 				""
 				"      *热力的部分设备能在天镜找到"
 			]
+			hide_dependent_lines: true
 			icon: "thermal:energy_cell_frame"
 			id: "00A6DEB8A3AEA4C7"
 			rewards: [{
@@ -1011,6 +1013,7 @@
 			y: -29.5d
 		}
 		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
 			description: ["      前期小神器，便宜大碗的催熟道具"]
 			id: "70C263359C93FA01"
 			rewards: [
@@ -1173,6 +1176,7 @@
 			y: -34.5d
 		}
 		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
 			id: "401F3A17BD013DBC"
 			rewards: [
 				{
@@ -1209,6 +1213,7 @@
 			y: -30.5d
 		}
 		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
 			description: [
 				" &e经过代码和测试数据逆推，推测出的算法如下："
 				"      捕捞器有固定的工作间隔 [默认间隔是4800ticks（240秒，4分钟），最小间隔是240ticks（12秒）] 和初始工作范围（没测出来，推测初始范围应该在捕捞器为中心4*4*4左右）。"
@@ -1265,6 +1270,7 @@
 			y: -30.5d
 		}
 		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
 			description: ["      具体的判定标准见百科"]
 			id: "1818617982F614E2"
 			rewards: [
@@ -1292,6 +1298,7 @@
 			y: -30.5d
 		}
 		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
 			id: "7A58ACBBE8A1EA5A"
 			rewards: [
 				{
@@ -1318,6 +1325,7 @@
 			y: -30.5d
 		}
 		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
 			description: [
 				"       传输效率高达2.14G/t，但是热力管道的主动抽取需要通过伺服器完成，而伺服器的效率很低。"
 				""
@@ -3815,6 +3823,7 @@
 			y: -30.0d
 		}
 		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
 			id: "53403AE5636F12A6"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -3834,6 +3843,7 @@
 			y: -31.75d
 		}
 		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
 			description: [
 				"      将槽楔放置于机器多余的槽位中，可以阻止物品被输入到对应槽位，从而阻止串配方。"
 				"{image:kubejs:textures/ftbq_images/thermal_gui/2d091c24c865a90abe304d38d16c17cd.png width:177 height:57 align:1}"
@@ -4135,6 +4145,7 @@
 			y: -29.5d
 		}
 		{
+			dependencies: ["4A1A52ED171F3456"]
 			id: "75F7DF5655FB02C6"
 			subtitle: "简要介绍了最推荐的几种压缩机，请根据时期选择"
 			tasks: [{
@@ -4146,6 +4157,7 @@
 			y: -30.0d
 		}
 		{
+			dependencies: ["4A1A52ED171F3456"]
 			id: "4B981566F66F9C3F"
 			subtitle: "这里简要介绍了PnC的电路板及其下流产品的制造"
 			tasks: [{

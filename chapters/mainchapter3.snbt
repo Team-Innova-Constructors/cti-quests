@@ -190,8 +190,9 @@
 			icon: "mekanismgenerators:control_rod_assembly"
 			id: "21BC740E15D8D6F9"
 			rewards: [{
-				id: "4D1465963CC830D7"
-				item: "kubejs:atherium_casing"
+				id: "69AE3E7A3167BECB"
+				item: "kubejs:reactor_casing"
+				random_bonus: 31
 				type: "item"
 			}]
 			size: 1.5d

@@ -1647,7 +1647,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: 8.5d
+			y: 9.5d
 		}
 		{
 			id: "5A61FFADC9A360D2"
@@ -1656,38 +1656,8 @@
 				item: "gobber2:gobber2_ring_return"
 				type: "item"
 			}]
-			x: 11.5d
-			y: 12.5d
-		}
-		{
-			id: "73345374A85CA4E8"
-			tasks: [{
-				id: "6AD97D44C5BA1492"
-				item: "gobber2:gobber2_ring_ascent"
-				type: "item"
-			}]
 			x: 12.0d
-			y: 8.5d
-		}
-		{
-			id: "4D5DCDA0F704CD18"
-			tasks: [{
-				id: "4D997C28E529C810"
-				item: "gobber2:gobber2_ring_above"
-				type: "item"
-			}]
-			x: 11.0d
-			y: 9.5d
-		}
-		{
-			id: "30907AB3EEE6AACA"
-			tasks: [{
-				id: "5206D2E61555A80A"
-				item: "gobber2:gobber2_ring_miner"
-				type: "item"
-			}]
-			x: 12.0d
-			y: 9.5d
+			y: 11.5d
 		}
 		{
 			id: "6B5E16FE3F5A846D"
@@ -1708,7 +1678,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: 10.5d
+			y: 9.5d
 		}
 		{
 			id: "3B4E99655E5C471A"
@@ -1729,7 +1699,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: 11.5d
+			y: 10.5d
 		}
 		{
 			id: "79A56BA97BBE888D"
@@ -1739,7 +1709,7 @@
 				type: "item"
 			}]
 			x: 13.0d
-			y: 8.5d
+			y: 9.5d
 		}
 		{
 			id: "0CAE012C76612C4B"
@@ -1749,7 +1719,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: 8.5d
+			y: 9.5d
 		}
 		{
 			id: "18668FB121BFD027"
@@ -1759,7 +1729,7 @@
 				type: "item"
 			}]
 			x: 13.5d
-			y: 7.5d
+			y: 8.5d
 		}
 		{
 			id: "7F34C562316BCA20"
@@ -1769,7 +1739,7 @@
 				type: "item"
 			}]
 			x: 13.0d
-			y: 9.5d
+			y: 10.5d
 		}
 		{
 			id: "213B67EE228017CD"
@@ -1779,7 +1749,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: 9.5d
+			y: 10.5d
 		}
 		{
 			id: "6A1F557ABDA3E7CC"
@@ -1802,17 +1772,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: 10.5d
-		}
-		{
-			id: "7E2FF964B2F56D5D"
-			tasks: [{
-				id: "26F050771F42FB54"
-				item: "gobber2:gobber2_ring_haste"
-				type: "item"
-			}]
-			x: 13.0d
-			y: 10.5d
+			y: 11.5d
 		}
 		{
 			id: "466799DEECD7E0A0"
@@ -1821,7 +1781,7 @@
 				item: "gobber2:gobber2_ring_repair"
 				type: "item"
 			}]
-			x: 13.5d
+			x: 13.0d
 			y: 11.5d
 		}
 		{
@@ -1832,7 +1792,7 @@
 				type: "item"
 			}]
 			x: 15.0d
-			y: 8.5d
+			y: 9.5d
 		}
 		{
 			id: "52A452E3235E0053"
@@ -1842,7 +1802,7 @@
 				type: "item"
 			}]
 			x: 16.0d
-			y: 8.5d
+			y: 9.5d
 		}
 		{
 			id: "56AF40FA3ED7A6B9"
@@ -1852,7 +1812,7 @@
 				type: "item"
 			}]
 			x: 15.5d
-			y: 7.5d
+			y: 8.5d
 		}
 		{
 			id: "6DF921F5D43D8155"
@@ -1863,18 +1823,7 @@
 				type: "item"
 			}]
 			x: 15.0d
-			y: 9.5d
-		}
-		{
-			id: "51FE50F7BFBE420B"
-			subtitle: "日  炎  圣  盾"
-			tasks: [{
-				id: "4930CDBE10C1684B"
-				item: "gobber2:gobber2_ring_pyro"
-				type: "item"
-			}]
-			x: 16.0d
-			y: 9.5d
+			y: 10.5d
 		}
 		{
 			id: "5C556BA8F8F7B4F0"
@@ -1884,17 +1833,7 @@
 				type: "item"
 			}]
 			x: 15.0d
-			y: 10.5d
-		}
-		{
-			id: "45592A6FE269C630"
-			tasks: [{
-				id: "3229A11757941AE3"
-				item: "gobber2:gobber2_ring_traveler"
-				type: "item"
-			}]
-			x: 16.0d
-			y: 10.5d
+			y: 11.5d
 		}
 		{
 			id: "4AB5E479B07EBC12"
@@ -1903,7 +1842,7 @@
 				item: "gobber2:gobber2_ring_void"
 				type: "item"
 			}]
-			x: 15.0d
+			x: 16.0d
 			y: 11.5d
 		}
 		{
@@ -1915,17 +1854,7 @@
 				type: "item"
 			}]
 			x: 16.0d
-			y: 11.5d
-		}
-		{
-			id: "7B02137C376E1572"
-			tasks: [{
-				id: "298289BA1EF94F0F"
-				item: "gobber2:gobber2_ring_stealth"
-				type: "item"
-			}]
-			x: 15.5d
-			y: 12.5d
+			y: 10.5d
 		}
 		{
 			id: "70CB4F70DB5661DC"
@@ -2284,7 +2213,7 @@
 				type: "item"
 			}]
 			x: 11.5d
-			y: 7.5d
+			y: 8.5d
 		}
 		{
 			id: "033090FB242FCA7D"
@@ -3010,7 +2939,6 @@
 				"108C44215B35F796"
 				"027DB2F0783CE8BE"
 				"7A2B59C565ECFE0D"
-				"30907AB3EEE6AACA"
 				"6AE45D3BA668DDA6"
 				"2AC06B09BBB2BA62"
 				"078B2A2689EC405A"
@@ -3040,7 +2968,6 @@
 				"18668FB121BFD027"
 				"7ACA155220430D8D"
 				"1CDBCF939A77E95D"
-				"7B02137C376E1572"
 				"1951C16AC8D1D08C"
 				"2F1F3B62F0488459"
 				"41E254CD5A890BCB"
@@ -3076,7 +3003,6 @@
 				"2175B53CF1965B65"
 				"3C5756EF5D838181"
 				"3BF48BA7C693747B"
-				"51FE50F7BFBE420B"
 				"5A61FFADC9A360D2"
 				"27A6C35C33741B30"
 				"2681110E0E560166"
@@ -3093,9 +3019,7 @@
 				"5A1B008E00493605"
 				"451670A24096D5FC"
 				"4E835DEE29931A1F"
-				"4D5DCDA0F704CD18"
 				"702862A610BF7CD3"
-				"7E2FF964B2F56D5D"
 				"4939BAA1E2820FF9"
 				"3961DD25C8956835"
 				"1AD2018601DEEC6D"
@@ -3108,7 +3032,6 @@
 				"42B889973D553696"
 				"7355BB4AF71563E7"
 				"7806A20C4D564FAD"
-				"73345374A85CA4E8"
 				"51C3A696388B552B"
 				"6DDC66FBFDA5FE74"
 				"10E71A65169880E2"
@@ -3163,7 +3086,6 @@
 				"2C33DE83ACA31378"
 				"3B4E99655E5C471A"
 				"19EA2BA2E5758A53"
-				"45592A6FE269C630"
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"
@@ -3274,7 +3196,6 @@
 				"108C44215B35F796"
 				"027DB2F0783CE8BE"
 				"7A2B59C565ECFE0D"
-				"30907AB3EEE6AACA"
 				"6AE45D3BA668DDA6"
 				"2AC06B09BBB2BA62"
 				"078B2A2689EC405A"
@@ -3304,7 +3225,6 @@
 				"18668FB121BFD027"
 				"7ACA155220430D8D"
 				"1CDBCF939A77E95D"
-				"7B02137C376E1572"
 				"1951C16AC8D1D08C"
 				"2F1F3B62F0488459"
 				"41E254CD5A890BCB"
@@ -3340,7 +3260,6 @@
 				"2175B53CF1965B65"
 				"3C5756EF5D838181"
 				"3BF48BA7C693747B"
-				"51FE50F7BFBE420B"
 				"5A61FFADC9A360D2"
 				"27A6C35C33741B30"
 				"2681110E0E560166"
@@ -3357,9 +3276,7 @@
 				"5A1B008E00493605"
 				"451670A24096D5FC"
 				"4E835DEE29931A1F"
-				"4D5DCDA0F704CD18"
 				"702862A610BF7CD3"
-				"7E2FF964B2F56D5D"
 				"4939BAA1E2820FF9"
 				"3961DD25C8956835"
 				"1AD2018601DEEC6D"
@@ -3372,7 +3289,6 @@
 				"42B889973D553696"
 				"7355BB4AF71563E7"
 				"7806A20C4D564FAD"
-				"73345374A85CA4E8"
 				"51C3A696388B552B"
 				"6DDC66FBFDA5FE74"
 				"10E71A65169880E2"
@@ -3427,7 +3343,6 @@
 				"2C33DE83ACA31378"
 				"3B4E99655E5C471A"
 				"19EA2BA2E5758A53"
-				"45592A6FE269C630"
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"
@@ -3548,7 +3463,6 @@
 				"108C44215B35F796"
 				"027DB2F0783CE8BE"
 				"7A2B59C565ECFE0D"
-				"30907AB3EEE6AACA"
 				"6AE45D3BA668DDA6"
 				"2AC06B09BBB2BA62"
 				"078B2A2689EC405A"
@@ -3578,7 +3492,6 @@
 				"18668FB121BFD027"
 				"7ACA155220430D8D"
 				"1CDBCF939A77E95D"
-				"7B02137C376E1572"
 				"1951C16AC8D1D08C"
 				"2F1F3B62F0488459"
 				"41E254CD5A890BCB"
@@ -3614,7 +3527,6 @@
 				"2175B53CF1965B65"
 				"3C5756EF5D838181"
 				"3BF48BA7C693747B"
-				"51FE50F7BFBE420B"
 				"5A61FFADC9A360D2"
 				"27A6C35C33741B30"
 				"2681110E0E560166"
@@ -3631,9 +3543,7 @@
 				"5A1B008E00493605"
 				"451670A24096D5FC"
 				"4E835DEE29931A1F"
-				"4D5DCDA0F704CD18"
 				"702862A610BF7CD3"
-				"7E2FF964B2F56D5D"
 				"4939BAA1E2820FF9"
 				"3961DD25C8956835"
 				"1AD2018601DEEC6D"
@@ -3646,7 +3556,6 @@
 				"42B889973D553696"
 				"7355BB4AF71563E7"
 				"7806A20C4D564FAD"
-				"73345374A85CA4E8"
 				"51C3A696388B552B"
 				"6DDC66FBFDA5FE74"
 				"10E71A65169880E2"
@@ -3701,7 +3610,6 @@
 				"2C33DE83ACA31378"
 				"3B4E99655E5C471A"
 				"19EA2BA2E5758A53"
-				"45592A6FE269C630"
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"
@@ -3818,7 +3726,6 @@
 				"108C44215B35F796"
 				"027DB2F0783CE8BE"
 				"7A2B59C565ECFE0D"
-				"30907AB3EEE6AACA"
 				"6AE45D3BA668DDA6"
 				"2AC06B09BBB2BA62"
 				"078B2A2689EC405A"
@@ -3848,7 +3755,6 @@
 				"18668FB121BFD027"
 				"7ACA155220430D8D"
 				"1CDBCF939A77E95D"
-				"7B02137C376E1572"
 				"1951C16AC8D1D08C"
 				"2F1F3B62F0488459"
 				"41E254CD5A890BCB"
@@ -3884,7 +3790,6 @@
 				"2175B53CF1965B65"
 				"3C5756EF5D838181"
 				"3BF48BA7C693747B"
-				"51FE50F7BFBE420B"
 				"5A61FFADC9A360D2"
 				"27A6C35C33741B30"
 				"2681110E0E560166"
@@ -3901,9 +3806,7 @@
 				"5A1B008E00493605"
 				"451670A24096D5FC"
 				"4E835DEE29931A1F"
-				"4D5DCDA0F704CD18"
 				"702862A610BF7CD3"
-				"7E2FF964B2F56D5D"
 				"4939BAA1E2820FF9"
 				"3961DD25C8956835"
 				"1AD2018601DEEC6D"
@@ -3916,7 +3819,6 @@
 				"42B889973D553696"
 				"7355BB4AF71563E7"
 				"7806A20C4D564FAD"
-				"73345374A85CA4E8"
 				"51C3A696388B552B"
 				"6DDC66FBFDA5FE74"
 				"10E71A65169880E2"
@@ -3971,7 +3873,6 @@
 				"2C33DE83ACA31378"
 				"3B4E99655E5C471A"
 				"19EA2BA2E5758A53"
-				"45592A6FE269C630"
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"
@@ -4082,7 +3983,6 @@
 				"108C44215B35F796"
 				"027DB2F0783CE8BE"
 				"7A2B59C565ECFE0D"
-				"30907AB3EEE6AACA"
 				"6AE45D3BA668DDA6"
 				"2AC06B09BBB2BA62"
 				"078B2A2689EC405A"
@@ -4112,7 +4012,6 @@
 				"18668FB121BFD027"
 				"7ACA155220430D8D"
 				"1CDBCF939A77E95D"
-				"7B02137C376E1572"
 				"1951C16AC8D1D08C"
 				"2F1F3B62F0488459"
 				"41E254CD5A890BCB"
@@ -4148,7 +4047,6 @@
 				"2175B53CF1965B65"
 				"3C5756EF5D838181"
 				"3BF48BA7C693747B"
-				"51FE50F7BFBE420B"
 				"5A61FFADC9A360D2"
 				"27A6C35C33741B30"
 				"2681110E0E560166"
@@ -4165,9 +4063,7 @@
 				"5A1B008E00493605"
 				"451670A24096D5FC"
 				"4E835DEE29931A1F"
-				"4D5DCDA0F704CD18"
 				"702862A610BF7CD3"
-				"7E2FF964B2F56D5D"
 				"4939BAA1E2820FF9"
 				"3961DD25C8956835"
 				"1AD2018601DEEC6D"
@@ -4180,7 +4076,6 @@
 				"42B889973D553696"
 				"7355BB4AF71563E7"
 				"7806A20C4D564FAD"
-				"73345374A85CA4E8"
 				"51C3A696388B552B"
 				"6DDC66FBFDA5FE74"
 				"10E71A65169880E2"
@@ -4235,7 +4130,6 @@
 				"2C33DE83ACA31378"
 				"3B4E99655E5C471A"
 				"19EA2BA2E5758A53"
-				"45592A6FE269C630"
 				"4906578986667F9A"
 				"42F249693C0E1AE0"
 				"63ABD2F36E9AA4B4"

@@ -57,7 +57,7 @@
 				type: "dimension"
 			}]
 			title: "原版材料"
-			x: 17.5d
+			x: 17.0d
 			y: 32.0d
 		}
 		{
@@ -74,7 +74,7 @@
 				type: "dimension"
 			}]
 			title: "匠心独运"
-			x: 15.5d
+			x: 15.0d
 			y: 32.0d
 		}
 		{
@@ -97,7 +97,7 @@
 				type: "dimension"
 			}]
 			title: "匠魂3"
-			x: 13.5d
+			x: 13.0d
 			y: 32.0d
 		}
 		{
@@ -114,7 +114,7 @@
 				type: "dimension"
 			}]
 			title: "热力系列"
-			x: 11.5d
+			x: 11.0d
 			y: 32.0d
 		}
 		{
@@ -132,7 +132,7 @@
 				type: "dimension"
 			}]
 			title: "乙硫基匠魂"
-			x: 9.5d
+			x: 9.0d
 			y: 32.0d
 		}
 		{
@@ -150,7 +150,7 @@
 				type: "dimension"
 			}]
 			title: "整合包特供材料"
-			x: 7.5d
+			x: 7.0d
 			y: 32.0d
 		}
 		{
@@ -173,7 +173,7 @@
 				type: "dimension"
 			}]
 			title: "工匠创新"
-			x: 5.5d
+			x: 5.0d
 			y: 32.0d
 		}
 		{
@@ -191,7 +191,7 @@
 				type: "dimension"
 			}]
 			title: "戈伯2"
-			x: 3.5d
+			x: 3.0d
 			y: 30.0d
 		}
 		{
@@ -212,7 +212,7 @@
 				type: "dimension"
 			}]
 			title: "等价交换"
-			x: 17.5d
+			x: 17.0d
 			y: 30.0d
 		}
 		{
@@ -235,7 +235,7 @@
 				type: "dimension"
 			}]
 			title: "循环"
-			x: 15.5d
+			x: 15.0d
 			y: 30.0d
 		}
 		{
@@ -258,7 +258,7 @@
 				type: "dimension"
 			}]
 			title: "Ad astra"
-			x: 13.5d
+			x: 13.0d
 			y: 30.0d
 		}
 		{
@@ -275,7 +275,7 @@
 				type: "dimension"
 			}]
 			title: "AE2"
-			x: 11.5d
+			x: 11.0d
 			y: 30.0d
 		}
 		{
@@ -319,7 +319,7 @@
 				type: "dimension"
 			}]
 			title: "匠魂杂物"
-			x: 9.5d
+			x: 9.0d
 			y: 30.0d
 		}
 		{
@@ -336,7 +336,7 @@
 				type: "dimension"
 			}]
 			title: "水产业2"
-			x: 7.5d
+			x: 7.0d
 			y: 30.0d
 		}
 		{
@@ -354,7 +354,7 @@
 				type: "dimension"
 			}]
 			title: "灾变"
-			x: 5.5d
+			x: 5.0d
 			y: 30.0d
 		}
 		{
@@ -371,7 +371,7 @@
 				type: "dimension"
 			}]
 			title: "匠魂校准"
-			x: 21.5d
+			x: 22.0d
 			y: 32.0d
 		}
 		{
@@ -388,7 +388,7 @@
 				type: "dimension"
 			}]
 			title: "工匠再锻"
-			x: 23.5d
+			x: 24.0d
 			y: 32.0d
 		}
 		{
@@ -437,7 +437,7 @@
 				type: "dimension"
 			}]
 			title: "工匠匠心"
-			x: 25.5d
+			x: 26.0d
 			y: 32.0d
 		}
 		{
@@ -461,7 +461,7 @@
 				type: "dimension"
 			}]
 			title: "植物魔法"
-			x: 27.5d
+			x: 28.0d
 			y: 32.0d
 		}
 		{
@@ -480,7 +480,7 @@
 				type: "dimension"
 			}]
 			title: "工匠联合"
-			x: 29.5d
+			x: 30.0d
 			y: 32.0d
 		}
 		{
@@ -498,7 +498,7 @@
 				type: "dimension"
 			}]
 			title: "贡献者/开发者材料"
-			x: 31.5d
+			x: 32.0d
 			y: 32.0d
 		}
 		{
@@ -515,7 +515,7 @@
 				type: "dimension"
 			}]
 			title: "机械动力"
-			x: 33.5d
+			x: 34.0d
 			y: 32.0d
 		}
 		{
@@ -531,7 +531,7 @@
 				id: "568583B1FE0DC6CC"
 				type: "dimension"
 			}]
-			x: 35.5d
+			x: 36.0d
 			y: 32.0d
 		}
 		{
@@ -548,7 +548,7 @@
 				type: "dimension"
 			}]
 			title: "莱特兰恶意2 拓展"
-			x: 21.5d
+			x: 22.0d
 			y: 30.0d
 		}
 		{
@@ -565,7 +565,7 @@
 				type: "dimension"
 			}]
 			title: "天境"
-			x: 23.5d
+			x: 24.0d
 			y: 30.0d
 		}
 		{
@@ -582,7 +582,7 @@
 				type: "dimension"
 			}]
 			title: "冰火传说"
-			x: 25.5d
+			x: 26.0d
 			y: 30.0d
 		}
 		{
@@ -599,7 +599,7 @@
 				type: "dimension"
 			}]
 			title: "通用机械"
-			x: 27.5d
+			x: 28.0d
 			y: 30.0d
 		}
 		{
@@ -616,7 +616,7 @@
 				type: "dimension"
 			}]
 			title: "神秘遗物"
-			x: 29.5d
+			x: 30.0d
 			y: 30.0d
 		}
 		{
@@ -643,7 +643,7 @@
 				type: "dimension"
 			}]
 			title: "海灵物语"
-			x: 31.5d
+			x: 32.0d
 			y: 30.0d
 		}
 		{
@@ -661,16 +661,362 @@
 				type: "dimension"
 			}]
 			title: "标签通用类"
-			x: 33.5d
+			x: 34.0d
 			y: 30.0d
 		}
 		{
-			dependencies: ["27AAF526C154271E"]
+			dependencies: [
+				"27AAF526C154271E"
+				"011504FACBDF6BB3"
+				"540CE4F473EEA492"
+				"6C1A120B23FB2A61"
+				"6253F66C3229CD82"
+				"08F38624C4F3E33D"
+				"7144384731D93CC6"
+				"360BCEFF31DC4AB5"
+				"202E920E9A96D62B"
+				"2CE2E4DBF4A92FB0"
+				"02D838F91EDAC2D9"
+				"49B0DFBDA0CB0CE5"
+				"1A5C6DADF32FFFFB"
+				"2535AAE682ACB858"
+				"02EFE7901AC5CB92"
+				"143CDABC5788D921"
+				"2DFDA65576702174"
+				"1D3E4C93902ED92F"
+				"195B6B182B2FED42"
+				"4398D152D02FB5D7"
+				"473F9574DAFD8384"
+				"6964169BB9B3397F"
+				"73EFB2B647D86632"
+				"75DCA2DC1C1F2D29"
+				"36A820E7EE59D3AC"
+				"4BB99506C4BAA6BA"
+				"3B19EA786600E7A1"
+				"62B9148AF3BD9ACF"
+				"710AE2080781AA44"
+				"7C2EF45AA7B7AB84"
+				"29D405BC08F40CD5"
+				"2361BBB336B1EC28"
+				"745290760E3042DF"
+				"1C79A5059F1163A1"
+				"1A053D17192F31EF"
+				"3AE49D2B0849ACD4"
+				"77F30F3E1A25D43C"
+				"2B948B086B6C7BA9"
+				"73F21359CB67F917"
+				"32A7EA0B88EB909C"
+				"401C9CB8D385ABFA"
+				"57FC3D410C036FE0"
+				"4FF12107BAC40452"
+				"47CC04080F6DB1C8"
+				"3B12C53C1B2723E8"
+				"4DCE621FE6424DF1"
+				"2FCA612F13152695"
+				"72860C5C5ADCB4E1"
+				"658D2D83CF1E347C"
+				"0638C89CBC0F6346"
+				"78B4A71456E6F628"
+				"2C9096F55C734AF9"
+				"520BC67B7E61A061"
+				"3144E0BE595CAC54"
+				"5CB8FD73752F2797"
+				"36D4850E0779C557"
+				"1A1603B3CC1550C7"
+				"67893B811B931DE1"
+				"15E8ADFB2AD56A3D"
+				"0B3A6E7191F3FEB9"
+				"5B50FE932D386CFE"
+				"64BBC9C57632354A"
+				"2C705B5AC9F05FDD"
+				"49E7873F16C2C113"
+				"0951E03C57E6DC81"
+				"50CBF05FC26D95F2"
+				"2A3CC0141EC352E4"
+				"77CC9EEF333B2708"
+				"6370CE06179B0EFF"
+				"33C0C10D361ED3C0"
+				"10EB1900D7BFB547"
+				"29DCCBC08FFAE3FC"
+				"6913ED84EE01F68D"
+				"091FB2D99705B4DE"
+				"27F2356C8C023F83"
+				"451D2851C81E5476"
+				"236B9AE4B64C8AE4"
+				"1B2ADA04ACD823DC"
+				"12476FEB77EFC36F"
+				"06EFD70CA6DD6613"
+				"748921FE794DA514"
+				"10F890DFA56B147D"
+				"1F49D25D19FFEFDA"
+				"3BA23EE6819EC5E8"
+				"298F305F144D66A9"
+				"3CFC7B33EF5714AD"
+				"62E36C70B1F14E5A"
+				"0C5CF719E212C96D"
+				"0409893931AD6AA0"
+				"7AE2897F1C5FB2FF"
+				"3C198848A9F03DE0"
+				"201AA91675EAEAA0"
+				"2C5BB0A01241A1F2"
+				"6A2DE035B1249D73"
+				"4657D07FF62D0455"
+				"2DBFDC38DE59DF8F"
+				"4EB516A34E4B050F"
+				"27EA50A8F8361427"
+				"79472CCC42A6BF7E"
+				"15A3B284ED950CEA"
+				"4516142F64C2C1A6"
+				"59F795A8F3203821"
+				"738B9ED82D41FF4D"
+				"1BE8D74A476E2793"
+				"71EC7F3CE1B23E05"
+				"758F6ADDB335C300"
+				"194B8C023BEAE0CF"
+				"72A7DE5979B18D37"
+				"5B85F098F4766E10"
+				"72ADDBE0AA8EA0BF"
+				"79CC9A1A50162CBD"
+				"49043EDA33A9E908"
+				"778B1737F10E3636"
+				"46DE06B5CA7FB49D"
+				"3B20B8237FC77E48"
+				"211F3A1732331BB6"
+				"53394EA06ACC5ADB"
+				"31382437DABB0424"
+				"04764FA03E41B005"
+				"1FD7BFDF702797BA"
+				"6D5FB9186D1E29CE"
+				"5B7D1167AD4654C4"
+				"18FFA7963C46A3B5"
+				"0585199F0587A906"
+				"3BD9A8E2A83D5998"
+				"26448C4F623961AD"
+				"5CA0F7576283FFD4"
+				"25FEBAB0010DC1E2"
+				"385506585F25468B"
+				"3DAFA0457C9ADFD8"
+				"15F574D9434A68CD"
+				"3A3924E973BADDC6"
+				"6187F4E9DDAC316C"
+				"73A7B2701C533934"
+				"11C4F004B9E9C29A"
+				"115D75B2F0D35188"
+				"5765FF5BD46D77E6"
+				"044FFBAF92FFD9AA"
+				"01CFBD237267C432"
+				"019126A6083CC0B7"
+				"6181692AC2EA6FFC"
+				"2F07A0FE8C552012"
+				"2F60C90C4A4DBC9F"
+				"1D5F51163C4091C8"
+				"4520CBF7D6EF86F9"
+				"2EA969C9DC092DAC"
+				"348320FE169B032E"
+				"151B0616E3659DA0"
+				"618BCBB409EC151E"
+				"26873415C6BD9BFF"
+				"592019CCAED3F8EB"
+				"39D1182813DB49F5"
+				"378F21C2F5F77366"
+				"3FDF09035908610B"
+				"6004848464E03180"
+				"457122B44BF711D3"
+				"1FE22B632FD681B6"
+				"651365BBD428BC61"
+				"495FA9D5EB65310D"
+				"2DD849E9B364A0B1"
+				"35A2B96AE3FA31D7"
+				"12CAA5D55BB2D048"
+				"756C3CB9B1DC11EF"
+				"761D1E5FE8037EAD"
+				"571775796A0EC48E"
+				"7404008318E1E996"
+				"181288F054BFD1AA"
+				"1C15D91AF33C2DCD"
+				"23B90F2625D2E5B3"
+				"09CBC5849963882C"
+				"59DB845FDC5E75D9"
+				"645B9B5E961FE11E"
+				"690FDAC9F324B4E7"
+				"79008B515D0A3B5E"
+				"6BC48069F028ED83"
+				"4D991FC26C651238"
+				"0BF4F2D94589A7AC"
+				"167EBA8040D53423"
+				"37BA0CE632397E6C"
+				"1ED4391AB6EBD029"
+				"10E164F203336C2D"
+				"330D50F6463841CD"
+				"75EE800B1AF9450F"
+				"1E25A109A2FF8DC0"
+				"23A6B1B7FD714873"
+				"2E3A1C45D052D839"
+				"29599534B3A506DC"
+				"368C9D01CE4C91D4"
+				"5E6D22BD3375DCB2"
+				"69572E1EFAA481FA"
+				"76964B4F3619FDDA"
+				"03F70401A9E68C0A"
+				"0E4DA1DE1F52E2DB"
+				"7030C654EFA698DE"
+				"6DDEEDF50DDB43ED"
+				"1BCE590CF6FD7921"
+				"39D02F0335DE3B2D"
+				"1367F11B24494615"
+				"0B6809AD9AE42F00"
+				"7B481D3F82A52BF7"
+				"0BD99963D8FDE661"
+				"388D5A83C9B66A90"
+				"1729424641A6B0E2"
+				"02CC8DC2C73E8F1B"
+				"5BF6873594B6E85A"
+				"5FCECC78620F3F8A"
+				"4972D4AB575596B8"
+				"4D93CC06CCE72F46"
+				"4D27E68516D65541"
+				"29986A80BD824BAC"
+				"32E9E5F7C1FC09DA"
+				"572701AD0E5F1CED"
+				"398E4DA502B5BDA6"
+				"182DCDD696E95F2B"
+				"39DBC5333DB12F63"
+				"31B5C81BAC35F7A1"
+				"6454DAE4EAE0606D"
+				"1C23D1D83B6F70AB"
+				"18A40639922E8AF3"
+				"698544BED517CA6C"
+				"5563818414AD5208"
+				"551007C0C57D2FE1"
+				"5241281E9E113403"
+				"5B6D8024FB51AC55"
+				"5C3BDDD10AED8748"
+				"7E6047ABCCD7024C"
+				"3015B5F66834BF87"
+				"0873338ECD2C6684"
+				"4303B650691AF91E"
+				"065A1BFD7C958B65"
+				"5555196F8A086A6A"
+				"5DFD25C29F7EB318"
+				"0103238D0D08C7DF"
+				"1548E15BAA71AA39"
+				"033EDBD3811752A6"
+				"58FD98EAB9716D3B"
+				"2A22EFF0039A0515"
+				"2BFBCB65050992C9"
+				"1D35242704696F24"
+				"48615018EB37EC2E"
+				"4B981C31B29A2B52"
+				"7955F488B382A53E"
+				"3EB93BC831309720"
+				"26C47C932709EC3B"
+				"5C6DF2837F509BDB"
+				"58253502EB4E740F"
+				"3EFEC2D8FA1ECD53"
+				"137ABF0F05A262BB"
+				"6DE694478127C5F7"
+				"0CAD081EECFF923F"
+				"40F2ABB90F50D86F"
+				"68CC160BE5841D37"
+				"2E386E7F61474777"
+				"12EF16CC54DB2A80"
+				"0141A5217570206A"
+				"1F77B75770AD22F7"
+				"5819F9F91F4DB5D6"
+				"4CFD14AC7943C16F"
+				"2F7DF5EA50C09329"
+				"3F2C4E3D7F04246A"
+				"315F23882931AD66"
+				"08959093F73893BC"
+				"4362E504ACCFB42B"
+				"48E9F58CD234E0D6"
+				"295CD54C10587FC0"
+				"6A271283C0468D69"
+				"2D42EB6BD558A2FC"
+				"03FC874B17FCF3C5"
+				"4061206316E96964"
+				"59418B846DFB41AE"
+				"4647ADC76AE270F3"
+				"5A177612636832FF"
+				"04835D33909C63B8"
+				"071B247A3BD31B26"
+				"5DF76C4BC79211B8"
+				"32C861C0EA6590F4"
+				"1B690BDAB0C89EE2"
+				"20DC4B298D72FC1D"
+				"7C489CB222B93FD8"
+				"57507C3FF833F4C0"
+				"2C346A815B9B3CB2"
+				"08D9CA3050B1F6C5"
+				"78ECB2B323BC797E"
+				"2222D407AC6C12D7"
+				"45120B5F86C5F317"
+				"66312A1EAB064889"
+				"5BF2C4E74A78D7CC"
+				"1F675ECA1C112E1E"
+				"3B342D5937697BA6"
+				"10CA3DA551E70D2B"
+				"0C96E7F8FC1E64D3"
+				"2305F9A14EF63FF7"
+				"730B0563602E1FE0"
+				"1B3E18D99461B22E"
+				"4805D03B80ECE77B"
+				"5D81F90D5C284E0D"
+				"2A65EED09BA24CBE"
+				"6EEAF246B63CD739"
+				"1E9955BB19B6133D"
+				"383F90A1DB2ADC1E"
+				"757E8E8E62D8BF84"
+				"5BB222BBC353B5F4"
+				"600DBF6A9C2BA0FD"
+				"72F9F0B5C4068EF8"
+				"2FB151DABEA45D78"
+				"3A283C8EB984099C"
+				"4075DF0E198C1236"
+				"353123362D883447"
+				"48D076FBEE3F88DC"
+				"6936B4C318C219FC"
+				"358D09D7A23914A8"
+				"299B4E94FF0156C3"
+				"0F964E1B6A577C14"
+				"5C30E6FF207E0F7E"
+				"0614299A9C274E7A"
+				"43C8E5C04BF84D25"
+				"271418A7D8DD30B7"
+				"3B8C689E152A12E1"
+				"43F592F0D312C8CD"
+				"495C1F0255AEE02C"
+				"2A6EBFA5CD768261"
+				"4B608B03A701CABC"
+				"5545732312DC0065"
+				"7EFA38D13D8B0742"
+				"5F394BFF8BB71492"
+				"25C7AB8B591385B2"
+				"718E9C4761358F12"
+				"51F99A464453161C"
+				"3191F11310D257A2"
+				"0C07A44C6FB3B70B"
+				"17AEE4B63D7AD491"
+				"1B9CACF94AA74C37"
+				"0D52E46EB1F2A238"
+				"0948A7AD49C76AD5"
+				"2E961524C555021F"
+				"756F5F826BAA02BA"
+				"76A950A407E26810"
+				"7EE55A3543007C26"
+			]
 			disable_toast: true
 			hide_dependency_lines: true
 			icon: "avaritia:infinity_catalyst"
 			id: "0598BCD7B15CAD66"
-			size: 2.0d
+			rewards: [{
+				count: 4
+				id: "56D66A4A820EC38D"
+				item: "avaritia:infinity"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 3.5d
 			subtitle: "世界之顶端"
 			tasks: [{
 				dimension: "minecraft:overworld"
@@ -678,7 +1024,7 @@
 				id: "10343418DDE1EEB5"
 				type: "dimension"
 			}]
-			title: "无尽贪婪"
+			title: "全收集！"
 			x: 19.5d
 			y: 31.0d
 		}
@@ -1244,7 +1590,7 @@
 				type: "dimension"
 			}]
 			title: "浮云工坊"
-			x: 3.5d
+			x: 3.0d
 			y: 32.0d
 		}
 		{
@@ -1257,7 +1603,7 @@
 				type: "dimension"
 			}]
 			title: "暮色森林"
-			x: 35.5d
+			x: 36.0d
 			y: 30.0d
 		}
 		{

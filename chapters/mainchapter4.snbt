@@ -586,8 +586,8 @@
 			dependencies: [
 				"2D5E7C3E60D40514"
 				"3007A56BD90D3E1A"
-				"483392A96FE749D4"
 				"551214D011551305"
+				"0598BCD7B15CAD66"
 			]
 			description: [
 				" &6     如果你不作弊走到了这里，那我要祝贺你，你已经体验了本包99%的内容，这份毅力不是寻常人有的。"
@@ -729,11 +729,13 @@
 			subtitle: "你做出来了最顶级的匠魂材料，你是否会为达成如此壮举而感到自豪呢？"
 			tasks: [
 				{
+					count: 2L
 					id: "641929EE712911D5"
 					item: "cti:stellar_manyullyn"
 					type: "item"
 				}
 				{
+					count: 2L
 					id: "03C2BBD463ECDE2B"
 					item: "cti:invert_hoshino"
 					type: "item"
@@ -816,6 +818,11 @@
 		}
 		{
 			dependencies: ["551214D011551305"]
+			description: [
+				" &a     做出了这个最终饰品，这个饰品的性能如何，趁不趁手，已经都不重要。"
+				""
+				" &d     你在它身上付出的努力将会永远改变你，会伴随你进入你的下一次游戏中。"
+			]
 			id: "13E303226180133A"
 			rewards: [
 				{
@@ -834,15 +841,15 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "18F56E7BF784D55A"
+					id: "54147485AB0805E2"
 					table_id: 6135228691312300992L
-					type: "random"
+					type: "loot"
 				}
 				{
 					exclude_from_claim_all: true
-					id: "12100283A6B103B7"
+					id: "0105983EB8AAF51E"
 					table_id: 3218210861919954475L
-					type: "random"
+					type: "loot"
 				}
 			]
 			shape: "diamond"
