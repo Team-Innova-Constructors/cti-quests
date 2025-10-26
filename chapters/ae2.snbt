@@ -469,6 +469,54 @@
 			x: -3.5d
 			y: 15.0d
 		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 10.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 13.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 12.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "ftblibrary:icons/down"
+			rotation: -90.0d
+			width: 2.0d
+			x: -2.0d
+			y: 0.0d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -908,6 +956,8 @@
 		{
 			dependencies: ["218D2DD4D782DC82"]
 			description: [
+				"&l&b完成该任务可以解锁SDM商店中AE存储元件的购买"
+				"&r"
 				"这些存储&e组件&r是合成存储&e元件&r必备的原料。"
 				""
 				"存储占用的字节一般满足这样的公式："
@@ -923,6 +973,7 @@
 				table_id: 8776799107351546644L
 				type: "random"
 			}]
+			shape: "diamond"
 			subtitle: "硬盘？"
 			tasks: [
 				{
@@ -971,6 +1022,8 @@
 		{
 			dependencies: ["68C884CAE0C56DD7"]
 			description: [
+				"&l&b完成该任务来解锁SDM商店中大宗元件的购买"
+				"&r"
 				"或许你已经发展到了后期，ae原本的存储组件已经无法满足你，这里有一些更大的存储组件供你使用(其实还有量子物品/流体存储元件，但是这里不做过多介绍)"
 				""
 				"大宗存储元件和数字奇点存储元件拥有long型上限的存储量，这大概是几亿亿亿的存储量（具体来说是9223372036854775807），&e但是只能存储一种物品&r"
@@ -997,6 +1050,7 @@
 					type: "random"
 				}
 			]
+			shape: "diamond"
 			tasks: [
 				{
 					id: "0B3A0C9254F8A751"
@@ -1872,7 +1926,11 @@
 		}
 		{
 			dependencies: ["5F4B91A0A27B3C25"]
-			description: ["更好看的线缆，能传输8个频道"]
+			description: [
+				"更好看的线缆，能传输8个频道"
+				""
+				"&l&b完成该任务后可以在SDM商店中解锁AE线缆的购买&r"
+			]
 			id: "048B42E1342DFC74"
 			rewards: [
 				{
@@ -2717,6 +2775,7 @@
 							}
 						}
 					}
+					match_nbt: true
 					type: "item"
 				}
 				{
@@ -2731,6 +2790,7 @@
 							}
 						}
 					}
+					match_nbt: true
 					type: "item"
 				}
 			]

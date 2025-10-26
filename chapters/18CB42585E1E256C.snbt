@@ -531,6 +531,7 @@
 				id: "568583B1FE0DC6CC"
 				type: "dimension"
 			}]
+			title: "莱特兰"
 			x: 36.0d
 			y: 32.0d
 		}
@@ -665,370 +666,6 @@
 			y: 30.0d
 		}
 		{
-			dependencies: [
-				"27AAF526C154271E"
-				"011504FACBDF6BB3"
-				"540CE4F473EEA492"
-				"6C1A120B23FB2A61"
-				"6253F66C3229CD82"
-				"08F38624C4F3E33D"
-				"7144384731D93CC6"
-				"360BCEFF31DC4AB5"
-				"202E920E9A96D62B"
-				"2CE2E4DBF4A92FB0"
-				"02D838F91EDAC2D9"
-				"49B0DFBDA0CB0CE5"
-				"1A5C6DADF32FFFFB"
-				"2535AAE682ACB858"
-				"02EFE7901AC5CB92"
-				"143CDABC5788D921"
-				"2DFDA65576702174"
-				"1D3E4C93902ED92F"
-				"195B6B182B2FED42"
-				"4398D152D02FB5D7"
-				"473F9574DAFD8384"
-				"6964169BB9B3397F"
-				"73EFB2B647D86632"
-				"75DCA2DC1C1F2D29"
-				"36A820E7EE59D3AC"
-				"4BB99506C4BAA6BA"
-				"3B19EA786600E7A1"
-				"62B9148AF3BD9ACF"
-				"710AE2080781AA44"
-				"7C2EF45AA7B7AB84"
-				"29D405BC08F40CD5"
-				"2361BBB336B1EC28"
-				"745290760E3042DF"
-				"1C79A5059F1163A1"
-				"1A053D17192F31EF"
-				"3AE49D2B0849ACD4"
-				"77F30F3E1A25D43C"
-				"2B948B086B6C7BA9"
-				"73F21359CB67F917"
-				"32A7EA0B88EB909C"
-				"401C9CB8D385ABFA"
-				"57FC3D410C036FE0"
-				"4FF12107BAC40452"
-				"47CC04080F6DB1C8"
-				"3B12C53C1B2723E8"
-				"4DCE621FE6424DF1"
-				"2FCA612F13152695"
-				"72860C5C5ADCB4E1"
-				"658D2D83CF1E347C"
-				"0638C89CBC0F6346"
-				"78B4A71456E6F628"
-				"2C9096F55C734AF9"
-				"520BC67B7E61A061"
-				"3144E0BE595CAC54"
-				"5CB8FD73752F2797"
-				"36D4850E0779C557"
-				"1A1603B3CC1550C7"
-				"67893B811B931DE1"
-				"15E8ADFB2AD56A3D"
-				"0B3A6E7191F3FEB9"
-				"5B50FE932D386CFE"
-				"64BBC9C57632354A"
-				"2C705B5AC9F05FDD"
-				"49E7873F16C2C113"
-				"0951E03C57E6DC81"
-				"50CBF05FC26D95F2"
-				"2A3CC0141EC352E4"
-				"77CC9EEF333B2708"
-				"6370CE06179B0EFF"
-				"33C0C10D361ED3C0"
-				"10EB1900D7BFB547"
-				"29DCCBC08FFAE3FC"
-				"6913ED84EE01F68D"
-				"091FB2D99705B4DE"
-				"27F2356C8C023F83"
-				"451D2851C81E5476"
-				"236B9AE4B64C8AE4"
-				"1B2ADA04ACD823DC"
-				"12476FEB77EFC36F"
-				"06EFD70CA6DD6613"
-				"748921FE794DA514"
-				"10F890DFA56B147D"
-				"1F49D25D19FFEFDA"
-				"3BA23EE6819EC5E8"
-				"298F305F144D66A9"
-				"3CFC7B33EF5714AD"
-				"62E36C70B1F14E5A"
-				"0C5CF719E212C96D"
-				"0409893931AD6AA0"
-				"7AE2897F1C5FB2FF"
-				"3C198848A9F03DE0"
-				"201AA91675EAEAA0"
-				"2C5BB0A01241A1F2"
-				"6A2DE035B1249D73"
-				"4657D07FF62D0455"
-				"2DBFDC38DE59DF8F"
-				"4EB516A34E4B050F"
-				"27EA50A8F8361427"
-				"79472CCC42A6BF7E"
-				"15A3B284ED950CEA"
-				"4516142F64C2C1A6"
-				"59F795A8F3203821"
-				"738B9ED82D41FF4D"
-				"1BE8D74A476E2793"
-				"71EC7F3CE1B23E05"
-				"758F6ADDB335C300"
-				"194B8C023BEAE0CF"
-				"72A7DE5979B18D37"
-				"5B85F098F4766E10"
-				"72ADDBE0AA8EA0BF"
-				"79CC9A1A50162CBD"
-				"49043EDA33A9E908"
-				"778B1737F10E3636"
-				"46DE06B5CA7FB49D"
-				"3B20B8237FC77E48"
-				"211F3A1732331BB6"
-				"53394EA06ACC5ADB"
-				"31382437DABB0424"
-				"04764FA03E41B005"
-				"1FD7BFDF702797BA"
-				"6D5FB9186D1E29CE"
-				"5B7D1167AD4654C4"
-				"18FFA7963C46A3B5"
-				"0585199F0587A906"
-				"3BD9A8E2A83D5998"
-				"26448C4F623961AD"
-				"5CA0F7576283FFD4"
-				"25FEBAB0010DC1E2"
-				"385506585F25468B"
-				"3DAFA0457C9ADFD8"
-				"15F574D9434A68CD"
-				"3A3924E973BADDC6"
-				"6187F4E9DDAC316C"
-				"73A7B2701C533934"
-				"11C4F004B9E9C29A"
-				"115D75B2F0D35188"
-				"5765FF5BD46D77E6"
-				"044FFBAF92FFD9AA"
-				"01CFBD237267C432"
-				"019126A6083CC0B7"
-				"6181692AC2EA6FFC"
-				"2F07A0FE8C552012"
-				"2F60C90C4A4DBC9F"
-				"1D5F51163C4091C8"
-				"4520CBF7D6EF86F9"
-				"2EA969C9DC092DAC"
-				"348320FE169B032E"
-				"151B0616E3659DA0"
-				"618BCBB409EC151E"
-				"26873415C6BD9BFF"
-				"592019CCAED3F8EB"
-				"39D1182813DB49F5"
-				"378F21C2F5F77366"
-				"3FDF09035908610B"
-				"6004848464E03180"
-				"457122B44BF711D3"
-				"1FE22B632FD681B6"
-				"651365BBD428BC61"
-				"495FA9D5EB65310D"
-				"2DD849E9B364A0B1"
-				"35A2B96AE3FA31D7"
-				"12CAA5D55BB2D048"
-				"756C3CB9B1DC11EF"
-				"761D1E5FE8037EAD"
-				"571775796A0EC48E"
-				"7404008318E1E996"
-				"181288F054BFD1AA"
-				"1C15D91AF33C2DCD"
-				"23B90F2625D2E5B3"
-				"09CBC5849963882C"
-				"59DB845FDC5E75D9"
-				"645B9B5E961FE11E"
-				"690FDAC9F324B4E7"
-				"79008B515D0A3B5E"
-				"6BC48069F028ED83"
-				"4D991FC26C651238"
-				"0BF4F2D94589A7AC"
-				"167EBA8040D53423"
-				"37BA0CE632397E6C"
-				"1ED4391AB6EBD029"
-				"10E164F203336C2D"
-				"330D50F6463841CD"
-				"75EE800B1AF9450F"
-				"1E25A109A2FF8DC0"
-				"23A6B1B7FD714873"
-				"2E3A1C45D052D839"
-				"29599534B3A506DC"
-				"368C9D01CE4C91D4"
-				"5E6D22BD3375DCB2"
-				"69572E1EFAA481FA"
-				"76964B4F3619FDDA"
-				"03F70401A9E68C0A"
-				"0E4DA1DE1F52E2DB"
-				"7030C654EFA698DE"
-				"6DDEEDF50DDB43ED"
-				"1BCE590CF6FD7921"
-				"39D02F0335DE3B2D"
-				"1367F11B24494615"
-				"0B6809AD9AE42F00"
-				"7B481D3F82A52BF7"
-				"0BD99963D8FDE661"
-				"388D5A83C9B66A90"
-				"1729424641A6B0E2"
-				"02CC8DC2C73E8F1B"
-				"5BF6873594B6E85A"
-				"5FCECC78620F3F8A"
-				"4972D4AB575596B8"
-				"4D93CC06CCE72F46"
-				"4D27E68516D65541"
-				"29986A80BD824BAC"
-				"32E9E5F7C1FC09DA"
-				"572701AD0E5F1CED"
-				"398E4DA502B5BDA6"
-				"182DCDD696E95F2B"
-				"39DBC5333DB12F63"
-				"31B5C81BAC35F7A1"
-				"6454DAE4EAE0606D"
-				"1C23D1D83B6F70AB"
-				"18A40639922E8AF3"
-				"698544BED517CA6C"
-				"5563818414AD5208"
-				"551007C0C57D2FE1"
-				"5241281E9E113403"
-				"5B6D8024FB51AC55"
-				"5C3BDDD10AED8748"
-				"7E6047ABCCD7024C"
-				"3015B5F66834BF87"
-				"0873338ECD2C6684"
-				"4303B650691AF91E"
-				"065A1BFD7C958B65"
-				"5555196F8A086A6A"
-				"5DFD25C29F7EB318"
-				"0103238D0D08C7DF"
-				"1548E15BAA71AA39"
-				"033EDBD3811752A6"
-				"58FD98EAB9716D3B"
-				"2A22EFF0039A0515"
-				"2BFBCB65050992C9"
-				"1D35242704696F24"
-				"48615018EB37EC2E"
-				"4B981C31B29A2B52"
-				"7955F488B382A53E"
-				"3EB93BC831309720"
-				"26C47C932709EC3B"
-				"5C6DF2837F509BDB"
-				"58253502EB4E740F"
-				"3EFEC2D8FA1ECD53"
-				"137ABF0F05A262BB"
-				"6DE694478127C5F7"
-				"0CAD081EECFF923F"
-				"40F2ABB90F50D86F"
-				"68CC160BE5841D37"
-				"2E386E7F61474777"
-				"12EF16CC54DB2A80"
-				"0141A5217570206A"
-				"1F77B75770AD22F7"
-				"5819F9F91F4DB5D6"
-				"4CFD14AC7943C16F"
-				"2F7DF5EA50C09329"
-				"3F2C4E3D7F04246A"
-				"315F23882931AD66"
-				"08959093F73893BC"
-				"4362E504ACCFB42B"
-				"48E9F58CD234E0D6"
-				"295CD54C10587FC0"
-				"6A271283C0468D69"
-				"2D42EB6BD558A2FC"
-				"03FC874B17FCF3C5"
-				"4061206316E96964"
-				"59418B846DFB41AE"
-				"4647ADC76AE270F3"
-				"5A177612636832FF"
-				"04835D33909C63B8"
-				"071B247A3BD31B26"
-				"5DF76C4BC79211B8"
-				"32C861C0EA6590F4"
-				"1B690BDAB0C89EE2"
-				"20DC4B298D72FC1D"
-				"7C489CB222B93FD8"
-				"57507C3FF833F4C0"
-				"2C346A815B9B3CB2"
-				"08D9CA3050B1F6C5"
-				"78ECB2B323BC797E"
-				"2222D407AC6C12D7"
-				"45120B5F86C5F317"
-				"66312A1EAB064889"
-				"5BF2C4E74A78D7CC"
-				"1F675ECA1C112E1E"
-				"3B342D5937697BA6"
-				"10CA3DA551E70D2B"
-				"0C96E7F8FC1E64D3"
-				"2305F9A14EF63FF7"
-				"730B0563602E1FE0"
-				"1B3E18D99461B22E"
-				"4805D03B80ECE77B"
-				"5D81F90D5C284E0D"
-				"2A65EED09BA24CBE"
-				"6EEAF246B63CD739"
-				"1E9955BB19B6133D"
-				"383F90A1DB2ADC1E"
-				"757E8E8E62D8BF84"
-				"5BB222BBC353B5F4"
-				"600DBF6A9C2BA0FD"
-				"72F9F0B5C4068EF8"
-				"2FB151DABEA45D78"
-				"3A283C8EB984099C"
-				"4075DF0E198C1236"
-				"353123362D883447"
-				"48D076FBEE3F88DC"
-				"6936B4C318C219FC"
-				"358D09D7A23914A8"
-				"299B4E94FF0156C3"
-				"0F964E1B6A577C14"
-				"5C30E6FF207E0F7E"
-				"0614299A9C274E7A"
-				"43C8E5C04BF84D25"
-				"271418A7D8DD30B7"
-				"3B8C689E152A12E1"
-				"43F592F0D312C8CD"
-				"495C1F0255AEE02C"
-				"2A6EBFA5CD768261"
-				"4B608B03A701CABC"
-				"5545732312DC0065"
-				"7EFA38D13D8B0742"
-				"5F394BFF8BB71492"
-				"25C7AB8B591385B2"
-				"718E9C4761358F12"
-				"51F99A464453161C"
-				"3191F11310D257A2"
-				"0C07A44C6FB3B70B"
-				"17AEE4B63D7AD491"
-				"1B9CACF94AA74C37"
-				"0D52E46EB1F2A238"
-				"0948A7AD49C76AD5"
-				"2E961524C555021F"
-				"756F5F826BAA02BA"
-				"76A950A407E26810"
-				"7EE55A3543007C26"
-			]
-			disable_toast: true
-			hide_dependency_lines: true
-			icon: "avaritia:infinity_catalyst"
-			id: "0598BCD7B15CAD66"
-			rewards: [{
-				count: 4
-				id: "56D66A4A820EC38D"
-				item: "avaritia:infinity"
-				type: "item"
-			}]
-			shape: "gear"
-			size: 3.5d
-			subtitle: "世界之顶端"
-			tasks: [{
-				dimension: "minecraft:overworld"
-				disable_toast: true
-				id: "10343418DDE1EEB5"
-				type: "dimension"
-			}]
-			title: "全收集！"
-			x: 19.5d
-			y: 31.0d
-		}
-		{
 			description: [
 				"&5&l&o&n“世界的起源也许是一颗树。”&5&o&l&n"
 				"&2在无人知晓的世界里，世界曾是一片绿&2&6和一点黄褐色的点缀&6，&l&7时间此时还未运转，世界之外的降临者还未曾取得自己最为强大的力量，见证一切，同时也是一切的起源。&7&l"
@@ -1037,6 +674,12 @@
 			hide_dependency_lines: true
 			icon: "minecraft:oak_planks"
 			id: "62E36C70B1F14E5A"
+			rewards: [{
+				ftb_money: 5L
+				id: "28B6E3A8F21C0E34"
+				random_bonus: 5
+				type: "sdmshop:money"
+			}]
 			subtitle: "增加单位材料修复的耐久"
 			tasks: [{
 				id: "5217EECC4B28265F"
@@ -1063,6 +706,12 @@
 			]
 			hide_dependency_lines: true
 			id: "4061206316E96964"
+			rewards: [{
+				ftb_money: 5L
+				id: "7879DFB01C81FC2A"
+				random_bonus: 5
+				type: "sdmshop:money"
+			}]
 			subtitle: "耐久越低挖掘速度越快但是伤害变低"
 			tasks: [{
 				id: "334C577C8930D194"
@@ -1088,6 +737,11 @@
 			]
 			hide_dependency_lines: true
 			id: "5B85F098F4766E10"
+			rewards: [{
+				ftb_money: 50L
+				id: "7F2A0DEE4FD10EF1"
+				type: "sdmshop:money"
+			}]
 			subtitle: "你可知道一个铜有九种铜粒"
 			tasks: [{
 				id: "60D43C4D6EE060FD"
@@ -1105,6 +759,12 @@
 			]
 			hide_dependency_lines: true
 			id: "03FC874B17FCF3C5"
+			rewards: [{
+				ftb_money: 10L
+				id: "6432079A062F73B0"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "骨刺透甲"
 			tasks: [{
 				id: "72974DFCDEF10C72"
@@ -1123,6 +783,12 @@
 			]
 			hide_dependency_lines: true
 			id: "398E4DA502B5BDA6"
+			rewards: [{
+				ftb_money: 5L
+				id: "539CE7BD3DE66727"
+				random_bonus: 5
+				type: "sdmshop:money"
+			}]
 			subtitle: "用线修复"
 			tasks: [{
 				icon: "minecraft:string"
@@ -1149,6 +815,12 @@
 			]
 			hide_dependency_lines: true
 			id: "044FFBAF92FFD9AA"
+			rewards: [{
+				ftb_money: 75L
+				id: "67CF1B8D7B2C655D"
+				random_bonus: 75
+				type: "sdmshop:money"
+			}]
 			subtitle: "抑制瞬移"
 			tasks: [{
 				id: "7EA21AAF2AF371B5"
@@ -1165,6 +837,12 @@
 			]
 			hide_dependency_lines: true
 			id: "04835D33909C63B8"
+			rewards: [{
+				ftb_money: 10L
+				id: "1F215EB59F721A36"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "水中速掘"
 			tasks: [{
 				icon: "minecraft:prismarine_shard"
@@ -1203,6 +881,12 @@
 			]
 			hide_dependency_lines: true
 			id: "1548E15BAA71AA39"
+			rewards: [{
+				ftb_money: 20L
+				id: "6AFC46C6A124A7CC"
+				random_bonus: 20
+				type: "sdmshop:money"
+			}]
 			subtitle: "对不免疫火焰的生物增伤"
 			tasks: [{
 				id: "43A2030F7B5D43D3"
@@ -1220,6 +904,11 @@
 			]
 			hide_dependency_lines: true
 			id: "31B5C81BAC35F7A1"
+			rewards: [{
+				ftb_money: 20L
+				id: "21B3CC4E65BF43BF"
+				type: "sdmshop:money"
+			}]
 			subtitle: "减少额外耐久值消耗"
 			tasks: [{
 				icon: "minecraft:leather"
@@ -1260,6 +949,12 @@
 			]
 			hide_dependency_lines: true
 			id: "59418B846DFB41AE"
+			rewards: [{
+				ftb_money: 15L
+				id: "1CE85195C49C25E4"
+				random_bonus: 15
+				type: "sdmshop:money"
+			}]
 			subtitle: "令目标暂时无法近战攻击"
 			tasks: [{
 				id: "007CD060A90E6E86"
@@ -1273,6 +968,12 @@
 		{
 			hide_dependency_lines: true
 			id: "0951E03C57E6DC81"
+			rewards: [{
+				ftb_money: 35L
+				id: "3024DC14FF006E94"
+				random_bonus: 35
+				type: "sdmshop:money"
+			}]
 			subtitle: "更全面的石头，现在已经可以制作护甲与远程了"
 			tasks: [{
 				id: "7D9C34D1EAEEE00A"
@@ -1289,6 +990,12 @@
 			]
 			hide_dependency_lines: true
 			id: "3BA23EE6819EC5E8"
+			rewards: [{
+				ftb_money: 30L
+				id: "14AAC3E1B42B15AE"
+				random_bonus: 30
+				type: "sdmshop:money"
+			}]
 			subtitle: "材料修复效果+75%"
 			tasks: [{
 				icon: "botania:livingwood"
@@ -1337,6 +1044,12 @@
 			]
 			hide_dependency_lines: true
 			id: "1D5F51163C4091C8"
+			rewards: [{
+				ftb_money: 10L
+				id: "2090F4C8AA339DD5"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "减低使用物品时的减速"
 			tasks: [{
 				id: "24180EF1434F7E4C"
@@ -1355,6 +1068,12 @@
 			hide_dependency_lines: true
 			icon: "minecraft:flint"
 			id: "2E386E7F61474777"
+			rewards: [{
+				ftb_money: 5L
+				id: "59360061DB3EBBBE"
+				random_bonus: 5
+				type: "sdmshop:money"
+			}]
 			subtitle: "边缘切割"
 			tasks: [{
 				icon: "minecraft:flint"
@@ -1391,6 +1110,12 @@
 			]
 			hide_dependency_lines: true
 			id: "49B0DFBDA0CB0CE5"
+			rewards: [{
+				ftb_money: 20L
+				id: "2A6C885B66792930"
+				random_bonus: 20
+				type: "sdmshop:money"
+			}]
 			subtitle: "反甲和额外随机伤害"
 			tasks: [{
 				id: "115FEEB595509012"
@@ -1399,11 +1124,16 @@
 			}]
 			title: "仙人掌-一级"
 			x: 27.0d
-			y: 74.0d
+			y: 73.5d
 		}
 		{
 			hide_dependency_lines: true
 			id: "3015B5F66834BF87"
+			rewards: [{
+				ftb_money: 20L
+				id: "0DD49C0670120F97"
+				type: "sdmshop:money"
+			}]
 			subtitle: "减少耐久换取2升级槽"
 			tasks: [{
 				id: "0AD4066C9EED0C92"
@@ -1423,6 +1153,11 @@
 			]
 			hide_dependency_lines: true
 			id: "02CC8DC2C73E8F1B"
+			rewards: [{
+				ftb_money: 10L
+				id: "2950A270E2AC7FDB"
+				type: "sdmshop:money"
+			}]
 			subtitle: "阳光下减少耐久消耗"
 			tasks: [{
 				icon: "minecraft:vine"
@@ -1459,6 +1194,11 @@
 				"（处于暮色森林时，挖掘速度+2，反之攻击+2）（提升20%拉弓与攻击速度且能使受击目标发光但会带来厄运）"
 			]
 			id: "25C7AB8B591385B2"
+			rewards: [{
+				ftb_money: 100L
+				id: "27B017FD8C2F3BB8"
+				type: "sdmshop:money"
+			}]
 			subtitle: "不详的象征（暮光）"
 			tasks: [{
 				id: "72076C52E8B2FC37"
@@ -1556,7 +1296,7 @@
 			}]
 			title: "非远程/攻守兼备"
 			x: 27.0d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			id: "5F116EFA05D538F1"
@@ -1614,6 +1354,12 @@
 			]
 			hide_dependency_lines: true
 			id: "2A65EED09BA24CBE"
+			rewards: [{
+				ftb_money: 15L
+				id: "4D73209EA32EBBB9"
+				random_bonus: 15
+				type: "sdmshop:money"
+			}]
 			subtitle: "花火爆伤！生命之力！"
 			tasks: [{
 				consume_items: false
@@ -1632,6 +1378,12 @@
 			]
 			hide_dependency_lines: true
 			id: "6181692AC2EA6FFC"
+			rewards: [{
+				ftb_money: 15L
+				id: "66EB807BDBA76159"
+				random_bonus: 15
+				type: "sdmshop:money"
+			}]
 			subtitle: "对拥有护甲目标加伤,增加伤害比例伤害格挡"
 			tasks: [{
 				id: "4C1B233768639C0D"
@@ -1649,6 +1401,11 @@
 			]
 			hide_dependency_lines: true
 			id: "2F60C90C4A4DBC9F"
+			rewards: [{
+				ftb_money: 125L
+				id: "2D461EF824A51556"
+				type: "sdmshop:money"
+			}]
 			subtitle: "万象天引"
 			tasks: [{
 				id: "4C6E79AC73F99C3B"
@@ -1668,6 +1425,11 @@
 			]
 			hide_dependency_lines: true
 			id: "1E9955BB19B6133D"
+			rewards: [{
+				ftb_money: 100L
+				id: "24ED7493D63D2123"
+				type: "sdmshop:money"
+			}]
 			subtitle: "魔法保护与金质修复"
 			tasks: [{
 				id: "26C6A58BFE3EC045"
@@ -1680,6 +1442,12 @@
 		{
 			hide_dependency_lines: true
 			id: "1B2ADA04ACD823DC"
+			rewards: [{
+				ftb_money: 15L
+				id: "424B72388C83E1D3"
+				random_bonus: 15
+				type: "sdmshop:money"
+			}]
 			subtitle: "越打/挨打对目标的击退越强但是减速度"
 			tasks: [{
 				id: "08B13E2E8C2201A6"
@@ -1692,6 +1460,11 @@
 		{
 			hide_dependency_lines: true
 			id: "071B247A3BD31B26"
+			rewards: [{
+				ftb_money: 50L
+				id: "7F4FC7E2CB32BCD0"
+				type: "sdmshop:money"
+			}]
 			subtitle: "满耐久每级增加40%伤害"
 			tasks: [{
 				id: "4E075F326A332344"
@@ -1704,6 +1477,11 @@
 		{
 			hide_dependency_lines: true
 			id: "019126A6083CC0B7"
+			rewards: [{
+				ftb_money: 250L
+				id: "3B1ADC56A25C8D58"
+				type: "sdmshop:money"
+			}]
 			subtitle: "增加对亡灵的伤害，减少亡灵生物对你的伤害"
 			tasks: [{
 				icon: "iceandfire:silver_ingot"
@@ -1725,6 +1503,12 @@
 		{
 			hide_dependency_lines: true
 			id: "618BCBB409EC151E"
+			rewards: [{
+				ftb_money: 10L
+				id: "7EFA84AC0C90B47D"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "极端温度带来更快的挖掘速度"
 			tasks: [{
 				icon: "thermal:constantan_ingot"
@@ -1746,6 +1530,12 @@
 		{
 			hide_dependency_lines: true
 			id: "4EB516A34E4B050F"
+			rewards: [{
+				ftb_money: 125L
+				id: "1D6DA902C4EB3C3D"
+				random_bonus: 125
+				type: "sdmshop:money"
+			}]
 			subtitle: "降低移速增加伤害"
 			tasks: [{
 				icon: "thermal:lead_ingot"
@@ -1771,6 +1561,11 @@
 			]
 			hide_dependency_lines: true
 			id: "72F9F0B5C4068EF8"
+			rewards: [{
+				ftb_money: 60L
+				id: "0A9613CE3D41AEB1"
+				type: "sdmshop:money"
+			}]
 			subtitle: "攻击会概率生成动物"
 			tasks: [{
 				id: "5072F3C0099391F7"
@@ -1788,6 +1583,12 @@
 			]
 			hide_dependency_lines: true
 			id: "7AE2897F1C5FB2FF"
+			rewards: [{
+				ftb_money: 110L
+				id: "24CF871EF40710EC"
+				random_bonus: 110
+				type: "sdmshop:money"
+			}]
 			subtitle: "按生命比例增加暴伤，针对非生物实体的伤害减免"
 			tasks: [{
 				id: "031A366CDFABC1EA"
@@ -1800,6 +1601,12 @@
 		{
 			hide_dependency_lines: true
 			id: "1FE22B632FD681B6"
+			rewards: [{
+				ftb_money: 100L
+				id: "296D2362689BF9C4"
+				random_bonus: 100
+				type: "sdmshop:money"
+			}]
 			subtitle: "模组生物伤害抗性，击杀生物掉落词条等级数量的金粒"
 			tasks: [{
 				id: "0AA78647C1AD19F8"
@@ -1817,6 +1624,12 @@
 			]
 			hide_dependency_lines: true
 			id: "1E25A109A2FF8DC0"
+			rewards: [{
+				ftb_money: 15L
+				id: "12643B8F75A13985"
+				random_bonus: 15
+				type: "sdmshop:money"
+			}]
 			subtitle: "额外造成放射伤害，抵抗未成熟个体的伤害"
 			tasks: [{
 				id: "328E6DA898BA4424"
@@ -1829,6 +1642,11 @@
 		{
 			hide_dependency_lines: true
 			id: "5C3BDDD10AED8748"
+			rewards: [{
+				ftb_money: 100L
+				id: "041EB77A8B7EB446"
+				type: "sdmshop:money"
+			}]
 			subtitle: "吸血！"
 			tasks: [{
 				id: "3F9474220AE570C1"
@@ -1841,6 +1659,12 @@
 		{
 			hide_dependency_lines: true
 			id: "690FDAC9F324B4E7"
+			rewards: [{
+				ftb_money: 30L
+				id: "2F43C5C318B2C666"
+				random_bonus: 30
+				type: "sdmshop:money"
+			}]
 			subtitle: "当你中毒时，你能造成更多伤害"
 			tasks: [{
 				id: "76A7FFBC1DE074EF"
@@ -1851,9 +1675,14 @@
 			y: 40.5d
 		}
 		{
-			description: [""]
+			description: ["隐藏耐削王终究陨落……"]
 			hide_dependency_lines: true
 			id: "33C0C10D361ED3C0"
+			rewards: [{
+				ftb_money: 150L
+				id: "48111AA5C97AD8BE"
+				type: "sdmshop:money"
+			}]
 			subtitle: "禁止回复"
 			tasks: [{
 				id: "5A8F881FBD2142CC"
@@ -1864,9 +1693,14 @@
 			y: 57.0d
 		}
 		{
-			description: [""]
+			description: ["唉循环桑"]
 			hide_dependency_lines: true
 			id: "1B3E18D99461B22E"
+			rewards: [{
+				ftb_money: 1000L
+				id: "1495C93F7A7BDDF6"
+				type: "sdmshop:money"
+			}]
 			subtitle: "全属性提升与可叠加的易伤"
 			tasks: [{
 				id: "2BFA0AED185AB179"
@@ -1877,8 +1711,14 @@
 			y: 39.0d
 		}
 		{
+			description: ["谁家用脚填的数值"]
 			hide_dependency_lines: true
 			id: "315F23882931AD66"
+			rewards: [{
+				ftb_money: 100L
+				id: "6AC9DA82EC53CAE0"
+				type: "sdmshop:money"
+			}]
 			subtitle: "水下每级50%增伤"
 			tasks: [{
 				id: "5A744DBEF66BC83C"
@@ -1891,6 +1731,11 @@
 		{
 			hide_dependency_lines: true
 			id: "10E164F203336C2D"
+			rewards: [{
+				ftb_money: 100L
+				id: "47E2BFD8A3AC5A4E"
+				type: "sdmshop:money"
+			}]
 			subtitle: "攻击增伤带有反噬"
 			tasks: [{
 				id: "1A2D8F45375572F6"
@@ -1903,6 +1748,11 @@
 		{
 			hide_dependency_lines: true
 			id: "39D1182813DB49F5"
+			rewards: [{
+				ftb_money: 20L
+				id: "1C4E07C5E0B7E0BA"
+				type: "sdmshop:money"
+			}]
 			subtitle: "降低耐久消耗"
 			tasks: [{
 				id: "68104C6DC02CA80F"
@@ -1915,6 +1765,12 @@
 		{
 			hide_dependency_lines: true
 			id: "0C5CF719E212C96D"
+			rewards: [{
+				ftb_money: 45L
+				id: "6C28F4AD2B645C34"
+				random_bonus: 45
+				type: "sdmshop:money"
+			}]
 			subtitle: "无视部分护甲值，降低来自冰火龙的龙息伤害"
 			tasks: [{
 				id: "16C2B2CA5C7E889E"
@@ -1951,11 +1807,17 @@
 			]
 			title: "ad三兄弟"
 			x: -0.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			hide_dependency_lines: true
 			id: "58FD98EAB9716D3B"
+			rewards: [{
+				ftb_money: 20L
+				id: "2CCC6509A6880506"
+				random_bonus: 20
+				type: "sdmshop:money"
+			}]
 			subtitle: "减低所受弹射物伤害"
 			tasks: [{
 				icon: "iceandfire:troll_leather_forest"
@@ -1977,6 +1839,11 @@
 		{
 			hide_dependency_lines: true
 			id: "53394EA06ACC5ADB"
+			rewards: [{
+				id: "482B16390A8604C3"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "雨后春笋！水中雨中都会自我修复"
 			tasks: [{
 				id: "75EC03BC2F7A5A0C"
@@ -1996,6 +1863,12 @@
 			]
 			hide_dependency_lines: true
 			id: "1367F11B24494615"
+			rewards: [{
+				ftb_money: 200L
+				id: "4944138A73DD5C21"
+				random_bonus: 200
+				type: "sdmshop:money"
+			}]
 			subtitle: "将女妖融化，和工具融为一体"
 			tasks: [{
 				id: "5BC184E9A6F7784D"
@@ -2009,6 +1882,12 @@
 			description: ["生命值处于10%以下才会生效，也许只有狂战士会用。"]
 			hide_dependency_lines: true
 			id: "31382437DABB0424"
+			rewards: [{
+				ftb_money: 50L
+				id: "59771F00AF587F61"
+				random_bonus: 50
+				type: "sdmshop:money"
+			}]
 			subtitle: "少量增加伤害与攻速，前期狂战士不得以之选"
 			tasks: [{
 				id: "061AB8315ADF404A"
@@ -2022,6 +1901,11 @@
 			description: ["用耐久换取清除buff是个不错的效果，但对于本包来说，很多效果不能即时消除便失去了意义。"]
 			hide_dependency_lines: true
 			id: "3F2C4E3D7F04246A"
+			rewards: [{
+				ftb_money: 50L
+				id: "48B05235A084F3D9"
+				type: "sdmshop:money"
+			}]
 			subtitle: "牛奶的廉价替代，但也许已经为时已晚"
 			tasks: [{
 				id: "0432724A93F4F35A"
@@ -2035,6 +1919,11 @@
 			description: ["用耐久换取饱和效果，是个再合适不过的买卖"]
 			hide_dependency_lines: true
 			id: "698544BED517CA6C"
+			rewards: [{
+				ftb_money: 40L
+				id: "39E5D6058003D011"
+				type: "sdmshop:money"
+			}]
 			subtitle: "廉价的短暂饱和效果"
 			tasks: [{
 				id: "688DE373E11E060B"
@@ -2051,6 +1940,11 @@
 			]
 			hide_dependency_lines: true
 			id: "5C30E6FF207E0F7E"
+			rewards: [{
+				ftb_money: 40L
+				id: "2F4C31AB7680FCA0"
+				type: "sdmshop:money"
+			}]
 			subtitle: "粘液球的奇妙获取方式，比骨头要强"
 			tasks: [{
 				id: "7772583C40180E1A"
@@ -2070,6 +1964,12 @@
 			]
 			hide_dependency_lines: true
 			id: "45120B5F86C5F317"
+			rewards: [{
+				ftb_money: 20L
+				id: "6745368F262DBCAA"
+				random_bonus: 20
+				type: "sdmshop:money"
+			}]
 			shape: "pentagon"
 			subtitle: "暴击！肾上腺素！"
 			tasks: [{
@@ -2089,6 +1989,12 @@
 			]
 			hide_dependency_lines: true
 			id: "0C07A44C6FB3B70B"
+			rewards: [{
+				ftb_money: 10L
+				id: "41F41E3318FA6143"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "在下界增伤/增加挖掘与箭矢初速度,减少下界生物造成的伤害"
 			tasks: [{
 				icon: "minecraft:nether_brick"
@@ -2127,6 +2033,12 @@
 			]
 			hide_dependency_lines: true
 			id: "3A283C8EB984099C"
+			rewards: [{
+				ftb_money: 20L
+				id: "3A6EEF318A2C17C7"
+				random_bonus: 20
+				type: "sdmshop:money"
+			}]
 			subtitle: "减少挖掘石头时的耐久消耗"
 			tasks: [{
 				id: "40AA0CA80512AA7C"
@@ -2139,6 +2051,11 @@
 		{
 			hide_dependency_lines: true
 			id: "1C15D91AF33C2DCD"
+			rewards: [{
+				ftb_money: 100L
+				id: "5C8EF6E7BC6FAE2B"
+				type: "sdmshop:money"
+			}]
 			subtitle: "使各种途径获得的经验更多"
 			tasks: [{
 				icon: "minecraft:experience_bottle"
@@ -2168,6 +2085,11 @@
 		{
 			hide_dependency_lines: true
 			id: "756C3CB9B1DC11EF"
+			rewards: [{
+				ftb_money: 50L
+				id: "173FEAB9B46AD32F"
+				type: "sdmshop:money"
+			}]
 			subtitle: "缓慢自然恢复粘液覆层"
 			tasks: [{
 				icon: "tconstruct:greenheart_log"
@@ -2189,6 +2111,11 @@
 		{
 			hide_dependency_lines: true
 			id: "27F2356C8C023F83"
+			rewards: [{
+				ftb_money: 125L
+				id: "7A71960BF2CE69C3"
+				type: "sdmshop:money"
+			}]
 			subtitle: "对着火的目标增加伤害"
 			tasks: [{
 				icon: "tconstruct:scorched_brick"
@@ -2234,6 +2161,11 @@
 		{
 			hide_dependency_lines: true
 			id: "0B3A6E7191F3FEB9"
+			rewards: [{
+				ftb_money: 100L
+				id: "66DF54B1FA8E14EC"
+				type: "sdmshop:money"
+			}]
 			subtitle: "提高挖掘速度，减少火焰伤害。"
 			tasks: [{
 				icon: "tconstruct:seared_brick"
@@ -2288,6 +2220,12 @@
 			hide_dependency_lines: true
 			icon: "tconstruct:sky_slime_vine"
 			id: "4D991FC26C651238"
+			rewards: [{
+				ftb_money: 10L
+				id: "75D4B27581B31E74"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "提高弹射物精准度以及空中速掘"
 			tasks: [{
 				id: "582FA42CD08B42FD"
@@ -2305,6 +2243,12 @@
 			]
 			hide_dependency_lines: true
 			id: "385506585F25468B"
+			rewards: [{
+				ftb_money: 60L
+				id: "72C09B7ED3D9D4F9"
+				random_bonus: 60
+				type: "sdmshop:money"
+			}]
 			subtitle: "粘液系统的史莱姆特攻！"
 			tasks: [{
 				id: "58D9642E46AC69A8"
@@ -2349,6 +2293,11 @@
 			]
 			hide_dependency_lines: true
 			id: "72ADDBE0AA8EA0BF"
+			rewards: [{
+				ftb_money: 1000L
+				id: "3623E57462872C18"
+				type: "sdmshop:money"
+			}]
 			subtitle: "与经验挂钩的幽匿系统，概率使目标随机短距离传送并自带耐久"
 			tasks: [{
 				id: "7B394182CDFBC70A"
@@ -2386,6 +2335,11 @@
 			]
 			hide_dependency_lines: true
 			id: "2C705B5AC9F05FDD"
+			rewards: [{
+				ftb_money: 1000L
+				id: "3F148C3267233134"
+				type: "sdmshop:money"
+			}]
 			subtitle: "与经验挂钩的幽匿系统，使目标暂时禁止飞与漂浮并自带耐久"
 			tasks: [{
 				id: "05560500098E0EAB"
@@ -2420,6 +2374,11 @@
 			]
 			hide_dependency_lines: true
 			id: "151B0616E3659DA0"
+			rewards: [{
+				ftb_money: 1000L
+				id: "002878ECB785365A"
+				type: "sdmshop:money"
+			}]
 			subtitle: "与经验挂钩的幽匿系统，使目标漂浮并自带耐久"
 			tasks: [{
 				id: "6B48113334DD22FC"
@@ -2430,8 +2389,15 @@
 			y: 57.0d
 		}
 		{
+			description: ["有效的系数很高"]
 			hide_dependency_lines: true
 			id: "4D93CC06CCE72F46"
+			rewards: [{
+				id: "714794E823266870"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
+			subtitle: "酥烂易脆！"
 			tasks: [{
 				id: "102A485018664BD0"
 				item: "etshtinker:bismuth_ingot"
@@ -2443,6 +2409,11 @@
 		{
 			hide_dependency_lines: true
 			id: "3B12C53C1B2723E8"
+			rewards: [{
+				ftb_money: 250L
+				id: "6CF45FECB65F2FBE"
+				type: "sdmshop:money"
+			}]
 			subtitle: "神晶，害我笑了一下"
 			tasks: [{
 				id: "424382BAAD2DC82F"
@@ -2450,11 +2421,17 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			hide_dependency_lines: true
 			id: "5A177612636832FF"
+			rewards: [{
+				ftb_money: 30L
+				id: "7DAB848C8253F9E7"
+				random_bonus: 30
+				type: "sdmshop:money"
+			}]
 			subtitle: "积攒怒气造成额外伤害并获得伤害吸收"
 			tasks: [{
 				id: "2C2E4D7196E5AEAE"
@@ -2467,6 +2444,12 @@
 		{
 			hide_dependency_lines: true
 			id: "37BA0CE632397E6C"
+			rewards: [{
+				ftb_money: 50L
+				id: "3251B8550270866F"
+				random_bonus: 50
+				type: "sdmshop:money"
+			}]
 			subtitle: "30秒一次的伤害格挡"
 			tasks: [{
 				id: "693315CEA6332F3A"
@@ -2493,11 +2476,17 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			hide_dependency_lines: true
 			id: "6D5FB9186D1E29CE"
+			rewards: [{
+				ftb_money: 100L
+				id: "581B62DDBF3014FF"
+				random_bonus: 400
+				type: "sdmshop:money"
+			}]
 			subtitle: "还有谁要奴役蜜蜂？"
 			tasks: [{
 				id: "34A95C4139D04D3E"
@@ -2510,9 +2499,15 @@
 		{
 			description: [
 				"&l&2暮光之下充斥着别样的气息，&n&1阴阳相交之象，触碰所致物块越凡物以半，&4其触击引之万物。&r"
-				"（处于暮色森林时，挖掘速度+2，反之攻击+2）（提升50%常规挖掘速度且攻击能吸引实体）（攻击能吸引掉落物）"
+				"（处于&a暮色森林&r时，挖掘速度+2，反之攻击+2）（提升50%常规挖掘速度且攻击能吸引&4实体&r）（攻击能吸引掉落物）"
 			]
 			id: "4516142F64C2C1A6"
+			rewards: [{
+				ftb_money: 150L
+				id: "7E2A1F434631ACC0"
+				random_bonus: 150
+				type: "sdmshop:money"
+			}]
 			subtitle: "磁铁的两极！阴阳相合"
 			tasks: [{
 				id: "16FC3CF2039C1260"
@@ -2524,6 +2519,12 @@
 		}
 		{
 			id: "3B342D5937697BA6"
+			rewards: [{
+				ftb_money: 30L
+				id: "7C0D1DD5AA6083EF"
+				random_bonus: 30
+				type: "sdmshop:money"
+			}]
 			subtitle: "寒气入骨！一触即发！"
 			tasks: [{
 				id: "0FBCB061C962CB04"
@@ -2534,7 +2535,17 @@
 			y: 40.5d
 		}
 		{
+			description: [
+				"&l&2暮光之下充斥着别样的气息，&r&a&l自然可持续发展的一抹残躯……&r"
+				"（作为&6工具/基底&r：处于暮色森林时，挖掘速度+2/每件盔甲韧性+1，反之攻击+2/每件护甲+1）（基底：有强化机制的生命恢复）（近战：以5%近战伤害&6修补&r身上带有铁木部件的装备/工具&6耐久&r，远程：站立不动一段时间每级提升20%和10%初速度但会获得&8缓慢和虚弱&r）"
+			]
 			id: "2DBFDC38DE59DF8F"
+			rewards: [{
+				ftb_money: 200L
+				id: "211A7B8756162B19"
+				type: "sdmshop:money"
+			}]
+			subtitle: "集天地日月之精华，铁木！"
 			tasks: [{
 				id: "1380818E9CAE0FDF"
 				item: "twilightforest:ironwood_ingot"
@@ -2545,6 +2556,11 @@
 		}
 		{
 			id: "167EBA8040D53423"
+			rewards: [{
+				ftb_money: 100L
+				id: "3783348B5528954B"
+				type: "sdmshop:money"
+			}]
 			subtitle: "增强的线"
 			tasks: [{
 				id: "4B4D3E7E1AD09A3B"
@@ -2556,13 +2572,19 @@
 		}
 		{
 			id: "29D405BC08F40CD5"
+			rewards: [{
+				ftb_money: 500L
+				id: "03CB1C8786BE705F"
+				type: "sdmshop:money"
+			}]
+			subtitle: "粗浅的模仿，冰冻廉价材料"
 			tasks: [{
 				id: "549EF3E4DD71E86A"
 				item: "twilightforest:arctic_fur"
 				type: "item"
 			}]
 			x: 23.0d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			icon: {
@@ -2616,14 +2638,20 @@
 		}
 		{
 			id: "58253502EB4E740F"
+			rewards: [{
+				count: 3
+				id: "50926D43E028F3BF"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "传送至挖掘方块和杀死生物的位置"
 			tasks: [{
 				id: "42F6FE0451DEEDA5"
 				item: "tconstruct:ender_slime_vine"
 				type: "item"
 			}]
-			x: 40.0d
-			y: 42.0d
+			x: 38.0d
+			y: 43.5d
 		}
 		{
 			id: "145214743C629DC9"
@@ -2653,7 +2681,7 @@
 			}]
 			title: "仅工具/功能+防御类"
 			x: 31.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			id: "5D7FB76DE5960277"
@@ -2663,7 +2691,7 @@
 			}]
 			title: "仅工具/全能"
 			x: 12.5d
-			y: 69.5d
+			y: 69.0d
 		}
 		{
 			id: "6A7E67EF2F7D0C65"
@@ -2673,7 +2701,7 @@
 			}]
 			title: "无面板全能"
 			x: 22.5d
-			y: 69.5d
+			y: 69.0d
 		}
 		{
 			id: "41940A6F8AED9629"
@@ -2707,6 +2735,11 @@
 			]
 			hide_dependency_lines: true
 			id: "2F7DF5EA50C09329"
+			rewards: [{
+				ftb_money: 250L
+				id: "39E928C41D91E230"
+				type: "sdmshop:money"
+			}]
 			shape: "circle"
 			subtitle: "泡火成神"
 			tasks: [{
@@ -2720,6 +2753,18 @@
 		{
 			hide_dependency_lines: true
 			id: "3FDF09035908610B"
+			rewards: [
+				{
+					id: "5C1277AC832A306D"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "14E8ED9EFC9D0B2C"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "水下速掘，增加对于水下实体攻击的抗性"
 			tasks: [{
 				id: "63C9A6F0398C495A"
@@ -2733,6 +2778,11 @@
 			description: ["       然而伽钢的主要用途是用来移除无敌帧（&m摩根勒菲：这我熟&r）"]
 			hide_dependency_lines: true
 			id: "7404008318E1E996"
+			rewards: [{
+				ftb_money: 200L
+				id: "41E15091CDB66795"
+				type: "sdmshop:money"
+			}]
 			subtitle: "额外魔法伤害，受击延长无敌帧，概率造成魔法反伤"
 			tasks: [{
 				id: "5822E26C15D06EAD"
@@ -2745,6 +2795,12 @@
 		{
 			hide_dependency_lines: true
 			id: "4647ADC76AE270F3"
+			rewards: [{
+				ftb_money: 30L
+				id: "57E11155BA6F6765"
+				random_bonus: 30
+				type: "sdmshop:money"
+			}]
 			shape: "pentagon"
 			subtitle: "不错的控制与不错的伤害"
 			tasks: [{
@@ -2765,6 +2821,11 @@
 			]
 			hide_dependency_lines: true
 			id: "330D50F6463841CD"
+			rewards: [{
+				id: "3A255C8FF9C0DE19"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "价值连城"
 			tasks: [{
 				id: "42D925266953A33D"
@@ -2782,6 +2843,12 @@
 			]
 			hide_dependency_lines: true
 			id: "08959093F73893BC"
+			rewards: [{
+				count: 5
+				id: "55E84D3B57F1DF0C"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "忠于原味"
 			tasks: [{
 				id: "36B3A79FF1A6BE16"
@@ -2795,6 +2862,12 @@
 			description: ["比阿迪特更易获取，功能性也更好，实用性更广额啊，但是在这个包还不够有存在感"]
 			hide_dependency_lines: true
 			id: "592019CCAED3F8EB"
+			rewards: [{
+				ftb_money: 150L
+				id: "19FF7C7A858D98AD"
+				random_bonus: 150
+				type: "sdmshop:money"
+			}]
 			subtitle: "更快的速度，近战物理防御"
 			tasks: [{
 				id: "22AB69CD53307FAB"
@@ -2807,6 +2880,11 @@
 		{
 			hide_dependency_lines: true
 			id: "457122B44BF711D3"
+			rewards: [{
+				ftb_money: 1500L
+				id: "6E6E4A26F8843C80"
+				type: "sdmshop:money"
+			}]
 			subtitle: "夜间更耐用,有更多升级槽，并且命中目标有发光"
 			tasks: [{
 				id: "09D252A6C1209B8B"
@@ -2819,6 +2897,12 @@
 		{
 			hide_dependency_lines: true
 			id: "4657D07FF62D0455"
+			rewards: [{
+				ftb_money: 625L
+				id: "3CC67E0C7FBB4AEE"
+				random_bonus: 625
+				type: "sdmshop:money"
+			}]
 			subtitle: "抑制回血并无视无敌帧"
 			tasks: [{
 				id: "553706E6FBA9F330"
@@ -2832,6 +2916,12 @@
 			description: ["      开局强材料，当然仅限开局。无论是护甲还是武器素质都不错，强力的材料往往只需要简单粗暴的词条（笑）"]
 			hide_dependency_lines: true
 			id: "738B9ED82D41FF4D"
+			rewards: [{
+				ftb_money: 225L
+				id: "0B8B732416D2BBD9"
+				random_bonus: 225
+				type: "sdmshop:money"
+			}]
 			shape: "pentagon"
 			subtitle: "每级最大生命10%伤害，生命越高所受伤害越低"
 			tasks: [{
@@ -2845,6 +2935,12 @@
 		{
 			hide_dependency_lines: true
 			id: "04764FA03E41B005"
+			rewards: [{
+				ftb_money: 275L
+				id: "191CB2E7C2BD95C5"
+				random_bonus: 275
+				type: "sdmshop:money"
+			}]
 			subtitle: "根据移速和生命差值（需最大生命值低于自身）加伤，受击8%闪避"
 			tasks: [{
 				id: "7AF95FCABDF81F22"
@@ -2871,7 +2967,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 73.5d
+			y: 73.0d
 		}
 		{
 			description: [
@@ -2881,6 +2977,12 @@
 			]
 			hide_dependency_lines: true
 			id: "3BD9A8E2A83D5998"
+			rewards: [{
+				ftb_money: 100L
+				id: "71E7BEB221004374"
+				random_bonus: 100
+				type: "sdmshop:money"
+			}]
 			subtitle: "愚人节快乐，我的朋友。"
 			tasks: [{
 				id: "206B8B3E5BA3F764"
@@ -2893,6 +2995,11 @@
 		{
 			hide_dependency_lines: true
 			id: "3EFEC2D8FA1ECD53"
+			rewards: [{
+				ftb_money: 500L
+				id: "6AF51F30AF6C18BE"
+				type: "sdmshop:money"
+			}]
 			subtitle: "和目标换位，耐久越低伤害越高"
 			tasks: [{
 				id: "6D47D053DD6ECBDE"
@@ -2905,6 +3012,11 @@
 		{
 			hide_dependency_lines: true
 			id: "181288F054BFD1AA"
+			rewards: [{
+				ftb_money: 200L
+				id: "3EBA2008BCED1B29"
+				type: "sdmshop:money"
+			}]
 			subtitle: "缴械和降低攻击以提升击退（仅工具）"
 			tasks: [{
 				id: "6E226E72A9F566EA"
@@ -2918,6 +3030,11 @@
 			description: ["哦对的对的对的，哦不对不对不对"]
 			hide_dependency_lines: true
 			id: "033EDBD3811752A6"
+			rewards: [{
+				ftb_money: 250L
+				id: "5A950E8C8F21DB7F"
+				type: "sdmshop:money"
+			}]
 			subtitle: "耐久越低伤害越高，耐久越高伤害越高"
 			tasks: [{
 				id: "7CD2CE0E80153D45"
@@ -2930,6 +3047,12 @@
 		{
 			hide_dependency_lines: true
 			id: "2FB151DABEA45D78"
+			rewards: [{
+				ftb_money: 135L
+				id: "7FBB2552BC197A5E"
+				random_bonus: 135
+				type: "sdmshop:money"
+			}]
 			subtitle: "更快更强更有攻击性，其余和魔力丝线一样"
 			tasks: [{
 				id: "454AD6479DEE3B5D"
@@ -2943,6 +3066,12 @@
 			description: ["耐削王（"]
 			hide_dependency_lines: true
 			id: "572701AD0E5F1CED"
+			rewards: [{
+				ftb_money: 50L
+				id: "3D6EBB9843542135"
+				random_bonus: 50
+				type: "sdmshop:money"
+			}]
 			subtitle: "无视目标的无敌帧并且根据敌方血条的削减增伤"
 			tasks: [{
 				id: "63FC51624137C187"
@@ -2955,6 +3084,11 @@
 		{
 			hide_dependency_lines: true
 			id: "353123362D883447"
+			rewards: [{
+				ftb_money: 500L
+				id: "70A5946B6CE544F8"
+				type: "sdmshop:money"
+			}]
 			subtitle: "能抑制末影人瞬移，并随着时间越发强大"
 			tasks: [{
 				id: "14CF791DA4EAA0DC"
@@ -2967,6 +3101,12 @@
 		{
 			hide_dependency_lines: true
 			id: "2BFBCB65050992C9"
+			rewards: [{
+				ftb_money: 50L
+				id: "12C4CAC4074AC94D"
+				random_bonus: 50
+				type: "sdmshop:money"
+			}]
 			subtitle: "拥有玫瑰金特性与伤害四分之一的魔法伤害"
 			tasks: [{
 				id: "1787E381068CFC59"
@@ -2977,9 +3117,14 @@
 			y: 40.5d
 		}
 		{
-			description: [""]
+			description: ["中级合金素材（"]
 			hide_dependency_lines: true
 			id: "091FB2D99705B4DE"
+			rewards: [{
+				ftb_money: 100L
+				id: "0D19230C94386BFA"
+				type: "sdmshop:money"
+			}]
 			subtitle: "增加一个升级槽"
 			tasks: [{
 				icon: "tconstruct:rose_gold_ingot"
@@ -3010,7 +3155,7 @@
 			}]
 			title: "殷钢锭"
 			x: -1.5d
-			y: 73.5d
+			y: 73.0d
 		}
 		{
 			description: ["（还不如2级材料的经验……）"]
@@ -3032,7 +3177,7 @@
 			}]
 			title: "琥珀金锭"
 			x: -1.5d
-			y: 74.5d
+			y: 74.0d
 		}
 		{
 			description: ["沉默的螺旋……真无用材料"]
@@ -3054,11 +3199,17 @@
 			}]
 			title: "青铜锭"
 			x: -0.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "5BB222BBC353B5F4"
+			rewards: [{
+				ftb_money: 25L
+				id: "3E557FC43B006812"
+				random_bonus: 25
+				type: "sdmshop:money"
+			}]
 			subtitle: "超快攻速加流血"
 			tasks: [{
 				id: "503ED02CE0987C36"
@@ -3079,11 +3230,16 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "4520CBF7D6EF86F9"
+			rewards: [{
+				ftb_money: 200L
+				id: "1AC3E0CB63B86241"
+				type: "sdmshop:money"
+			}]
 			subtitle: "对视的目标受到你的/对你的额外伤害/伤害降低"
 			tasks: [{
 				id: "3638B04A6685684D"
@@ -3094,8 +3250,14 @@
 			y: 58.5d
 		}
 		{
+			description: ["合成材料（"]
 			hide_dependency_lines: true
 			id: "4B608B03A701CABC"
+			rewards: [{
+				ftb_money: 50L
+				id: "5EC31723DAFCFF8F"
+				type: "sdmshop:money"
+			}]
 			subtitle: "使目标虚弱并凋零"
 			tasks: [{
 				id: "36A2383C2E415D4F"
@@ -3108,6 +3270,11 @@
 		{
 			hide_dependency_lines: true
 			id: "348320FE169B032E"
+			rewards: [{
+				ftb_money: 400L
+				id: "51CB374C31667D54"
+				type: "sdmshop:money"
+			}]
 			subtitle: "朴实无华的减速"
 			tasks: [{
 				id: "596F6E67504D8B95"
@@ -3120,6 +3287,12 @@
 		{
 			hide_dependency_lines: true
 			id: "0409893931AD6AA0"
+			rewards: [{
+				ftb_money: 330L
+				id: "5AA952E4498CB0DB"
+				random_bonus: 330
+				type: "sdmshop:money"
+			}]
 			subtitle: "使目标沉重/下坠加快"
 			tasks: [{
 				id: "44607CC8F63B23C4"
@@ -3130,8 +3303,19 @@
 			y: 60.0d
 		}
 		{
+			description: [
+				"很实用的材料，但是因为精妙背包所以无人问津"
+				"不过也许可以用来拯救一些特殊的情况……"
+				"&l&e比如精妙木桶炸开……&r"
+			]
 			hide_dependency_lines: true
 			id: "383F90A1DB2ADC1E"
+			rewards: [{
+				ftb_money: 250L
+				id: "72AD29FD92358BEA"
+				random_bonus: 250
+				type: "sdmshop:money"
+			}]
 			subtitle: "将掉落物传送至绑定容器，各方面速度增加"
 			tasks: [{
 				id: "160CADA1CC494475"
@@ -3144,6 +3328,12 @@
 		{
 			hide_dependency_lines: true
 			id: "6DDEEDF50DDB43ED"
+			rewards: [{
+				ftb_money: 15L
+				id: "4445401123E253DB"
+				random_bonus: 15
+				type: "sdmshop:money"
+			}]
 			subtitle: "飞起来！"
 			tasks: [{
 				id: "732F91B06E860FC4"
@@ -3156,6 +3346,12 @@
 		{
 			hide_dependency_lines: true
 			id: "5E6D22BD3375DCB2"
+			rewards: [{
+				ftb_money: 10L
+				id: "5639DC93BA945EA0"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "受击/攻击后造成伤害/群伤。根据环境温度增加"
 			tasks: [{
 				id: "645C6847F9A5D53C"
@@ -3166,8 +3362,14 @@
 			y: 42.5d
 		}
 		{
+			description: ["哦，还有糖吃~"]
 			hide_dependency_lines: true
 			id: "473F9574DAFD8384"
+			rewards: [{
+				ftb_money: 250L
+				id: "42279746B9959D92"
+				type: "sdmshop:money"
+			}]
 			subtitle: "加攻击范围和移速，击杀概率掉落各种功能强大的糖"
 			tasks: [{
 				id: "4A78694E27F95CFD"
@@ -3175,7 +3377,7 @@
 				type: "item"
 			}]
 			x: 8.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			description: ["可能需要一点加强，毕竟四级，但是也没那么需要"]
@@ -3188,11 +3390,16 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "600DBF6A9C2BA0FD"
+			rewards: [{
+				ftb_money: 300L
+				id: "2327F7628DFC1A54"
+				type: "sdmshop:money"
+			}]
 			subtitle: "生命恢复，根据目标生命加伤"
 			tasks: [{
 				id: "2236C9D8A5C5B403"
@@ -3203,8 +3410,14 @@
 			y: 40.5d
 		}
 		{
+			description: ["意外的具有高耐久远程系数加成，不过蛮贵的"]
 			hide_dependency_lines: true
 			id: "18FFA7963C46A3B5"
+			rewards: [{
+				ftb_money: 100L
+				id: "1346FEBE4BA13408"
+				type: "sdmshop:money"
+			}]
 			subtitle: "增加对掠夺者的伤害抗性和对女巫、村民和掠夺者的伤害"
 			tasks: [{
 				id: "5D0EB44975F80C7E"
@@ -3223,6 +3436,11 @@
 			]
 			hide_dependency_lines: true
 			id: "0585199F0587A906"
+			rewards: [{
+				id: "22BB7E957A00D7CE"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "夺取基岩，部分虚空伤害,是虚空"
 			tasks: [{
 				id: "68678EB00B09355B"
@@ -3249,7 +3467,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			description: [
@@ -3259,6 +3477,12 @@
 			]
 			hide_dependency_lines: true
 			id: "26448C4F623961AD"
+			rewards: [{
+				ftb_money: 40L
+				id: "77903A5208FDB1AF"
+				random_bonus: 40
+				type: "sdmshop:money"
+			}]
 			subtitle: "加速加速再加速"
 			tasks: [{
 				id: "043CC88DD33D97A0"
@@ -3273,10 +3497,16 @@
 				"&a这也许是个不错的材料，背后也有不错的意义。&a"
 				"&2但就像它的实用性一样，并没有想的那么乐观。&2"
 				"&b不过即使如此也是生命的一部分，不是吗？&b"
-				"&4饥饿给人力量即使陷入癫狂，吗。。。&4"
+				"&4饥饿给人力量即使陷入癫狂，吗……&4"
 			]
 			hide_dependency_lines: true
 			id: "6EEAF246B63CD739"
+			rewards: [{
+				ftb_money: 10L
+				id: "186F09FD672F59CB"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "饥饿将会带来更快的挖掘速度与初速度"
 			tasks: [{
 				id: "1159B5879720F90F"
@@ -3297,6 +3527,11 @@
 			]
 			hide_dependency_lines: true
 			id: "495C1F0255AEE02C"
+			rewards: [{
+				ftb_money: 75L
+				id: "0DCF5C4B5276A26F"
+				type: "sdmshop:money"
+			}]
 			subtitle: "极其廉价的钻石级，特性综合实用性高"
 			tasks: [{
 				id: "39A7B2E22C9E0A24"
@@ -3313,6 +3548,12 @@
 			]
 			hide_dependency_lines: true
 			id: "5CA0F7576283FFD4"
+			rewards: [{
+				ftb_money: 40L
+				id: "33B545D6C18499FA"
+				random_bonus: 40
+				type: "sdmshop:money"
+			}]
 			subtitle: "仅仅是比较耐用的钻石级"
 			tasks: [{
 				id: "4C06B6C683B08618"
@@ -3331,6 +3572,11 @@
 			]
 			hide_dependency_lines: true
 			id: "5545732312DC0065"
+			rewards: [{
+				ftb_money: 500L
+				id: "7E2C2AC3A221B365"
+				type: "sdmshop:money"
+			}]
 			subtitle: "攻击目标/受击隐身并对隐身单位增伤/增加抗性"
 			tasks: [{
 				id: "5D766EA321A59A75"
@@ -3349,6 +3595,11 @@
 			]
 			hide_dependency_lines: true
 			id: "115D75B2F0D35188"
+			rewards: [{
+				id: "2817E4A7927CB4B7"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "天空亮度越低挖掘与初速度越快/所受伤害越少"
 			tasks: [{
 				id: "3288EB1B05A75C68"
@@ -3366,6 +3617,11 @@
 			]
 			hide_dependency_lines: true
 			id: "3CFC7B33EF5714AD"
+			rewards: [{
+				ftb_money: 200L
+				id: "45035E6AE94108A3"
+				type: "sdmshop:money"
+			}]
 			subtitle: "击飞被你攻击外/攻击你的一切凡物"
 			tasks: [{
 				id: "2D8A3250549E7B1C"
@@ -3382,6 +3638,12 @@
 			]
 			hide_dependency_lines: true
 			id: "23A6B1B7FD714873"
+			rewards: [{
+				ftb_money: 150L
+				id: "30C9FF84D4AD8559"
+				random_bonus: 150
+				type: "sdmshop:money"
+			}]
 			subtitle: "与经验挂钩的幽匿系统，增加各种速度并自带耐久"
 			tasks: [{
 				id: "288E46E54E347077"
@@ -3400,6 +3662,11 @@
 			]
 			hide_dependency_lines: true
 			id: "5DF76C4BC79211B8"
+			rewards: [{
+				ftb_money: 10L
+				id: "624E1D7B8A65D0A9"
+				type: "sdmshop:money"
+			}]
 			subtitle: "满蓄力攻击概率获得力量效果"
 			tasks: [{
 				id: "7B97A7C226F77F22"
@@ -3422,6 +3689,11 @@
 			]
 			hide_dependency_lines: true
 			id: "2222D407AC6C12D7"
+			rewards: [{
+				ftb_money: 10L
+				id: "42CC8A0A765B5055"
+				type: "sdmshop:money"
+			}]
 			subtitle: "非范围挖掘概率获取急迫"
 			tasks: [{
 				id: "405C0C6E9CA9E0C3"
@@ -3442,12 +3714,17 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 73.5d
+			y: 73.0d
 		}
 		{
 			description: ["可以吃的金属！"]
 			hide_dependency_lines: true
 			id: "25FEBAB0010DC1E2"
+			rewards: [{
+				ftb_money: 200L
+				id: "6486FA871DCC414E"
+				type: "sdmshop:money"
+			}]
 			subtitle: "真是美味啊！"
 			tasks: [{
 				id: "3768B5E44694EB8D"
@@ -3461,6 +3738,12 @@
 			description: ["有概率对敌人和自己造成凋零效果"]
 			hide_dependency_lines: true
 			id: "69572E1EFAA481FA"
+			rewards: [{
+				ftb_money: 50L
+				id: "16F5320BD750D7CB"
+				random_bonus: 50
+				type: "sdmshop:money"
+			}]
 			subtitle: "哦，这是一把双刃剑"
 			tasks: [{
 				id: "4850165A27C2F0A1"
@@ -3474,6 +3757,11 @@
 		{
 			hide_dependency_lines: true
 			id: "10CA3DA551E70D2B"
+			rewards: [{
+				id: "4018DB405B05595C"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "强大的数值与诅咒"
 			tasks: [{
 				id: "386A35898123A133"
@@ -3484,8 +3772,15 @@
 			y: 41.5d
 		}
 		{
+			description: ["价格回归正轨,不过相对于原本的造价来说确实很高了"]
 			hide_dependency_lines: true
 			id: "1C23D1D83B6F70AB"
+			rewards: [{
+				count: 5
+				id: "25CC11A37073010F"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			subtitle: "更加强大的数值与更加强大的诅咒"
 			tasks: [{
 				id: "6B889D6DD4BEC1EC"
@@ -3498,6 +3793,20 @@
 		{
 			hide_dependency_lines: true
 			id: "0CAD081EECFF923F"
+			rewards: [
+				{
+					count: 2
+					id: "6C51E7553D1065DC"
+					item: "aquamirae:abyssal_amethyst"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "50FCC070118010EB"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "降低受击者最大生命值"
 			tasks: [{
 				id: "2BC6F5BE7574C8CC"
@@ -3510,6 +3819,11 @@
 		{
 			hide_dependency_lines: true
 			id: "48615018EB37EC2E"
+			rewards: [{
+				ftb_money: 250L
+				id: "77C27CB729F0CF2D"
+				type: "sdmshop:money"
+			}]
 			subtitle: "亡灵双倍特攻，耐久消耗时回血，盔甲免疫部分负面效果"
 			tasks: [{
 				id: "233196517CD426EA"
@@ -3520,9 +3834,14 @@
 			y: 40.5d
 		}
 		{
-			description: [""]
+			description: ["简单的数值"]
 			hide_dependency_lines: true
 			id: "4303B650691AF91E"
+			rewards: [{
+				ftb_money: 1000L
+				id: "07EE981B5A7387B9"
+				type: "sdmshop:money"
+			}]
 			subtitle: "水中增伤与对水生和怕水生物特攻"
 			tasks: [{
 				id: "4E04E7B0DA40A643"
@@ -3533,8 +3852,17 @@
 			y: 41.5d
 		}
 		{
+			description: [
+				"意义不明的功能性材料，获取难度和词条功能性以及面板相当幽默，属于填图鉴的材料罢了"
+				"详细请参考深海化合物合成表"
+			]
 			hide_dependency_lines: true
 			id: "7030C654EFA698DE"
+			rewards: [{
+				ftb_money: 100L
+				id: "664B9A6A945AC2A0"
+				type: "sdmshop:money"
+			}]
 			subtitle: "游泳加快，水中增伤和速掘"
 			tasks: [{
 				id: "30BF623E04EA8BA9"
@@ -3555,12 +3883,24 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 73.5d
+			y: 73.0d
 		}
 		{
 			description: ["作为工具的价值不如灵质之锻强化"]
 			hide_dependency_lines: true
 			id: "1729424641A6B0E2"
+			rewards: [{
+				id: "280F07E89333DBAA"
+				item: {
+					Count: 1b
+					id: "iceandfire:ghost_sword"
+					tag: {
+						Damage: 0
+						Unbreakable: 1b
+					}
+				}
+				type: "item"
+			}]
 			subtitle: "幻影旋转）"
 			tasks: [{
 				id: "6C178B9A34380304"
@@ -3590,11 +3930,16 @@
 			}]
 			title: "恐蚁甲壳"
 			x: 2.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "51F99A464453161C"
+			rewards: [{
+				ftb_money: 500L
+				id: "6BF3E18251D2E771"
+				type: "sdmshop:money"
+			}]
 			subtitle: "增加30%耐久，10%伤害和箭矢初速"
 			tasks: [{
 				id: "5351BD25B559A74E"
@@ -3607,6 +3952,12 @@
 		{
 			hide_dependency_lines: true
 			id: "3A3924E973BADDC6"
+			rewards: [{
+				ftb_money: 15L
+				id: "36C2BE338AE71DB3"
+				random_bonus: 15
+				type: "sdmshop:money"
+			}]
 			subtitle: "速度和急迫！"
 			tasks: [{
 				id: "21251D27606F9E1E"
@@ -3618,12 +3969,28 @@
 		}
 		{
 			description: [
-				"也许配合本包版本的黑曜石作为护甲会有奇效（）"
+				"也许配合本包版本的&5&l黑曜石&r作为护甲会有奇效（）"
 				""
-				"虽然可能是最廉价的钻石级材料，但是副作用导致它没那么受欢迎"
+				"不过因为此材料伤害持有者的原理是给予&8&l凋零buff&r，也许你可以使用一些&e免疫凋零效果&r的材料以弥补（）"
+				""
+				"虽然可能是&6最廉价的钻石级材料&r，但是副作用导致它没那么受欢迎"
 			]
 			hide_dependency_lines: true
 			id: "1BE8D74A476E2793"
+			rewards: [
+				{
+					ftb_money: 25L
+					id: "0B688ED7C47CBE80"
+					random_bonus: 25
+					type: "sdmshop:money"
+				}
+				{
+					count: 16
+					id: "4723C3B3AEC47A33"
+					item: "cyclic:dark_glass_connected"
+					type: "item"
+				}
+			]
 			subtitle: "珍爱生命，远离无机纤维"
 			tasks: [{
 				id: "78735B383004A0CC"
@@ -3636,6 +4003,11 @@
 		{
 			hide_dependency_lines: true
 			id: "7C2EF45AA7B7AB84"
+			rewards: [{
+				ftb_money: 1250L
+				id: "149F84FF9B9E253D"
+				type: "sdmshop:money"
+			}]
 			subtitle: "回复和降低使用耐久（后者需为工具）"
 			tasks: [{
 				id: "0A82F25078E30052"
@@ -3643,7 +4015,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			description: ["牢zehn心心念念的魔力射线（）"]
@@ -3656,11 +4028,16 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 74.5d
+			y: 74.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "6187F4E9DDAC316C"
+			rewards: [{
+				ftb_money: 500L
+				id: "18544224F2B1CEF7"
+				type: "sdmshop:money"
+			}]
 			subtitle: "护甲减伤和攻击概率二次计算"
 			tasks: [{
 				id: "193BF91C9036B953"
@@ -3678,6 +4055,12 @@
 			]
 			hide_dependency_lines: true
 			id: "211F3A1732331BB6"
+			rewards: [{
+				ftb_money: 65L
+				id: "1E34226FFB42B35D"
+				random_bonus: 65
+				type: "sdmshop:money"
+			}]
 			subtitle: "漂浮和抑制瞬移"
 			tasks: [{
 				icon: "minecraft:purpur_block"
@@ -3708,6 +4091,12 @@
 			description: ["蓝色的黄玉……"]
 			hide_dependency_lines: true
 			id: "10F890DFA56B147D"
+			rewards: [{
+				ftb_money: 120L
+				id: "5EDF9D73F0697CE1"
+				random_bonus: 120
+				type: "sdmshop:money"
+			}]
 			subtitle: "站着不动时回血"
 			tasks: [{
 				id: "395FDA8DFA452A11"
@@ -3720,6 +4109,12 @@
 		{
 			hide_dependency_lines: true
 			id: "571775796A0EC48E"
+			rewards: [{
+				ftb_money: 15L
+				id: "0296AB768F1F69AE"
+				random_bonus: 15
+				type: "sdmshop:money"
+			}]
 			subtitle: "消耗灵魂恢复生命……"
 			tasks: [{
 				id: "254BAF5D7F8A017E"
@@ -3737,6 +4132,12 @@
 			]
 			hide_dependency_lines: true
 			id: "5241281E9E113403"
+			rewards: [{
+				ftb_money: 100L
+				id: "70FFC11C0CD2F889"
+				random_bonus: 100
+				type: "sdmshop:money"
+			}]
 			subtitle: "目标没有以你为目标时增加伤害"
 			tasks: [{
 				id: "761B34C71D589A49"
@@ -3747,9 +4148,14 @@
 			y: 40.5d
 		}
 		{
-			description: [""]
+			description: ["原版的常驻神（"]
 			hide_dependency_lines: true
 			id: "29DCCBC08FFAE3FC"
+			rewards: [{
+				ftb_money: 100L
+				id: "7CBF32E8E6F2C862"
+				type: "sdmshop:money"
+			}]
 			subtitle: "切割流血"
 			tasks: [{
 				id: "4FA42D0D2C8FF28A"
@@ -3762,6 +4168,11 @@
 		{
 			hide_dependency_lines: true
 			id: "0873338ECD2C6684"
+			rewards: [{
+				ftb_money: 100L
+				id: "704C6F4B3274413F"
+				type: "sdmshop:money"
+			}]
 			subtitle: "精准采集强化材料，有代价的能力槽"
 			tasks: [{
 				id: "3E2B815FCCB1A496"
@@ -3774,6 +4185,12 @@
 		{
 			hide_dependency_lines: true
 			id: "59DB845FDC5E75D9"
+			rewards: [{
+				ftb_money: 175L
+				id: "15F66C8B7A8FC79E"
+				random_bonus: 175
+				type: "sdmshop:money"
+			}]
 			subtitle: "增加粘液回复量"
 			tasks: [{
 				id: "21F83BCB928FE1C6"
@@ -3792,8 +4209,18 @@
 			y: 44.0d
 		}
 		{
+			description: [
+				"娱乐向的材料，尽管可以通过一些奇奇怪怪的搭配来打出神奇的高伤害，但是以当时的阶段来说没有太大价值了喵"
+				"除非会加强，但工业先锋的魔改进主线迟迟没有进度，大概也是不可能的。"
+			]
 			hide_dependency_lines: true
 			id: "43C8E5C04BF84D25"
+			rewards: [{
+				count: 5
+				id: "7508F4EB32981BC3"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "着火目标受到剩余燃烧时间/10的伤害并增加3秒燃烧时间"
 			tasks: [{
 				id: "245CD9D295910758"
@@ -3832,13 +4259,19 @@
 			}]
 			title: "蓝宝石"
 			x: 0.5d
-			y: 74.5d
+			y: 74.0d
 		}
 		{
 			description: ["同时也有同期较高的面板"]
 			hide_dependency_lines: true
 			icon: "mekanism:ingot_refined_glowstone"
 			id: "6DE694478127C5F7"
+			rewards: [{
+				ftb_money: 40L
+				id: "0D049FD95DA7E966"
+				random_bonus: 40
+				type: "sdmshop:money"
+			}]
 			subtitle: "夜视。使猪灵不再敌对你"
 			tasks: [{
 				id: "58712A3C287E40F9"
@@ -3859,12 +4292,25 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 73.5d
+			y: 73.0d
 		}
 		{
 			description: ["是个美术角色（&8&m才不是恶徒水壶&r）"]
 			hide_dependency_lines: true
 			id: "5B50FE932D386CFE"
+			rewards: [
+				{
+					id: "1D735BA46E1A42B6"
+					item: "minecraft:emerald_block"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5A794FF6135F4345"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "幸运的小狐狸？"
 			tasks: [{
 				id: "379629F1A50B0C71"
@@ -3882,6 +4328,11 @@
 			]
 			hide_dependency_lines: true
 			id: "3EB93BC831309720"
+			rewards: [{
+				ftb_money: 100L
+				id: "4B1FDE9E28A5B866"
+				type: "sdmshop:money"
+			}]
 			subtitle: "对末影人特攻！"
 			tasks: [{
 				id: "01155CA144B25548"
@@ -3893,6 +4344,12 @@
 		}
 		{
 			id: "2A6EBFA5CD768261"
+			rewards: [{
+				id: "39FBF6925A60B2CA"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			subtitle: "made in heaven！"
 			tasks: [{
 				id: "70998041FFAD9145"
 				item: "cloudertinker:timering"
@@ -3903,6 +4360,13 @@
 		}
 		{
 			id: "27EA50A8F8361427"
+			rewards: [{
+				count: 2
+				id: "202D3F48A00B193E"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			subtitle: "自带时运三的镐子可以横空出世了"
 			tasks: [{
 				id: "27C993AB62579FEC"
 				item: "cloudertinker:orescore"
@@ -3912,7 +4376,14 @@
 			y: 59.5d
 		}
 		{
+			description: ["和平的森林是曾经魔法元素最为浓厚的地方"]
 			id: "5BF2C4E74A78D7CC"
+			rewards: [{
+				id: "29637BB85ACF3FD7"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			subtitle: "也许你需要住在魔法森林?"
 			tasks: [{
 				id: "34C5260C6FE81A30"
 				item: "cloudertinker:changeheart"
@@ -3923,6 +4394,13 @@
 		}
 		{
 			id: "3C198848A9F03DE0"
+			rewards: [{
+				count: 5
+				id: "1129DE9D403BBA43"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			subtitle: "补豪，是动物之友"
 			tasks: [{
 				id: "0495691DA3457D7B"
 				item: "cloudertinker:sorteye"
@@ -3933,6 +4411,12 @@
 		}
 		{
 			id: "4362E504ACCFB42B"
+			rewards: [{
+				ftb_money: 150L
+				id: "17612B80E3DC0DBA"
+				random_bonus: 150
+				type: "sdmshop:money"
+			}]
 			subtitle: "受击和攻击都会冰冻敌人，前者/后者给予冰冻状态下敌人5%反伤/增伤35%"
 			tasks: [{
 				id: "36D3D3E836AAB8C0"
@@ -3943,7 +4427,17 @@
 			y: 40.5d
 		}
 		{
+			description: [
+				"&l&2暮光之下充斥着别样的气息，&4&l黑暗中的血影，来自高塔的汲血凋落之力&r"
+				"（通用：处于&a暮色森林&r时，挖掘速度+2/每件盔甲韧性+1，反之攻击+2/每件护甲+1；攻击/受击来源施加&l&8凋零效果&r）（作为工具/盔甲，&6环境亮度低于9时&r，随环境亮度的降低提升攻击、挖掘速度、拉弓速度和初速度/给予&e&l抗性提升效果&r）"
+			]
 			id: "1B9CACF94AA74C37"
+			rewards: [{
+				ftb_money: 375L
+				id: "525D7AFC95AF6BFE"
+				random_bonus: 375
+				type: "sdmshop:money"
+			}]
 			subtitle: "黑暗与血……"
 			tasks: [{
 				id: "2F7808A45AFD5AE8"
@@ -3981,7 +4475,7 @@
 			}]
 			title: "非远程/功能类"
 			x: 7.5d
-			y: 69.5d
+			y: 69.0d
 		}
 		{
 			id: "658241B40080E3E3"
@@ -3991,7 +4485,7 @@
 			}]
 			title: "非远程/全能"
 			x: 17.5d
-			y: 69.5d
+			y: 69.0d
 		}
 		{
 			id: "16A04DFC7892CD03"
@@ -4001,7 +4495,7 @@
 			}]
 			title: "非工具/功能+攻击类"
 			x: 27.0d
-			y: 69.5d
+			y: 69.0d
 		}
 		{
 			id: "3179A082F4CF9883"
@@ -4011,12 +4505,22 @@
 			}]
 			title: "非工具/功能类"
 			x: 31.5d
-			y: 69.5d
+			y: 69.0d
 		}
 		{
+			description: [
+				"作为基底来说也许可以当作某些盾牌的部件使用（大概）"
+				"如果实在没什么好用或者是卡血量需要，倒也是个不错的盔甲部件"
+			]
 			hide_dependency_lines: true
 			id: "4CFD14AC7943C16F"
-			subtitle: "根据敌方已损血量百分比加伤"
+			rewards: [{
+				count: 8
+				id: "6F6DA626B4B47752"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
+			subtitle: "受击叠层加伤还有无视无敌帧和额外伤害"
 			tasks: [{
 				id: "3BB8F1D7F1BB27B7"
 				item: "tinkers_ingenuity:blood_steel_ingot"
@@ -4028,6 +4532,11 @@
 		{
 			hide_dependency_lines: true
 			id: "6370CE06179B0EFF"
+			rewards: [{
+				ftb_money: 500L
+				id: "0151E7C3F9368016"
+				type: "sdmshop:money"
+			}]
 			subtitle: "+50%爆伤并且拥有短暂控制"
 			tasks: [{
 				id: "1F7650DF151ED8D7"
@@ -4044,6 +4553,12 @@
 			]
 			hide_dependency_lines: true
 			id: "72A7DE5979B18D37"
+			rewards: [{
+				count: 4
+				id: "3E010EC027A46915"
+				item: "minecraft:ancient_debris"
+				type: "item"
+			}]
 			subtitle: "敌方满血与连续攻击/受击时增伤/增加减伤"
 			tasks: [{
 				id: "08FB2E633250A39A"
@@ -4054,9 +4569,16 @@
 			y: 61.0d
 		}
 		{
+			description: ["传奇耐削王，目前来说还是能用"]
 			hide_dependency_lines: true
 			id: "3B8C689E152A12E1"
-			subtitle: "贵，但是强大"
+			rewards: [{
+				count: 5
+				id: "26747F48C6301DC0"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
+			subtitle: "&l&o&d我曾几度遭遇背叛（调整）"
 			tasks: [{
 				id: "59909FA4FAAE5217"
 				item: "tinkers_ingenuity:knight_crystal_ingot"
@@ -4072,6 +4594,11 @@
 			]
 			hide_dependency_lines: true
 			id: "4D27E68516D65541"
+			rewards: [{
+				id: "0B92EC1815747DA4"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
 			subtitle: "下界合金级的象征"
 			tasks: [{
 				id: "773B3D6289332C56"
@@ -4084,6 +4611,11 @@
 		{
 			hide_dependency_lines: true
 			id: "12CAA5D55BB2D048"
+			rewards: [{
+				ftb_money: 1000L
+				id: "2A1D5BF25E24202D"
+				type: "sdmshop:money"
+			}]
 			subtitle: "水下每级增伤50%和水中20%最大生命的额外伤害，降低水下每级12%所受伤害"
 			tasks: [{
 				id: "7BDE9C03EC4F4421"
@@ -4094,9 +4626,19 @@
 			y: 61.0d
 		}
 		{
-			description: ["击败图腾鸟后处理战利品获取"]
+			description: [
+				"击败图腾鸟后处理战利品获取"
+				""
+				"作为武器时特效好看！"
+			]
 			hide_dependency_lines: true
 			id: "0141A5217570206A"
+			rewards: [{
+				ftb_money: 375L
+				id: "0EB5983ACF3D3F33"
+				random_bonus: 375
+				type: "sdmshop:money"
+			}]
 			subtitle: "继承太阳图腾的鸟形神性生物（拉？）"
 			tasks: [{
 				id: "60C98EBC0E62DB36"
@@ -4111,9 +4653,24 @@
 				"&o&l&e着火时扑灭以恢复血量（盔甲），&6太阳下每级55%增伤和15%拉弓速度，附带2秒燃烧，目标为亡灵生物额外每级增伤20%（工具）&r"
 				""
 				"正好可以和炽火合金锭配合使用，虽然可能没什么用"
+				""
+				"&l&o&8&m不知为何增伤逻辑需要离开地面才能生效……（严重怀疑是把某个空中目标增伤的逻辑抄过来进行魔改的）&r"
 			]
 			hide_dependency_lines: true
 			id: "5563818414AD5208"
+			rewards: [
+				{
+					id: "5E402D79EE39BCA7"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "101E0D6BCA69B950"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "日光带来的是治愈和审判……"
 			tasks: [{
 				id: "3D2D7256BB8D5CB5"
@@ -4139,8 +4696,8 @@
 				item: "tinkers_ingenuity:crocell_ingot"
 				type: "item"
 			}]
-			x: 12.5d
-			y: 45.0d
+			x: 2.5d
+			y: 76.5d
 		}
 		{
 			description: [
@@ -4149,6 +4706,12 @@
 			]
 			hide_dependency_lines: true
 			id: "57507C3FF833F4C0"
+			rewards: [{
+				ftb_money: 400L
+				id: "61CD53285C185657"
+				random_bonus: 400
+				type: "sdmshop:money"
+			}]
 			subtitle: "攻击/受击能冻结目标，根据目标冰冻时间和生命值造成处决"
 			tasks: [{
 				id: "4E1DEB53C85D6B5F"
@@ -4162,6 +4725,11 @@
 			description: ["实际上似乎只要有可能着火的判定就能增伤，也就是说即使你在水里也能增伤（从这个角度上讲抗火和部分免火机制也能吃到增伤），全套护甲常规增幅为160%，你甚至可以用来配合大洋合金使用"]
 			hide_dependency_lines: true
 			id: "7B481D3F82A52BF7"
+			rewards: [{
+				ftb_money: 666L
+				id: "4E87327AF2955E6E"
+				type: "sdmshop:money"
+			}]
 			subtitle: "降低受到火焰伤害，攻击导致自身着火，若自身着火则增伤"
 			tasks: [{
 				id: "71D8ABEBFD83096F"
@@ -4174,6 +4742,12 @@
 		{
 			hide_dependency_lines: true
 			id: "40F2ABB90F50D86F"
+			rewards: [{
+				count: 8
+				id: "082A81F847D6593F"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "被攻击时你和攻击者各承担一半伤害。在你血条不满的时候会消耗耐久给你回血"
 			tasks: [{
 				id: "05F0B2F2FCE5AB0D"
@@ -4187,6 +4761,12 @@
 			dependency_requirement: "all_started"
 			hide_dependency_lines: true
 			id: "0BD99963D8FDE661"
+			rewards: [{
+				ftb_money: 360L
+				id: "69A0316CE8E84829"
+				random_bonus: 360
+				type: "sdmshop:money"
+			}]
 			subtitle: "暴击加速，攻击削弱敌方增幅自我"
 			tasks: [{
 				id: "598F8008AFED40C2"
@@ -4199,6 +4779,12 @@
 		{
 			hide_dependency_lines: true
 			id: "495FA9D5EB65310D"
+			rewards: [{
+				ftb_money: 250L
+				id: "138BF3D186DF4D4A"
+				random_bonus: 250
+				type: "sdmshop:money"
+			}]
 			subtitle: "特性等级越高上的负面越多，并且相当于一个不死图腾"
 			tasks: [{
 				id: "420CAB49135D507E"
@@ -4216,6 +4802,12 @@
 			]
 			hide_dependency_lines: true
 			id: "23B90F2625D2E5B3"
+			rewards: [{
+				ftb_money: 300L
+				id: "1B01F4B62DAF320D"
+				random_bonus: 300
+				type: "sdmshop:money"
+			}]
 			subtitle: "粘液系统与护甲韧性转化机制，绿宝石替代经验概率掉落，远程视粘液系统加成"
 			tasks: [{
 				id: "7FD3CDF7BE28C8B3"
@@ -4240,7 +4832,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 76.0d
+			y: 75.5d
 		}
 		{
 			description: [
@@ -4250,6 +4842,12 @@
 			]
 			hide_dependency_lines: true
 			id: "18A40639922E8AF3"
+			rewards: [{
+				count: 5
+				id: "529B5EF01193A2C4"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			shape: "circle"
 			subtitle: "速度越快，增伤越多"
 			tasks: [{
@@ -4261,8 +4859,15 @@
 			y: 47.0d
 		}
 		{
+			description: ["&l&o&m&7疑似sm二位一体"]
 			hide_dependency_lines: true
 			id: "29986A80BD824BAC"
+			rewards: [{
+				ftb_money: 450L
+				id: "0FAB15EC8092CDE6"
+				random_bonus: 450
+				type: "sdmshop:money"
+			}]
 			subtitle: "除了攻速还是攻速，被打/打加攻速/速度"
 			tasks: [{
 				id: "4DFB1F3E55B0140E"
@@ -4276,6 +4881,12 @@
 			description: ["同时是极其便宜的下界合金级材料，而且顶端面板和词条够看，前期没有不毁时的最佳顶端候选（因为修起来便宜）"]
 			hide_dependency_lines: true
 			id: "3B20B8237FC77E48"
+			rewards: [{
+				count: 4
+				id: "573A58EE4FA517F0"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
 			shape: "pentagon"
 			subtitle: "每级25%增伤，作为护甲还有几率造成150%反伤和减伤"
 			tasks: [{
@@ -4294,6 +4905,12 @@
 			]
 			hide_dependency_lines: true
 			id: "39DBC5333DB12F63"
+			rewards: [{
+				ftb_money: 700L
+				id: "5EDF33C23D483039"
+				random_bonus: 700
+				type: "sdmshop:money"
+			}]
 			subtitle: "爵士通绝世……对吧？"
 			tasks: [{
 				id: "6BC9AB9E63377504"
@@ -4310,6 +4927,11 @@
 			]
 			hide_dependency_lines: true
 			id: "26C47C932709EC3B"
+			rewards: [{
+				ftb_money: 500L
+				id: "1BB18506E59E3126"
+				type: "sdmshop:money"
+			}]
 			subtitle: "粘液覆层提供数值提升"
 			tasks: [{
 				id: "0EF751581A32C820"
@@ -4320,8 +4942,24 @@
 			y: 43.0d
 		}
 		{
+			description: [
+				"存在感相当于背景板……"
+				"不嘻嘻"
+			]
 			hide_dependency_lines: true
 			id: "7E6047ABCCD7024C"
+			rewards: [{
+				id: "72D9E74CAC8BA572"
+				item: {
+					Count: 1b
+					id: "mythicbotany:faded_nether_star"
+					tag: {
+						Damage: 0
+						Unbreakable: 1b
+					}
+				}
+				type: "item"
+			}]
 			subtitle: "攻击带凋零效果与狮心"
 			tasks: [{
 				id: "63CF4C71CA22EC95"
@@ -4329,7 +4967,7 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: 47.0d
+			y: 46.0d
 		}
 		{
 			description: ["合金后反而没那么有用了，明明是个顶好的意象来着"]
@@ -4342,20 +4980,26 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 76.0d
+			y: 75.5d
 		}
 		{
 			description: ["给我干哪儿来了？这还是匠魂硬铝吗？"]
 			hide_dependency_lines: true
 			id: "09CBC5849963882C"
+			rewards: [{
+				ftb_money: 10L
+				id: "7ABA612390151595"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "工业消耗品，别无他求"
 			tasks: [{
 				id: "0A1AABB0B4622BC3"
 				item: "tinkers_reforged:duralumin_ingot"
 				type: "item"
 			}]
-			x: 4.5d
-			y: 45.5d
+			x: 3.5d
+			y: 44.0d
 		}
 		{
 			description: ["（待调整材料）"]
@@ -4368,7 +5012,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 76.0d
+			y: 75.5d
 		}
 		{
 			description: ["植魔线的产物，跟不上时代了"]
@@ -4381,7 +5025,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 77.0d
+			y: 76.5d
 		}
 		{
 			description: [
@@ -4398,7 +5042,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 77.0d
+			y: 76.5d
 		}
 		{
 			description: [
@@ -4409,6 +5053,12 @@
 			]
 			hide_dependency_lines: true
 			id: "299B4E94FF0156C3"
+			rewards: [{
+				ftb_money: 676L
+				id: "061F89416530A41E"
+				random_bonus: 676
+				type: "sdmshop:money"
+			}]
 			subtitle: "凋零之主，带有凋零效果（远程附加爆炸），也可免疫"
 			tasks: [{
 				id: "70C22385050790EA"
@@ -4416,12 +5066,18 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: 46.0d
+			y: 45.0d
 		}
 		{
 			description: ["黏乎乎的"]
 			hide_dependency_lines: true
 			id: "451D2851C81E5476"
+			rewards: [{
+				ftb_money: 225L
+				id: "5399E3761CEB02D3"
+				random_bonus: 225
+				type: "sdmshop:money"
+			}]
 			subtitle: "超级多的粘液！"
 			tasks: [{
 				id: "5F2D50E0743D8CCA"
@@ -4435,6 +5091,11 @@
 			description: ["      小加强：添加了好暑属性，使用者浸泡在熔岩中时迅速恢复耐久"]
 			hide_dependency_lines: true
 			id: "748921FE794DA514"
+			rewards: [{
+				ftb_money: 300L
+				id: "40FEE64FBF973988"
+				type: "sdmshop:money"
+			}]
 			subtitle: "连续不断的挖掘带来更高的挖掘速度"
 			tasks: [{
 				id: "11A9B4CECAB9C31D"
@@ -4447,18 +5108,31 @@
 		{
 			hide_dependency_lines: true
 			id: "645B9B5E961FE11E"
-			subtitle: "对着火的敌人造成更多伤害！"
+			rewards: [{
+				ftb_money: 160L
+				id: "580AF88E275B6229"
+				random_bonus: 160
+				type: "sdmshop:money"
+			}]
+			subtitle: "对着火的敌人造成更多伤害！（翻倍）"
 			tasks: [{
 				id: "0CCEBA6A90CAB9D3"
 				item: "tconstruct:blazing_bone"
 				type: "item"
 			}]
-			x: 26.5d
-			y: 43.0d
+			x: 23.5d
+			y: 45.0d
 		}
 		{
+			description: ["全是下界的材料，但是却是末地特攻"]
 			hide_dependency_lines: true
 			id: "02D838F91EDAC2D9"
+			rewards: [{
+				count: 5
+				id: "24334723CC5C0871"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			subtitle: "对末影生物的大杀器。作为盔甲其特性也很不错"
 			tasks: [{
 				id: "46157D3A94826204"
@@ -4466,7 +5140,7 @@
 				type: "item"
 			}]
 			x: 17.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			description: ["道理我都懂，但是……不好评价"]
@@ -4479,7 +5153,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 76.0d
+			y: 75.5d
 		}
 		{
 			description: [
@@ -4494,13 +5168,19 @@
 				item: "cataclysm:ignitium_ingot"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 77.0d
+			x: 0.5d
+			y: 75.5d
 		}
 		{
 			description: ["又可以拉进csdy的匠魂材料典型反面教材里了("]
 			hide_dependency_lines: true
 			id: "6936B4C318C219FC"
+			rewards: [{
+				count: 3
+				id: "3281D1BD06E8074D"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			subtitle: "纯粹的强大（byd描述长得一批）"
 			tasks: [{
 				id: "3717802D014E6A9A"
@@ -4512,22 +5192,29 @@
 		}
 		{
 			description: [
-				"1.0：高昂的造价与平庸的面板，特性也只是赛特斯水晶之类的通用特性晶态，作为匠魂材料的性价比极低。"
-				"作为晶格的稀缺和昂贵代表，也许是晶态这个词的最好诠释吧"
-				"（万一哪天加强了呢？）"
-				"2.0：新增了护具领域，每级12%的免伤与概率反弹伤害，还算不错，虽然依旧性价比不高（&m但也算超过赛特斯石英了&m）。"
+				"       配一把低耐久的含水晶矩阵的武器，然后通过替换部件来逐渐增加工具的最大耐久，你就能获得可观的增伤！"
 				""
-				"（待增强材料）"
+				"       由对数性质可知，减少每次替换时增加的耐久并且增加替换次数就能最大化收益。"
+				""
+				"       同时也能增幅中子材料收集中子素的能力。"
+				""
+				"       护甲方面提供了一面衰减的减伤护盾，可以避免与强大敌怪碰面的瞬间就被秒杀。不过当遇到&c反射&r这种会&6造成高频伤害的词条&r时减伤会在战斗中迅速衰减。"
 			]
 			id: "2535AAE682ACB858"
-			subtitle: "不如赛特斯石英 —by白武男"
+			rewards: [{
+				count: 5
+				id: "3189D1C24D9E7DB6"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			subtitle: "并不是要你真的去算对数！"
 			tasks: [{
 				id: "0EBCA2F57391A40F"
 				item: "avaritia:crystal_matrix_ingot"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 76.0d
+			x: 2.5d
+			y: 50.5d
 		}
 		{
 			description: ["材料获取难度和实用性不匹配……"]
@@ -4540,7 +5227,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 77.0d
+			y: 76.5d
 		}
 		{
 			description: [
@@ -4551,6 +5238,11 @@
 			]
 			hide_dependency_lines: true
 			id: "78ECB2B323BC797E"
+			rewards: [{
+				ftb_money: 500L
+				id: "32EE575E958FF1C2"
+				type: "sdmshop:money"
+			}]
 			subtitle: "攻击回复耐久，削减少量基础血量上限"
 			tasks: [{
 				id: "1E93DE8D567680FF"
@@ -4563,6 +5255,12 @@
 		{
 			hide_dependency_lines: true
 			id: "6BC48069F028ED83"
+			rewards: [{
+				ftb_money: 1500L
+				id: "4678ACE9D92D84A6"
+				random_bonus: 1500
+				type: "sdmshop:money"
+			}]
 			subtitle: "挖掘速度极快且能挖掘基岩，不会损坏（大概）"
 			tasks: [{
 				id: "07ECE0A416CFB332"
@@ -4573,9 +5271,21 @@
 			y: 45.5d
 		}
 		{
-			description: ["耐久突出……"]
+			description: ["高贵的魔法伤害确实很强，但是在这个包里有太多花里胡哨的轮椅了以至于忽略了这个材料的强大（大概）"]
 			hide_dependency_lines: true
 			id: "5DFD25C29F7EB318"
+			rewards: [
+				{
+					id: "400773E52209EA3C"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "3C1C662F8F60C8BB"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "受击/攻击弱化目标，附带魔法伤害"
 			tasks: [{
 				id: "60F0FD511E61A4DD"
@@ -4588,6 +5298,12 @@
 		{
 			hide_dependency_lines: true
 			id: "08D9CA3050B1F6C5"
+			rewards: [{
+				ftb_money: 375L
+				id: "7D4FFF211E89C160"
+				random_bonus: 375
+				type: "sdmshop:money"
+			}]
 			subtitle: "粘液覆层越高属性越好，到达一定程度拥有类似禁锢的效果"
 			tasks: [{
 				id: "5669AE50D0EA4EFE"
@@ -4598,8 +5314,18 @@
 			y: 43.0d
 		}
 		{
+			description: [
+				"看上去平平无奇的叠伤大王"
+				"喜欢上debuff的孩子们你们有福了"
+			]
 			hide_dependency_lines: true
 			id: "5819F9F91F4DB5D6"
+			rewards: [{
+				count: 3
+				id: "4B68916366348A1F"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "老六专属，无须多言"
 			tasks: [{
 				id: "530329B405868A93"
@@ -4613,6 +5339,11 @@
 			description: ["由于烈焰木本身只能用来做基底，其余烈焰木系列部件均为浇筑所以这里只计算了盔甲方面"]
 			hide_dependency_lines: true
 			id: "2DD849E9B364A0B1"
+			rewards: [{
+				ftb_money: 200L
+				id: "4D60DC2C7B8D5209"
+				type: "sdmshop:money"
+			}]
 			subtitle: "点燃和自动冶炼，着火时增加保护"
 			tasks: [{
 				id: "56FB215947AD20D6"
@@ -4632,6 +5363,12 @@
 				}
 			}
 			id: "7144384731D93CC6"
+			rewards: [{
+				ftb_money: 235L
+				id: "78584E753CC86842"
+				random_bonus: 235
+				type: "sdmshop:money"
+			}]
 			subtitle: "工具类时运加1，基底类防御槽加1"
 			tasks: [
 				{
@@ -4657,7 +5394,6 @@
 						}
 					}
 					match_nbt: true
-					optional_task: true
 					type: "item"
 				}
 				{
@@ -4676,11 +5412,16 @@
 			]
 			title: "远古兽皮"
 			x: 7.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "2FCA612F13152695"
+			rewards: [{
+				ftb_money: 250L
+				id: "4EEC22B92713578E"
+				type: "sdmshop:money"
+			}]
 			subtitle: "获得额外槽位，但是会付出代价"
 			tasks: [{
 				id: "0076AA5075726A53"
@@ -4688,12 +5429,18 @@
 				type: "item"
 			}]
 			x: 8.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			hide_dependency_lines: true
 			icon: "mekanism:ingot_refined_obsidian"
 			id: "368C9D01CE4C91D4"
+			rewards: [{
+				ftb_money: 789L
+				id: "3F6B36AC9274923D"
+				random_bonus: 789
+				type: "sdmshop:money"
+			}]
 			subtitle: "再快一点！"
 			tasks: [{
 				id: "67A97ECE9ED55C46"
@@ -4711,6 +5458,13 @@
 			]
 			hide_dependency_lines: true
 			id: "46DE06B5CA7FB49D"
+			rewards: [{
+				count: 2
+				id: "3020F15EA948F4EB"
+				item: "minecraft:rabbit_stew"
+				random_bonus: 3
+				type: "item"
+			}]
 			subtitle: "吞吃粘液以获取无穷粘液覆层！"
 			tasks: [{
 				id: "743C6EA63A96863A"
@@ -4764,7 +5518,6 @@
 						}
 					}
 					match_nbt: true
-					optional_task: true
 					type: "item"
 				}
 				{
@@ -4783,10 +5536,29 @@
 			]
 			title: "血脉丝线"
 			x: -0.5d
-			y: 77.0d
+			y: 76.5d
 		}
 		{
 			id: "4805D03B80ECE77B"
+			rewards: [
+				{
+					count: 2
+					id: "737BE3D66E10ACEA"
+					item: "lightmanscurrency:coin_netherite"
+					type: "item"
+				}
+				{
+					id: "2CB2E2E9FB88D8C8"
+					item: {
+						Count: 1b
+						id: "tconstruct:creative_slot"
+						tag: {
+							slot: "abilities"
+						}
+					}
+					type: "item"
+				}
+			]
 			subtitle: "能刻印，但是当你获得它时已经无所谓了"
 			tasks: [{
 				id: "552949B84738DECF"
@@ -4798,6 +5570,13 @@
 		}
 		{
 			id: "195B6B182B2FED42"
+			rewards: [{
+				ftb_money: 750L
+				id: "676F7AA78E8069E3"
+				random_bonus: 750
+				type: "sdmshop:money"
+			}]
+			subtitle: "恶魇将至——"
 			tasks: [{
 				id: "303F00168B99F4FC"
 				item: "cloudertinker:evilmare_ingot"
@@ -4805,31 +5584,55 @@
 			}]
 			title: "恶魇锭-四级"
 			x: 27.0d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
+			description: [
+				"你是说你会给别人带来&7&l&o迷茫&r对吗？"
+				"&l&o&4死亡凝视~&r"
+			]
 			id: "6454DAE4EAE0606D"
+			rewards: [{
+				ftb_money: 480L
+				id: "1888B3B722B3F167"
+				random_bonus: 480
+				type: "sdmshop:money"
+			}]
+			subtitle: "迷宫史莱姆不会陷入迷茫……"
 			tasks: [{
 				id: "7270DCEA021518D4"
 				item: "cloudertinker:mazeslime_ingot"
 				type: "item"
 			}]
-			x: 3.5d
-			y: 45.5d
+			x: 4.5d
+			y: 44.0d
 		}
 		{
+			description: ["符合主题理论上会因为造价的问题变得平庸，但是因为商店的出现。。。即使是开局也不显得那么昂贵了（甚至过于便宜）"]
 			id: "75EE800B1AF9450F"
+			rewards: [{
+				ftb_money: 500L
+				id: "440F409CCAEFA9CE"
+				type: "sdmshop:money"
+			}]
 			subtitle: "现代远古力能作用"
 			tasks: [{
 				id: "28370E11C40CDAD1"
 				item: "cloudertinker:steelbone"
 				type: "item"
 			}]
-			x: 1.5d
-			y: 46.5d
+			x: 2.5d
+			y: 44.0d
 		}
 		{
 			id: "15A3B284ED950CEA"
+			rewards: [{
+				ftb_money: 600L
+				id: "73F9D9FAA316836B"
+				random_bonus: 600
+				type: "sdmshop:money"
+			}]
+			subtitle: "逆天单弓弦全系统"
 			tasks: [{
 				id: "46AFEC00BC9377CA"
 				item: "cloudertinker:devil_chain"
@@ -4839,7 +5642,24 @@
 			y: 61.0d
 		}
 		{
+			description: [
+				"居家型工具真实存在的证明"
+				"比变化之心的功能性更强"
+				"也许获取难度应当和词条的存在感有所匹配……"
+			]
 			id: "4075DF0E198C1236"
+			rewards: [{
+				id: "54847DDCAAE7470B"
+				item: {
+					Count: 1b
+					id: "twilightforest:crumble_horn"
+					tag: {
+						Damage: 0
+						Unbreakable: 1b
+					}
+				}
+				type: "item"
+			}]
 			subtitle: "全暮色最尊重黑暗森林和谜题羊的存在"
 			tasks: [{
 				id: "2FE2741633648BA6"
@@ -4850,24 +5670,40 @@
 			y: 46.0d
 		}
 		{
+			description: [
+				"&l&2暮光之下充斥着别样的气息，&r&a&l原生森林的生命力象征，似乎过去这里和平如初，但在平静的表象下仍然是……&r"
+				"（作为&6工具/基底&r：处于&a暮色森林&r时，挖掘速度+2/每件盔甲韧性+1，反之攻击+2/每件护甲+1）（通用：快捷栏有钢叶的时候&l&o&2自我修复&r）"
+			]
 			id: "76A950A407E26810"
+			rewards: [{
+				ftb_money: 300L
+				id: "15BAD812520E2BD3"
+				type: "sdmshop:money"
+			}]
+			subtitle: "同调召唤！（不是）"
 			tasks: [{
 				id: "27B74DE93E427676"
 				item: "twilightforest:steeleaf_ingot"
 				type: "item"
 			}]
-			x: 5.5d
-			y: 45.5d
+			x: 1.5d
+			y: 44.0d
 		}
 		{
 			id: "658D2D83CF1E347C"
+			rewards: [{
+				ftb_money: 1000L
+				id: "5A197194106D529F"
+				type: "sdmshop:money"
+			}]
+			subtitle: "可以cos雪地矿工了"
 			tasks: [{
 				id: "08A0E21C71034CAB"
 				item: "twilightforest:alpha_yeti_fur"
 				type: "item"
 			}]
 			x: 23.0d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			icon: {
@@ -4897,7 +5733,7 @@
 			}]
 			title: "待处理的材料：加强/调整/修复"
 			x: 0.0d
-			y: 69.5d
+			y: 69.0d
 		}
 		{
 			description: [
@@ -4906,6 +5742,11 @@
 			]
 			hide_dependency_lines: true
 			id: "758F6ADDB335C300"
+			rewards: [{
+				id: "52DB3D3055EB73BD"
+				item: "enigmaticlegacy:infinimeal"
+				type: "item"
+			}]
 			shape: "circle"
 			subtitle: "繁衍与育成，原始的冲动"
 			tasks: [{
@@ -4933,12 +5774,18 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 78.5d
+			y: 78.0d
 		}
 		{
 			description: ["哪儿来的轮椅？"]
 			hide_dependency_lines: true
 			id: "756F5F826BAA02BA"
+			rewards: [{
+				count: 5
+				id: "671CEC25FABD759A"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "耐久不满抽玩家血修耐久,根据玩家以损血量加伤"
 			tasks: [{
 				id: "6C05F29D5D78182F"
@@ -4951,6 +5798,12 @@
 		{
 			hide_dependency_lines: true
 			id: "59F795A8F3203821"
+			rewards: [{
+				count: 3
+				id: "0210E61EB338CA89"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "消耗魔力修补自身，攻击带有精灵的力量"
 			tasks: [{
 				id: "68218A2D43B6B20B"
@@ -4964,6 +5817,12 @@
 			description: ["伟大无需多言，不想要各种奇奇怪怪的buff缠身做它就对了"]
 			hide_dependency_lines: true
 			id: "201AA91675EAEAA0"
+			rewards: [{
+				count: 5
+				id: "57E50315C264ED18"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "耐毒耐辐射，高贵的全免"
 			tasks: [{
 				id: "1E9E0AC2689346A8"
@@ -4977,6 +5836,12 @@
 			hide_dependency_lines: true
 			hide_text_until_complete: true
 			id: "79472CCC42A6BF7E"
+			rewards: [{
+				count: 8
+				id: "1436C70DCBD9EBFE"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "强力减速"
 			tasks: [{
 				id: "3044C7A1E9FA823C"
@@ -4987,29 +5852,42 @@
 			y: 65.0d
 		}
 		{
+			description: ["孩子们其实我还有震荡抗性和高攻速/挖掘速度"]
 			hide_dependency_lines: true
 			id: "2305F9A14EF63FF7"
-			subtitle: "夜视和发光"
+			rewards: [{
+				ftb_money: 200L
+				id: "6D87EA88922AFB87"
+				random_bonus: 200
+				type: "sdmshop:money"
+			}]
+			subtitle: "夜视闪避发光震荡，哼哼哼"
 			tasks: [{
 				id: "4FEE82D75E38B385"
 				item: "etshtinker:blitz_lumium"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 46.5d
+			x: 5.5d
+			y: 45.5d
 		}
 		{
 			description: ["      作为护甲时免疫爆炸，在莱特兰环境是不错的应对榴弹的手段。不过星钢也能免疫爆炸且功能更全面"]
 			hide_dependency_lines: true
 			id: "3191F11310D257A2"
+			rewards: [{
+				ftb_money: 200L
+				id: "2828C5D66AAB42EE"
+				random_bonus: 200
+				type: "sdmshop:money"
+			}]
 			subtitle: "无视无敌帧和破甲"
 			tasks: [{
 				id: "133BE4A470D04D38"
 				item: "etshtinker:basalz_signalum"
 				type: "item"
 			}]
-			x: -1.5d
-			y: 46.5d
+			x: 3.5d
+			y: 45.5d
 		}
 		{
 			description: [
@@ -5018,14 +5896,20 @@
 			]
 			hide_dependency_lines: true
 			id: "2D42EB6BD558A2FC"
+			rewards: [{
+				ftb_money: 1200L
+				id: "6BEB07E34BC57BE0"
+				random_bonus: 1200
+				type: "sdmshop:money"
+			}]
 			subtitle: "不错的前期与中期的衔接材料"
 			tasks: [{
 				id: "272EED50AE0A9348"
 				item: "tinkers_reforged:durasteel_ingot"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 46.5d
+			x: 4.5d
+			y: 45.5d
 		}
 		{
 			description: ["（待调整材料）"]
@@ -5036,13 +5920,19 @@
 				item: "tinkers_reforged:etryx_ingot"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 79.5d
+			x: -0.5d
+			y: 79.0d
 		}
 		{
 			description: ["      作为护甲时可以为鞘翅提供推力，作为近战武器时可以提供龙息和魔法伤害，不错的功能性材料。"]
 			hide_dependency_lines: true
 			id: "4B981C31B29A2B52"
+			rewards: [{
+				count: 5
+				id: "61DF3F42E7D8D5A2"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "龙的老婆"
 			tasks: [{
 				id: "1BAE2CA97A926B9B"
@@ -5067,7 +5957,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 78.5d
+			y: 78.0d
 		}
 		{
 			description: [
@@ -5084,11 +5974,16 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 78.5d
+			y: 78.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "1FD7BFDF702797BA"
+			rewards: [{
+				ftb_money: 700L
+				id: "18D3FC403209D535"
+				type: "sdmshop:money"
+			}]
 			subtitle: "每次使用仅消耗一点耐久，持有者隐身时工具也隐身，作为盔甲时潜行增加少量护甲"
 			tasks: [{
 				id: "657BF951F138D3B7"
@@ -5099,8 +5994,15 @@
 			y: 61.5d
 		}
 		{
+			description: ["数值加简单机制，或许作为手柄是最佳选择？"]
 			hide_dependency_lines: true
 			id: "0D52E46EB1F2A238"
+			rewards: [{
+				ftb_money: 500L
+				id: "076AB5352F75029C"
+				random_bonus: 500
+				type: "sdmshop:money"
+			}]
 			shape: "octagon"
 			subtitle: "绝对强大。(虚假的)悚怖力量与异域魔法被强行凝聚在了一起"
 			tasks: [{
@@ -5109,7 +6011,7 @@
 				type: "item"
 			}]
 			x: 24.5d
-			y: 44.5d
+			y: 47.0d
 		}
 		{
 			description: ["（待增强材料）"]
@@ -5121,13 +6023,18 @@
 				item: "l2hostility:chaos_ingot"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 79.5d
+			x: -1.5d
+			y: 79.0d
 		}
 		{
 			description: ["数值机制叠叠乐"]
 			hide_dependency_lines: true
 			id: "76964B4F3619FDDA"
+			rewards: [{
+				id: "57E7BE4AA7FCF3DE"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "前期防御半神（工业）"
 			tasks: [{
 				id: "58D33F0DDDB7FA22"
@@ -5139,12 +6046,18 @@
 		}
 		{
 			description: [
-				"      最早能获取的带有通量装载词条的材料，只要电够多就不需要担心耐久问题。"
+				"      &e&l最早能获取的带有通量装载词条的材料，只要电够多就不需要担心耐久问题。&r"
 				"      作为护甲材料时的动生电动势属性同时在怪堆中有一定的实用性"
-				"&m（偷偷告诉你动生电动势可以碰瓷龙息速杀IAF的龙）"
+				"&m&l（偷偷告诉你动生电动势可以碰瓷龙息速杀IAF的龙）"
+				"&6&l以上那句话作废了喵~因为新版的冰火龙已经转移到了深园（中后期）&r"
 			]
 			hide_dependency_lines: true
 			id: "12EF16CC54DB2A80"
+			rewards: [{
+				ftb_money: 1200L
+				id: "6654F4EC2A12A2E1"
+				type: "sdmshop:money"
+			}]
 			shape: "pentagon"
 			subtitle: "拜拜耐久"
 			tasks: [{
@@ -5152,7 +6065,7 @@
 				item: "etshtinker:earth_crystal"
 				type: "item"
 			}]
-			x: 2.5d
+			x: -1.5d
 			y: 46.5d
 		}
 		{
@@ -5173,16 +6086,22 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 78.5d
+			y: 78.0d
 		}
 		{
 			description: [
-				"有一种数值的美"
-				"简单粗暴"
+				"简单机制与反伤，就是本身获取几乎不是新人会关注的领域"
+				"也许注定是冷门？"
+				"&l&o&n&4血肉誓要噬咬这般猩红&r"
 			]
 			hide_dependency_lines: true
 			id: "137ABF0F05A262BB"
-			subtitle: "看着有点生理不适"
+			rewards: [{
+				id: "70B1BB9ACE9B13AC"
+				item: "cti:xuerou_wine"
+				type: "item"
+			}]
+			subtitle: "&l&o&n&4血肉誓要噬咬这般猩红&r"
 			tasks: [{
 				id: "7DD8AE1FE744D964"
 				item: "solidarytinker:bloodmeat_ingot"
@@ -5195,6 +6114,12 @@
 			description: ["红绿柱石的上位替代，提供的格挡可以直接让你免受大部分负面的扣血效果，是前期不错的防御端材料！"]
 			hide_dependency_lines: true
 			id: "35A2B96AE3FA31D7"
+			rewards: [{
+				count: 8
+				id: "0C8EBFFDCD930CC5"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			shape: "pentagon"
 			subtitle: "格挡享受者"
 			tasks: [{
@@ -5206,7 +6131,18 @@
 			y: 61.5d
 		}
 		{
+			description: [
+				"&n&o&e&l暮光咒文祝福你！&r"
+				"&l&e这里是不朽的守护呀！愿这暮光初生之时，你我都能追寻自己的光芒。&r"
+				"（&6生命值&r&4超过一半时&r&e免疫虚弱、缓慢、中毒、凋零&r）（盔甲：受击获得&65分钟冷却&r的&e护盾&r）（工具：攻击50%转换为&6魔法伤害&r，箭矢额外造成&6目前生命值20%&r的&6魔法伤害&r）（近战：右击获得&6一分钟冷却&r的&e护盾&r；&f&l亡灵杀手&r，远程：每次箭矢命中给予或提升目标/自己一级&8&l失明&r/&b&l迅捷效果&r，伤害增加目标/自己的失明/迅捷等级*10%）"
+			]
 			id: "39D02F0335DE3B2D"
+			rewards: [{
+				ftb_money: 500L
+				id: "3A348F621F3F6946"
+				random_bonus: 500
+				type: "sdmshop:money"
+			}]
 			subtitle: "金色围墙be this"
 			tasks: [{
 				id: "7AC4AE31172E737F"
@@ -5218,6 +6154,12 @@
 		}
 		{
 			id: "6A2DE035B1249D73"
+			rewards: [{
+				ftb_money: 400L
+				id: "68C3A43551AA80CE"
+				random_bonus: 400
+				type: "sdmshop:money"
+			}]
 			subtitle: "等效僵尸仆从"
 			tasks: [{
 				id: "1712A8A3D893D888"
@@ -5229,6 +6171,13 @@
 		}
 		{
 			id: "77CC9EEF333B2708"
+			rewards: [{
+				ftb_money: 500L
+				id: "78FA1A59646F0AC6"
+				random_bonus: 500
+				type: "sdmshop:money"
+			}]
+			subtitle: "血祭血皇，颅献颅座"
 			tasks: [{
 				id: "1FB1FAF428A7ADFF"
 				item: "cloudertinker:bloodshed_ingot"
@@ -5239,6 +6188,11 @@
 		}
 		{
 			id: "6913ED84EE01F68D"
+			rewards: [{
+				ftb_money: 500L
+				id: "0338857A9135DB91"
+				type: "sdmshop:money"
+			}]
 			subtitle: "金色大运说是"
 			tasks: [{
 				id: "06A4175860E79D58"
@@ -5249,7 +6203,24 @@
 			y: 62.5d
 		}
 		{
+			description: [
+				"比金色大运少了金质修复，但是数值更强了"
+				"虽然实际上金质修复也能上强化就是了（）"
+			]
 			id: "778B1737F10E3636"
+			rewards: [
+				{
+					id: "00D05F5300DC2235"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "43D1A273615E0BAA"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "钻石大运来了！"
 			tasks: [{
 				id: "5BB10635769B1F67"
@@ -5261,6 +6232,12 @@
 		}
 		{
 			id: "143CDABC5788D921"
+			rewards: [{
+				ftb_money: 350L
+				id: "7C71D2987392A1D0"
+				random_bonus: 350
+				type: "sdmshop:money"
+			}]
 			subtitle: "幻影存在本身所化"
 			tasks: [{
 				id: "71D321D2BD23C9CD"
@@ -5268,10 +6245,17 @@
 				type: "item"
 			}]
 			x: 17.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			id: "01CFBD237267C432"
+			rewards: [{
+				count: 4
+				id: "73D9E878BF587F5F"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
+			subtitle: "钢叶的另一个极端，以失去其他泛用领域为代价"
 			tasks: [{
 				id: "5E933CECC81C06E6"
 				item: "cloudertinker:steeleafalloy"
@@ -5281,7 +6265,20 @@
 			y: 62.5d
 		}
 		{
+			description: ["你需要某个具有&r&9&l永恒力量&r的部件……"]
 			id: "065A1BFD7C958B65"
+			rewards: [{
+				id: "53A0BCB8657F1541"
+				item: {
+					Count: 1b
+					id: "twilightforest:glass_sword"
+					tag: {
+						Damage: 0
+						Unbreakable: 1b
+					}
+				}
+				type: "item"
+			}]
 			subtitle: "仅此一击了……"
 			tasks: [{
 				id: "531BA74B8E61202C"
@@ -5292,7 +6289,18 @@
 			y: 47.0d
 		}
 		{
+			description: [
+				"完全是钢叶正宗补强版，我现在什么都不缺了.jpg"
+				"这个时候的绿宝石起到了什么作用？谁知道呢~"
+			]
 			id: "43F592F0D312C8CD"
+			rewards: [{
+				ftb_money: 400L
+				id: "05EB121F3B71FFB6"
+				random_bonus: 400
+				type: "sdmshop:money"
+			}]
+			subtitle: "更强力协合的同调！"
 			tasks: [{
 				id: "623DC1EC7ED539AC"
 				item: "cloudertinker:compositesteeleaf_ingot"
@@ -5304,6 +6312,19 @@
 		{
 			description: ["常驻增伤拐（）原理是buff"]
 			id: "2E961524C555021F"
+			rewards: [
+				{
+					id: "738A3184D802632C"
+					item: "tconstruct:dragon_scale"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6A2B02D31EE896C6"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "狂龙症罢了！"
 			tasks: [{
 				id: "31F6513BB38F7CFF"
@@ -5311,22 +6332,46 @@
 				type: "item"
 			}]
 			x: 23.5d
-			y: 44.5d
+			y: 47.0d
 		}
 		{
-			description: ["等待更新"]
+			description: ["&l&o&n&4已然归来&r"]
 			id: "0638C89CBC0F6346"
-			subtitle: "一刀一刀燃烧刀"
+			rewards: [
+				{
+					count: 2
+					id: "34B87000352E81FE"
+					item: "twilightforest:fiery_ingot"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6E333E6777703F54"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
+			subtitle: "&l&o&n&4一刀一刀燃烧刀&r"
 			tasks: [{
 				id: "524A1308D78882CD"
 				item: "cloudertinker:glavenus_ingot"
 				type: "item"
 			}]
-			x: -1.5d
-			y: 79.5d
+			x: 25.5d
+			y: 47.0d
 		}
 		{
+			description: [
+				"好看，前期能用"
+				"新版本会有意想不到的存在感……"
+			]
 			id: "2C346A815B9B3CB2"
+			rewards: [{
+				ftb_money: 300L
+				id: "286A87BF924AB89D"
+				random_bonus: 300
+				type: "sdmshop:money"
+			}]
 			subtitle: "点燃，着火目标加伤/反伤，自动冶炼"
 			tasks: [{
 				id: "32E16BD06FF2D33D"
@@ -5364,6 +6409,21 @@
 			]
 			hide_dependency_lines: true
 			id: "2F07A0FE8C552012"
+			rewards: [
+				{
+					count: 8
+					id: "3C2BE3199B82AC87"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "39892D4596BA9C14"
+					item: "tinkers_thinking:chlorophyte_block"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
 			subtitle: "高等融合升华素材，是彩虹呢"
 			tasks: [{
 				id: "5A5CDCBA0A515E97"
@@ -5374,9 +6434,19 @@
 			y: 65.0d
 		}
 		{
+			description: [
+				"不错的盾牌基底材料"
+				"牢钢翻身有点快了孩子们，不过其实一般来说不太会有人用消耗级基础材料做工具吧？"
+			]
 			hide_dependency_lines: true
 			id: "4972D4AB575596B8"
-			subtitle: "全属性小幅度提升"
+			rewards: [{
+				count: 5
+				id: "47A6B0200D7A0CCD"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
+			subtitle: "属性提升"
 			tasks: [{
 				icon: "mekanism:ingot_steel"
 				id: "45E374E70CBBC3DE"
@@ -5391,14 +6461,25 @@
 				type: "item"
 			}]
 			title: "钢锭"
-			x: 6.5d
-			y: 48.0d
+			x: 3.5d
+			y: 49.0d
 		}
 		{
+			description: [
+				"&n&4&4&o&l造  价  昂  贵  ！&r"
+				"出现了末影龙特攻！"
+				"&a&l注：下界戈伯具有凋灵特攻，音爆伤害有坚守者特攻&r"
+			]
 			hide_dependency_lines: true
 			id: "5555196F8A086A6A"
+			rewards: [{
+				count: 8
+				id: "0322D6107F823232"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			shape: "hexagon"
-			subtitle: "拥有不毁词条与强大的综合性能"
+			subtitle: "拥有强大的综合性能，但是造价&n&4&4&o&l相当的贵&r"
 			tasks: [{
 				id: "103CFA3324BF9009"
 				item: "tinkerscalibration:mangobberslime_ingot"
@@ -5408,9 +6489,20 @@
 			y: 48.0d
 		}
 		{
-			description: ["在本包中它被加强了，只要穿上就能清除负面效果"]
+			description: [
+				"在本包中它被加强了，只要穿上就能清除负面效果"
+				""
+				"武器方面短时间移除效果对保护、隐身等词条也有压制作用"
+			]
 			hide_dependency_lines: true
 			id: "194B8C023BEAE0CF"
+			rewards: [{
+				count: 4
+				id: "407846E3893C863C"
+				item: "tinkerscalibration:oraclium_ingot"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "pentagon"
 			subtitle: "清debuff材料"
 			tasks: [{
@@ -5430,6 +6522,22 @@
 			]
 			hide_dependency_lines: true
 			id: "2E3A1C45D052D839"
+			rewards: [
+				{
+					count: 2
+					id: "794814243E730263"
+					item: "l2hostility:hostility_essence"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					count: 8
+					id: "35A1DFDF06DE62D5"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
 			subtitle: "针对恶意的恶意"
 			tasks: [{
 				id: "469F2D3BFC667D35"
@@ -5440,9 +6548,23 @@
 			y: 48.0d
 		}
 		{
-			description: [""]
+			description: ["曾经的坠机王说是"]
 			hide_dependency_lines: true
 			id: "1F49D25D19FFEFDA"
+			rewards: [
+				{
+					count: 4
+					id: "67466AC7A9A4768C"
+					item: "enigmaticlegacy:astral_dust"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4D26482E306A3D24"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
 			subtitle: "增伤与及净化，并且可以进行创造飞行"
 			tasks: [{
 				id: "2F988BC67CD43547"
@@ -5455,6 +6577,12 @@
 		{
 			hide_dependency_lines: true
 			id: "5BF6873594B6E85A"
+			rewards: [{
+				count: 4
+				id: "36E671D48B6BECE9"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "武器带有音爆伤害。盔甲免疫部分debuff"
 			tasks: [{
 				id: "639293372C23DDB0"
@@ -5472,6 +6600,20 @@
 			]
 			hide_dependency_lines: true
 			id: "651365BBD428BC61"
+			rewards: [
+				{
+					id: "7063B847BB6E6EF7"
+					item: "l2complements:eternal_anvil"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4A802D151FFCB7AD"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
 			subtitle: "它会伴随你一世"
 			tasks: [{
 				id: "56EDD753D4871E0C"
@@ -5482,8 +6624,27 @@
 			y: 64.5d
 		}
 		{
+			description: [
+				"      什么材料又有特效又有数值啊（）"
+				""
+				"      &7&m速速吃电子的拐"
+			]
 			hide_dependency_lines: true
 			id: "49E7873F16C2C113"
+			rewards: [
+				{
+					id: "53080F9F026495A9"
+					item: "tinkers_ingenuity:fire_dragon_blood_bucket"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "525ADC133034EBF8"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
 			subtitle: "龙之焱，贯炎射击！"
 			tasks: [{
 				id: "1EE76033CDD5297B"
@@ -5494,8 +6655,22 @@
 			y: 58.5d
 		}
 		{
+			description: ["      免死材料，在击杀了大量龙后还能给你增加血量上限"]
 			hide_dependency_lines: true
 			id: "7C489CB222B93FD8"
+			rewards: [
+				{
+					id: "073FE24A66C996D9"
+					item: "tinkers_ingenuity:ice_dragon_blood_bucket"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "63ACA1D771EADD9F"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
 			subtitle: "龙之霜，霜鳞重塑。"
 			tasks: [{
 				id: "7CA50CAB2DF56CD4"
@@ -5506,9 +6681,23 @@
 			y: 46.5d
 		}
 		{
-			description: [""]
+			description: ["      波动斩附带等离子和电龙龙息伤害，并且能施加部分词条效果"]
 			hide_dependency_lines: true
 			id: "49043EDA33A9E908"
+			rewards: [
+				{
+					id: "2E4315458EEE80B5"
+					item: "tinkers_ingenuity:lightning_dragon_blood_bucket"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "18D5FEE0BF215486"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
 			subtitle: "龙之雷霆，等离子波动斩！"
 			tasks: [{
 				id: "1332514806918D2F"
@@ -5529,17 +6718,25 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 81.0d
+			y: 80.5d
 		}
 		{
 			dependencies: ["0EBCA2F57391A40F"]
 			description: [
-				"1.0：常规致密天体顶点的力量汇聚一锭，然此锭仅获取了微不足道的一部分伟力，不过对于其他常规物质来说依旧是催枯拉朽的强大。"
-				"作为锭的形态出场，也许是其未能展现天体伟力的根本原因。"
-				"2.0：新增了护具领域，每点护甲带来2%减伤至多90%，进一步展现了天体伟力。"
+				"精炼材料的开端，但是其自身的数值并不强。"
+				""
+				"不过中子凝聚词条搭配&e某件饰品&r或许能产生奇妙的效果！"
+				""
+				"搭配水晶矩阵时中子产量还能进一步提升。"
 			]
 			icon: "avaritia:neutron_ingot"
 			id: "5C6DF2837F509BDB"
+			rewards: [{
+				count: 3
+				id: "35D326C233AEE651"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			shape: "pentagon"
 			subtitle: "无视护甲！受十成一！"
 			tasks: [{
@@ -5547,7 +6744,7 @@
 				item: "avaritia:neutron_ingot"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 3.5d
 			y: 50.5d
 		}
 		{
@@ -5570,6 +6767,12 @@
 				"&8登临极限之处不过尔尔，再创新物只是举手之劳，与君而言，又有何意义呢？"
 			]
 			id: "202E920E9A96D62B"
+			rewards: [{
+				count: 100
+				id: "2B1DD7E64D133858"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
 			shape: "octagon"
 			subtitle: "&l&4一&6百&e万&2匹&b力&3量&5！&6寰&e宇&2爆&b破&3拳&5！"
 			tasks: [{
@@ -5579,12 +6782,18 @@
 			}]
 			title: "&f&l&o&n无尽之锭&l&o&n&f"
 			x: 35.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			description: ["      不要小看这个1%，这个可是百分比加成，而且会乘以属性等级。"]
 			hide_dependency_lines: true
 			id: "1B690BDAB0C89EE2"
+			rewards: [{
+				count: 4
+				id: "1B68D11E2E8E2176"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
 			shape: "octagon"
 			subtitle: "不断的杀戮带来永恒的力量(实际有上限)"
 			tasks: [{
@@ -5596,9 +6805,25 @@
 			y: 48.5d
 		}
 		{
+			description: ["历经版本变革的强者，毋庸置疑的保底材料"]
 			hide_dependency_lines: true
 			id: "271418A7D8DD30B7"
-			shape: "octagon"
+			rewards: [
+				{
+					count: 4
+					id: "660BD2AC6DAE7D06"
+					item: "botania:life_essence"
+					random_bonus: 12
+					type: "item"
+				}
+				{
+					count: 5
+					id: "085ECC4626CB20C0"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
 			subtitle: "强者，无须多言"
 			tasks: [{
 				id: "2865E702BE1A2B4C"
@@ -5611,6 +6836,11 @@
 		{
 			hide_dependency_lines: true
 			id: "236B9AE4B64C8AE4"
+			rewards: [{
+				id: "22572D70B617D279"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "百分比伤害和无视挖掘等级"
 			tasks: [{
 				id: "0DA50D98AE66BE30"
@@ -5624,6 +6854,11 @@
 			description: ["      &m我才不会告诉你这个材料是整蛊材料"]
 			hide_dependency_lines: true
 			id: "0BF4F2D94589A7AC"
+			rewards: [{
+				id: "5E091FE69DDAEC24"
+				item: "etshtinker:antimatter_l_bucket"
+				type: "item"
+			}]
 			subtitle: "湮灭！"
 			tasks: [{
 				id: "0DF755D952C090BD"
@@ -5631,11 +6866,18 @@
 				type: "item"
 			}]
 			x: 23.5d
-			y: 47.5d
+			y: 50.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "011504FACBDF6BB3"
+			rewards: [{
+				count: 8
+				id: "3B3223C1BD00A4BF"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			subtitle: "&l&o&7影随天地……&r"
 			tasks: [{
 				id: "499243972ABF6366"
 				item: "etshtinker:lightless_alloy"
@@ -5643,11 +6885,17 @@
 			}]
 			title: "本影合金-六级"
 			x: 31.5d
-			y: 74.0d
+			y: 73.5d
 		}
 		{
 			hide_dependency_lines: true
 			id: "1A1603B3CC1550C7"
+			rewards: [{
+				count: 3
+				id: "485DA0C184326C20"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			subtitle: "癫疯而极端"
 			tasks: [{
 				id: "2049BF288F55C5E0"
@@ -5655,11 +6903,17 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "71EC7F3CE1B23E05"
+			rewards: [{
+				count: 100
+				id: "56741C42352E3B2F"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "快去做算术题！"
 			tasks: [{
 				id: "66D7EE707B369896"
@@ -5672,6 +6926,12 @@
 		{
 			hide_dependency_lines: true
 			id: "17AEE4B63D7AD491"
+			rewards: [{
+				count: 3
+				id: "0147398BDBB02515"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "50%无视护甲！二次护甲减伤！"
 			tasks: [{
 				id: "3F505083DC0F96FB"
@@ -5682,9 +6942,16 @@
 			y: 50.5d
 		}
 		{
+			description: ["这下真能用了，工业材料还在发力"]
 			hide_dependency_lines: true
 			id: "5F394BFF8BB71492"
-			subtitle: "三合一"
+			rewards: [{
+				ftb_money: 1800L
+				id: "44458F75B3EFE456"
+				random_bonus: 1800
+				type: "sdmshop:money"
+			}]
+			subtitle: "&l&1工业&l&e三彩&l&4大合一！"
 			tasks: [{
 				id: "4B89E8EDA6C69E7B"
 				item: "etshtinker:chroma_plate"
@@ -5694,11 +6961,20 @@
 			y: 49.0d
 		}
 		{
-			description: ["      强力减速+护甲击破+范围伤害+通量装载。刚进中期时的不二之选。"]
+			description: [
+				"      &e&l强力减速+护甲击破+范围伤害+通量装载&r。"
+				"刚进中期时的不二之选。"
+			]
 			hide_dependency_lines: true
 			id: "182DCDD696E95F2B"
+			rewards: [{
+				ftb_money: 2400L
+				id: "58285D5262A5F867"
+				random_bonus: 2400
+				type: "sdmshop:money"
+			}]
 			shape: "hexagon"
-			subtitle: "多功能材料"
+			subtitle: "多功能材料（看上去就很强）"
 			tasks: [{
 				id: "732A860DB2812B9C"
 				item: "etshtinker:activated_chroma_plate"
@@ -5712,6 +6988,12 @@
 			hide_dependency_lines: true
 			id: "3A26C7BA40EEA5B9"
 			invisible: true
+			rewards: [{
+				count: 100
+				id: "6822A08C80A84A59"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "听说这个是最难猜的隐藏材料"
 			tasks: [{
 				id: "4CAC7B189F3E8479"
@@ -5719,12 +7001,24 @@
 				type: "item"
 			}]
 			x: 40.0d
-			y: 70.5d
+			y: 70.0d
 		}
 		{
 			description: ["无论是攻击还是防御侧都比较优秀，但是也更考验搭配"]
 			hide_dependency_lines: true
 			id: "3DAFA0457C9ADFD8"
+			rewards: [
+				{
+					id: "0C29201558515796"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+				{
+					id: "3F141FDA7ECA93B0"
+					item: "etshtinker:overchargedneutronium_bucket"
+					type: "item"
+				}
+			]
 			shape: "pentagon"
 			subtitle: "二次最终伤害减免（护甲）/二次增伤计算"
 			tasks: [{
@@ -5736,8 +7030,15 @@
 			y: 67.0d
 		}
 		{
+			description: ["曾经统治环境的强者，现如今也是环境中的一环"]
 			hide_dependency_lines: true
 			id: "757E8E8E62D8BF84"
+			rewards: [{
+				count: 3
+				id: "1598364462E7E530"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "《有弓了谁还需要枪啊》"
 			tasks: [{
 				id: "7E1A051ED1170219"
@@ -5748,8 +7049,17 @@
 			y: 52.0d
 		}
 		{
+			description: ["      作为护甲时提供爆炸抗性和飞行，作为武器时提供火、爆炸、冷伤害类型"]
 			hide_dependency_lines: true
 			id: "32C861C0EA6590F4"
+			rewards: [{
+				count: 4
+				id: "6A833FD919ED166D"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			shape: "hexagon"
+			subtitle: "感受星钢的源头，ad？"
 			tasks: [{
 				id: "2D413303BE205081"
 				item: "etshtinker:stellaralloy"
@@ -5766,6 +7076,19 @@
 			]
 			hide_dependency_lines: true
 			id: "0E4DA1DE1F52E2DB"
+			rewards: [
+				{
+					id: "199158972E255C62"
+					item: "etshtinker:stellaralloy"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "77C253E550E9D5C0"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "恒星的外层大气"
 			tasks: [{
 				id: "7AE9D5458411AA16"
@@ -5773,25 +7096,40 @@
 				type: "item"
 			}]
 			x: 23.5d
-			y: 46.0d
+			y: 48.5d
 		}
 		{
-			description: ["当然还有副作用"]
+			description: [
+				"当然还有副作用"
+				"工业化后的地位显著提高"
+				"这力量不属于你.jpg"
+			]
 			hide_dependency_lines: true
 			id: "0103238D0D08C7DF"
+			rewards: [{
+				id: "5B8E8EA517998126"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			subtitle: "极端的面板和属性"
 			tasks: [{
 				id: "794F8B678B16356A"
 				item: "etshtinker:trinity_intereactive_alloy"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 50.0d
+			x: 0.5d
+			y: 52.0d
 		}
 		{
 			description: [" 但是你能想象得到你砍的每一刀都在消耗少量反物质吗"]
 			hide_dependency_lines: true
 			id: "0F964E1B6A577C14"
+			rewards: [{
+				count: 2
+				id: "316196B7016C0C1A"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			shape: "pentagon"
 			subtitle: "单论伤害，反中子比奇迹物质更加极端"
 			tasks: [{
@@ -5799,7 +7137,7 @@
 				item: "etshtinker:anti_neutronium"
 				type: "item"
 			}]
-			x: 0.5d
+			x: 1.5d
 			y: 52.0d
 		}
 		{
@@ -5809,6 +7147,12 @@
 			]
 			hide_dependency_lines: true
 			id: "66312A1EAB064889"
+			rewards: [{
+				count: 5
+				id: "511718DFF52629DC"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
 			shape: "hexagon"
 			subtitle: "这个造价，什么强度不必多说了吧"
 			tasks: [{
@@ -5822,16 +7166,38 @@
 		{
 			description: ["&4&l&n&6一击之后，又是一击。&r&r&r&r"]
 			hide_dependency_lines: true
+			icon: "etshtinker:marcoatom"
 			id: "21C201628285F7E7"
 			invisible: true
+			rewards: [
+				{
+					id: "74AAEEAB47579FB8"
+					item: "lightmanscurrency:coin_diamond"
+					type: "item"
+				}
+				{
+					id: "4E5313A2A3EBF0D4"
+					item: "etshtinker:marcoatom"
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			subtitle: "破碎到不能再破碎"
-			tasks: [{
-				id: "0B86BEA5A9A2CC05"
-				item: "etshtinker:marcoatom"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0B86BEA5A9A2CC05"
+					item: "etshtinker:marcoatom"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "37680C5CDD0345C4"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			x: 39.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			description: [
@@ -5842,6 +7208,18 @@
 			]
 			hide_dependency_lines: true
 			id: "10EB1900D7BFB547"
+			rewards: [
+				{
+					id: "696A66FCC8DFAA39"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "67C2F9749F5C4507"
+					item: "lightmanscurrency:coin_diamond"
+					type: "item"
+				}
+			]
 			subtitle: "吃的越多，数值越高"
 			tasks: [{
 				id: "4CA5FDBFD4452AD6"
@@ -5859,6 +7237,19 @@
 			]
 			hide_dependency_lines: true
 			id: "2A3CC0141EC352E4"
+			rewards: [
+				{
+					count: 4
+					id: "0ECE0642F50906B1"
+					item: "create:experience_block"
+					type: "item"
+				}
+				{
+					id: "3CFF60DD219C6CB0"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
 			shape: "pentagon"
 			subtitle: "经验越多，数值越强"
 			tasks: [{
@@ -5871,12 +7262,18 @@
 		}
 		{
 			description: [
-				"对烈阳巨灵特攻，会让你有关的伤害全部无视烈阳巨灵的免疫, 同时会对烈阳巨灵附带其最大生命值10%的伤害"
+				"对&c&l烈阳巨灵&r特攻，会让你&e有关的伤害全部无视烈阳巨灵的免疫&r, 同时会对烈阳巨灵附带其最大生命值10%的伤害"
 				""
-				"烈阳巨灵很怕冷，很合理不是吗"
+				"&b&l烈阳巨灵很怕冷，很合理不是吗&r"
 			]
 			hide_dependency_lines: true
 			id: "7EFA38D13D8B0742"
+			rewards: [{
+				ftb_money: 1200L
+				id: "0C8F6E94DD032982"
+				random_bonus: 1200
+				type: "sdmshop:money"
+			}]
 			subtitle: "冻死力"
 			tasks: [{
 				id: "43BE26F3773E925C"
@@ -5890,13 +7287,19 @@
 			description: ["在服务器里有奇效，赶紧奖励一下贡献死亡数最多那个人吧！"]
 			hide_dependency_lines: true
 			id: "0B6809AD9AE42F00"
+			rewards: [{
+				count: 4
+				id: "6CCA7BB2A57D9DD7"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			subtitle: "哎呀，XXX得了MVP"
 			tasks: [{
 				id: "01F1FEAEB0EDBE5B"
 				item: "solidarytinker:dwarf_ingot"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 3.5d
 			y: 52.0d
 		}
 		{
@@ -5907,11 +7310,20 @@
 			]
 			hide_dependency_lines: true
 			id: "0614299A9C274E7A"
-			rewards: [{
-				id: "4D4E3D1989C41109"
-				item: "aquamirae:ship_graveyard_echo"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "4D4E3D1989C41109"
+					item: "aquamirae:ship_graveyard_echo"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4715473CD4B22BC9"
+					item: "lightmanscurrency:coin_netherite"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
 			subtitle: "好熟悉..."
 			tasks: [{
 				id: "241DCFBA0E6E1CC8"
@@ -5934,17 +7346,25 @@
 			]
 			hide_dependency_lines: true
 			id: "1ED4391AB6EBD029"
-			rewards: [{
-				id: "6DAA08ABE5856CEA"
-				item: {
-					Count: 1b
-					id: "minecraft:potion"
-					tag: {
-						Potion: "cti:strong_bloodanger"
+			rewards: [
+				{
+					id: "6DAA08ABE5856CEA"
+					item: {
+						Count: 1b
+						id: "minecraft:potion"
+						tag: {
+							Potion: "cti:strong_bloodanger"
+						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 7
+					id: "7455148566F5452C"
+					item: "lightmanscurrency:coin_diamond"
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			subtitle: "哼哼~适合睡觉的地方在哪里呢"
 			tasks: [{
@@ -5957,13 +7377,18 @@
 		}
 		{
 			description: [
-				"      把它放在护甲上，提供的无限饱和基本上就能让你摆脱食物烦恼了。"
-				"      在本包中，监守者受到的音爆伤害会造成百分比伤害，只需要刷出离子化射线炮原型机并用它击杀监守者就能高效获取这个材料。"
+				"      把它放在&6护甲&r上，提供的&6无限饱和&r基本上就能让你摆脱食物烦恼了。"
+				"      在本包中，&5监守者&r受到的&6音爆伤害&r会造成&4百分比伤害&r，只需要刷出&6离子化射线炮原型机&r并用它&4击杀监守者&r就能高效获取这个材料。"
 				"      "
-				"      由于监守者有再生词条，建议搭配喷溅性诅咒药水击杀监守者。"
+				"      由于监守者有&6再生词条&r，建议搭配&6喷溅性诅咒药水或者诅咒之刃强化&r击杀监守者。"
 			]
 			hide_dependency_lines: true
 			id: "48D076FBEE3F88DC"
+			rewards: [{
+				id: "390CB8C60586CD22"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			shape: "pentagon"
 			subtitle: "加buff很猛，同时能提供少量音爆伤害"
 			tasks: [{
@@ -5984,7 +7409,7 @@
 				type: "item"
 			}]
 			x: 36.0d
-			y: 73.0d
+			y: 72.5d
 		}
 		{
 			hide_dependency_lines: true
@@ -5996,11 +7421,18 @@
 				type: "item"
 			}]
 			x: 35.0d
-			y: 72.0d
+			y: 71.5d
 		}
 		{
 			hide_dependency_lines: true
 			id: "761D1E5FE8037EAD"
+			rewards: [{
+				count: 16
+				id: "1D6D09EF14A9AFF1"
+				item: "kubejs:pyrocrystal_ore"
+				random_bonus: 48
+				type: "item"
+			}]
 			subtitle: "好烫"
 			tasks: [{
 				id: "2899CEE522A90113"
@@ -6013,6 +7445,12 @@
 		{
 			hide_dependency_lines: true
 			id: "5765FF5BD46D77E6"
+			rewards: [{
+				count: 7
+				id: "27B1EF55FB3475BA"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "我超冰！"
 			tasks: [{
 				id: "20A03D748C4C6CFE"
@@ -6025,6 +7463,19 @@
 		{
 			hide_dependency_lines: true
 			id: "298F305F144D66A9"
+			rewards: [
+				{
+					id: "02FEB44AAA91E49A"
+					item: "cti:ultra_dense_hydride_ore"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "538283259EBA7DF5"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "有压力了吗？"
 			tasks: [{
 				id: "1DA23BF207926766"
@@ -6038,6 +7489,13 @@
 			description: ["      与其它环境伤害材料不同，它的附加伤害能穿无敌"]
 			hide_dependency_lines: true
 			id: "12476FEB77EFC36F"
+			rewards: [{
+				count: 16
+				id: "6F2484620D648C0E"
+				item: "kubejs:ionized_slag"
+				random_bonus: 144
+				type: "item"
+			}]
 			subtitle: "触电的那种感觉，已慢慢出现♪"
 			tasks: [{
 				id: "11F2C837F6A07CDE"
@@ -6050,6 +7508,12 @@
 		{
 			hide_dependency_lines: true
 			id: "50CBF05FC26D95F2"
+			rewards: [{
+				count: 8
+				id: "362590085FBB7751"
+				item: "cti:unipolar_magnet_budding"
+				type: "item"
+			}]
 			subtitle: "磁场转动之海虎爆破拳！"
 			tasks: [{
 				id: "324F24111AB250AE"
@@ -6062,6 +7526,12 @@
 		{
 			hide_dependency_lines: true
 			id: "64BBC9C57632354A"
+			rewards: [{
+				count: 3
+				id: "21745F2108D3728A"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			subtitle: "用魔力换增伤"
 			tasks: [{
 				id: "6A50F9185AC25EAE"
@@ -6075,6 +7545,12 @@
 			description: ["      顺带一提，虽然它不能熔融，但是能合成护甲。"]
 			hide_dependency_lines: true
 			id: "358D09D7A23914A8"
+			rewards: [{
+				count: 6
+				id: "42A539E643CFF289"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "压缩空气装载！"
 			tasks: [{
 				id: "579FC80AE9E666A9"
@@ -6095,13 +7571,26 @@
 				type: "item"
 			}]
 			x: 36.0d
-			y: 72.0d
+			y: 71.5d
 		}
 		{
-			description: [""]
+			description: ["寂灭的一瞬……"]
 			hide_dependency_lines: true
 			id: "1F55DF8031F99DB1"
 			invisible: true
+			rewards: [
+				{
+					id: "70CD7B5B8F89C48B"
+					item: "etshtinker:annihilating_plasma_bucket"
+					type: "item"
+				}
+				{
+					count: 666
+					id: "559B3C70CD93A05B"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "&4生命在它面前不过是个小火花"
 			tasks: [{
 				id: "420F665A3932E4E9"
@@ -6109,11 +7598,17 @@
 				type: "item"
 			}]
 			x: 40.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "6004848464E03180"
+			rewards: [{
+				count: 8
+				id: "0336F3A4DAF06846"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "开了就是没关？"
 			tasks: [{
 				id: "5AA92547A2836938"
@@ -6133,7 +7628,7 @@
 				type: "item"
 			}]
 			x: 35.0d
-			y: 73.0d
+			y: 72.5d
 		}
 		{
 			hide_dependency_lines: true
@@ -6144,7 +7639,7 @@
 				type: "item"
 			}]
 			x: 35.0d
-			y: 74.0d
+			y: 73.5d
 		}
 		{
 			hide_dependency_lines: true
@@ -6155,11 +7650,26 @@
 				type: "item"
 			}]
 			x: 36.0d
-			y: 74.0d
+			y: 73.5d
 		}
 		{
 			id: "09B9E901DD62E54E"
 			invisible: true
+			rewards: [
+				{
+					count: 385
+					id: "2DECF9EE7D5177BD"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3BE11CABAA9DE185"
+					item: "etshtinker:coronation_alloy"
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			subtitle: "CTI特色之更多剑气"
 			tasks: [{
 				id: "484A6720067A4391"
@@ -6167,11 +7677,24 @@
 				type: "item"
 			}]
 			x: 40.5d
-			y: 71.5d
+			y: 71.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "0948A7AD49C76AD5"
+			rewards: [
+				{
+					id: "7B70FBC8AD3BE469"
+					item: "etshtinker:advanced_sandwich_alloy"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "71A36EF49E07BE98"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+			]
 			subtitle: "作为材料的作用不多，但是你不能说它没用"
 			tasks: [{
 				id: "04541DB89BEB0B18"
@@ -6189,6 +7712,12 @@
 			]
 			hide_dependency_lines: true
 			id: "551007C0C57D2FE1"
+			rewards: [{
+				id: "2BF99E9699C98453"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			subtitle: "好玩喵~好似喵~"
 			tasks: [{
 				id: "1F7D2B0292D79974"
 				item: "kubejs:tungsten_steel_ingot"
@@ -6201,6 +7730,12 @@
 			description: ["超致密的护甲上位，中等强度的阶段性辅助材料"]
 			hide_dependency_lines: true
 			id: "6A271283C0468D69"
+			rewards: [{
+				count: 4
+				id: "54BFB3B57E326D7B"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "就差那么一步登临仙境？"
 			tasks: [{
 				id: "467384FAFE3CF6B6"
@@ -6211,7 +7746,14 @@
 			y: 52.0d
 		}
 		{
+			description: ["    &1&l&o星                界                 遨              游&r"]
 			id: "03F70401A9E68C0A"
+			rewards: [{
+				count: 9
+				id: "2E3998C4AAFC8753"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
 			subtitle: "铸星龙王说是（）"
 			tasks: [{
 				id: "1E51BA3DC7A7B69B"
@@ -6223,6 +7765,12 @@
 		}
 		{
 			id: "0C96E7F8FC1E64D3"
+			rewards: [{
+				ftb_money: 1500L
+				id: "4C179194730586B5"
+				type: "sdmshop:money"
+			}]
+			subtitle: "左边加强了数值"
 			tasks: [{
 				id: "10D81A007B75ACD3"
 				item: "aether_redux:refined_sentrite"
@@ -6233,6 +7781,12 @@
 		}
 		{
 			id: "79008B515D0A3B5E"
+			rewards: [{
+				ftb_money: 1000L
+				id: "787ED196E6E0465B"
+				type: "sdmshop:money"
+			}]
+			subtitle: "高贵的独立减伤50%（非穿甲）"
 			tasks: [{
 				id: "2CD16819A164C481"
 				item: "kubejs:sentrite"
@@ -6243,6 +7797,12 @@
 		}
 		{
 			id: "2C5BB0A01241A1F2"
+			rewards: [{
+				id: "49BF066640953EE1"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			subtitle: "整活产物，无聊时可以搭配着玩玩"
 			tasks: [{
 				id: "39FD6334C3278A88"
 				item: "undergarden:forgotten_ingot"
@@ -6253,6 +7813,14 @@
 		}
 		{
 			id: "20DC4B298D72FC1D"
+			rewards: [{
+				count: 4
+				id: "361950DF94B94C78"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
+			shape: "hexagon"
+			subtitle: "能飞，有减伤，对弹射物能造成压制"
 			tasks: [{
 				id: "65FBC7FF8BF38E28"
 				item: "aether_redux:gravitite_ingot"
@@ -6262,8 +7830,13 @@
 			y: 43.5d
 		}
 		{
-			description: ["天镜挖矿获取"]
+			description: [
+				"天镜挖矿获取"
+				"&3&l&o请输入文本查询材料状态&r"
+			]
 			id: "1F675ECA1C112E1E"
+			shape: "hexagon"
+			subtitle: "提供了强大的加成、极高的幸运与时运等级和不错的增伤"
 			tasks: [{
 				id: "1715C783BC8EA228"
 				item: "aether_redux:veridium_ingot"
@@ -6273,7 +7846,20 @@
 			y: 48.0d
 		}
 		{
+			description: [
+				"      自动补充全身材料的神能晶充能，相当于给天镜材料的工具加了个小不毁。"
+				""
+				"      此外免死也很不错！"
+			]
 			id: "730B0563602E1FE0"
+			rewards: [{
+				count: 2
+				id: "0F1F801091D62403"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			shape: "hexagon"
+			subtitle: "和我出生在同一个时代的热血的兄弟们啊，永别了！"
 			tasks: [{
 				id: "1AD16F722844E6BD"
 				item: "kubejs:phoenix_ingot"
@@ -6284,6 +7870,13 @@
 		}
 		{
 			id: "73A7B2701C533934"
+			rewards: [{
+				count: 3
+				id: "1E7AFAF9870D5204"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			subtitle: "&e&l&o女武神的光辉&r"
 			tasks: [{
 				id: "7AAA14BA41DC055E"
 				item: "kubejs:valkyrie_ingot"
@@ -6293,7 +7886,19 @@
 			y: 65.5d
 		}
 		{
+			description: [
+				"      准晶系材料中的佼佼者。生命窃取意味着只要命中就能保证续航，准晶则可以和高耐久材料形成搭配。"
+				""
+				"      哪怕是护甲材料也相当强力，在高血量时能提供不错的减伤。"
+			]
 			id: "1A053D17192F31EF"
+			rewards: [{
+				count: 8
+				id: "0024DBC6CB3FBF40"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
+			shape: "pentagon"
 			subtitle: "生命充盈……疑似血肉纯化的结果"
 			tasks: [{
 				id: "0814CF12B3BE662A"
@@ -6301,10 +7906,18 @@
 				type: "item"
 			}]
 			x: 18.5d
-			y: 74.0d
+			y: 73.5d
 		}
 		{
+			description: ["效果状态对策材料，值得拥有"]
 			id: "5FCECC78620F3F8A"
+			rewards: [{
+				count: 8
+				id: "0851E1F77E0C89E5"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			subtitle: "&5內 &d源 &9紊 乱……"
 			tasks: [{
 				id: "3A83063061BF3AB8"
 				item: "cloudertinker:chimera_ingot"
@@ -6315,16 +7928,41 @@
 		}
 		{
 			id: "1A5C6DADF32FFFFB"
+			rewards: [
+				{
+					id: "55683DB85191B782"
+					item: "tconstruct:dragon_scale"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "19BC23A32A3B75F5"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			subtitle: "出类拔萃的顶件材料"
 			tasks: [{
 				id: "76551140C92A8DF0"
 				item: "cloudertinker:hydra_scale"
 				type: "item"
 			}]
-			x: 23.0d
-			y: 74.0d
+			x: 22.0d
+			y: 62.5d
 		}
 		{
+			description: [
+				"这似乎是个独立的强机制系统"
+				"在特定的阶段属于强力的对策环境材料"
+			]
 			id: "32E9E5F7C1FC09DA"
+			rewards: [{
+				ftb_money: 1000L
+				id: "3F074F1DCDDBF279"
+				type: "sdmshop:money"
+			}]
+			subtitle: "炽血，血泪，泪怨，怨厄"
 			tasks: [{
 				id: "4486A55D1C1A2618"
 				item: "cloudertinker:fierdistear"
@@ -6334,7 +7972,14 @@
 			y: 49.0d
 		}
 		{
+			description: ["寒气系统的散装终端材料，单独使用可能更佳，搭配同体系材料其实收益不大"]
 			id: "7955F488B382A53E"
+			rewards: [{
+				ftb_money: 1000L
+				id: "64EDE99ECF30698D"
+				type: "sdmshop:money"
+			}]
+			subtitle: "你说这是冰雪女王召来的天地异变产物？"
 			tasks: [{
 				id: "4F76D1F4D978A4F6"
 				item: "cloudertinker:forest_gem"
@@ -6345,6 +7990,19 @@
 		}
 		{
 			id: "3B19EA786600E7A1"
+			rewards: [
+				{
+					id: "36014032B2A44910"
+					item: "projecte:aeternalis_fuel_block"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "796E81392F1B2EB3"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
 			subtitle: "二次减伤（护甲机制：含穿甲）+永久伤害"
 			tasks: [{
 				id: "567BD5E589FCB6EF"
@@ -6352,11 +8010,23 @@
 				type: "item"
 			}]
 			x: 17.5d
-			y: 74.0d
+			y: 73.5d
 		}
 		{
-			description: [""]
+			description: ["什么叫六级的强功能白板？"]
 			id: "5B6D8024FB51AC55"
+			rewards: [
+				{
+					id: "1BF209A2C1EA17E6"
+					item: "twilightdelight:thorn_rose_tea"
+					type: "item"
+				}
+				{
+					id: "3FEB5369E645F4AD"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
 			subtitle: "&l&o&2心有猛虎，&4细嗅蔷薇。"
 			tasks: [{
 				id: "79210989B0E5A4C9"
@@ -6364,7 +8034,7 @@
 				type: "item"
 			}]
 			x: 38.0d
-			y: 43.5d
+			y: 45.0d
 		}
 		{
 			icon: {
@@ -6395,7 +8065,7 @@
 			}]
 			title: "十级及以上"
 			x: 35.5d
-			y: 69.5d
+			y: 69.0d
 		}
 		{
 			id: "737C5E1EB7F486F2"
@@ -6405,10 +8075,16 @@
 				type: "checkmark"
 			}]
 			x: 40.0d
-			y: 69.5d
+			y: 69.0d
 		}
 		{
 			id: "26873415C6BD9BFF"
+			rewards: [{
+				id: "4A0A39F7D87AE71E"
+				item: "twilightforest:giant_obsidian"
+				type: "item"
+			}]
+			subtitle: "数值的力量，如巨石般降临！"
 			tasks: [{
 				id: "16334CA6C12CAD73"
 				item: "twilightforest:giant_cobblestone"
@@ -6420,6 +8096,21 @@
 		{
 			id: "3A9C5F9AE6827B98"
 			invisible: true
+			rewards: [
+				{
+					count: 385
+					id: "242BD41F4C7F288D"
+					item: "lightmanscurrency:coin_gold"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "636A062CF56F5E9E"
+					item: "tinkers_ingenuity:star_alloy_ingot"
+					random_bonus: 2
+					type: "item"
+				}
+			]
 			subtitle: "以此一击，贯穿星辰！"
 			tasks: [{
 				id: "071039EE52F0ED91"
@@ -6427,10 +8118,18 @@
 				type: "item"
 			}]
 			x: 39.5d
-			y: 71.5d
+			y: 71.0d
 		}
 		{
+			description: ["某些不得了的防御机制混在了平平无奇的描述中"]
 			id: "1D35242704696F24"
+			rewards: [{
+				count: 5
+				id: "655D733DF0664FFD"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			subtitle: "隐藏的王者"
 			tasks: [{
 				id: "3C4D150F75FC1187"
 				item: "solidarytinker:cold_chroma_alloy_ingot"
@@ -6440,7 +8139,14 @@
 			y: 50.5d
 		}
 		{
+			description: ["看上去75%每级增伤莫名强大，但是其实你并不知道加伤的具体机制……"]
 			id: "79CC9A1A50162CBD"
+			rewards: [{
+				count: 2
+				id: "2B2D97F6822C8FD1"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
 			subtitle: "直接暴击，按失血加伤"
 			tasks: [{
 				id: "5327777B27ECB323"
@@ -6452,6 +8158,11 @@
 		}
 		{
 			id: "378F21C2F5F77366"
+			rewards: [{
+				ftb_money: 40L
+				id: "7A8432816971C0C5"
+				type: "sdmshop:money"
+			}]
 			subtitle: "可乐杀鸡的传说"
 			tasks: [{
 				id: "792C061C7A7620BB"
@@ -6463,6 +8174,13 @@
 		}
 		{
 			id: "295CD54C10587FC0"
+			rewards: [{
+				count: 16
+				id: "679CEE5464D5D15B"
+				item: "lightmanscurrency:coin_emerald"
+				random_bonus: 64
+				type: "item"
+			}]
 			subtitle: "似乎是工业级材料的巅峰"
 			tasks: [{
 				id: "0FACF72706E7EE05"
@@ -6481,6 +8199,11 @@
 				}
 			}
 			id: "2A22EFF0039A0515"
+			rewards: [{
+				id: "12BC73CDB992B680"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "抢夺加1"
 			tasks: [
 				{
@@ -6506,7 +8229,6 @@
 						}
 					}
 					match_nbt: true
-					optional_task: true
 					type: "item"
 				}
 				{
@@ -6528,7 +8250,14 @@
 			y: 42.0d
 		}
 		{
+			description: ["冒充狂野生长精华，因为并没有那么全面，不过确实可以在一定程度上替代（）"]
 			id: "1BCE590CF6FD7921"
+			rewards: [{
+				ftb_money: 10L
+				id: "6D43D122C1D4090A"
+				random_bonus: 10
+				type: "sdmshop:money"
+			}]
 			subtitle: "催熟作物"
 			tasks: [{
 				id: "48185C3C67FB3849"
@@ -6541,6 +8270,12 @@
 		}
 		{
 			id: "388D5A83C9B66A90"
+			rewards: [{
+				ftb_money: 30L
+				id: "3284DD357CBC051D"
+				random_bonus: 30
+				type: "sdmshop:money"
+			}]
 			subtitle: "寒气系统的补给"
 			tasks: [{
 				id: "5824722A97EF58F8"
@@ -6558,7 +8293,18 @@
 			y: 41.5d
 		}
 		{
+			description: [
+				"&l&2暮光之下充斥着别样的气息，&r&a&l褪去尘鳞&r，&b轻盈透体&r"
+				""
+				"（作为&6工具/盔甲&r：处于暮色森林时，挖掘速度+2/每件盔甲韧性+1，反之攻击+2/每件护甲+1）（盔甲：血量低于一半时给予&6迅捷效果&r）（根据&4损失血量&r&6提升挖掘速度&r）"
+			]
 			id: "06EFD70CA6DD6613"
+			rewards: [{
+				ftb_money: 125L
+				id: "070612480F9AE951"
+				random_bonus: 125
+				type: "sdmshop:money"
+			}]
 			subtitle: "流失的……不止是血液"
 			tasks: [{
 				id: "63DC033E9ED41C2F"
@@ -6570,6 +8316,12 @@
 		}
 		{
 			id: "11C4F004B9E9C29A"
+			rewards: [{
+				ftb_money: 95L
+				id: "56A21F249F5BFF75"
+				random_bonus: 95
+				type: "sdmshop:money"
+			}]
 			subtitle: "并非二级，并非并非"
 			tasks: [{
 				id: "400FDA19BBC8DCB1"
@@ -6581,6 +8333,11 @@
 		}
 		{
 			id: "2EA969C9DC092DAC"
+			rewards: [{
+				ftb_money: 1000L
+				id: "0330824C973151E4"
+				type: "sdmshop:money"
+			}]
 			subtitle: "水星，钨钨钨~"
 			tasks: [{
 				id: "0B4995894C455EC5"
@@ -6591,8 +8348,18 @@
 			y: 57.0d
 		}
 		{
+			description: [
+				"防御力胸甲和裤衩数值还是可以的 有强大的生命恢复 没有被禁疗 效果还是很强的"
+				"苟家地底的不二选择，高耐久系数加回血避险，矿工必备"
+			]
 			id: "48E9F58CD234E0D6"
-			subtitle: "嘻嘻~"
+			rewards: [{
+				ftb_money: 50L
+				id: "0886678AF9DD5058"
+				random_bonus: 50
+				type: "sdmshop:money"
+			}]
+			subtitle: "红色的两颗闪闪宝石~嘻嘻能吃的呀!"
 			tasks: [{
 				id: "76CE26FEEA5A43E8"
 				item: "cherrytinker:cherrygem"
@@ -6602,7 +8369,17 @@
 			y: 43.5d
 		}
 		{
+			description: [
+				"请输入文本……"
+				"方便好用的经典万金油材料，稍微有点贵，但是合理"
+			]
 			id: "5D81F90D5C284E0D"
+			rewards: [{
+				ftb_money: 2000L
+				id: "2222BCBDCFDD2132"
+				type: "sdmshop:money"
+			}]
+			subtitle: "增伤，龙息/魔法伤害，无视部分对象攻击"
 			tasks: [{
 				id: "7795EF4A4B647D93"
 				item: "cherrytinker:enchantedgold"
@@ -6621,10 +8398,16 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 78.5d
+			y: 78.0d
 		}
 		{
 			id: "745290760E3042DF"
+			rewards: [{
+				ftb_money: 125L
+				id: "74E011657C801BA7"
+				random_bonus: 125
+				type: "sdmshop:money"
+			}]
 			subtitle: "只是更轻盈"
 			tasks: [
 				{
@@ -6636,7 +8419,6 @@
 							value: "forge:ingots/aluminum"
 						}
 					}
-					optional_task: true
 					title: "Any #forge:ingots/aluminum"
 					type: "item"
 				}
@@ -6655,10 +8437,16 @@
 			]
 			title: "铝锭-二级"
 			x: 31.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			id: "1F77B75770AD22F7"
+			rewards: [{
+				count: 6
+				id: "4F58556EC136BA2F"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "时间应急屏障……穿越城堡后又是什么？"
 			tasks: [{
 				id: "1FA1E33FC7A475B0"
@@ -6739,13 +8527,14 @@
 				}
 			}
 			id: "68CC160BE5841D37"
+			shape: "diamond"
 			tasks: [{
 				id: "5C66843B8840D184"
 				title: "四级"
 				type: "checkmark"
 			}]
-			x: 25.5d
-			y: 43.0d
+			x: 22.5d
+			y: 45.0d
 		}
 		{
 			icon: {
@@ -6765,7 +8554,7 @@
 				type: "checkmark"
 			}]
 			x: 22.5d
-			y: 44.5d
+			y: 47.0d
 		}
 		{
 			icon: {
@@ -6785,7 +8574,7 @@
 				type: "checkmark"
 			}]
 			x: 22.5d
-			y: 46.0d
+			y: 48.5d
 		}
 		{
 			icon: {
@@ -6805,7 +8594,7 @@
 				type: "checkmark"
 			}]
 			x: 22.5d
-			y: 47.5d
+			y: 50.0d
 		}
 		{
 			icon: {
@@ -6965,7 +8754,7 @@
 				type: "checkmark"
 			}]
 			x: 11.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			icon: {
@@ -6985,7 +8774,7 @@
 				type: "checkmark"
 			}]
 			x: 11.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			icon: {
@@ -7005,7 +8794,7 @@
 				type: "checkmark"
 			}]
 			x: 6.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			icon: {
@@ -7025,7 +8814,7 @@
 				type: "checkmark"
 			}]
 			x: 6.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			icon: {
@@ -7045,7 +8834,7 @@
 				type: "checkmark"
 			}]
 			x: 16.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			icon: {
@@ -7065,7 +8854,7 @@
 				type: "checkmark"
 			}]
 			x: 16.5d
-			y: 74.0d
+			y: 73.5d
 		}
 		{
 			icon: {
@@ -7085,7 +8874,7 @@
 				type: "checkmark"
 			}]
 			x: 16.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			icon: {
@@ -7368,6 +9157,15 @@
 			y: 57.0d
 		}
 		{
+			icon: {
+				Count: 1b
+				id: "minecraft:light"
+				tag: {
+					BlockStateTag: {
+						level: "2"
+					}
+				}
+			}
 			id: "15F574D9434A68CD"
 			tasks: [{
 				id: "0B09A3D6B24BC3AE"
@@ -7556,26 +9354,6 @@
 			}]
 			x: 8.5d
 			y: 48.5d
-		}
-		{
-			icon: {
-				Count: 1b
-				id: "minecraft:light"
-				tag: {
-					BlockStateTag: {
-						level: "8"
-					}
-				}
-			}
-			id: "56925FDF4E96F8AF"
-			shape: "diamond"
-			tasks: [{
-				id: "3660591127ADFC81"
-				title: "八级"
-				type: "checkmark"
-			}]
-			x: 8.5d
-			y: 50.0d
 		}
 		{
 			icon: {
@@ -7793,8 +9571,8 @@
 				title: "四级"
 				type: "checkmark"
 			}]
-			x: 39.0d
-			y: 42.0d
+			x: 37.0d
+			y: 43.5d
 		}
 		{
 			icon: {
@@ -7814,7 +9592,7 @@
 				type: "checkmark"
 			}]
 			x: 37.0d
-			y: 43.5d
+			y: 45.0d
 		}
 		{
 			icon: {
@@ -7985,7 +9763,7 @@
 				type: "checkmark"
 			}]
 			x: -2.5d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			icon: {
@@ -8005,7 +9783,7 @@
 				type: "checkmark"
 			}]
 			x: -2.5d
-			y: 72.5d
+			y: 72.0d
 		}
 		{
 			icon: {
@@ -8025,7 +9803,7 @@
 				type: "checkmark"
 			}]
 			x: -2.5d
-			y: 76.0d
+			y: 75.5d
 		}
 		{
 			icon: {
@@ -8045,7 +9823,7 @@
 				type: "checkmark"
 			}]
 			x: -2.5d
-			y: 78.5d
+			y: 78.0d
 		}
 		{
 			icon: {
@@ -8065,7 +9843,7 @@
 				type: "checkmark"
 			}]
 			x: -2.5d
-			y: 81.0d
+			y: 80.5d
 		}
 		{
 			icon: {
@@ -8085,7 +9863,7 @@
 				type: "checkmark"
 			}]
 			x: 22.0d
-			y: 71.0d
+			y: 70.5d
 		}
 		{
 			icon: {
@@ -8105,27 +9883,7 @@
 				type: "checkmark"
 			}]
 			x: 22.0d
-			y: 72.5d
-		}
-		{
-			icon: {
-				Count: 1b
-				id: "minecraft:light"
-				tag: {
-					BlockStateTag: {
-						level: "6"
-					}
-				}
-			}
-			id: "3E41A799BD4DC9CD"
-			shape: "diamond"
-			tasks: [{
-				id: "44AA4B5238F2DA4D"
-				title: "六级"
-				type: "checkmark"
-			}]
-			x: 22.0d
-			y: 74.0d
+			y: 72.0d
 		}
 		{
 			icon: {
@@ -8226,6 +9984,380 @@
 			title: "九级"
 			x: -2.5d
 			y: 53.5d
+		}
+		{
+			dependencies: [
+				"09CBC5849963882C"
+				"08959093F73893BC"
+				"4362E504ACCFB42B"
+				"295CD54C10587FC0"
+				"6A271283C0468D69"
+				"1ED4391AB6EBD029"
+				"2D42EB6BD558A2FC"
+				"5A177612636832FF"
+				"75EE800B1AF9450F"
+				"2E3A1C45D052D839"
+				"32C861C0EA6590F4"
+				"76964B4F3619FDDA"
+				"03F70401A9E68C0A"
+				"08D9CA3050B1F6C5"
+				"39D02F0335DE3B2D"
+				"66312A1EAB064889"
+				"5BF2C4E74A78D7CC"
+				"0B6809AD9AE42F00"
+				"1F675ECA1C112E1E"
+				"10CA3DA551E70D2B"
+				"7B481D3F82A52BF7"
+				"2305F9A14EF63FF7"
+				"0BD99963D8FDE661"
+				"2535AAE682ACB858"
+				"4805D03B80ECE77B"
+				"5D81F90D5C284E0D"
+				"757E8E8E62D8BF84"
+				"5BF6873594B6E85A"
+				"5FCECC78620F3F8A"
+				"4972D4AB575596B8"
+				"4D27E68516D65541"
+				"2FB151DABEA45D78"
+				"32E9E5F7C1FC09DA"
+				"182DCDD696E95F2B"
+				"39DBC5333DB12F63"
+				"6454DAE4EAE0606D"
+				"1C23D1D83B6F70AB"
+				"353123362D883447"
+				"48D076FBEE3F88DC"
+				"6936B4C318C219FC"
+				"358D09D7A23914A8"
+				"551007C0C57D2FE1"
+				"0F964E1B6A577C14"
+				"0614299A9C274E7A"
+				"4303B650691AF91E"
+				"5555196F8A086A6A"
+				"271418A7D8DD30B7"
+				"0103238D0D08C7DF"
+				"43F592F0D312C8CD"
+				"033EDBD3811752A6"
+				"495C1F0255AEE02C"
+				"5545732312DC0065"
+				"1D35242704696F24"
+				"4B981C31B29A2B52"
+				"7955F488B382A53E"
+				"7EFA38D13D8B0742"
+				"5F394BFF8BB71492"
+				"26C47C932709EC3B"
+				"5C6DF2837F509BDB"
+				"51F99A464453161C"
+				"3191F11310D257A2"
+				"0C07A44C6FB3B70B"
+				"17AEE4B63D7AD491"
+				"40F2ABB90F50D86F"
+				"1B9CACF94AA74C37"
+				"12EF16CC54DB2A80"
+				"0141A5217570206A"
+				"756F5F826BAA02BA"
+				"2F7DF5EA50C09329"
+				"76A950A407E26810"
+				"59DB845FDC5E75D9"
+				"645B9B5E961FE11E"
+				"690FDAC9F324B4E7"
+				"79008B515D0A3B5E"
+				"6BC48069F028ED83"
+				"4D991FC26C651238"
+				"0BF4F2D94589A7AC"
+				"167EBA8040D53423"
+				"37BA0CE632397E6C"
+				"10E164F203336C2D"
+				"330D50F6463841CD"
+				"1E25A109A2FF8DC0"
+				"23A6B1B7FD714873"
+				"368C9D01CE4C91D4"
+				"5E6D22BD3375DCB2"
+				"69572E1EFAA481FA"
+				"0E4DA1DE1F52E2DB"
+				"7030C654EFA698DE"
+				"6DDEEDF50DDB43ED"
+				"1BCE590CF6FD7921"
+				"1367F11B24494615"
+				"388D5A83C9B66A90"
+				"1729424641A6B0E2"
+				"02CC8DC2C73E8F1B"
+				"4D93CC06CCE72F46"
+				"29986A80BD824BAC"
+				"572701AD0E5F1CED"
+				"398E4DA502B5BDA6"
+				"31B5C81BAC35F7A1"
+				"18A40639922E8AF3"
+				"698544BED517CA6C"
+				"5563818414AD5208"
+				"5241281E9E113403"
+				"5B6D8024FB51AC55"
+				"5C3BDDD10AED8748"
+				"7E6047ABCCD7024C"
+				"3015B5F66834BF87"
+				"0873338ECD2C6684"
+				"065A1BFD7C958B65"
+				"5DFD25C29F7EB318"
+				"1548E15BAA71AA39"
+				"58FD98EAB9716D3B"
+				"2A22EFF0039A0515"
+				"2BFBCB65050992C9"
+				"48615018EB37EC2E"
+				"3EB93BC831309720"
+				"58253502EB4E740F"
+				"3EFEC2D8FA1ECD53"
+				"137ABF0F05A262BB"
+				"6DE694478127C5F7"
+				"0CAD081EECFF923F"
+				"68CC160BE5841D37"
+				"2E386E7F61474777"
+				"1F77B75770AD22F7"
+				"5819F9F91F4DB5D6"
+				"4CFD14AC7943C16F"
+				"3F2C4E3D7F04246A"
+				"315F23882931AD66"
+				"48E9F58CD234E0D6"
+				"03FC874B17FCF3C5"
+				"4061206316E96964"
+				"59418B846DFB41AE"
+				"4647ADC76AE270F3"
+				"04835D33909C63B8"
+				"071B247A3BD31B26"
+				"5DF76C4BC79211B8"
+				"1B690BDAB0C89EE2"
+				"20DC4B298D72FC1D"
+				"7C489CB222B93FD8"
+				"57507C3FF833F4C0"
+				"2C346A815B9B3CB2"
+				"78ECB2B323BC797E"
+				"2222D407AC6C12D7"
+				"45120B5F86C5F317"
+				"3B342D5937697BA6"
+				"0C96E7F8FC1E64D3"
+				"730B0563602E1FE0"
+				"1B3E18D99461B22E"
+				"2A65EED09BA24CBE"
+				"6EEAF246B63CD739"
+				"1E9955BB19B6133D"
+				"383F90A1DB2ADC1E"
+				"5BB222BBC353B5F4"
+				"600DBF6A9C2BA0FD"
+				"72F9F0B5C4068EF8"
+				"3A283C8EB984099C"
+				"4075DF0E198C1236"
+				"299B4E94FF0156C3"
+				"5C30E6FF207E0F7E"
+				"43C8E5C04BF84D25"
+				"3B8C689E152A12E1"
+				"2A6EBFA5CD768261"
+				"4B608B03A701CABC"
+				"0638C89CBC0F6346"
+				"25C7AB8B591385B2"
+				"0D52E46EB1F2A238"
+				"0948A7AD49C76AD5"
+				"2E961524C555021F"
+				"3C198848A9F03DE0"
+				"778B1737F10E3636"
+				"64BBC9C57632354A"
+				"2C5BB0A01241A1F2"
+				"50CBF05FC26D95F2"
+				"6A2DE035B1249D73"
+				"31382437DABB0424"
+				"26873415C6BD9BFF"
+				"6370CE06179B0EFF"
+				"33C0C10D361ED3C0"
+				"27EA50A8F8361427"
+				"10EB1900D7BFB547"
+				"6D5FB9186D1E29CE"
+				"15A3B284ED950CEA"
+				"0585199F0587A906"
+				"6913ED84EE01F68D"
+				"378F21C2F5F77366"
+				"4516142F64C2C1A6"
+				"385506585F25468B"
+				"236B9AE4B64C8AE4"
+				"71EC7F3CE1B23E05"
+				"3DAFA0457C9ADFD8"
+				"761D1E5FE8037EAD"
+				"12476FEB77EFC36F"
+				"73A7B2701C533934"
+				"298F305F144D66A9"
+				"5765FF5BD46D77E6"
+				"01CFBD237267C432"
+				"79CC9A1A50162CBD"
+				"49043EDA33A9E908"
+				"0B3A6E7191F3FEB9"
+				"5B50FE932D386CFE"
+				"2C705B5AC9F05FDD"
+				"46DE06B5CA7FB49D"
+				"49E7873F16C2C113"
+				"0951E03C57E6DC81"
+				"3B20B8237FC77E48"
+				"211F3A1732331BB6"
+				"53394EA06ACC5ADB"
+				"2A3CC0141EC352E4"
+				"77CC9EEF333B2708"
+				"04764FA03E41B005"
+				"1FD7BFDF702797BA"
+				"18FFA7963C46A3B5"
+				"29DCCBC08FFAE3FC"
+				"091FB2D99705B4DE"
+				"3BD9A8E2A83D5998"
+				"26448C4F623961AD"
+				"27F2356C8C023F83"
+				"5CA0F7576283FFD4"
+				"25FEBAB0010DC1E2"
+				"451D2851C81E5476"
+				"1A5C6DADF32FFFFB"
+				"1B2ADA04ACD823DC"
+				"15F574D9434A68CD"
+				"3A3924E973BADDC6"
+				"06EFD70CA6DD6613"
+				"748921FE794DA514"
+				"6187F4E9DDAC316C"
+				"10F890DFA56B147D"
+				"1F49D25D19FFEFDA"
+				"3BA23EE6819EC5E8"
+				"11C4F004B9E9C29A"
+				"115D75B2F0D35188"
+				"044FFBAF92FFD9AA"
+				"3CFC7B33EF5714AD"
+				"62E36C70B1F14E5A"
+				"0C5CF719E212C96D"
+				"019126A6083CC0B7"
+				"0409893931AD6AA0"
+				"6181692AC2EA6FFC"
+				"7AE2897F1C5FB2FF"
+				"2F60C90C4A4DBC9F"
+				"2F07A0FE8C552012"
+				"1D5F51163C4091C8"
+				"4520CBF7D6EF86F9"
+				"2EA969C9DC092DAC"
+				"201AA91675EAEAA0"
+				"348320FE169B032E"
+				"151B0616E3659DA0"
+				"618BCBB409EC151E"
+				"4657D07FF62D0455"
+				"2DBFDC38DE59DF8F"
+				"4EB516A34E4B050F"
+				"79472CCC42A6BF7E"
+				"592019CCAED3F8EB"
+				"39D1182813DB49F5"
+				"59F795A8F3203821"
+				"3FDF09035908610B"
+				"738B9ED82D41FF4D"
+				"1BE8D74A476E2793"
+				"6004848464E03180"
+				"1FE22B632FD681B6"
+				"651365BBD428BC61"
+				"457122B44BF711D3"
+				"495FA9D5EB65310D"
+				"2DD849E9B364A0B1"
+				"35A2B96AE3FA31D7"
+				"12CAA5D55BB2D048"
+				"756C3CB9B1DC11EF"
+				"758F6ADDB335C300"
+				"194B8C023BEAE0CF"
+				"571775796A0EC48E"
+				"7404008318E1E996"
+				"181288F054BFD1AA"
+				"72A7DE5979B18D37"
+				"5B85F098F4766E10"
+				"72ADDBE0AA8EA0BF"
+				"23B90F2625D2E5B3"
+				"1C15D91AF33C2DCD"
+				"011504FACBDF6BB3"
+				"540CE4F473EEA492"
+				"6C1A120B23FB2A61"
+				"6253F66C3229CD82"
+				"09B9E901DD62E54E"
+				"08F38624C4F3E33D"
+				"7144384731D93CC6"
+				"3A9C5F9AE6827B98"
+				"360BCEFF31DC4AB5"
+				"1F55DF8031F99DB1"
+				"202E920E9A96D62B"
+				"2CE2E4DBF4A92FB0"
+				"02D838F91EDAC2D9"
+				"49B0DFBDA0CB0CE5"
+				"02EFE7901AC5CB92"
+				"143CDABC5788D921"
+				"2DFDA65576702174"
+				"1D3E4C93902ED92F"
+				"195B6B182B2FED42"
+				"473F9574DAFD8384"
+				"4398D152D02FB5D7"
+				"6964169BB9B3397F"
+				"73EFB2B647D86632"
+				"75DCA2DC1C1F2D29"
+				"36A820E7EE59D3AC"
+				"4BB99506C4BAA6BA"
+				"3B19EA786600E7A1"
+				"62B9148AF3BD9ACF"
+				"21C201628285F7E7"
+				"7C2EF45AA7B7AB84"
+				"710AE2080781AA44"
+				"29D405BC08F40CD5"
+				"2361BBB336B1EC28"
+				"745290760E3042DF"
+				"3A26C7BA40EEA5B9"
+				"1C79A5059F1163A1"
+				"1A053D17192F31EF"
+				"3AE49D2B0849ACD4"
+				"77F30F3E1A25D43C"
+				"2B948B086B6C7BA9"
+				"73F21359CB67F917"
+				"32A7EA0B88EB909C"
+				"401C9CB8D385ABFA"
+				"57FC3D410C036FE0"
+				"4FF12107BAC40452"
+				"47CC04080F6DB1C8"
+				"3B12C53C1B2723E8"
+				"4DCE621FE6424DF1"
+				"2FCA612F13152695"
+				"72860C5C5ADCB4E1"
+				"658D2D83CF1E347C"
+				"78B4A71456E6F628"
+				"718E9C4761358F12"
+				"2C9096F55C734AF9"
+				"520BC67B7E61A061"
+				"3144E0BE595CAC54"
+				"5CB8FD73752F2797"
+				"36D4850E0779C557"
+				"1A1603B3CC1550C7"
+				"67893B811B931DE1"
+				"15E8ADFB2AD56A3D"
+			]
+			hide_dependency_lines: true
+			icon: "avaritia:infinity_catalyst"
+			id: "460EE3EE58D2D961"
+			rewards: [{
+				count: 4
+				id: "3CAB5C717EC18AEE"
+				item: "avaritia:infinity"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 3.0d
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "3A1A2D41059B7E27"
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "09595573E7AB47C8"
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "33CD99B47FC9ABB2"
+					type: "dimension"
+				}
+			]
+			title: "全收集!"
+			x: 19.5d
+			y: 31.0d
 		}
 	]
 	title: "材料的检索与全收集"

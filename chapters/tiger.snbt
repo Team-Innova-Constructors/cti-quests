@@ -48,6 +48,7 @@
 				exclude_from_claim_all: true
 				id: "3A28C21B75D1662B"
 				table_id: 541804463457550829L
+				team_reward: true
 				type: "random"
 			}]
 			subtitle: "各种奇奇怪怪的香料"
@@ -70,6 +71,7 @@
 				exclude_from_claim_all: true
 				id: "74391EBD08EDEF0F"
 				table_id: 280241854384394554L
+				team_reward: true
 				type: "random"
 			}]
 			subtitle: "这些可是cti才能买的到的酒"
@@ -92,6 +94,7 @@
 				exclude_from_claim_all: true
 				id: "576F905D97C84143"
 				table_id: 6568973918805570383L
+				team_reward: true
 				type: "random"
 			}]
 			subtitle: "试试手气？"
@@ -99,6 +102,7 @@
 				consume_items: true
 				id: "36B0697DAFB1B0EA"
 				item: "lightmanscurrency:coin_gold"
+				match_nbt: true
 				type: "item"
 			}]
 			title: "如果你突然缺一颗钻石"
@@ -107,30 +111,49 @@
 		}
 		{
 			can_repeat: true
-			icon: {
-				Count: 1b
-				id: "waystones:warp_stone"
-				tag: {
-					Damage: 0
-				}
-			}
-			id: "06A1A5F473F69EBE"
+			dependency_requirement: "one_started"
+			description: ["送你点好吃的代替吧"]
+			icon: "solidarytinker:starfall_ingot"
+			id: "5A24651A04163925"
 			rewards: [{
-				exclude_from_claim_all: true
-				id: "33D0BF766BE91C58"
-				table_id: 5517734210396526500L
-				type: "random"
-			}]
-			subtitle: "曲奇也很好吃哟"
-			tasks: [{
-				consume_items: true
-				id: "7351C0D06B107C41"
-				item: "lightmanscurrency:coin_gold"
+				id: "5E137756DA5A46E9"
+				item: "create:sweet_roll"
 				type: "item"
 			}]
-			title: "如果你在野外偶遇神秘打野点发现没带指路石"
-			x: 0.0d
-			y: 2.0d
+			shape: "heart"
+			subtitle: "有笨蛋没有算好概率"
+			tasks: [{
+				id: "4C4CC9E63D8B6CA3"
+				title: "🐷"
+				type: "checkmark"
+			}]
+			title: "阿拜多斯幸运大转盘( 已停用)"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "5B6758CCE13EDCF2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04AA9E0A8D1F9B9E"
+				table_id: 3390064789389458640L
+				team_reward: true
+				type: "random"
+			}]
+			shape: "diamond"
+			subtitle: "一次十连喵"
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "22A7962A6934EE3D"
+				item: "lightmanscurrency:coin_emerald"
+				match_nbt: true
+				type: "item"
+			}]
+			title: "附魔书清仓大甩卖"
+			x: -4.0d
+			y: 0.0d
 		}
 	]
 	subtitle: ["消费需谨慎"]

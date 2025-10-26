@@ -1258,18 +1258,19 @@
 				" &a     不过在正式开始前，我们先来简单热个身！希望你还记得化工自动化怎么做。"
 				" "
 			]
+			icon: "etshtinker:ultra_dense"
 			id: "4BE9FFF09B1857AD"
 			size: 2.0d
 			subtitle: "上一章玩得可好？"
 			tasks: [
 				{
-					id: "51D0845537960E0F"
-					item: "kubejs:stellar_ultra_dense_ore"
+					id: "7634AE1DCCD92DDD"
+					item: "avaritia:neutron_ingot"
 					type: "item"
 				}
 				{
-					id: "7634AE1DCCD92DDD"
-					item: "avaritia:neutron_ingot"
+					id: "2FAD48FA5C6612C4"
+					item: "etshtinker:ultra_dense"
 					type: "item"
 				}
 			]

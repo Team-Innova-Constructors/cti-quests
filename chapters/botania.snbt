@@ -4192,8 +4192,9 @@
 			shape: "heart"
 			subtitle: "(`皿´)"
 			tasks: [{
+				consume_items: true
 				count: 4L
-				id: "77353A78186177F3"
+				id: "161725F6D0A533D1"
 				item: "ars_nouveau:source_gem_block"
 				type: "item"
 			}]

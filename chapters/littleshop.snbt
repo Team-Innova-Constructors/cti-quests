@@ -74,6 +74,8 @@
 				type: "xp"
 				xp: 100
 			}]
+			shape: "heart"
+			size: 2.0d
 			subtitle: "什么材质工具都可以"
 			tasks: [{
 				id: "0515170A85A5EDDE"
@@ -2146,6 +2148,12 @@
 				}
 			}
 			id: "3DB4393B41A404AF"
+			rewards: [{
+				count: 3
+				id: "74CA1412A259C5CE"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "轮椅类武器，强度不高但是手感极佳"
 			tasks: [{
 				id: "29629E206AB1B8C6"
@@ -2256,6 +2264,12 @@
 				}
 			}
 			id: "678ACB8655D88221"
+			rewards: [{
+				count: 3
+				id: "16736148588CDED8"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5CE6298DA8530E64"
 				item: {
@@ -2356,6 +2370,12 @@
 				}
 			}
 			id: "09C7E482F251CE33"
+			rewards: [{
+				count: 3
+				id: "36D99CB62AEE25B1"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "100%穿甲"
 			tasks: [{
 				id: "3AC5ABCFC0CEF1BF"
@@ -2462,6 +2482,12 @@
 				}
 			}
 			id: "081159427C5D43FA"
+			rewards: [{
+				count: 3
+				id: "3CA1426F89FAEC5E"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6C9BCDD473AA6E42"
 				item: {
@@ -2580,6 +2606,12 @@
 				}
 			}
 			id: "6067E2438DAA4C21"
+			rewards: [{
+				count: 3
+				id: "497046863ED2D820"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "168DC609E5C031A8"
 				item: {
@@ -2687,6 +2719,12 @@
 				}
 			}
 			id: "24F3CB285D69CC41"
+			rewards: [{
+				count: 3
+				id: "526EFF498EA9A65A"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "2部件的数值向护甲"
 			tasks: [
 				{
@@ -2941,6 +2979,12 @@
 				}
 			}
 			id: "68A2C1ADB3B14931"
+			rewards: [{
+				count: 3
+				id: "68D542419DC76FCF"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5072B34B7C053520"
 				item: {
@@ -3046,6 +3090,12 @@
 				}
 			}
 			id: "196626743173BBCD"
+			rewards: [{
+				count: 3
+				id: "0AEAEC1F95F0538C"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6FBA6AFEA84E3880"
 				item: {
@@ -3163,16 +3213,16 @@
 						tic_persistent: { }
 						tic_stats: {
 							"etshtinker:critical_rate": 1.28f
-							"etshtinker:damagemultiplier": 190.29938f
+							"etshtinker:damagemultiplier": 191.57187f
 							"etshtinker:fluid_efficiency": 100.0f
 							"etshtinker:slash_color": 10.0f
-							"tconstruct:attack_damage": 194.07193f
-							"tconstruct:attack_speed": 240.6618f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 195.36966f
+							"tconstruct:attack_speed": 242.27107f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 869041.2f
+							"tconstruct:durability": 874852.3f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 306.63474f
+							"tconstruct:mining_speed": 308.68515f
 							"tconstruct:tank_capacity": 9005000.0f
 						}
 						tic_volatile_data: {
@@ -3253,15 +3303,15 @@
 						tic_persistent: { }
 						tic_stats: {
 							"etshtinker:cooldown": 10.0f
-							"etshtinker:damagemultiplier": 185.83923f
+							"etshtinker:damagemultiplier": 187.08191f
 							"etshtinker:plasmarange": 70.0f
-							"tconstruct:attack_damage": 670.4042f
-							"tconstruct:attack_speed": 126.37068f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 674.887f
+							"tconstruct:attack_speed": 127.2157f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1451674.8f
+							"tconstruct:durability": 1461381.9f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 871.1214f
+							"tconstruct:mining_speed": 876.9465f
 							"tconstruct:tank_capacity": 9005000.0f
 						}
 						tic_volatile_data: {
@@ -3324,9 +3374,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1588.6554f
-							"tconstruct:attack_speed": 71.54811f
-							"tconstruct:durability": 6076223.0f
+							"tconstruct:attack_damage": 1599.2784f
+							"tconstruct:attack_speed": 72.026535f
+							"tconstruct:durability": 6116853.5f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3391,9 +3441,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 491.82355f
-							"tconstruct:attack_speed": 74.33569f
-							"tconstruct:durability": 1424011.6f
+							"tconstruct:attack_damage": 495.11227f
+							"tconstruct:attack_speed": 74.83276f
+							"tconstruct:durability": 1433533.9f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3454,11 +3504,11 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 668.15015f
-							"tconstruct:attack_speed": 104.06997f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 672.6179f
+							"tconstruct:attack_speed": 104.76587f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1420415.8f
+							"tconstruct:durability": 1429913.8f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3522,9 +3572,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1323.9652f
-							"tconstruct:attack_speed": 107.32216f
-							"tconstruct:durability": 4355941.5f
+							"tconstruct:attack_damage": 1332.8184f
+							"tconstruct:attack_speed": 108.03981f
+							"tconstruct:durability": 4385069.0f
 						}
 						tic_volatile_data: {
 							abilities: 16
@@ -3547,6 +3597,12 @@
 				"主副手持有利爪+1触及半径"
 			]
 			id: "4AEAA0FFDBB275E7"
+			rewards: [{
+				count: 3
+				id: "60079AB07E968685"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F533CB6B6AE9AA1"
 				item: {
@@ -3594,13 +3650,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 474.90054f
-							"tconstruct:attack_speed": 260.17493f
-							"tconstruct:block_amount": 185.83923f
+							"tconstruct:attack_damage": 478.07614f
+							"tconstruct:attack_speed": 261.91467f
+							"tconstruct:block_amount": 187.08191f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 710207.9f
+							"tconstruct:durability": 714956.9f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 689.92816f
+							"tconstruct:mining_speed": 694.54156f
 							"tconstruct:use_item_speed": 1.0f
 						}
 						tic_volatile_data: {
@@ -3622,6 +3678,12 @@
 				" &7     偷偷告诉你，搭配机械手时宽刃镰同样能触发并攻击范围内的所有目标。"
 			]
 			id: "4B26E4BD51B93CFC"
+			rewards: [{
+				count: 3
+				id: "7B146AA33C899EE7"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "真正的范围攻击，比横扫更强"
 			tasks: [{
 				id: "52B5D25A17017F89"
@@ -3666,9 +3728,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1059.8702f
-							"tconstruct:attack_speed": 190.74074f
-							"tconstruct:durability": 3348665.2f
+							"tconstruct:attack_damage": 1066.9574f
+							"tconstruct:attack_speed": 192.01619f
+							"tconstruct:durability": 3371057.2f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3693,6 +3755,12 @@
 				"这也是为什么镭射枪的射线在攻击到一个敌人后伤害骤减，故镭射枪不适合对群"
 			]
 			id: "5A3513ECB7686647"
+			rewards: [{
+				count: 3
+				id: "3580079B54E6A017"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "不再是当年的那个镭射枪了"
 			tasks: [{
 				id: "6D921FCB8631C4A4"
@@ -3735,9 +3803,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 304.9506f
-							"tconstruct:attack_speed": 130.08746f
-							"tconstruct:durability": 672528.94f
+							"tconstruct:attack_damage": 306.98975f
+							"tconstruct:attack_speed": 130.95734f
+							"tconstruct:durability": 677026.06f
 							"tinkers_ingenuity:cooldown": 1.1f
 							"tinkers_ingenuity:energy_capacity": 20000.0f
 							"tinkers_ingenuity:laser_range": 20.0f
@@ -3760,6 +3828,12 @@
 		{
 			description: ["      战斧的普攻是所有武器中最高的，没有之一。适合那种打爆发伤害的材料。"]
 			id: "603391E619F03B24"
+			rewards: [{
+				count: 3
+				id: "5A570080B0AE3CAC"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "最极致的伤害"
 			tasks: [{
 				id: "272E4C2D55732980"
@@ -3800,9 +3874,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 791.6984f
-							"tconstruct:attack_speed": 51.10579f
-							"tconstruct:durability": 1078197.5f
+							"tconstruct:attack_damage": 796.9924f
+							"tconstruct:attack_speed": 51.447525f
+							"tconstruct:durability": 1085407.1f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3818,6 +3892,12 @@
 		}
 		{
 			id: "31105C131937AD7B"
+			rewards: [{
+				count: 3
+				id: "52C4560617511693"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0EFDB84485DD12E1"
 				item: {
@@ -3861,13 +3941,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 411.1693f
-							"tconstruct:attack_speed": 130.08746f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 413.91873f
+							"tconstruct:attack_speed": 130.95734f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2367359.5f
+							"tconstruct:durability": 2383189.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 183.98085f
+							"tconstruct:mining_speed": 185.21109f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3883,6 +3963,12 @@
 		}
 		{
 			id: "3DEF8526EE35ECCD"
+			rewards: [{
+				count: 3
+				id: "17BDCE1D9B95E536"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7AF15D912E307753"
 				item: {
@@ -3922,13 +4008,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 881.9582f
-							"tconstruct:attack_speed": 78.05248f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 887.8557f
+							"tconstruct:attack_speed": 78.57441f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2683007.5f
+							"tconstruct:durability": 2700948.2f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 183.98085f
+							"tconstruct:mining_speed": 185.21109f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3944,6 +4030,12 @@
 		}
 		{
 			id: "5A57784927A141D8"
+			rewards: [{
+				count: 3
+				id: "533B984D22755370"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "79B09BDB474DAF29"
 				item: {
@@ -3990,13 +4082,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 315.2298f
-							"tconstruct:attack_speed": 91.061226f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 317.33768f
+							"tconstruct:attack_speed": 91.670135f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1578239.8f
+							"tconstruct:durability": 1588793.1f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 275.97125f
+							"tconstruct:mining_speed": 277.81665f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4012,6 +4104,12 @@
 		}
 		{
 			id: "69DAD396F12552D2"
+			rewards: [{
+				count: 3
+				id: "05EC406362114E61"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "延展强化能增加其范围哦"
 			tasks: [{
 				id: "769CC64E46E6F800"
@@ -4052,13 +4150,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 599.6219f
-							"tconstruct:attack_speed": 110.57435f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 603.6315f
+							"tconstruct:attack_speed": 111.31374f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 3156479.5f
+							"tconstruct:durability": 3177586.2f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 183.98085f
+							"tconstruct:mining_speed": 185.21109f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4074,6 +4172,12 @@
 		}
 		{
 			id: "278FAA8DF21D06D9"
+			rewards: [{
+				count: 3
+				id: "4A7524FC53FB9439"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "延展强化能增加其范围哦"
 			tasks: [{
 				id: "29DAB19BFC76D813"
@@ -4114,13 +4218,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 573.58124f
-							"tconstruct:attack_speed": 97.5656f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 577.4166f
+							"tconstruct:attack_speed": 98.218f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2525183.5f
+							"tconstruct:durability": 2542069.0f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 245.30779f
+							"tconstruct:mining_speed": 246.94812f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4136,6 +4240,12 @@
 		}
 		{
 			id: "6DD242483B4778FB"
+			rewards: [{
+				count: 3
+				id: "7D4711715446F25E"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "427414E69B668E03"
 				item: {
@@ -4174,13 +4284,13 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 464.59808f
-							"tconstruct:attack_speed": 18.583923f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 467.70477f
+							"tconstruct:attack_speed": 18.70819f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 297.34277f
-							"tconstruct:durability": 572013.2f
-							"tconstruct:projectile_damage": 37.167847f
+							"tconstruct:draw_speed": 299.33105f
+							"tconstruct:durability": 575838.1f
+							"tconstruct:projectile_damage": 37.41638f
 							"tconstruct:velocity": 4.0f
 						}
 						tic_volatile_data: {
@@ -4197,6 +4307,12 @@
 		}
 		{
 			id: "2796BB88B3B15295"
+			rewards: [{
+				count: 3
+				id: "713E3A6A85C88A44"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7B8EA06B0436BA81"
 				item: {
@@ -4239,13 +4355,13 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 929.19617f
-							"tconstruct:attack_speed": 18.583923f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 935.40955f
+							"tconstruct:attack_speed": 18.70819f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 157.96335f
-							"tconstruct:durability": 503996.0f
-							"tconstruct:projectile_damage": 37.167847f
+							"tconstruct:draw_speed": 159.01962f
+							"tconstruct:durability": 507366.12f
+							"tconstruct:projectile_damage": 37.41638f
 							"tconstruct:velocity": 2.5f
 						}
 						tic_volatile_data: {
@@ -4269,6 +4385,12 @@
 				"（整合包对其的调整尚未完成，后续还会加入更多效果）"
 			]
 			id: "1A40804B573DB381"
+			rewards: [{
+				count: 3
+				id: "3EA92C12AAC1402E"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "能被强化的“棍子”"
 			tasks: [
 				{
@@ -4308,13 +4430,13 @@
 							tic_persistent: { }
 							tic_stats: {
 								"tconstruct:accuracy": 1.0f
-								"tconstruct:attack_damage": 342.64108f
-								"tconstruct:attack_speed": 234.15742f
-								"tconstruct:block_amount": 325.21866f
+								"tconstruct:attack_damage": 344.93228f
+								"tconstruct:attack_speed": 235.72319f
+								"tconstruct:block_amount": 327.39334f
 								"tconstruct:block_angle": 180.0f
-								"tconstruct:draw_speed": 18.583923f
-								"tconstruct:durability": 640471.7f
-								"tconstruct:projectile_damage": 37.167847f
+								"tconstruct:draw_speed": 18.70819f
+								"tconstruct:durability": 644754.44f
+								"tconstruct:projectile_damage": 37.41638f
 								"tconstruct:use_item_speed": 0.4f
 							}
 							tic_volatile_data: {
@@ -4360,11 +4482,11 @@
 							tic_persistent: { }
 							tic_stats: {
 								"tconstruct:accuracy": 1.0f
-								"tconstruct:block_amount": 278.75885f
+								"tconstruct:block_amount": 280.62286f
 								"tconstruct:block_angle": 180.0f
-								"tconstruct:draw_speed": 297.34277f
-								"tconstruct:durability": 251998.0f
-								"tconstruct:projectile_damage": 37.167847f
+								"tconstruct:draw_speed": 299.33105f
+								"tconstruct:durability": 253683.06f
+								"tconstruct:projectile_damage": 37.41638f
 								"tconstruct:use_item_speed": 0.4f
 								"tconstruct:velocity": 4.0f
 							}
@@ -4420,7 +4542,7 @@
 					tic_stats: {
 						"tconstruct:armor": 30.0f
 						"tconstruct:armor_toughness": 20.0f
-						"tconstruct:durability": 913409.1f
+						"tconstruct:durability": 919516.94f
 						"tconstruct:knockback_resistance": 1.0f
 					}
 					tic_volatile_data: {
@@ -4431,6 +4553,12 @@
 				}
 			}
 			id: "33A17832C0C27D80"
+			rewards: [{
+				count: 3
+				id: "29C4FE3F818C9110"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "三部件，但是不完全三"
 			tasks: [
 				{
@@ -4471,7 +4599,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 913409.1f
+								"tconstruct:durability": 919516.94f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4522,7 +4650,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 913409.1f
+								"tconstruct:durability": 919516.94f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4573,7 +4701,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 913409.1f
+								"tconstruct:durability": 919516.94f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4624,7 +4752,7 @@
 							tic_stats: {
 								"tconstruct:armor": 30.0f
 								"tconstruct:armor_toughness": 20.0f
-								"tconstruct:durability": 913409.1f
+								"tconstruct:durability": 919516.94f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4829,11 +4957,11 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 961.1083f
-							"tconstruct:attack_speed": 130.08746f
-							"tconstruct:durability": 2840831.5f
+							"tconstruct:attack_damage": 967.53503f
+							"tconstruct:attack_speed": 130.95734f
+							"tconstruct:durability": 2859827.5f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 1379.8563f
+							"tconstruct:mining_speed": 1389.0831f
 						}
 						tic_volatile_data: {
 							abilities: 16
@@ -4853,6 +4981,12 @@
 				"会增幅护甲值，盔甲韧性，速度，攻击伤害"
 			]
 			id: "098E7D53C5FB0C6D"
+			rewards: [{
+				count: 3
+				id: "14EA5E3582F9CA56"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F1C28342F7A91D9"
 				item: {
@@ -4910,6 +5044,12 @@
 				"所以回旋镖在大多数情况下伤害显著高于吹箭筒。"
 			]
 			id: "1E802DCBE7F6A081"
+			rewards: [{
+				count: 3
+				id: "545FBAA152A85A11"
+				item: "lightmanscurrency:coin_gold"
+				type: "item"
+			}]
 			subtitle: "定位和吹箭筒类似，但是强于吹箭筒"
 			tasks: [{
 				id: "1EC6E1C4E02DB823"
@@ -4946,11 +5086,11 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 74.33569f
-							"tconstruct:attack_speed": 18.583923f
-							"tconstruct:draw_speed": 436.7222f
-							"tconstruct:durability": 136747.95f
-							"tconstruct:projectile_damage": 37.167847f
+							"tconstruct:attack_damage": 74.83276f
+							"tconstruct:attack_speed": 18.70819f
+							"tconstruct:draw_speed": 439.6425f
+							"tconstruct:durability": 137662.36f
+							"tconstruct:projectile_damage": 37.41638f
 							"tconstruct:velocity": 4.5099998f
 						}
 						tic_volatile_data: {
@@ -5025,13 +5165,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 637.31244f
-							"tconstruct:attack_speed": 130.08746f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 641.57404f
+							"tconstruct:attack_speed": 130.95734f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2209535.5f
+							"tconstruct:durability": 2224310.2f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 153.31737f
+							"tconstruct:mining_speed": 154.34258f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -5103,11 +5243,11 @@
 							"solidarytinker:detection_range": 100.0f
 							"solidarytinker:exert_times": 100.0f
 							"solidarytinker:kill_threshold": 0.72f
-							"tconstruct:attack_damage": 302.43478f
-							"tconstruct:attack_speed": 74.33569f
-							"tconstruct:durability": 949341.2f
+							"tconstruct:attack_damage": 304.45712f
+							"tconstruct:attack_speed": 74.83276f
+							"tconstruct:durability": 955689.25f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 892.0283f
+							"tconstruct:mining_speed": 897.99316f
 						}
 						tic_volatile_data: {
 							abilities: 16
@@ -5180,11 +5320,11 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1747.4695f
-							"tconstruct:attack_speed": 39.02624f
-							"tconstruct:block_amount": 92.91962f
+							"tconstruct:attack_damage": 1759.1545f
+							"tconstruct:attack_speed": 39.287205f
+							"tconstruct:block_amount": 93.540955f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2367359.5f
+							"tconstruct:durability": 2383189.8f
 						}
 						tic_volatile_data: {
 							abilities: 17
@@ -5266,11 +5406,11 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:armor_toughness": 20.0f
-							"tconstruct:attack_damage": 144.0254f
-							"tconstruct:attack_speed": 27.875885f
+							"tconstruct:attack_damage": 144.98848f
+							"tconstruct:attack_speed": 28.062286f
 							"tconstruct:block_amount": 2048.0f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1691274.6f
+							"tconstruct:durability": 1702583.9f
 							"tconstruct:knockback_resistance": 1.0f
 							"tconstruct:use_item_speed": 0.3f
 						}

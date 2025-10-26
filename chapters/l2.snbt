@@ -63,9 +63,11 @@
 		{
 			dependencies: ["2858B239AAFC570E"]
 			id: "22B572D8C3A4D71F"
+			subtitle: "诅咒凝聚七罪……"
 			tasks: [{
-				id: "4E976B3830CCFB84"
-				type: "checkmark"
+				dimension: "minecraft:overworld"
+				id: "6F9D0860153AD7AA"
+				type: "dimension"
 			}]
 			title: "凝聚恶意，让恶意化为你的力量"
 			x: 0.5d
@@ -795,7 +797,7 @@
 		}
 		{
 			dependencies: ["2858B239AAFC570E"]
-			description: ["&c形状为方形圆角的为被禁词条掉落，无法通过宝珠获取&r"]
+			description: ["&l&o&c颤抖吧！凡人&r"]
 			id: "126618913B9D8EC8"
 			rewards: [{
 				id: "5F061904E57D1943"
@@ -808,11 +810,13 @@
 				}
 				type: "item"
 			}]
+			subtitle: "目前已经全然解封且新增了四个词条"
 			tasks: [{
-				id: "04067A063C1E79AC"
-				title: "以下仅告诉对应宝珠能打出来什么材料"
-				type: "checkmark"
+				dimension: "minecraft:overworld"
+				id: "41A970A9DD3C6F02"
+				type: "dimension"
 			}]
+			title: "起始之旅"
 			x: 2.0d
 			y: -3.5d
 		}
@@ -969,10 +973,11 @@
 			id: "205A75EE7CD8C412"
 			subtitle: "仅作为推荐，没讲到的等于意义不大"
 			tasks: [{
-				id: "279076FC01F8658C"
-				title: "妙妙小道具"
-				type: "checkmark"
+				dimension: "minecraft:overworld"
+				id: "2B4A889A0E24E0DF"
+				type: "dimension"
 			}]
+			title: "时尚小玩意儿"
 			x: -1.0d
 			y: -3.5d
 		}
@@ -1229,7 +1234,7 @@
 		{
 			dependencies: ["4B9715223EAC970D"]
 			description: [
-				"可以叠&d魔法伤害减免&r，或者&d圣光守护之戒&r，也可以用暗影复相/星野护甲等护甲来抵挡"
+				"可以叠&d魔法伤害减免&r，或者&d圣光守护之戒&r，也可以用暗影复相/星野/全知魔金等护甲来抵挡"
 				""
 				"整合包对其进行了削弱，&4超出怪物最大生命的部分&r不会再反射给玩家"
 				""
@@ -1243,6 +1248,7 @@
 				type: "random"
 			}]
 			shape: "hexagon"
+			size: 1.5d
 			subtitle: "前期大爹级词条，受伤返还你部分法伤（也有可能更高）"
 			tasks: [{
 				id: "2859FFA82F51E87F"
@@ -1916,8 +1922,8 @@
 				""
 				"被施加之后无法回血"
 				""
-				"❗整合包独特调整"
-				""
+				"❗&b整合包独特调整"
+				"&r"
 				"现在诅咒怪物每次攻击玩家还会对玩家叠&c诅咒层&r,&a每次攻击叠加一层&r"
 				""
 				"此层数属于粘性效果，&c无法被牛奶之类解除&r"
@@ -2272,12 +2278,13 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["4B9715223EAC970D"]
 			description: [
 				"对极端伤害和穿甲伤害提供特殊减免。只会在&6灾变&r的生物上出现。"
 				""
 				"是唯二减免极端伤害的对象（另一个是龙）。"
 				""
-				"整合包独创词条"
+				"&b整合包独创词条&r"
 			]
 			id: "0F1DD671667FB0C9"
 			rewards: [{
@@ -2298,6 +2305,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["4B9715223EAC970D"]
 			description: [
 				"如描述所说，越打减伤越低，克制一刀流。"
 				""
@@ -2307,7 +2315,7 @@
 				""
 				"极端伤害无视此减伤"
 				""
-				"整合包独创词条"
+				"&b整合包独创词条&r"
 			]
 			id: "68D805A530F377F5"
 			rewards: [{
@@ -2328,12 +2336,13 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["4B9715223EAC970D"]
 			description: [
 				"怪物只会进入一次二阶段无敌，不需要担心循环无敌"
 				""
 				"同样一刀秒就不会触发无敌。此外极端伤害无视此无敌，可以用感电水晶速杀。"
 				""
-				"整合包独创词条"
+				"&b整合包独创词条&r"
 			]
 			id: "0A0C1785980FC0C3"
 			rewards: [{
@@ -2353,6 +2362,7 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["4B9715223EAC970D"]
 			description: [
 				"天镜和深园的特有词条，威胁度很高。"
 				""
@@ -2362,7 +2372,7 @@
 				""
 				"如：奇美拉α、奇迹物质、非欧立方"
 				""
-				"整合包独创词条"
+				"&b整合包独创词条&r"
 			]
 			id: "79961F0CCA537D97"
 			rewards: [{

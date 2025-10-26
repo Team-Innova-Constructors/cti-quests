@@ -519,6 +519,7 @@
 						id: "tinkers_things:makeshift_helmet"
 						tag: {
 							Damage: 0
+							Unbreakable: 1b
 							tic_broken: 0b
 							tic_modifiers: [ ]
 							tic_persistent: { }
@@ -541,6 +542,7 @@
 						id: "tinkers_things:makeshift_chestplate"
 						tag: {
 							Damage: 0
+							Unbreakable: 1b
 							tic_broken: 0b
 							tic_modifiers: [ ]
 							tic_persistent: { }
@@ -1483,12 +1485,13 @@
 					id: "0CE500AA908F2C35"
 					item: {
 						Count: 1b
-						id: "tconstruct:smeltery_controller"
+						id: "itemfilters:id_regex"
 						tag: {
-							texture: "tconstruct:seared_bricks"
+							value: "^tconstruct:smeltery_controller"
 						}
 					}
 					match_nbt: false
+					title: "冶炼炉控制器"
 					type: "item"
 				}
 			]
@@ -1552,26 +1555,28 @@
 			size: 2.0d
 			tasks: [
 				{
-					id: "2A16FF63DC16AD86"
+					id: "1262D6E726271D85"
 					item: {
 						Count: 1b
-						id: "tconstruct:smeltery_controller"
+						id: "itemfilters:id_regex"
 						tag: {
-							texture: "tconstruct:seared_bricks"
+							value: "^tconstruct:smeltery_controller"
 						}
 					}
+					title: "冶炼炉控制器"
 					type: "item"
 				}
 				{
 					count: 6L
-					id: "34986408D8007E18"
+					id: "13FA5B3342EAD9E2"
 					item: {
 						Count: 1b
-						id: "tconstruct:seared_drain"
+						id: "itemfilters:id_regex"
 						tag: {
-							texture: "tconstruct:seared_stone"
+							value: "^tconstruct:seared_drain"
 						}
 					}
+					title: "排液口"
 					type: "item"
 				}
 			]
@@ -1625,21 +1630,21 @@
 			id: "7FCEF2EE1FE310FE"
 			rewards: [
 				{
-					count: 4
-					id: "130709D4B8DE2961"
-					item: "tconstruct:seared_bricks"
+					id: "671BE1DCD92BDE8E"
+					item: "brewinandchewin:beer"
 					type: "item"
 				}
 				{
-					id: "671BE1DCD92BDE8E"
-					item: "brewinandchewin:beer"
+					count: 4
+					id: "269FC882B87BBEBA"
+					item: "tconstruct:seared_bricks"
 					type: "item"
 				}
 			]
 			subtitle: "你的第一块合金"
 			tasks: [{
 				count: 27L
-				id: "47EE9955FC3157F0"
+				id: "4C346E0097E02DB1"
 				item: "tinkers_thinking:tinkers_bronze_ingot"
 				type: "item"
 			}]
@@ -2018,15 +2023,15 @@
 			shape: "hexagon"
 			subtitle: "现在你不需要做，但是迟早要做（"
 			tasks: [{
-				id: "75707DBF77D13CE4"
+				id: "31DFB3B2434E9698"
 				item: {
 					Count: 1b
-					id: "tconstruct:foundry_controller"
+					id: "itemfilters:id_regex"
 					tag: {
-						texture: "tconstruct:scorched_bricks"
+						value: "^tconstruct:foundry_controller"
 					}
 				}
-				match_nbt: false
+				title: "熔铸炉控制器"
 				type: "item"
 			}]
 			x: 19.5d
@@ -2446,7 +2451,6 @@
 				item: "cti:soul_spell"
 				type: "item"
 			}]
-			size: 0.8d
 			subtitle: "嗯...再喝的话当然要付出点代价"
 			tasks: [{
 				consume_items: true
@@ -2456,7 +2460,7 @@
 			}]
 			title: "后悔药"
 			x: 0.0d
-			y: 1.2d
+			y: 1.5d
 		}
 	]
 	subtitle: [

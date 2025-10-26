@@ -6772,6 +6772,8 @@
 				"      自动化标识："
 				"{image:kubejs:textures/ftbq_images/ie/arc_furnace2.png width:55 height:72 align:1 fit:true}"
 				"{image:kubejs:textures/ftbq_images/ie/arc_furnace3.png width:68 height:78 align:1 fit:true}"
+				""
+				"注：&6石墨电极&r可以和&l&b永恒锭&r合成为&0不可破坏形式&r的。"
 			]
 			id: "3CEC153185E6372E"
 			subtitle: "有多种用途，可以用来烧制以太、耐钢、辉煌合金，熔炼超致密和质子"
