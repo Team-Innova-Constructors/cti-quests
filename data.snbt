@@ -32,7 +32,7 @@
 				}
 				{
 					level: 4
-					name: "solidarytinker:tacticsattack"
+					name: "solidarytinker:sandstrom"
 				}
 				{
 					level: 5
@@ -61,9 +61,9 @@
 				"tconstruct:tank_capacity": 77000.0f
 			}
 			tic_volatile_data: {
-				abilities: 6
+				abilities: 2
 				"tconstruct:total_tanks": 1
-				upgrades: 9
+				upgrades: 5
 			}
 		}
 	}

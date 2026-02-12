@@ -592,7 +592,7 @@
 							tic_stats: {
 								"tconstruct:armor": 6.6000004f
 								"tconstruct:armor_toughness": 1.1f
-								"tconstruct:durability": 2789.9998f
+								"tconstruct:durability": 990.00006f
 							}
 							tic_volatile_data: {
 								abilities: 2
@@ -637,7 +637,7 @@
 							tic_stats: {
 								"tconstruct:armor": 4.4f
 								"tconstruct:armor_toughness": 1.1f
-								"tconstruct:durability": 2417.9998f
+								"tconstruct:durability": 858.00006f
 							}
 							tic_volatile_data: {
 								abilities: 2
@@ -1180,7 +1180,7 @@
 					tic_stats: {
 						"tconstruct:attack_damage": 9.45f
 						"tconstruct:attack_speed": 0.9f
-						"tconstruct:durability": 724.5f
+						"tconstruct:durability": 409.5f
 						"tconstruct:harvest_tier": "minecraft:diamond"
 						"tconstruct:mining_speed": 6.825f
 					}
