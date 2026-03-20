@@ -3883,18 +3883,6 @@
 			y: 10.5d
 		}
 		{
-			id: "4DD97F1FD528863A"
-			size: 2.0d
-			subtitle: "豆腐工裔很多材料没有jei合成获取方式，需要跟着L键成就指引走，还有些根本就没有获取方式"
-			tasks: [{
-				id: "2F003FBADE5436CB"
-				type: "checkmark"
-			}]
-			title: "豆腐工艺及乐事"
-			x: -10.5d
-			y: 5.5d
-		}
-		{
 			id: "7DB58B3A6CFC5D51"
 			subtitle: "我是毒液，我是毒液，我是最强毒液！"
 			tasks: [{
@@ -8177,18 +8165,6 @@
 			}]
 			x: 12.5d
 			y: 10.5d
-		}
-		{
-			id: "7EE1AECC14508EB3"
-			size: 2.0d
-			subtitle: "庆贺吧，这里有独一无二的美酒！"
-			tasks: [{
-				id: "4B60F174F2BEF5AC"
-				type: "checkmark"
-			}]
-			title: "CTI原创特供"
-			x: -9.0d
-			y: 17.0d
 		}
 		{
 			description: [

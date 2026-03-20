@@ -2391,6 +2391,27 @@
 			x: 12.0d
 			y: 5.5d
 		}
+		{
+			dependencies: ["2858B239AAFC570E"]
+			id: "0ACB3CDA219DD344"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "56D6141D758F0732"
+				table_id: 4785827979895305227L
+				type: "random"
+			}]
+			tasks: [{
+				id: "15F866386444FCD3"
+				item: {
+					Count: 1b
+					id: "cti:ring_of_nibelungen"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
 	]
 	subtitle: [
 		"就这个尼德霍格爽！"

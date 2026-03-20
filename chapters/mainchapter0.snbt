@@ -444,325 +444,11 @@
 			]
 			icon: "l2hostility:teleport"
 			id: "34A01824678F973A"
-			rewards: [
-				{
-					id: "02EB4C63011B38F8"
-					item: {
-						Count: 1b
-						id: "tconstruct:pickaxe"
-						tag: {
-							Damage: 0
-							RepairCost: 0
-							display: {
-								Name: "{\"text\":\"角落里的矿工镐\"}"
-							}
-							tic_broken: 0b
-							tic_materials: [
-								"tconstruct:seared_stone"
-								"tconstruct:wood"
-								"tconstruct:ancient_hide"
-							]
-							tic_modifiers: [
-								{
-									level: 1
-									name: "tconstruct:emerald"
-								}
-								{
-									level: 1
-									name: "tconstruct:searing"
-								}
-								{
-									level: 1
-									name: "tconstruct:cultivated"
-								}
-								{
-									level: 1
-									name: "tconstruct:fortune"
-								}
-								{
-									level: 1
-									name: "tconstruct:pierce"
-								}
-							]
-							tic_multipliers: {
-								"tconstruct:attack_damage": 1.25f
-								"tconstruct:mining_speed": 1.25f
-							}
-							tic_name: "一把平平无奇的镐子"
-							tic_persistent: {
-								upgrades: -1
-							}
-							tic_stats: {
-								"tconstruct:attack_damage": 2.5f
-								"tconstruct:attack_speed": 1.2f
-								"tconstruct:durability": 337.5f
-								"tconstruct:harvest_tier": "minecraft:iron"
-								"tconstruct:mining_speed": 6.5f
-							}
-							tic_upgrades: [{
-								level: 1
-								name: "tconstruct:emerald"
-							}]
-							tic_volatile_data: {
-								abilities: 1
-								"tconstruct:rarity": 1
-								upgrades: 3
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "0D91A8B4BA62A932"
-					item: {
-						Count: 1b
-						id: "tinkers_things:makeshift_helmet"
-						tag: {
-							Damage: 0
-							Unbreakable: 1b
-							tic_broken: 0b
-							tic_modifiers: [ ]
-							tic_persistent: { }
-							tic_stats: {
-								"tconstruct:armor": 1.0f
-								"tconstruct:durability": 45.0f
-							}
-							tic_volatile_data: {
-								defense: 1
-								upgrades: 2
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "6C1086297001C765"
-					item: {
-						Count: 1b
-						id: "tinkers_things:makeshift_chestplate"
-						tag: {
-							Damage: 0
-							Unbreakable: 1b
-							tic_broken: 0b
-							tic_modifiers: [ ]
-							tic_persistent: { }
-							tic_stats: {
-								"tconstruct:armor": 3.0f
-								"tconstruct:durability": 60.0f
-							}
-							tic_volatile_data: {
-								defense: 1
-								upgrades: 2
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "546893235B2DAB75"
-					item: {
-						Count: 1b
-						id: "tinkers_things:laminar_leggings"
-						tag: {
-							Damage: 0
-							tic_broken: 0b
-							tic_materials: [
-								"tinkers_reforged:duralumin"
-								"tinkers_reforged:duralumin"
-								"tconstruct:bamboo"
-							]
-							tic_modifiers: [
-								{
-									level: 2
-									name: "cti:industrial_armor"
-								}
-								{
-									level: 4
-									name: "tinkers_reforged:rock_solid"
-								}
-								{
-									level: 1
-									name: "tconstruct:unburdened"
-								}
-							]
-							tic_multipliers: {
-								"tconstruct:durability": 1.5f
-							}
-							tic_persistent: { }
-							tic_stats: {
-								"tconstruct:armor": 6.6000004f
-								"tconstruct:armor_toughness": 1.1f
-								"tconstruct:durability": 990.00006f
-							}
-							tic_volatile_data: {
-								abilities: 2
-								defense: 1
-								upgrades: 2
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "1CC3DDB09490E338"
-					item: {
-						Count: 1b
-						id: "tinkers_things:laminar_boots"
-						tag: {
-							Damage: 0
-							tic_broken: 0b
-							tic_materials: [
-								"tinkers_reforged:duralumin"
-								"tinkers_reforged:duralumin"
-								"tconstruct:bamboo"
-							]
-							tic_modifiers: [
-								{
-									level: 2
-									name: "cti:industrial_armor"
-								}
-								{
-									level: 4
-									name: "tinkers_reforged:rock_solid"
-								}
-								{
-									level: 1
-									name: "tconstruct:unburdened"
-								}
-							]
-							tic_multipliers: {
-								"tconstruct:durability": 1.5f
-							}
-							tic_persistent: { }
-							tic_stats: {
-								"tconstruct:armor": 4.4f
-								"tconstruct:armor_toughness": 1.1f
-								"tconstruct:durability": 858.00006f
-							}
-							tic_volatile_data: {
-								abilities: 2
-								defense: 1
-								upgrades: 2
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "1D31467481EF7636"
-					item: {
-						Count: 1b
-						id: "tconstruct:sword"
-						tag: {
-							Damage: 0
-							tic_broken: 0b
-							tic_materials: [
-								"tinkersinnovation:andesite_alloy"
-								"tconstruct:wood"
-								"tconstruct:wood"
-							]
-							tic_modifiers: [
-								{
-									level: 1
-									name: "tconstruct:diamond"
-								}
-								{
-									level: 1
-									name: "tconstruct:sharpness"
-								}
-								{
-									level: 1
-									name: "tconstruct:sturdy"
-								}
-								{
-									level: 2
-									name: "tconstruct:cultivated"
-								}
-								{
-									level: 1
-									name: "tconstruct:silky_shears"
-								}
-							]
-							tic_multipliers: {
-								"tconstruct:durability": 1.1f
-								"tconstruct:mining_speed": 0.5f
-							}
-							tic_name: " 新手短剑"
-							tic_persistent: {
-								upgrades: -1
-							}
-							tic_stats: {
-								"tconstruct:attack_damage": 6.5f
-								"tconstruct:attack_speed": 1.6f
-								"tconstruct:durability": 929.77496f
-								"tconstruct:harvest_tier": "minecraft:diamond"
-								"tconstruct:mining_speed": 3.5f
-							}
-							tic_upgrades: [
-								{
-									level: 1
-									name: "tconstruct:diamond"
-								}
-								{
-									level: 1
-									name: "tconstruct:sharpness"
-								}
-							]
-							tic_volatile_data: {
-								abilities: 1
-								"tconstruct:rarity": 1
-								upgrades: 3
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "29EF597017E11488"
-					item: {
-						Count: 1b
-						id: "tconstruct:hand_axe"
-						tag: {
-							Damage: 0
-							tic_broken: 0b
-							tic_materials: [
-								"tconstruct:wood"
-								"tconstruct:wood"
-								"tconstruct:wood"
-							]
-							tic_modifiers: [
-								{
-									level: 3
-									name: "tconstruct:cultivated"
-								}
-								{
-									level: 1
-									name: "tconstruct:stripping"
-								}
-							]
-							tic_persistent: { }
-							tic_stats: {
-								"tconstruct:attack_damage": 6.0f
-								"tconstruct:attack_speed": 0.9f
-								"tconstruct:durability": 60.0f
-								"tconstruct:harvest_tier": "minecraft:wood"
-								"tconstruct:mining_speed": 2.0f
-							}
-							tic_volatile_data: {
-								abilities: 1
-								upgrades: 3
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					count: 8
-					id: "0BD52990BA5090A4"
-					item: "lightmanscurrency:coin_iron"
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "473EA96F2530910F"
+				type: "xp"
+				xp: 100
+			}]
 			shape: "diamond"
 			size: 1.5d
 			subtitle: "有些...不一样？"
@@ -1630,14 +1316,14 @@
 			id: "7FCEF2EE1FE310FE"
 			rewards: [
 				{
-					id: "671BE1DCD92BDE8E"
-					item: "brewinandchewin:beer"
-					type: "item"
-				}
-				{
 					count: 4
 					id: "269FC882B87BBEBA"
 					item: "tconstruct:seared_bricks"
+					type: "item"
+				}
+				{
+					id: "25C679F0F2343F88"
+					item: "minecraft:golden_apple"
 					type: "item"
 				}
 			]
@@ -1853,6 +1539,11 @@
 					item: "lightmanscurrency:coin_gold"
 					type: "item"
 				}
+				{
+					id: "0259864AD1C13F3F"
+					item: "pneumaticcraft:spawner_agitator"
+					type: "item"
+				}
 			]
 			shape: "diamond"
 			tasks: [{
@@ -1968,6 +1659,11 @@
 					count: 5
 					id: "5402363F84BBFBBB"
 					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "2AF72CD26315BB48"
+					item: "pneumaticcraft:spawner_agitator"
 					type: "item"
 				}
 			]
@@ -2276,50 +1972,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["28932EFD933B505B"]
-			description: ["焦褐村民和焦黑村民是工匠村民新增的两种村民（赞美小樱桃！），它们可以被人工转化或者在焦黑/焦褐小屋中被发现。"]
-			icon: {
-				Count: 1b
-				id: "minecraft:player_head"
-				tag: {
-					SkullOwner: {
-						Id: [I;
-							861461934
-							977357728
-							-1107628460
-							-1228579595
-						]
-						Properties: {
-							textures: [{
-								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYxMzc5YTgyMjkwZDdhYmUxZWZhYWJiYzcwNzEwZmYyZWMwMmRkMzRhZGUzODZiYzAwYzkzMGM0NjFjZjkzMiJ9fX0="
-							}]
-						}
-					}
-					display: {
-						Lore: [
-							"{\"italic\":false,\"color\":\"aqua\",\"translate\":\"tooltip.mythicbotany.sacrifice_entity1\"}"
-							"{\"italic\":false,\"color\":\"aqua\",\"translate\":\"tooltip.mythicbotany.sacrifice_entity2\"}"
-						]
-						Name: "{\"italic\":false,\"color\":\"dark_aqua\",\"translate\":\"entity.minecraft.wandering_trader\"}"
-					}
-				}
-			}
-			id: "1CCA226293A5A892"
-			rewards: [{
-				id: "1063755B41593CBC"
-				type: "xp"
-				xp: 100
-			}]
-			subtitle: "匠魂村民？"
-			tasks: [{
-				id: "63645A2A94A92E35"
-				title: "我知道了"
-				type: "checkmark"
-			}]
-			x: 10.5d
-			y: -1.0d
-		}
-		{
 			dependencies: ["26CAE8F089150BDB"]
 			description: [
 				"      焦黑小屋(Seared House)是一个大号的冶炼炉控制器，在里面可以找到很多匠魂的起步物资，对前期发展帮助很大！"
@@ -2459,8 +2111,1325 @@
 				type: "item"
 			}]
 			title: "后悔药"
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["34A01824678F973A"]
+			description: ["这里会发一颗海洋之泪，不要乱用哦。可在下方任务兑换生存/火力/均衡的制式套作为你的开局装备"]
+			icon: "create:clipboard"
+			id: "68DB60C35C5EBC2D"
+			rewards: [{
+				id: "4FC3E552E5F35F5E"
+				item: "cti:tear_of_sea"
+				type: "item"
+			}]
+			subtitle: "是不是有点熟悉"
+			tasks: [{
+				id: "3E5D37F98C753B49"
+				type: "checkmark"
+			}]
+			title: "制式装备"
 			x: 0.0d
-			y: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["68DB60C35C5EBC2D"]
+			description: [
+				"注:此处的黑曜石是叠满火成的"
+				""
+				"稿斧为幸运1"
+			]
+			icon: "minecraft:bread"
+			id: "671458B5E31EBB07"
+			rewards: [
+				{
+					id: "4DE1EF95EE2C80C9"
+					item: {
+						Count: 1b
+						id: "cherrytinker:pas"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tconstruct:rock"
+								"tconstruct:rock"
+								"tconstruct:rock"
+								"tconstruct:rock"
+								"tconstruct:ancient_hide"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+								{
+									level: 1
+									name: "tconstruct:luck"
+								}
+								{
+									level: 4
+									name: "tconstruct:stonebound"
+								}
+								{
+									level: 1
+									name: "tconstruct:fortune"
+								}
+								{
+									level: 1
+									name: "tconstruct:stripping"
+								}
+								{
+									level: 1
+									name: "tconstruct:tilling"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:attack_damage": 1.875f
+								"tconstruct:durability": 2.0f
+								"tconstruct:mining_speed": 1.25f
+							}
+							tic_persistent: {
+								upgrades: -2
+							}
+							tic_stats: {
+								"tconstruct:attack_damage": 5.625f
+								"tconstruct:durability": 2139.75f
+								"tconstruct:harvest_tier": "minecraft:diamond"
+								"tconstruct:mining_speed": 11.549999f
+							}
+							tic_upgrades: [
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+								{
+									level: 1
+									name: "tconstruct:luck"
+								}
+							]
+							tic_volatile_data: {
+								abilities: 1
+								"tconstruct:rarity": 1
+								upgrades: 3
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "3B85747547194870"
+					item: {
+						Count: 1b
+						id: "tconstruct:sword"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkers_thinking:sponge"
+								"tconstruct:wood"
+								"tconstruct:wood"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tinkers_thinking:disarm"
+								}
+								{
+									level: 2
+									name: "tconstruct:cultivated"
+								}
+								{
+									level: 1
+									name: "tconstruct:silky_shears"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:durability": 1.1f
+								"tconstruct:mining_speed": 0.5f
+							}
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:attack_damage": 3.25f
+								"tconstruct:attack_speed": 1.6f
+								"tconstruct:durability": 825.0f
+								"tconstruct:harvest_tier": "minecraft:wood"
+								"tconstruct:mining_speed": 0.5f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								upgrades: 3
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "0D02AE2ABA8F7759"
+					item: {
+						Count: 1b
+						id: "tinkers_things:laminar_helmet"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkerscalibration:refinedquartz"
+								"solidarytinker:kemomimi"
+								"tconstruct:silver"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "solidarytinker:reisahalo"
+								}
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tinkerscalibration:refined_armor"
+								}
+								{
+									level: 1
+									name: "solidarytinker:angelfox"
+								}
+								{
+									level: 1
+									name: "tconstruct:consecrated"
+								}
+								{
+									level: 1
+									name: "cti:anti_curse"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:durability": 1.5f
+							}
+							tic_persistent: {
+								upgrades: -1
+							}
+							tic_stats: {
+								"tconstruct:armor": 3.5f
+								"tconstruct:armor_toughness": 3.5f
+								"tconstruct:durability": 1164.15f
+								"tconstruct:knockback_resistance": 0.060000002f
+							}
+							tic_upgrades: [
+								{
+									level: 1
+									name: "solidarytinker:reisahalo"
+								}
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+							]
+							tic_volatile_data: {
+								abilities: 1
+								"tconstruct:rarity": 1
+								upgrades: 2
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "7E3EC7C1DB436A9E"
+					item: {
+						Count: 1b
+						id: "tinkers_things:laminar_chestplate"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkers_reforged:red_beryl"
+								"cherrytinker:cherrygem"
+								"tconstruct:lead"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "solidarytinker:armorcoating"
+								}
+								{
+									level: 1
+									name: "cherrytinker:recovery"
+								}
+								{
+									level: 1
+									name: "tconstruct:heavy"
+								}
+								{
+									level: 1
+									name: "cti:stable_step"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:durability": 1.5f
+							}
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 5.5f
+								"tconstruct:armor_toughness": 2.0f
+								"tconstruct:durability": 762.75f
+								"tconstruct:knockback_resistance": 0.15f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								upgrades: 2
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "796EBF0E54972D9C"
+					item: {
+						Count: 1b
+						id: "tinkers_things:laminar_leggings"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkers_thinking:obsidian_bronze"
+								"tinkerscalibration:corundum"
+								"tconstruct:osmium"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "cti:mandarinduck"
+								}
+								{
+									level: 1
+									name: "tinkerscalibration:maiming_armor"
+								}
+								{
+									level: 1
+									name: "tinkerscalibration:clustering_armor"
+								}
+								{
+									level: 1
+									name: "tconstruct:dense"
+								}
+								{
+									level: 1
+									name: "cti:stable_step"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:durability": 1.5f
+							}
+							tic_persistent: {
+								"tinkerscalibration:clustering_armor": 0.99958324f
+								upgrades: -1
+							}
+							tic_stats: {
+								"tconstruct:armor": 8.25f
+								"tconstruct:armor_toughness": 4.5f
+								"tconstruct:durability": 959.25f
+								"tconstruct:knockback_resistance": 0.060000002f
+							}
+							tic_upgrades: [{
+								level: 1
+								name: "tconstruct:diamond"
+							}]
+							tic_volatile_data: {
+								abilities: 1
+								"tconstruct:rarity": 1
+								upgrades: 2
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "244719F0E5505883"
+					item: {
+						Count: 1b
+						id: "tinkers_things:laminar_boots"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tconstruct:obsidian"
+								"tconstruct:obsidian"
+								"tconstruct:cobalt"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 2
+									name: "tconstruct:blast_protection"
+								}
+								{
+									level: 2
+									name: "tinkerscalibration:igneous_armor"
+								}
+								{
+									level: 1
+									name: "tconstruct:melee_protection"
+								}
+								{
+									level: 1
+									name: "cti:light_step"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:durability": 1.5f
+							}
+							tic_persistent: {
+								"tinkerscalibration:igneous_mod": 10.0f
+								upgrades: -1
+							}
+							tic_stats: {
+								"tconstruct:armor": 3.0f
+								"tconstruct:armor_toughness": 1.0f
+								"tconstruct:durability": 589.5f
+								"tconstruct:knockback_resistance": 0.15f
+							}
+							tic_upgrades: [{
+								level: 1
+								name: "tconstruct:diamond"
+							}]
+							tic_volatile_data: {
+								abilities: 1
+								"tconstruct:rarity": 1
+								upgrades: 2
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "363340750A5AAD0A"
+					item: {
+						Count: 1b
+						id: "tinkers_ingenuity:tinker_ring"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tconstruct:amethyst_bronze"
+								"tconstruct:amethyst_bronze"
+							]
+							tic_modifiers: [
+								{
+									level: 2
+									name: "tinkers_ingenuity:curio_crystalbound"
+								}
+								{
+									level: 1
+									name: "cti:imprison"
+								}
+							]
+							tic_persistent: { }
+							tic_stats: {
+								"tinkers_ingenuity:armor": 0.5f
+								"tinkers_ingenuity:armor_toughness": 0.2f
+								"tinkers_ingenuity:arrow_damage": 0.2f
+								"tinkers_ingenuity:damage": 0.15f
+								"tinkers_ingenuity:movement_speed": 0.02f
+							}
+							tic_volatile_data: {
+								abilities: -9999
+								defense: -10000
+								upgrades: -9999
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			subtitle: "因为怕疼所以全点防御了"
+			tasks: [{
+				consume_items: true
+				id: "2066DB8C764FC8DE"
+				item: "cti:tear_of_sea"
+				type: "item"
+			}]
+			title: "生存"
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["68DB60C35C5EBC2D"]
+			description: ["给的东西最多，但是或许也是一种负担"]
+			icon: {
+				Count: 1b
+				id: "minecraft:netherite_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "63BFBF5B0E2FB9B7"
+			rewards: [
+				{
+					id: "746BD616485C5A4B"
+					item: {
+						Count: 1b
+						id: "tinkers_thinking:paxel"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkerscalibration:soulgold"
+								"tinkers_thinking:tinkers_bronze"
+								"tconstruct:hepatizon"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+								{
+									level: 1
+									name: "tinkerscalibration:vengeance"
+								}
+								{
+									level: 1
+									name: "tinkerscalibration:familiar"
+								}
+								{
+									level: 1
+									name: "tinkers_thinking:cutting"
+								}
+								{
+									level: 1
+									name: "cti:fiery_capable"
+								}
+								{
+									level: 1
+									name: "tconstruct:killager"
+								}
+								{
+									level: 1
+									name: "tconstruct:axe_scrape"
+								}
+								{
+									level: 1
+									name: "tconstruct:stripping"
+								}
+								{
+									level: 1
+									name: "tconstruct:axe_wax_off"
+								}
+								{
+									level: 1
+									name: "tconstruct:momentum"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:attack_damage": 1.25f
+								"tconstruct:durability": 1.25f
+							}
+							tic_persistent: {
+								upgrades: -2
+							}
+							tic_stats: {
+								"tconstruct:attack_damage": 9.075f
+								"tconstruct:attack_speed": 1.045f
+								"tconstruct:durability": 2430.4688f
+								"tconstruct:harvest_tier": "minecraft:netherite"
+								"tconstruct:mining_speed": 8.14f
+							}
+							tic_upgrades: [
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+							]
+							tic_volatile_data: {
+								abilities: 1
+								"tconstruct:rarity": 1
+								upgrades: 3
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "6A4DF43DA005AB3C"
+					item: {
+						Count: 1b
+						id: "tinkers_ingenuity:halberd"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkersinnovation:shulkerate"
+								"solidarytinker:damascus_steel"
+								"tconstruct:darkthread"
+								"tinkers_reforged:bomin"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tinkersinnovation:harden"
+								}
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+								{
+									level: 1
+									name: "tinkersinnovation:transparent"
+								}
+								{
+									level: 1
+									name: "solidarytinker:crushing"
+								}
+								{
+									level: 1
+									name: "tconstruct:looting"
+								}
+								{
+									level: 1
+									name: "cti:sugarmaker"
+								}
+								{
+									level: 3
+									name: "tconstruct:reach"
+								}
+								{
+									level: 2
+									name: "tconstruct:pierce"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:attack_damage": 1.25f
+								"tconstruct:durability": 1.8f
+							}
+							tic_persistent: {
+								upgrades: -2
+							}
+							tic_stats: {
+								"tconstruct:attack_damage": 11.44f
+								"tconstruct:attack_speed": 0.925f
+								"tconstruct:durability": 14255.999f
+							}
+							tic_upgrades: [
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+							]
+							tic_volatile_data: {
+								abilities: 1
+								"tconstruct:rarity": 1
+								upgrades: 2
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "4FA2B61DC8BFBED0"
+					item: {
+						Count: 1b
+						id: "tinkers_ingenuity:blowpipe"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkersinnovation:blood_bone"
+								"tconstruct:darkthread"
+								"solidarytinker:kemomimi"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+								{
+									level: 1
+									name: "tinkersinnovation:raging"
+								}
+								{
+									level: 1
+									name: "tconstruct:looting"
+								}
+								{
+									level: 1
+									name: "solidarytinker:voraciousfox"
+								}
+								{
+									level: 1
+									name: "tconstruct:crystalshot"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:attack_damage": 1.25f
+								"tconstruct:durability": 1.5f
+							}
+							tic_persistent: {
+								"tinkers_ingenuity:blowpipe_chance": 0
+								upgrades: -2
+							}
+							tic_stats: {
+								"tconstruct:accuracy": 1.0f
+								"tconstruct:attack_damage": 3.75f
+								"tconstruct:draw_speed": 1.3f
+								"tconstruct:durability": 1889.325f
+								"tconstruct:projectile_damage": 2.5f
+								"tconstruct:velocity": 2.1f
+							}
+							tic_upgrades: [
+								{
+									level: 1
+									name: "tconstruct:crystalshot"
+								}
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+							]
+							tic_volatile_data: {
+								abilities: 1
+								"tconstruct:rarity": 1
+								upgrades: 3
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "682309B13734AE32"
+					item: {
+						Count: 1b
+						id: "tinkers_things:laminar_helmet"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkers_ingenuity:auroral_alloy"
+								"tinkers_thinking:tinkers_bronze"
+								"tinkers_thinking:cactus"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tinkers_ingenuity:ingenuity_radiant"
+								}
+								{
+									level: 1
+									name: "tinkers_thinking:countermeasures"
+								}
+								{
+									level: 1
+									name: "cti:reflect"
+								}
+								{
+									level: 1
+									name: "tinkers_ingenuity:brilliant"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:durability": 1.5f
+							}
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 2.0f
+								"tconstruct:armor_toughness": 1.25f
+								"tconstruct:durability": 402.75f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								upgrades: 4
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "0330977F0B828A16"
+					item: {
+						Count: 1b
+						id: "tinkers_things:laminar_chestplate"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkers_reforged:blazium"
+								"tinkerscalibration:titanium"
+								"tinkers_thinking:cactus"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tinkers_reforged:indirect_protection"
+								}
+								{
+									level: 1
+									name: "tinkerscalibration:compatible_armor"
+								}
+								{
+									level: 1
+									name: "cti:reflect"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:durability": 1.5f
+							}
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 6.25f
+								"tconstruct:armor_toughness": 2.0f
+								"tconstruct:durability": 561.75f
+								"tconstruct:knockback_resistance": 0.025f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								upgrades: 2
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "6B4CB30458125691"
+					item: {
+						Count: 1b
+						id: "tinkers_things:laminar_leggings"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkersinnovation:shulkerate"
+								"tinkers_thinking:shroomite"
+								"tinkers_thinking:cactus"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tinkersinnovation:harden"
+								}
+								{
+									level: 1
+									name: "tinkersinnovation:transparent"
+								}
+								{
+									level: 1
+									name: "tconstruct:shulking"
+								}
+								{
+									level: 1
+									name: "cti:reflect"
+								}
+								{
+									level: 1
+									name: "tinkers_thinking:shadowing"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:durability": 1.5f
+							}
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 5.25f
+								"tconstruct:armor_toughness": 2.25f
+								"tconstruct:durability": 4871.25f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								upgrades: 2
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+				{
+					id: "2994B2239C73EC68"
+					item: {
+						Count: 1b
+						id: "tinkers_things:laminar_boots"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkers_thinking:chlorophyte"
+								"tconstruct:electrum"
+								"tinkers_thinking:cactus"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tinkers_thinking:symbiotic"
+								}
+								{
+									level: 1
+									name: "tconstruct:experienced"
+								}
+								{
+									level: 1
+									name: "cti:reflect"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:durability": 1.5f
+							}
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 1.25f
+								"tconstruct:armor_toughness": 1.0f
+								"tconstruct:durability": 438.75f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								upgrades: 2
+							}
+						}
+					}
+					team_reward: false
+					type: "item"
+				}
+			]
+			subtitle: "他真的很均衡，不是吗"
+			tasks: [{
+				consume_items: true
+				id: "14299E5168628CFC"
+				item: "cti:tear_of_sea"
+				type: "item"
+			}]
+			title: "均衡"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["68DB60C35C5EBC2D"]
+			description: [
+				"注：此三叉戟已经经过上天改造，突破经验10重之境，并且生来就有经验修补(不消耗原槽位) 和忠诚"
+				""
+				"不心动吗"
+			]
+			icon: {
+				Count: 1b
+				id: "minecraft:trident"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0AA5E361EF45EA18"
+			rewards: [
+				{
+					id: "5832A8F250BDC88A"
+					item: {
+						Count: 1b
+						id: "tconstruct:plate_helmet"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tinkersinnovation:experience"
+								"tinkers_thinking:paper"
+							]
+							tic_modifiers: [
+								{
+									level: 2
+									name: "tconstruct:experienced"
+								}
+								{
+									level: 1
+									name: "tinkers_thinking:soft"
+								}
+								{
+									level: 2
+									name: "tconstruct:writable"
+								}
+							]
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 2.0f
+								"tconstruct:durability": 330.0f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								defense: 2
+								upgrades: 4
+							}
+						}
+					}
+					team_reward: true
+					type: "item"
+				}
+				{
+					id: "51990312D59148C1"
+					item: {
+						Count: 1b
+						id: "tconstruct:plate_chestplate"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tconstruct:copper"
+								"tinkers_thinking:paper"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tconstruct:depth_protection"
+								}
+								{
+									level: 1
+									name: "tinkers_thinking:soft"
+								}
+								{
+									level: 2
+									name: "tconstruct:writable"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:attack_damage": 0.4f
+							}
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 6.0f
+								"tconstruct:durability": 312.0f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								defense: 2
+								upgrades: 4
+							}
+						}
+					}
+					team_reward: true
+					type: "item"
+				}
+				{
+					id: "523A778B4F27B176"
+					item: {
+						Count: 1b
+						id: "tconstruct:plate_leggings"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"solidarytinker:leadamalgamation"
+								"tinkers_thinking:paper"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "solidarytinker:enderinhibit"
+								}
+								{
+									level: 1
+									name: "tinkers_thinking:soft"
+								}
+								{
+									level: 2
+									name: "tconstruct:writable"
+								}
+							]
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 6.0f
+								"tconstruct:armor_toughness": 6.0f
+								"tconstruct:durability": 379.5f
+								"tconstruct:knockback_resistance": 0.2f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								defense: 2
+								upgrades: 4
+							}
+						}
+					}
+					team_reward: true
+					type: "item"
+				}
+				{
+					id: "75712BFE11011889"
+					item: {
+						Count: 1b
+						id: "tconstruct:plate_boots"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tconstruct:gold"
+								"tinkers_thinking:paper"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tconstruct:golden"
+								}
+								{
+									level: 1
+									name: "tconstruct:magic_protection"
+								}
+								{
+									level: 1
+									name: "tinkers_thinking:soft"
+								}
+								{
+									level: 2
+									name: "tconstruct:writable"
+								}
+							]
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:armor": 2.0f
+								"tconstruct:durability": 136.5f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								defense: 2
+								"tconstruct:piglin_neutral": 1b
+								upgrades: 4
+							}
+						}
+					}
+					team_reward: true
+					type: "item"
+				}
+				{
+					id: "276FFA9D9558F726"
+					item: {
+						Count: 1b
+						id: "solidarytinker:trident"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"cherrytinker:enchantedgold"
+								"tconstruct:manyullyn"
+								"tconstruct:manyullyn"
+							]
+							tic_modifiers: [
+								{
+									level: 2
+									name: "cti:stone_cold_replaced"
+								}
+								{
+									level: 4
+									name: "cti:replaced_insatiable"
+								}
+								{
+									level: 4
+									name: "cti:insatiable_handler"
+								}
+								{
+									level: 1
+									name: "solidarytinker:loyal"
+								}
+								{
+									level: 1
+									name: "tconstruct:luck"
+								}
+								{
+									level: 1
+									name: "tinkerslevellingaddon:improvable"
+								}
+								{
+									level: 1
+									name: "tinkerscalibration:mossmending"
+								}
+								{
+									level: 3
+									name: "tconstruct:swiftstrike"
+								}
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+								{
+									level: 1
+									name: "tconstruct:netherite"
+								}
+								{
+									level: 1
+									name: "cherrytinker:egold_a"
+								}
+								{
+									level: 1
+									name: "solidarytinker:seabless"
+								}
+							]
+							tic_multipliers: {
+								"tconstruct:attack_damage": 1.75f
+								"tconstruct:attack_speed": 0.8f
+								"tconstruct:durability": 1.1f
+							}
+							tic_persistent: {
+								abilities: -2
+								"tinkerslevellingaddon:experience": 779099
+								"tinkerslevellingaddon:level": 10
+								"tinkerslevellingaddon:slot_history": "upgrade;upgrade;ability;upgrade;upgrade;ability;upgrade;upgrade;ability;upgrade;"
+								upgrades: -3
+							}
+							tic_stats: {
+								"cti:insatiable_base": 16.0f
+								"tconstruct:accuracy": 0.85f
+								"tconstruct:attack_damage": 29.463001f
+								"tconstruct:attack_speed": 1.0878f
+								"tconstruct:durability": 5184.7295f
+								"tconstruct:projectile_damage": 2.5f
+								"tconstruct:velocity": 1.1f
+							}
+							tic_upgrades: [
+								{
+									level: 1
+									name: "solidarytinker:loyal"
+								}
+								{
+									level: 1
+									name: "tconstruct:luck"
+								}
+								{
+									level: 1
+									name: "tinkerslevellingaddon:improvable"
+								}
+								{
+									level: 1
+									name: "tinkerscalibration:mossmending"
+								}
+								{
+									level: 3
+									name: "tconstruct:swiftstrike"
+								}
+								{
+									level: 1
+									name: "tconstruct:diamond"
+								}
+								{
+									level: 1
+									name: "tconstruct:emerald"
+								}
+								{
+									level: 1
+									name: "tconstruct:netherite"
+								}
+							]
+							tic_volatile_data: {
+								abilities: 5
+								"tconstruct:indestructible": 1b
+								"tconstruct:rarity": 2
+								upgrades: 9
+							}
+						}
+					}
+					team_reward: true
+					type: "item"
+				}
+				{
+					id: "77377B49267C8FE6"
+					item: {
+						Count: 1b
+						id: "tconstruct:pickaxe"
+						tag: {
+							Damage: 0
+							tic_broken: 0b
+							tic_materials: [
+								"tconstruct:rock"
+								"tconstruct:wood"
+								"tcintegrations:livingwood"
+							]
+							tic_modifiers: [
+								{
+									level: 1
+									name: "tconstruct:stonebound"
+								}
+								{
+									level: 1
+									name: "tconstruct:cultivated"
+								}
+								{
+									level: 1
+									name: "tcintegrations:livingwood"
+								}
+								{
+									level: 1
+									name: "tconstruct:pierce"
+								}
+							]
+							tic_persistent: { }
+							tic_stats: {
+								"tconstruct:attack_damage": 2.0f
+								"tconstruct:attack_speed": 1.2f
+								"tconstruct:durability": 130.0f
+								"tconstruct:harvest_tier": "minecraft:stone"
+								"tconstruct:mining_speed": 4.0f
+							}
+							tic_volatile_data: {
+								abilities: 1
+								upgrades: 3
+							}
+						}
+					}
+					team_reward: true
+					type: "item"
+				}
+			]
+			subtitle: "写这个的人肯定觉得这玩意老有火力了"
+			tasks: [{
+				consume_items: true
+				id: "18372B65B0E3B789"
+				item: "cti:tear_of_sea"
+				type: "item"
+			}]
+			title: "火力"
+			x: 2.0d
+			y: 4.0d
 		}
 	]
 	subtitle: [

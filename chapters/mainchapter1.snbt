@@ -34,18 +34,6 @@
 			click: ""
 			corner: false
 			dev: false
-			height: 1.5d
-			hover: [ ]
-			image: "biomancy:item/loot/living_flesh"
-			rotation: 0.0d
-			width: 1.5d
-			x: 14.0d
-			y: 7.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
 			height: 5.0d
 			hover: [ ]
 			image: "kubejs:textures/ftbq_images/chuizi.png"
@@ -63,8 +51,8 @@
 			image: "kubejs:textures/ftbq_images/humujing.png"
 			rotation: 0.0d
 			width: 5.0d
-			x: 1.5d
-			y: -3.5d
+			x: 4.0d
+			y: -6.0d
 		}
 		{
 			click: ""
@@ -77,30 +65,6 @@
 			width: 4.0d
 			x: 26.0d
 			y: -3.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 2.5d
-			hover: [ ]
-			image: "ftbquests:block/barrier_open"
-			rotation: 0.0d
-			width: 2.5d
-			x: -3.0d
-			y: 0.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 2.0d
-			hover: [ ]
-			image: "ftblibrary:icons/down"
-			rotation: 0.0d
-			width: 2.0d
-			x: -3.0d
-			y: -2.0d
 		}
 		{
 			click: ""
@@ -164,11 +128,15 @@
 				type: "item"
 			}]
 			title: "章节介绍"
-			x: -0.5d
+			x: 0.25d
 			y: 0.0d
 		}
 		{
-			dependencies: ["673842350B281F50"]
+			dependencies: [
+				"673842350B281F50"
+				"61C91163DFC92FCA"
+				"1EF9EE87D5E78AFC"
+			]
 			description: [
 				"你可能会诧异难道上来就做&c锅炉&r吗"
 				""
@@ -236,10 +204,9 @@
 			]
 			title: "锅炉，启动!"
 			x: 10.5d
-			y: -2.0d
+			y: -4.0d
 		}
 		{
-			dependencies: ["0ED937A115776F3E"]
 			description: [
 				"&9蓝图大炮&r是机械动力中非常好用的一个小工具，它可以让你&a&l轻而易举&r的建造出来各种&a预设好的结构&r"
 				""
@@ -308,11 +275,10 @@
 					type: "item"
 				}
 			]
-			x: 1.5d
-			y: 0.0d
+			x: 12.5d
+			y: -4.0d
 		}
 		{
-			dependencies: ["2EBBB8752760FDD9"]
 			description: [
 				"机械动力使用&c熔岩&r当燃料是极其明智的方法"
 				""
@@ -336,12 +302,20 @@
 			]
 			icon: "minecraft:lava_bucket"
 			id: "716A41CB9E96C7AA"
-			rewards: [{
-				count: 2
-				id: "335A0305D798BA32"
-				item: "waystones:waystone"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "335A0305D798BA32"
+					item: "waystones:waystone"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3F848377D53FA028"
+					item: "ae2:singularity"
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 1.5d
 			subtitle: "内容略长,耐心看完"
@@ -364,23 +338,17 @@
 				}
 			]
 			title: "前期的无限熔岩的方法"
-			x: 5.5d
-			y: 0.0d
+			x: 7.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["716A41CB9E96C7AA"]
 			description: [
 				"你可能会好奇，有&c无限熔岩&r了，如何运回你的基地呢"
 				""
-				"&a循环加入了流体传输节点&r，这是前期&a极其便宜且强大的无线传输流体&r手段"
+				"可以&d跨纬度&r"
 				""
-				"而且可以&d跨纬度&r"
-				""
-				"&aGPS&r卡对着&a流体传输节点shift右键&r即可记录其信息"
-				""
-				"使用方法也很简单，只需要在&c“源头”&r的内部插入&c你想要输出到的方块的gps卡对应的位置&r，意思就是，&a&l卡指向哪个方块，就向哪个方块传输其中的流体&r"
-				""
-				"当你想要1对多的时候可以尝试一下&b嵌套&r(1号节点放2号的GPS卡，2号节点放3号的GPS卡......)"
+				"频道对应上即可跨纬度"
 			]
 			icon: "cyclic:wireless_fluid"
 			id: "61C91163DFC92FCA"
@@ -391,22 +359,15 @@
 				type: "item"
 			}]
 			subtitle: "必做的"
-			tasks: [
-				{
-					count: 2L
-					id: "7AFB12F10582FF23"
-					item: "cyclic:wireless_fluid"
-					type: "item"
-				}
-				{
-					id: "0E17174257F57E97"
-					item: "cyclic:location_data"
-					type: "item"
-				}
-			]
+			tasks: [{
+				count: 2L
+				id: "2D5B87C7F3E4AD5E"
+				item: "dimstorage:dimensional_tank"
+				type: "item"
+			}]
 			title: "无线，且跨纬度"
-			x: 7.5d
-			y: 0.0d
+			x: 8.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["0ED937A115776F3E"]
@@ -442,8 +403,8 @@
 					type: "item"
 				}
 			]
-			x: 1.5d
-			y: 1.0d
+			x: 2.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["0637668E953F51C9"]
@@ -505,8 +466,8 @@
 					type: "item"
 				}
 			]
-			x: 0.5d
-			y: 3.0d
+			x: 4.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["62EF52A9B2083245"]
@@ -531,8 +492,8 @@
 				item: "create:rotation_speed_controller"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 2.0d
+			x: 6.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["62EF52A9B2083245"]
@@ -555,8 +516,8 @@
 				item: "create:gearbox"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 2.0d
+			x: 4.0d
+			y: -2.5d
 		}
 		{
 			description: [
@@ -584,11 +545,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"7687FDCCA0CED7F7"
-				"333B832015A14FCE"
-				"1EF9EE87D5E78AFC"
-			]
+			dependencies: ["0ED937A115776F3E"]
 			description: [
 				"在其中可以购买各种植物（如海带等等），妈妈再也不用担心我满世界找作物了"
 				""
@@ -606,8 +563,8 @@
 				item: "farmingforblockheads:market"
 				type: "item"
 			}]
-			x: 3.5d
-			y: 0.0d
+			x: 0.25d
+			y: -2.0d
 		}
 		{
 			description: [
@@ -649,7 +606,7 @@
 				}
 			]
 			x: 10.5d
-			y: -3.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["673842350B281F50"]
@@ -679,7 +636,7 @@
 				type: "item"
 			}]
 			x: 10.5d
-			y: -4.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["112E8741C3C8D87F"]
@@ -773,8 +730,8 @@
 				item: "createaddition:electric_motor"
 				type: "item"
 			}]
-			x: 9.0d
-			y: -1.0d
+			x: 8.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["62EF52A9B2083245"]
@@ -794,13 +751,13 @@
 				item: "createutilities:void_motor"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 3.0d
+			x: 6.0d
+			y: 2.5d
 		}
 		{
 			dependencies: [
-				"01E0A6C792C60A8D"
 				"29E21F219F641A8B"
+				"43B6ED2CA158BB08"
 			]
 			description: [
 				"这或许是你做机械动力最想要的一个东西吧"
@@ -848,81 +805,12 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["0ED937A115776F3E"]
-			description: [
-				"机械动力中需要很多&a板材&r，虽然&7辊压机&r可以无损耗的做，但是在本包起步阶段我更推荐你用&e工程师锤&r直接敲出来,&a工作台合成&r即可"
-				""
-				"前期很缺铁，多补点"
-			]
-			icon: "create:iron_sheet"
-			id: "7687FDCCA0CED7F7"
-			rewards: [
-				{
-					count: 16
-					id: "2F593B8A0CC5C5D5"
-					item: "minecraft:iron_ingot"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "653A072E4573FA04"
-					item: "minecraft:gold_ingot"
-					type: "item"
-				}
-			]
-			subtitle: "需要好多"
-			tasks: [
-				{
-					count: 32L
-					id: "2713786ED7189C9D"
-					item: {
-						Count: 1b
-						id: "itemfilters:tag"
-						tag: {
-							value: "forge:plates/copper"
-						}
-					}
-					title: "Any #forge:plates/copper"
-					type: "item"
-				}
-				{
-					count: 32L
-					id: "43B42F14E4623B0D"
-					item: {
-						Count: 1b
-						id: "itemfilters:tag"
-						tag: {
-							value: "forge:plates/iron"
-						}
-					}
-					title: "Any #forge:plates/iron"
-					type: "item"
-				}
-				{
-					count: 9L
-					id: "09C7977A3A274DA1"
-					item: {
-						Count: 1b
-						id: "itemfilters:tag"
-						tag: {
-							value: "forge:plates/gold"
-						}
-					}
-					title: "Any #forge:plates/gold"
-					type: "item"
-				}
-			]
-			title: "一些板材"
-			x: 1.5d
-			y: -1.0d
-		}
-		{
 			dependencies: [
 				"3BD3D6DDCE21E1D7"
 				"307690994A9D4B28"
 				"15BCC233ABB91FEC"
 				"3D00C704E1989C35"
-				"61C91163DFC92FCA"
+				"62EF52A9B2083245"
 				"2858F1DE39B9D1CD"
 			]
 			description: ["电动马达，锅炉，风车水车均可以提供应力，不过先做锅炉肯定是最为简便的"]
@@ -975,7 +863,7 @@
 				type: "item"
 			}]
 			x: 9.0d
-			y: 1.0d
+			y: -1.5d
 		}
 		{
 			description: [
@@ -998,7 +886,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: -1.0d
+			y: -1.5d
 		}
 		{
 			description: [
@@ -1023,8 +911,8 @@
 				item: "create:hand_crank"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 1.0d
+			x: 12.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["333B832015A14FCE"]
@@ -1041,8 +929,8 @@
 				type: "checkmark"
 			}]
 			title: "传动的好手段"
-			x: 1.5d
-			y: 2.5d
+			x: 5.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["19DBCA14E3B7A773"]
@@ -1305,7 +1193,7 @@
 				type: "item"
 			}]
 			x: 26.0d
-			y: 2.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["248DC6FE865D1EAF"]
@@ -1472,160 +1360,6 @@
 		}
 		{
 			description: [
-				"会不会好奇这玩意有啥用"
-				""
-				"是的，这种材料可以&a凭空生成动物&r"
-				""
-				"只需要&a用其制作的工具对着训练人偶左键&r"
-				""
-				"不要想着让假玩家用它，会炸掉的，所以取消了假玩家判定"
-			]
-			icon: "tinkerscalibration:grain_ingot"
-			id: "71307D791FBF264C"
-			rewards: [{
-				count: 12
-				id: "37D6417595E21336"
-				item: "minecraft:hay_block"
-				type: "item"
-			}]
-			subtitle: "一种名为谷锭的材料"
-			tasks: [
-				{
-					id: "63B0C4093AD957DF"
-					item: "tinkerscalibration:grain_ingot"
-					optional_task: true
-					type: "item"
-				}
-				{
-					id: "74D32AAF85956612"
-					item: "dummmmmmy:target_dummy"
-					type: "item"
-				}
-			]
-			title: "欢迎来到第一章的支线——血肉重铸"
-			x: 15.5d
-			y: 7.0d
-		}
-		{
-			dependencies: ["71307D791FBF264C"]
-			description: [
-				"它本身的&a伤害很低，很难用&r"
-				""
-				"不过放在&a副手&r仍然生效"
-				""
-				"可以让你获取一些&a特殊的掉落物&r"
-			]
-			id: "5991CD600304C4CC"
-			rewards: [
-				{
-					count: 2
-					id: "431BC8E23BB1B78E"
-					item: "biomancy:mob_fang"
-					type: "item"
-				}
-				{
-					count: 2
-					id: "43BED6A1660B975C"
-					item: "biomancy:mob_claw"
-					type: "item"
-				}
-			]
-			subtitle: "开始血肉生涯"
-			tasks: [{
-				id: "5B5D7C0ECEC8F9B6"
-				item: {
-					Count: 1b
-					id: "biomancy:despoil_sickle"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: 17.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["5991CD600304C4CC"]
-			description: [
-				"你可以在jei搜索&c\"抽筋脱骨\"&r"
-				""
-				"可以看到一个&b匠魂强化&r"
-				""
-				"它的作用和抽筋脱骨附魔书一样，而且有&a更高的上限等级&r，可以&a帮你获取大量的血肉重铸专属物品&r"
-			]
-			icon: {
-				Count: 1b
-				id: "tconstruct:modifier_crystal"
-				tag: {
-					modifier: "solidarytinker:despoil"
-				}
-			}
-			id: "455D745CF9463E5D"
-			subtitle: "有这玩意谁还用那个破镰刀"
-			tasks: [{
-				id: "3FF2363B9B8B25FC"
-				type: "checkmark"
-			}]
-			title: "匠魂强化"
-			x: 17.0d
-			y: 8.0d
-		}
-		{
-			dependencies: ["5991CD600304C4CC"]
-			description: [
-				"&c不要拿贵重物品右键喂它!&r"
-				"&c不要拿贵重物品右键喂它!&r"
-				"&c不要拿贵重物品右键喂它!&r"
-				""
-				"喂食肉（&c别喂腐肉&r）类会增加其进度条（侧面的小眼睛紫色程度）"
-				""
-				"满了之后喂食&d治疗药水&r，短暂时间后有极高概率出来一个&c肉块&r小生物"
-				""
-				"击杀了就可以获得&c活肉&r了"
-				""
-				"也有概率失败，会在下方方块形成一个&c恶性肉块&r"
-				""
-				"记得如果失败了及时清除恶性经脉，不然会&c蔓延&r"
-				""
-				"如果失败了就再来一次！"
-			]
-			id: "4768F38F7B4A3BAB"
-			rewards: [
-				{
-					id: "0737667D57FB8D3F"
-					item: {
-						Count: 1b
-						id: "minecraft:potion"
-						tag: {
-							Potion: "minecraft:strong_healing"
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "0A735D92374E9A38"
-					item: {
-						Count: 1b
-						id: "minecraft:potion"
-						tag: {
-							Potion: "minecraft:strong_healing"
-						}
-					}
-					type: "item"
-				}
-			]
-			subtitle: "这位更是重量级"
-			tasks: [{
-				id: "6550F9975CAC9696"
-				item: "biomancy:primordial_cradle"
-				type: "item"
-			}]
-			x: 18.5d
-			y: 7.0d
-		}
-		{
-			description: [
 				"本章主要涉及3个模组："
 				""
 				"&a机械动力（高炉前置）&r"
@@ -1672,306 +1406,8 @@
 				type: "checkmark"
 			}]
 			title: "第一章的开始"
-			x: -3.0d
+			x: -2.0d
 			y: 0.0d
-		}
-		{
-			dependencies: ["4768F38F7B4A3BAB"]
-			description: ["据说它还在动"]
-			id: "44DA77E745886EAE"
-			rewards: [{
-				count: 5
-				id: "2F4FE04F6488F366"
-				item: "biomancy:mob_gland"
-				type: "item"
-			}]
-			subtitle: "好恶心"
-			tasks: [{
-				id: "7BE637601DD9427C"
-				item: "biomancy:living_flesh"
-				type: "item"
-			}]
-			x: 20.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["5991CD600304C4CC"]
-			description: [
-				"毒腺需要&8洞穴蜘蛛&r才可以"
-				""
-				"其他的都比较好获得"
-				""
-				"而且几个&a还可以吃&r，吃了会怎么样就不清楚了...反正&c别在低血量时候吃就行&r"
-			]
-			icon: "biomancy:mob_sinew"
-			id: "350558F695ACB4A4"
-			rewards: [{
-				description: ""
-				id: "70809E9757124DC6"
-				title: "泥旧逝生物专家，快把这些献给那张巨口吧"
-				type: "toast"
-			}]
-			subtitle: "独特掉落也就这些"
-			tasks: [
-				{
-					id: "57BF234805BDBBD2"
-					item: "biomancy:mob_sinew"
-					type: "item"
-				}
-				{
-					id: "2B988AF0AB56097A"
-					item: "biomancy:mob_fang"
-					type: "item"
-				}
-				{
-					id: "127AD4EFA9E24CE6"
-					item: "biomancy:mob_claw"
-					type: "item"
-				}
-				{
-					id: "5BCA54453868D237"
-					item: "biomancy:mob_marrow"
-					type: "item"
-				}
-				{
-					id: "129A7614F161C556"
-					item: "biomancy:withered_mob_marrow"
-					type: "item"
-				}
-				{
-					id: "3B8B040FEEE41377"
-					item: "biomancy:mob_gland"
-					type: "item"
-				}
-				{
-					id: "4FC18CF7E10BD354"
-					item: "biomancy:toxin_gland"
-					type: "item"
-				}
-				{
-					id: "2E99B03AE244BCA9"
-					item: "biomancy:volatile_gland"
-					type: "item"
-				}
-			]
-			title: "生物掉落大收集"
-			x: 17.0d
-			y: 6.0d
-		}
-		{
-			dependencies: [
-				"44DA77E745886EAE"
-				"2D0B37E0F6B627FA"
-			]
-			description: [
-				"主要用于生产一些血肉重铸的原料，配方可以在JEI查看"
-				""
-				"&d怪异尘&r可以分解&d烈焰棒&r来获取（你前面都做了烈焰血自动化不会缺这个了吧）"
-				""
-				"头颅分解价值也极高，前面送的头颅有大用了呢😈"
-			]
-			id: "3466893A9AA38F62"
-			rewards: [{
-				count: 10
-				id: "200EB99B3880B18F"
-				item: "biomancy:mob_gland"
-				type: "item"
-			}]
-			subtitle: "牙口真好"
-			tasks: [{
-				id: "6D3E619380237133"
-				item: "biomancy:decomposer"
-				type: "item"
-			}]
-			x: 21.5d
-			y: 8.0d
-		}
-		{
-			dependencies: [
-				"44DA77E745886EAE"
-				"2D0B37E0F6B627FA"
-			]
-			description: [
-				"可以制作一些生物制品"
-				""
-				"比较有用的有"
-				""
-				"末影珍珠"
-				""
-				"狂风人掉落物"
-				""
-				"暴雪人掉落物"
-				""
-				"岩石人掉落物"
-				""
-				"海绵"
-				""
-				"海龟鳞片"
-				""
-				"鹦鹉螺"
-			]
-			id: "03699BAF1A38B340"
-			rewards: [{
-				count: 4
-				id: "3EB044AC61B84908"
-				item: "minecraft:ender_pearl"
-				type: "item"
-			}]
-			subtitle: "“重铸”"
-			tasks: [{
-				id: "75E4C95A253454E1"
-				item: "biomancy:bio_forge"
-				type: "item"
-			}]
-			x: 21.5d
-			y: 6.0d
-		}
-		{
-			dependencies: [
-				"03699BAF1A38B340"
-				"3466893A9AA38F62"
-				"2D0B37E0F6B627FA"
-			]
-			description: [
-				"像胃囊一样蠕动"
-				""
-				"可以喂给它&a各种杂七杂八的可消化&r的让它给你转化成&a营养膏&r"
-				""
-				"&a营养棒和营养膏&r都可以给血肉机器&a供能&r"
-				""
-				"营养膏看着很奇怪，但做成&a营养棒&r就可以嘎嘎吃了"
-				""
-				"毕竟加那么多呢"
-				""
-				"你问我喂它什么比较好？"
-				""
-				"&c去下界连锁一些下界疣块吧，能让你吃好久&r"
-			]
-			id: "2A828380CB6B019A"
-			rewards: [{
-				count: 64
-				id: "57AA69CCBBDB0BF5"
-				item: "minecraft:nether_wart_block"
-				type: "item"
-			}]
-			subtitle: "高效营养"
-			tasks: [{
-				id: "774A465028ADA652"
-				item: "biomancy:digester"
-				type: "item"
-			}]
-			x: 23.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["44DA77E745886EAE"]
-			description: [
-				"血肉重铸机器都是需要营养供给的，在你&a做出来消化器之前先用一些食物（如西瓜皮等）放在左边转化槽转化为营养&r"
-				""
-				"&6上方输入原料&r"
-				""
-				"&b侧面供给营养&r"
-				""
-				"&d下方输出产物&r"
-				""
-				"怎么感觉这么像&c熔炉&r呢"
-			]
-			id: "2D0B37E0F6B627FA"
-			subtitle: "看我一眼啊"
-			tasks: [{
-				id: "740572A6FB792032"
-				title: "注意事项"
-				type: "checkmark"
-			}]
-			x: 21.5d
-			y: 7.0d
-		}
-		{
-			dependencies: ["2A828380CB6B019A"]
-			description: [
-				"可以酿造一些生物药剂"
-				""
-				"具体药剂效果可以在信息显示查看"
-				""
-				"需要装载在这个扎针上&ashift右键&r才能注射给自己"
-				""
-				"&b值得注意的是如果被注射的生物有护甲将会有概率失败，护甲越高失败率越高，可以增加其模组自带的附魔来穿透（大多数时候都是给自己打针，记得脱甲打药就行）&r"
-				""
-				"直接右键生物就是注射给生物"
-				""
-				"这里特别提一下&a伤痛反应原液&r，这个东西虽然造价略高，但是可以给你无限的💛"
-				""
-				"说不定和某些材料有独特效果呢"
-			]
-			icon: "biomancy:bio_lab"
-			id: "29BE56A6D0556FF8"
-			rewards: [
-				{
-					id: "71CEB65E21C233A3"
-					item: "biomancy:mob_marrow"
-					type: "item"
-				}
-				{
-					id: "469181B10810F65D"
-					item: "biomancy:volatile_gland"
-					type: "item"
-				}
-				{
-					id: "1E303F04FE6C4D27"
-					item: "biomancy:withered_mob_marrow"
-					type: "item"
-				}
-			]
-			subtitle: "不是原版酿药"
-			tasks: [
-				{
-					id: "3ABB7D6479AD4E63"
-					item: "biomancy:bio_lab"
-					type: "item"
-				}
-				{
-					id: "3E64F6CF81856FD2"
-					item: {
-						Count: 1b
-						id: "biomancy:injector"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-			]
-			x: 24.5d
-			y: 7.0d
-		}
-		{
-			dependencies: ["03699BAF1A38B340"]
-			description: [
-				"一种前期较为强势的材料"
-				""
-				"有腐蚀伤害和💛转攻击"
-				""
-				"但是面板较低"
-				""
-				"如果你爱玩血肉重铸或许可以尝试一下呢"
-			]
-			hide: true
-			id: "5998A2EBEE604DED"
-			invisible_until_tasks: 1
-			rewards: [{
-				id: "38163C99BAE9916C"
-				item: "biomancy:nutrient_bar"
-				type: "item"
-			}]
-			shape: "heart"
-			subtitle: "想起来了Herobug"
-			tasks: [{
-				id: "0F2B2488D97B0320"
-				item: "solidarytinker:bloodmeat_ingot"
-				type: "item"
-			}]
-			x: 21.5d
-			y: 5.0d
 		}
 		{
 			dependencies: ["29E21F219F641A8B"]
@@ -2261,8 +1697,50 @@
 				}
 			]
 			title: "无限熔岩单元"
-			x: 5.5d
-			y: -2.0d
+			x: 7.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["01E0A6C792C60A8D"]
+			description: [
+				"矿脉提取工具是本包添加的一种特殊的对于机械动力和沉浸工程矿脉的优化工具，你背包里面有南瓜种子/西瓜种子可以分别消耗其一个来提取一个对应的机械动力/沉浸工程矿脉到你的背包中"
+				""
+				"值得注意的是，提取出来的矿脉对地面长按右键就可以直接放置，而且记住不要让矿脉重叠（如果你当前区块已经有矿脉了）"
+			]
+			icon: "botania:grass_seeds"
+			id: "43B6ED2CA158BB08"
+			rewards: [
+				{
+					id: "4208D2EC9F010140"
+					item: "cti:coe_vein_remove_tool"
+					type: "item"
+				}
+				{
+					id: "5B081ABCB4618A35"
+					item: "cti:ie_vein_remove_tool"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "08015AF28CC0057C"
+					item: "minecraft:pumpkin_seeds"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2C7608BB3CAB5ADE"
+					item: "minecraft:melon_seeds"
+					type: "item"
+				}
+			]
+			subtitle: "这对吗????"
+			tasks: [{
+				id: "25306439A1198039"
+				type: "checkmark"
+			}]
+			title: "矿脉提取工具"
+			x: 26.0d
+			y: 2.5d
 		}
 	]
 	subtitle: [

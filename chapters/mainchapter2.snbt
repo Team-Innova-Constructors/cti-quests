@@ -6900,6 +6900,34 @@
 			x: -46.0d
 			y: -14.0d
 		}
+		{
+			dependencies: ["33583C9BB8340D79"]
+			description: ["一些多方块可以直接使用投影仪消耗一个生成器来生成,在你看到虚影之后shift右键即可在对应位置生成"]
+			id: "782F68B089D02669"
+			rewards: [{
+				id: "72B2CEE1985F17CC"
+				item: "cti:hydrotreater_generator"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "21C4745CE62D1651"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 0
+						}
+					}
+					id: "immersivepetroleum:projector"
+				}
+				type: "item"
+			}]
+			x: -38.5d
+			y: -35.0d
+		}
 	]
 	subtitle: [
 		"最难章节？最好玩章节！"

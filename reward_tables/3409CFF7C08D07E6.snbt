@@ -11,7 +11,7 @@
 		string_id: "_"
 	}
 	loot_size: 1
-	order_index: 85
+	order_index: 84
 	rewards: [
 		{
 			ftb_money: 100L

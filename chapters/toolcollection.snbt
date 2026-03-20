@@ -139,15 +139,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "solidarytinker:seabless"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -195,15 +195,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "solidarytinker:seabless"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -257,15 +257,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tconstruct:silky_shears"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -314,15 +314,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tconstruct:silky_shears"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -379,15 +379,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tinkers_reforged:longsword_mod"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -436,15 +436,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tinkers_reforged:longsword_mod"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -491,15 +491,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tinkers_reforged:greatsword_mod"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -549,15 +549,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tinkers_reforged:greatsword_mod"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -612,10 +612,6 @@
 						}
 						{
 							level: 2
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 2
 							name: "solidarytinker:sandstrom"
 						}
 						{
@@ -629,6 +625,10 @@
 						{
 							level: 1
 							name: "tconstruct:silky_shears"
+						}
+						{
+							level: 2
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -680,10 +680,6 @@
 							}
 							{
 								level: 2
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 2
 								name: "solidarytinker:sandstrom"
 							}
 							{
@@ -697,6 +693,10 @@
 							{
 								level: 1
 								name: "tconstruct:silky_shears"
+							}
+							{
+								level: 2
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -755,10 +755,6 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
@@ -776,6 +772,10 @@
 						{
 							level: 1
 							name: "tconstruct:axe_wax_off"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -824,10 +824,6 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
@@ -845,6 +841,10 @@
 							{
 								level: 1
 								name: "tconstruct:axe_wax_off"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -899,15 +899,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tconstruct:pierce"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_persistent: { }
@@ -952,15 +952,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tconstruct:pierce"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_persistent: { }
@@ -1013,15 +1013,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tconstruct:stripping"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_persistent: { }
@@ -1066,15 +1066,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tconstruct:stripping"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_persistent: { }
@@ -1127,10 +1127,6 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
@@ -1144,6 +1140,10 @@
 						{
 							level: 1
 							name: "tconstruct:harvest"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -1191,10 +1191,6 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
@@ -1208,6 +1204,10 @@
 							{
 								level: 1
 								name: "tconstruct:harvest"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -1261,15 +1261,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tconstruct:pathing"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -1318,15 +1318,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tconstruct:pathing"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -1381,10 +1381,6 @@
 						}
 						{
 							level: 2
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 2
 							name: "solidarytinker:sandstrom"
 						}
 						{
@@ -1394,6 +1390,10 @@
 						{
 							level: 1
 							name: "tconstruct:pathing"
+						}
+						{
+							level: 2
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_persistent: { }
@@ -1437,10 +1437,6 @@
 							}
 							{
 								level: 2
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 2
 								name: "solidarytinker:sandstrom"
 							}
 							{
@@ -1450,6 +1446,10 @@
 							{
 								level: 1
 								name: "tconstruct:pathing"
+							}
+							{
+								level: 2
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_persistent: { }
@@ -1502,10 +1502,6 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
@@ -1515,6 +1511,10 @@
 						{
 							level: 1
 							name: "tconstruct:silky_shears"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -1564,10 +1564,6 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
@@ -1577,6 +1573,10 @@
 							{
 								level: 1
 								name: "tconstruct:silky_shears"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -1634,15 +1634,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tconstruct:tilling"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -1692,15 +1692,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tconstruct:tilling"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -1752,15 +1752,15 @@
 						}
 						{
 							level: 2
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 2
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tconstruct:stringy"
+						}
+						{
+							level: 2
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -1808,15 +1808,15 @@
 							}
 							{
 								level: 2
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 2
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tconstruct:stringy"
+							}
+							{
+								level: 2
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -1873,10 +1873,6 @@
 						}
 						{
 							level: 2
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 2
 							name: "solidarytinker:sandstrom"
 						}
 						{
@@ -1886,6 +1882,10 @@
 						{
 							level: 1
 							name: "tinkers_thinking:repulsive"
+						}
+						{
+							level: 2
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -1933,10 +1933,6 @@
 							}
 							{
 								level: 2
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 2
 								name: "solidarytinker:sandstrom"
 							}
 							{
@@ -1946,6 +1942,10 @@
 							{
 								level: 1
 								name: "tinkers_thinking:repulsive"
+							}
+							{
+								level: 2
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -1997,11 +1997,11 @@
 						}
 						{
 							level: 2
-							name: "solidarytinker:reliable"
+							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 2
-							name: "solidarytinker:sandstrom"
+							name: "solidarytinker:reliable"
 						}
 						{
 							level: 1
@@ -2055,11 +2055,11 @@
 							}
 							{
 								level: 2
-								name: "solidarytinker:reliable"
+								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 2
-								name: "solidarytinker:sandstrom"
+								name: "solidarytinker:reliable"
 							}
 							{
 								level: 1
@@ -2111,15 +2111,15 @@
 						}
 						{
 							level: 2
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 2
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tconstruct:stringy"
+						}
+						{
+							level: 2
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -2167,15 +2167,15 @@
 							}
 							{
 								level: 2
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 2
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tconstruct:stringy"
+							}
+							{
+								level: 2
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -2221,15 +2221,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 4
 							name: "tconstruct:reach"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -2275,15 +2275,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 4
 								name: "tconstruct:reach"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -2327,15 +2327,15 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
 							level: 1
 							name: "tinkers_ingenuity:puncture"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -2382,15 +2382,15 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 1
 								name: "tinkers_ingenuity:puncture"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -2433,10 +2433,6 @@
 						}
 						{
 							level: 2
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 2
 							name: "solidarytinker:sandstrom"
 						}
 						{
@@ -2446,6 +2442,10 @@
 						{
 							level: 1
 							name: "tconstruct:blocking"
+						}
+						{
+							level: 2
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -2492,10 +2492,6 @@
 							}
 							{
 								level: 2
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 2
 								name: "solidarytinker:sandstrom"
 							}
 							{
@@ -2505,6 +2501,10 @@
 							{
 								level: 1
 								name: "tconstruct:blocking"
+							}
+							{
+								level: 2
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -2557,10 +2557,6 @@
 						}
 						{
 							level: 3
-							name: "solidarytinker:reliable"
-						}
-						{
-							level: 3
 							name: "solidarytinker:sandstrom"
 						}
 						{
@@ -2570,6 +2566,10 @@
 						{
 							level: 1
 							name: "tinkers_ingenuity:back_attack"
+						}
+						{
+							level: 3
+							name: "solidarytinker:reliable"
 						}
 					]
 					tic_multipliers: {
@@ -2617,10 +2617,6 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
@@ -2630,6 +2626,10 @@
 							{
 								level: 1
 								name: "tinkers_ingenuity:back_attack"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_multipliers: {
@@ -3194,16 +3194,16 @@
 						tic_persistent: { }
 						tic_stats: {
 							"etshtinker:critical_rate": 1.28f
-							"etshtinker:damagemultiplier": 189.6631f
+							"etshtinker:damagemultiplier": 192.20811f
 							"etshtinker:fluid_efficiency": 100.0f
 							"etshtinker:slash_color": 10.0f
-							"tconstruct:attack_damage": 193.42305f
-							"tconstruct:attack_speed": 239.85715f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 196.01852f
+							"tconstruct:attack_speed": 243.0757f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 866135.56f
+							"tconstruct:durability": 877757.9f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 305.6095f
+							"tconstruct:mining_speed": 309.71036f
 							"tconstruct:tank_capacity": 9005000.0f
 						}
 						tic_volatile_data: {
@@ -3284,15 +3284,15 @@
 						tic_persistent: { }
 						tic_stats: {
 							"etshtinker:cooldown": 10.0f
-							"etshtinker:damagemultiplier": 185.21788f
+							"etshtinker:damagemultiplier": 187.70325f
 							"etshtinker:plasmarange": 70.0f
-							"tconstruct:attack_damage": 668.16266f
-							"tconstruct:attack_speed": 125.94816f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 677.1285f
+							"tconstruct:attack_speed": 127.638214f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1446821.1f
+							"tconstruct:durability": 1466235.4f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 868.2088f
+							"tconstruct:mining_speed": 879.85895f
 							"tconstruct:tank_capacity": 9005000.0f
 						}
 						tic_volatile_data: {
@@ -3356,9 +3356,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1583.3438f
-							"tconstruct:attack_speed": 71.30888f
-							"tconstruct:durability": 6055907.0f
+							"tconstruct:attack_damage": 1604.59f
+							"tconstruct:attack_speed": 72.265755f
+							"tconstruct:durability": 6137169.0f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3423,9 +3423,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 490.1791f
-							"tconstruct:attack_speed": 74.08715f
-							"tconstruct:durability": 1419250.5f
+							"tconstruct:attack_damage": 496.75665f
+							"tconstruct:attack_speed": 75.0813f
+							"tconstruct:durability": 1438294.9f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3486,11 +3486,11 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 665.9162f
-							"tconstruct:attack_speed": 103.72201f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 674.85187f
+							"tconstruct:attack_speed": 105.113815f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1415666.5f
+							"tconstruct:durability": 1434662.9f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3554,9 +3554,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1319.5385f
-							"tconstruct:attack_speed": 106.963326f
-							"tconstruct:durability": 4341377.0f
+							"tconstruct:attack_damage": 1337.2449f
+							"tconstruct:attack_speed": 108.39863f
+							"tconstruct:durability": 4399632.5f
 						}
 						tic_volatile_data: {
 							abilities: 16
@@ -3632,13 +3632,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 473.31274f
-							"tconstruct:attack_speed": 259.30502f
-							"tconstruct:block_amount": 185.21788f
+							"tconstruct:attack_damage": 479.6639f
+							"tconstruct:attack_speed": 262.78455f
+							"tconstruct:block_amount": 187.70325f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 707833.25f
+							"tconstruct:durability": 717331.44f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 687.62134f
+							"tconstruct:mining_speed": 696.8483f
 							"tconstruct:use_item_speed": 1.0f
 						}
 						tic_volatile_data: {
@@ -3710,9 +3710,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1056.3265f
-							"tconstruct:attack_speed": 190.103f
-							"tconstruct:durability": 3337469.0f
+							"tconstruct:attack_damage": 1070.5011f
+							"tconstruct:attack_speed": 192.65393f
+							"tconstruct:durability": 3382253.5f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3785,9 +3785,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 303.93097f
-							"tconstruct:attack_speed": 129.65251f
-							"tconstruct:durability": 670280.3f
+							"tconstruct:attack_damage": 308.0093f
+							"tconstruct:attack_speed": 131.39227f
+							"tconstruct:durability": 679274.56f
 							"tinkers_ingenuity:cooldown": 1.1f
 							"tinkers_ingenuity:energy_capacity": 20000.0f
 							"tinkers_ingenuity:laser_range": 20.0f
@@ -3856,9 +3856,9 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 789.05133f
-							"tconstruct:attack_speed": 50.934917f
-							"tconstruct:durability": 1074592.5f
+							"tconstruct:attack_damage": 799.63934f
+							"tconstruct:attack_speed": 51.618393f
+							"tconstruct:durability": 1089012.1f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3924,13 +3924,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 409.7946f
-							"tconstruct:attack_speed": 129.65251f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 415.29346f
+							"tconstruct:attack_speed": 131.39227f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2359444.2f
+							"tconstruct:durability": 2391104.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 183.3657f
+							"tconstruct:mining_speed": 185.82623f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -3991,13 +3991,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 879.00934f
-							"tconstruct:attack_speed": 77.79151f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 890.80444f
+							"tconstruct:attack_speed": 78.83537f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2674036.8f
+							"tconstruct:durability": 2709918.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 183.3657f
+							"tconstruct:mining_speed": 185.82623f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4065,13 +4065,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 314.1758f
-							"tconstruct:attack_speed": 90.75676f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 318.39163f
+							"tconstruct:attack_speed": 91.974594f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1572962.9f
+							"tconstruct:durability": 1594069.9f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 275.04855f
+							"tconstruct:mining_speed": 278.73932f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4133,13 +4133,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 597.61707f
-							"tconstruct:attack_speed": 110.20464f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 605.6362f
+							"tconstruct:attack_speed": 111.68344f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 3145925.8f
+							"tconstruct:durability": 3188139.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 183.3657f
+							"tconstruct:mining_speed": 185.82623f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4201,13 +4201,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 571.66345f
-							"tconstruct:attack_speed": 97.23939f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 579.3344f
+							"tconstruct:attack_speed": 98.544205f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2516740.5f
+							"tconstruct:durability": 2550511.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 244.48761f
+							"tconstruct:mining_speed": 247.7683f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -4267,13 +4267,13 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 463.04468f
-							"tconstruct:attack_speed": 18.521788f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 469.25812f
+							"tconstruct:attack_speed": 18.770325f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 296.3486f
-							"tconstruct:durability": 570100.6f
-							"tconstruct:projectile_damage": 37.043575f
+							"tconstruct:draw_speed": 300.3252f
+							"tconstruct:durability": 577750.6f
+							"tconstruct:projectile_damage": 37.54065f
 							"tconstruct:velocity": 4.0f
 						}
 						tic_volatile_data: {
@@ -4338,13 +4338,13 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 926.08936f
-							"tconstruct:attack_speed": 18.521788f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 938.51624f
+							"tconstruct:attack_speed": 18.770325f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:draw_speed": 157.4352f
-							"tconstruct:durability": 502310.88f
-							"tconstruct:projectile_damage": 37.043575f
+							"tconstruct:draw_speed": 159.54776f
+							"tconstruct:durability": 509051.22f
+							"tconstruct:projectile_damage": 37.54065f
 							"tconstruct:velocity": 2.5f
 						}
 						tic_volatile_data: {
@@ -4413,13 +4413,13 @@
 							tic_persistent: { }
 							tic_stats: {
 								"tconstruct:accuracy": 1.0f
-								"tconstruct:attack_damage": 341.49545f
-								"tconstruct:attack_speed": 233.37451f
-								"tconstruct:block_amount": 324.1313f
+								"tconstruct:attack_damage": 346.07785f
+								"tconstruct:attack_speed": 236.50607f
+								"tconstruct:block_amount": 328.48068f
 								"tconstruct:block_angle": 180.0f
-								"tconstruct:draw_speed": 18.521788f
-								"tconstruct:durability": 638330.25f
-								"tconstruct:projectile_damage": 37.043575f
+								"tconstruct:draw_speed": 18.770325f
+								"tconstruct:durability": 646895.75f
+								"tconstruct:projectile_damage": 37.54065f
 								"tconstruct:use_item_speed": 0.4f
 							}
 							tic_volatile_data: {
@@ -4465,11 +4465,11 @@
 							tic_persistent: { }
 							tic_stats: {
 								"tconstruct:accuracy": 1.0f
-								"tconstruct:block_amount": 277.8268f
+								"tconstruct:block_amount": 281.55487f
 								"tconstruct:block_angle": 180.0f
-								"tconstruct:draw_speed": 296.3486f
-								"tconstruct:durability": 251155.44f
-								"tconstruct:projectile_damage": 37.043575f
+								"tconstruct:draw_speed": 300.3252f
+								"tconstruct:durability": 254525.61f
+								"tconstruct:projectile_damage": 37.54065f
 								"tconstruct:use_item_speed": 0.4f
 								"tconstruct:velocity": 4.0f
 							}
@@ -4525,7 +4525,7 @@
 					tic_stats: {
 						"tconstruct:armor": 120.0f
 						"tconstruct:armor_toughness": 80.0f
-						"tconstruct:durability": 910355.06f
+						"tconstruct:durability": 922570.9f
 						"tconstruct:knockback_resistance": 1.0f
 					}
 					tic_volatile_data: {
@@ -4582,7 +4582,7 @@
 							tic_stats: {
 								"tconstruct:armor": 120.0f
 								"tconstruct:armor_toughness": 80.0f
-								"tconstruct:durability": 910355.06f
+								"tconstruct:durability": 922570.9f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4633,7 +4633,7 @@
 							tic_stats: {
 								"tconstruct:armor": 120.0f
 								"tconstruct:armor_toughness": 80.0f
-								"tconstruct:durability": 910355.06f
+								"tconstruct:durability": 922570.9f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4684,7 +4684,7 @@
 							tic_stats: {
 								"tconstruct:armor": 120.0f
 								"tconstruct:armor_toughness": 80.0f
-								"tconstruct:durability": 910355.06f
+								"tconstruct:durability": 922570.9f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4735,7 +4735,7 @@
 							tic_stats: {
 								"tconstruct:armor": 120.0f
 								"tconstruct:armor_toughness": 80.0f
-								"tconstruct:durability": 910355.06f
+								"tconstruct:durability": 922570.9f
 								"tconstruct:knockback_resistance": 1.0f
 							}
 							tic_volatile_data: {
@@ -4788,10 +4788,6 @@
 							}
 							{
 								level: 3
-								name: "solidarytinker:reliable"
-							}
-							{
-								level: 3
 								name: "solidarytinker:sandstrom"
 							}
 							{
@@ -4801,6 +4797,10 @@
 							{
 								level: 2
 								name: "tconstruct:reach"
+							}
+							{
+								level: 3
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_persistent: { }
@@ -4859,11 +4859,11 @@
 							}
 							{
 								level: 2
-								name: "solidarytinker:reliable"
+								name: "solidarytinker:sandstrom"
 							}
 							{
 								level: 2
-								name: "solidarytinker:sandstrom"
+								name: "solidarytinker:reliable"
 							}
 						]
 						tic_persistent: { }
@@ -4941,11 +4941,11 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 957.8948f
-							"tconstruct:attack_speed": 129.65251f
-							"tconstruct:durability": 2831333.0f
+							"tconstruct:attack_damage": 970.7485f
+							"tconstruct:attack_speed": 131.39227f
+							"tconstruct:durability": 2869325.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 1375.2427f
+							"tconstruct:mining_speed": 1393.6967f
 						}
 						tic_volatile_data: {
 							abilities: 16
@@ -5070,11 +5070,11 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:accuracy": 1.0f
-							"tconstruct:attack_damage": 74.08715f
-							"tconstruct:attack_speed": 18.521788f
-							"tconstruct:draw_speed": 435.26202f
-							"tconstruct:durability": 136290.73f
-							"tconstruct:projectile_damage": 37.043575f
+							"tconstruct:attack_damage": 75.0813f
+							"tconstruct:attack_speed": 18.770325f
+							"tconstruct:draw_speed": 441.10263f
+							"tconstruct:durability": 138119.56f
+							"tconstruct:projectile_damage": 37.54065f
 							"tconstruct:velocity": 4.5099998f
 						}
 						tic_volatile_data: {
@@ -5149,13 +5149,13 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 635.1816f
-							"tconstruct:attack_speed": 129.65251f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 643.70483f
+							"tconstruct:attack_speed": 131.39227f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2202148.0f
+							"tconstruct:durability": 2231697.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 152.80475f
+							"tconstruct:mining_speed": 154.85518f
 						}
 						tic_volatile_data: {
 							abilities: 13
@@ -5170,20 +5170,36 @@
 		}
 		{
 			description: [
-				"外表平平，但是效果并不差"
+				"外表平庸，强度中规中矩"
 				""
-				"自带多段攻击,自带锁头,自带斩杀效果"
+				"不吃攻速但是攻速会转化为&4伤害倍率&r,过低攻速&d伤害很低&r"
 				""
-				"魂珠会决定斩杀线等属性"
+				"有&b双形态&r，可按下&a按键打开配置界面切换&r&c单头模式&r/&b多头模式&r"
+				""
+				"单头模式类似于&c地狱塔&r，持续攻击&4会升温&r，三档会&e大幅提升基础伤害&r"
+				""
+				"专属强化&c加力燃烧&r(不是加力燃烧室)和&4超载燃烧&r（可自我配置消耗速度，会影响最终倍率）可&e大幅提升额外倍率&r"
+				""
+				"&b可用燃料可在JEI查看&r。"
+				""
+				""
+				"&b多头模式&r类似于王者荣耀的&9大司命&r，可给敌人&b施加标记后自动索敌&r开始摄魂"
+				""
+				"多头模式自带&d&l斩杀功能&r，可将敌人拖至空中摔到地上处决，如果目标会飞/无法拖动则会在9tick后&5强制处决&r"
+				""
+				"只要你攻击过一次该生物最终斩杀者是你则必定视为你击杀的"
+				""
+				"&l&b多头模式不会消耗燃料，单头模式不会触发斩杀&r"
+				""
+				"&9&l&n魂珠&r会决定&a斩杀线&r和&6攻击频率&r等属性"
 			]
 			id: "1DF5E6C328F6D252"
 			rewards: [{
-				count: 3
-				id: "2ACA5EF21D6C6919"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
+				ftb_money: 300L
+				id: "654211C61B37DCDC"
+				type: "sdmshop:money"
 			}]
-			subtitle: "小时候看这集被甩天上斩杀了"
+			subtitle: "小时候看这集被甩天上斩杀了,然后复活过一会忘带冰冻法术了"
 			tasks: [{
 				id: "14DFF6632B2FE202"
 				item: {
@@ -5222,8 +5238,9 @@
 							}
 						]
 						tic_multipliers: {
-							"tconstruct:attack_damage": 0.8f
-							"tconstruct:durability": 1.2f
+							"tconstruct:attack_damage": 1.2f
+							"tconstruct:attack_speed": 1.4f
+							"tconstruct:durability": 1.5f
 						}
 						tic_persistent: { }
 						tic_stats: {
@@ -5231,13 +5248,13 @@
 							"solidarytinker:detection_range": 100.0f
 							"solidarytinker:exert_times": 100.0f
 							"solidarytinker:kill_threshold": 0.72f
-							"tconstruct:attack_damage": 450.22763f
-							"tconstruct:attack_speed": 129.65251f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 710.9824f
+							"tconstruct:attack_speed": 147.15933f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1510044.4f
+							"tconstruct:durability": 1912883.8f
 							"tconstruct:harvest_tier": "minecraft:netherite"
-							"tconstruct:mining_speed": 1222.438f
+							"tconstruct:mining_speed": 1238.8414f
 							"tconstruct:tank_capacity": 40000.0f
 						}
 						tic_volatile_data: {
@@ -5262,10 +5279,9 @@
 			]
 			id: "440A3EB67EE3E6F4"
 			rewards: [{
-				count: 3
-				id: "2E97126032931874"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
+				ftb_money: 300L
+				id: "067DE7B3ED4B31F1"
+				type: "sdmshop:money"
 			}]
 			subtitle: "豪大大巨剑！"
 			tasks: [{
@@ -5312,11 +5328,11 @@
 						}
 						tic_persistent: { }
 						tic_stats: {
-							"tconstruct:attack_damage": 1741.6268f
-							"tconstruct:attack_speed": 38.895756f
-							"tconstruct:block_amount": 92.60894f
+							"tconstruct:attack_damage": 1764.9971f
+							"tconstruct:attack_speed": 39.417686f
+							"tconstruct:block_amount": 93.85162f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 2359444.2f
+							"tconstruct:durability": 2391104.8f
 						}
 						tic_volatile_data: {
 							abilities: 17
@@ -5337,10 +5353,9 @@
 			]
 			id: "1439DDE9F887BC1C"
 			rewards: [{
-				count: 3
-				id: "04009C75C1896F68"
-				item: "lightmanscurrency:coin_gold"
-				type: "item"
+				ftb_money: 300L
+				id: "1CE047695D0E1831"
+				type: "sdmshop:money"
 			}]
 			subtitle: "盾反之极意"
 			tasks: [{
@@ -5398,11 +5413,11 @@
 						tic_persistent: { }
 						tic_stats: {
 							"tconstruct:armor_toughness": 80.0f
-							"tconstruct:attack_damage": 143.54385f
-							"tconstruct:attack_speed": 27.78268f
-							"tconstruct:block_amount": 2778.268f
+							"tconstruct:attack_damage": 145.47002f
+							"tconstruct:attack_speed": 28.155487f
+							"tconstruct:block_amount": 2815.5488f
 							"tconstruct:block_angle": 180.0f
-							"tconstruct:durability": 1685619.8f
+							"tconstruct:durability": 1708238.5f
 							"tconstruct:knockback_resistance": 1.0f
 							"tconstruct:use_item_speed": 0.3f
 						}
@@ -5416,6 +5431,156 @@
 				type: "item"
 			}]
 			x: -2.25d
+			y: 8.0d
+		}
+		{
+			id: "5FD6196FB3C7BA04"
+			rewards: [{
+				ftb_money: 300L
+				id: "267E33721DA31788"
+				type: "sdmshop:money"
+			}]
+			subtitle: "666还有雷横"
+			tasks: [{
+				id: "15E927D7B3A65ACD"
+				item: {
+					Count: 1b
+					id: "cloudertinker:tiantuistar_blade"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: [
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+						]
+						tic_modifiers: [
+							{
+								level: 4
+								name: "etshtinker:godlymetal"
+							}
+							{
+								level: 4
+								name: "etshtinker:worldforceex"
+							}
+							{
+								level: 4
+								name: "etshtinker:beconcerted"
+							}
+							{
+								level: 1
+								name: "cloudertinker:tiantuistar"
+							}
+						]
+						tic_multipliers: {
+							"tconstruct:attack_damage": 1.5f
+							"tconstruct:durability": 3.5f
+						}
+						tic_persistent: { }
+						tic_stats: {
+							"tconstruct:attack_damage": 643.70483f
+							"tconstruct:attack_speed": 131.39227f
+							"tconstruct:durability": 2231697.8f
+						}
+						tic_volatile_data: {
+							abilities: 13
+							upgrades: 18
+						}
+					}
+				}
+				match_nbt: false
+				type: "item"
+			}]
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			description: [
+				"不错的副手拐，不适合作为主武器使用"
+				""
+				"专属强化电能充沛和快速蓄能等会极大影响强度，一定要打"
+				""
+				"可在末影箱中被星野锭触发"
+			]
+			id: "48CDA9217DEA60F8"
+			rewards: [{
+				ftb_money: 300L
+				id: "5D6B2978F495BF25"
+				type: "sdmshop:money"
+			}]
+			subtitle: "冲刺！冲♿"
+			tasks: [{
+				id: "4B27C274BDFEFF5E"
+				item: {
+					Count: 1b
+					id: "solidarytinker:electric_batons"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: [
+							"etshtinker:exo_alloy"
+							"solidarytinker:leadamalgamation"
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+							"etshtinker:exo_alloy"
+						]
+						tic_modifiers: [
+							{
+								level: 4
+								name: "etshtinker:godlymetal"
+							}
+							{
+								level: 4
+								name: "etshtinker:worldforceex"
+							}
+							{
+								level: 4
+								name: "etshtinker:beconcerted"
+							}
+							{
+								level: 1
+								name: "solidarytinker:mercurypoisoning"
+							}
+							{
+								level: 1
+								name: "solidarytinker:electricbatonscore"
+							}
+							{
+								level: 1
+								name: "tconstruct:enderference"
+							}
+						]
+						tic_multipliers: {
+							"tconstruct:attack_damage": 0.8f
+							"tconstruct:attack_speed": 1.4f
+						}
+						tic_persistent: { }
+						tic_stats: {
+							"solidarytinker:detection_range": 20.0f
+							"solidarytinker:energy_capacity": 100000.0f
+							"solidarytinker:target_amount": 3.0f
+							"tconstruct:attack_damage": 456.77588f
+							"tconstruct:attack_speed": 262.78455f
+							"tconstruct:block_amount": 93.85162f
+							"tconstruct:block_angle": 180.0f
+							"tconstruct:durability": 875729.5f
+							"tconstruct:harvest_tier": "minecraft:netherite"
+							"tconstruct:mining_speed": 788.3537f
+						}
+						tic_volatile_data: {
+							abilities: 14
+							flux: 3
+							"solidarytinker:energy_owner": "solidarytinker:electricbatonscore"
+							"solidarytinker:max_energy": 100000
+							upgrades: 20
+						}
+					}
+				}
+				match_nbt: false
+				type: "item"
+			}]
+			x: 4.0d
 			y: 8.0d
 		}
 	]

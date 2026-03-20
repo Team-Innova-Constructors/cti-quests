@@ -6096,11 +6096,6 @@
 			]
 			hide_dependency_lines: true
 			id: "137ABF0F05A262BB"
-			rewards: [{
-				id: "70B1BB9ACE9B13AC"
-				item: "cti:xuerou_wine"
-				type: "item"
-			}]
 			subtitle: "&l&o&n&4血肉誓要噬咬这般猩红&r"
 			tasks: [{
 				id: "7DD8AE1FE744D964"

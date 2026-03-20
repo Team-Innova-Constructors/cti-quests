@@ -1,7 +1,7 @@
 {
 	id: "73E3DD0340FDE32C"
 	loot_size: 1
-	order_index: 70
+	order_index: 69
 	rewards: [
 		{ item: "cti:upgrade_augment_4" }
 		{ item: "cti:upgrade_augment_5" }

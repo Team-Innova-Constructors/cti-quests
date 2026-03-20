@@ -2400,16 +2400,28 @@
 							]
 							tic_modifiers: [
 								{
+									level: 3
+									name: "cti:united_insatiable"
+								}
+								{
+									level: 12
+									name: "cti:insatiable_handler"
+								}
+								{
+									level: 1
+									name: "cti:overslime_handler"
+								}
+								{
+									level: 1
+									name: "tconstruct:overslime"
+								}
+								{
+									level: 3
+									name: "cti:united_overslime"
+								}
+								{
 									level: 1
 									name: "tinkersinnovation:eternal"
-								}
-								{
-									level: 3
-									name: "tinkerscalibration:united"
-								}
-								{
-									level: 3
-									name: "cti:endergobberbless"
 								}
 								{
 									level: 1
@@ -2430,19 +2442,23 @@
 								abilities: -1
 							}
 							tic_stats: {
-								"tconstruct:attack_damage": 47.36f
-								"tconstruct:attack_speed": 5.7599998f
-								"tconstruct:durability": 9830.399f
+								"cti:insatiable_base": 144.0f
+								"cti:overslime_consumption": 16.0f
+								"cti:overslime_mul": 0.75f
+								"tconstruct:attack_damage": 29.6f
+								"tconstruct:attack_speed": 3.6f
+								"tconstruct:durability": 6144.0f
 								"tconstruct:harvest_tier": "gobber2:end_gobber"
-								"tconstruct:mining_speed": 46.08f
+								"tconstruct:mining_speed": 28.800001f
+								"tconstruct:overslime": 64.0f
 							}
 							tic_upgrades: [{
 								level: 1
 								name: "tinkersinnovation:eternal"
 							}]
 							tic_volatile_data: {
-								abilities: 5
-								upgrades: 9
+								abilities: 1
+								upgrades: 3
 							}
 						}
 					}

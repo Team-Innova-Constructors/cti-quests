@@ -131,6 +131,33 @@
 			x: -4.0d
 			y: 0.0d
 		}
+		{
+			description: ["哥哥一定是死了很多次才拿到的吧，真是杂鱼❤"]
+			id: "619A8096658E693E"
+			invisible: true
+			rewards: [
+				{
+					count: 13
+					id: "79D1D4AC79645FD6"
+					item: "lightmanscurrency:coin_diamond"
+					type: "item"
+				}
+				{
+					count: 14
+					id: "3C36E26D2C446926"
+					item: "lightmanscurrency:coin_emerald"
+					type: "item"
+				}
+			]
+			subtitle: "我去，真被你挖到了"
+			tasks: [{
+				id: "65FC69735B8BF948"
+				item: "cti:heart_of_africa"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
 	]
 	subtitle: ["消费需谨慎"]
 	title: "老虎机"
